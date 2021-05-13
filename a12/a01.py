@@ -1,0 +1,20 @@
+import re
+a12 = re.match('a.c', 'abc')
+print(a12)
+a12 = re.match('a.c', 'abd')
+print(a12)
+a12 = re.search('a.c', 'abc')
+print(a12)
+a12 = re.search('a.c', 'abd')
+print(a12)
+
+print('----------------------')
+
+a12 = re.match('a', 'abc')
+print(a12)
+a12 = re.match('b', 'abd')
+print(a12)
+a12 = re.search('a', 'abc')
+print(a12)
+a12 = re.search('b', 'abd')
+print(a12)

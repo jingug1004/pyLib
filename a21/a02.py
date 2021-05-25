@@ -1,0 +1,18 @@
+import math
+
+a01 = math.log(100)
+print(a01)
+a01 = math.log(100, 10)
+print(a01)
+a01 = math.log10(100)
+print(a01)
+a01 = math.pow(2, 3)
+print(a01)
+a01 = math.sqrt(16)
+print(a01)
+radian = math.radians(90)
+a01 = math.sin(radian)
+print(a01)
+radian = math.radians(180)
+a01 = math.cos(radian)
+print(a01)

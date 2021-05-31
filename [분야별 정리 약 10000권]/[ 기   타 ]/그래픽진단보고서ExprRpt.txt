@@ -1,0 +1,476 @@
+﻿            INTEL(R) 그래픽 진단 유틸리티 보고서
+
+
+보고서 날짜: 2000년 3월 13일 월요일
+보고서 시간: 오후 3:59
+진단 유틸리티 버전: 1.2.0
+운영 체제: Windows 98 4.10 Build 2222  A 
+
+
+***************************
+*   어댑터 정보   *
+***************************
+그래픽 어댑터:	Intel(R) 810 Chipset Graphics Driver 
+			개정: 003
+그래픽 가속기:	Intel(r)810
+비디오 메모리:		전체: 0.0 MB
+			사용 가능한 비디오 메모리: 
+			모드: SDRAM
+비디오 BIOS 버전:	02.01
+현재 그래픽 모드:	800 x 600 픽셀, 65536 색상,  하드웨어 기본값
+사용 가능한 그래픽 모드:
+			640 x 480 픽셀, 256 색상, 60 헤르쯔
+			640 x 480 픽셀, 65536 색상, 60 헤르쯔
+			640 x 480 픽셀, 16777216 색상, 60 헤르쯔
+			720 x 480 픽셀, 256 색상, 60 헤르쯔
+			720 x 480 픽셀, 65536 색상, 60 헤르쯔
+			720 x 480 픽셀, 16777216 색상, 60 헤르쯔
+			720 x 576 픽셀, 256 색상, 60 헤르쯔
+			720 x 576 픽셀, 256 색상, 75 헤르쯔
+			720 x 576 픽셀, 256 색상, 85 헤르쯔
+			720 x 576 픽셀, 65536 색상, 60 헤르쯔
+			720 x 576 픽셀, 65536 색상, 75 헤르쯔
+			720 x 576 픽셀, 65536 색상, 85 헤르쯔
+			720 x 576 픽셀, 16777216 색상, 60 헤르쯔
+			720 x 576 픽셀, 16777216 색상, 75 헤르쯔
+			720 x 576 픽셀, 16777216 색상, 85 헤르쯔
+			800 x 600 픽셀, 256 색상, 60 헤르쯔
+			800 x 600 픽셀, 256 색상, 70 헤르쯔
+			800 x 600 픽셀, 256 색상, 72 헤르쯔
+			800 x 600 픽셀, 256 색상, 75 헤르쯔
+			800 x 600 픽셀, 256 색상, 85 헤르쯔
+			800 x 600 픽셀, 65536 색상, 60 헤르쯔
+			800 x 600 픽셀, 65536 색상, 70 헤르쯔
+			800 x 600 픽셀, 65536 색상, 72 헤르쯔
+			800 x 600 픽셀, 65536 색상, 75 헤르쯔
+			800 x 600 픽셀, 65536 색상, 85 헤르쯔
+			800 x 600 픽셀, 16777216 색상, 60 헤르쯔
+			800 x 600 픽셀, 16777216 색상, 70 헤르쯔
+			800 x 600 픽셀, 16777216 색상, 72 헤르쯔
+			800 x 600 픽셀, 16777216 색상, 75 헤르쯔
+			800 x 600 픽셀, 16777216 색상, 85 헤르쯔
+			1024 x 768 픽셀, 256 색상, 60 헤르쯔
+			1024 x 768 픽셀, 256 색상, 70 헤르쯔
+			1024 x 768 픽셀, 256 색상, 75 헤르쯔
+			1024 x 768 픽셀, 256 색상, 85 헤르쯔
+			1024 x 768 픽셀, 65536 색상, 60 헤르쯔
+			1024 x 768 픽셀, 65536 색상, 70 헤르쯔
+			1024 x 768 픽셀, 65536 색상, 75 헤르쯔
+			1024 x 768 픽셀, 65536 색상, 85 헤르쯔
+			1024 x 768 픽셀, 16777216 색상, 60 헤르쯔
+			1024 x 768 픽셀, 16777216 색상, 70 헤르쯔
+			1024 x 768 픽셀, 16777216 색상, 75 헤르쯔
+			1024 x 768 픽셀, 16777216 색상, 85 헤르쯔
+			1152 x 864 픽셀, 256 색상, 60 헤르쯔
+			1152 x 864 픽셀, 256 색상, 70 헤르쯔
+			1152 x 864 픽셀, 256 색상, 72 헤르쯔
+			1152 x 864 픽셀, 256 색상, 75 헤르쯔
+			1152 x 864 픽셀, 256 색상, 85 헤르쯔
+			1152 x 864 픽셀, 65536 색상, 60 헤르쯔
+			1152 x 864 픽셀, 65536 색상, 70 헤르쯔
+			1152 x 864 픽셀, 65536 색상, 72 헤르쯔
+			1152 x 864 픽셀, 65536 색상, 75 헤르쯔
+			1152 x 864 픽셀, 65536 색상, 85 헤르쯔
+			1152 x 864 픽셀, 16777216 색상, 60 헤르쯔
+			1152 x 864 픽셀, 16777216 색상, 75 헤르쯔
+			1152 x 864 픽셀, 16777216 색상, 85 헤르쯔
+			1280 x 1024 픽셀, 256 색상, 60 헤르쯔
+			1280 x 1024 픽셀, 256 색상, 70 헤르쯔
+			1280 x 1024 픽셀, 256 색상, 72 헤르쯔
+			1280 x 1024 픽셀, 256 색상, 75 헤르쯔
+			1280 x 1024 픽셀, 256 색상, 85 헤르쯔
+			1280 x 1024 픽셀, 65536 색상, 60 헤르쯔
+			1280 x 1024 픽셀, 65536 색상, 70 헤르쯔
+			1280 x 1024 픽셀, 65536 색상, 72 헤르쯔
+			1280 x 1024 픽셀, 65536 색상, 75 헤르쯔
+			1280 x 1024 픽셀, 65536 색상, 85 헤르쯔
+			1280 x 1024 픽셀, 16777216 색상, 60 헤르쯔
+			1280 x 1024 픽셀, 16777216 색상, 70 헤르쯔
+			1280 x 1024 픽셀, 16777216 색상, 75 헤르쯔
+			1280 x 1024 픽셀, 16777216 색상, 85 헤르쯔
+			1600 x 1200 픽셀, 256 색상, 60 헤르쯔
+			1600 x 1200 픽셀, 256 색상, 70 헤르쯔
+			1600 x 1200 픽셀, 256 색상, 72 헤르쯔
+***************************
+*   모니터 정보   *
+***************************
+모니터 이름:		플러그 앤 플레이 모니터
+			(표준 모니터 종류)
+디스플레이 종류:		아날로그, RGB
+일련 번호:		16843009
+감마 값:		2.8
+최대 이미지 사이즈:	수평: 32 cm
+			수직:   24 cm
+DDC 지원:		지원된 DDC 레벨 2 
+DPMS 지원:		대기 모드:    지원
+			중지 모드:  지원
+			활성 중지 모드: 지원
+***************************
+*   드라이버 정보   *
+***************************
+현재 디스플레이 드라이버:	Intel(R) 그래픽 카드 드라이버
+			Intel Corporation
+			8-3-1999
+드라이버 파일:
+	C:\WINDOWS\SYSTEM\vgartd.vxd
+			설명:	GART (AGP) services VxD
+			제조업체:	Intel Corporation
+			버전:	1.0.22
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xdw9x.drv
+			설명:	Intel(R) 810 Chipset Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-07-22
+
+	C:\WINDOWS\SYSTEM\i81x.vxd
+			설명:	Mini-VDD for Intel(R) 810 Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xdd.dll
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\i81xcg9x.dll
+			설명:	Config Application for Intel(R) 810 Chipset Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xgdev.dll
+			설명:	OpenGL Device Driver for Intel(R) 810 Chipset Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xghlp.exe
+			설명:	OpenGL Helper Application for Intel(R) 810 Chipset Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xgicd.dll
+			설명:	OpenGL Driver for Intel(R) 810 Chipset Graphics Driver
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\msvcrt.dll
+			설명:	Microsoft (R) C Runtime Library
+			제조업체:	Microsoft Corporation
+			버전:	6.00.8397.0
+			날짜:		99-05-05
+
+	C:\WINDOWS\SYSTEM\i81xcfg.ico
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\i81xw98.cat
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\enuigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\enugfxCg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\chsigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\chtigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\danigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\deuigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\engigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\esmigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\esnigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\espigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\finigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\fraigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\frcigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\itaigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\jpnigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\korigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\nldigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\norigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\plkigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\ptbigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\ptgigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\rusigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\sveigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\thaigfx.lrc
+			설명:	Resource Dll
+			제조업체:	Intel Corporation
+			버전:	4.11.01.1272
+			날짜:		99-06-29
+
+	C:\WINDOWS\SYSTEM\chsgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\chtgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\dangfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\deugfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\enggfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\esmgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\esngfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\espgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\fingfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\fragfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\frcgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\itagfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\jpngfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\korgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\nldgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\norgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\plkgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\ptbgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\ptggfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\rusgfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\svegfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+	C:\WINDOWS\SYSTEM\thagfxcg.hlp
+			설명:	사용할 수 없음
+			제조업체:	사용할 수 없음
+			버전:	사용할 수 없음
+			날짜:		사용할 수 없음
+
+***************************
+*   PCI/AGP 정보   *
+***************************
+공급업체 ID:			0x8086
+장치 ID:			0x7121
+개정:			0x3
+기본 메모리 주소(PCI10):	0xd8000000
+기본 MEMIO 주소(PCI14):	0xdc000000
+
+AGP 버전:		주요 개정: 0
+			부가 개정: 0
+
+AGP 마스터:		AGP 통신량:		사용할 수 없음
+			데이터 전송률:	사용할 수 없음
+			측파대 밴드 주소 지정:	사용할 수 없음
+			요청 대기열 수준:	1
+
+AGP 목표:		데이터 전송률:	사용할 수 없음
+			측파대 밴드 주소 지정:	사용할 수 없음
+			최대 요청:	1

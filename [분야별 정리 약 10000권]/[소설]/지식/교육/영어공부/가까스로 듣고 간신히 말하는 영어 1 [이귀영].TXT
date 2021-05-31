@@ -1,0 +1,1730 @@
+﻿        가까스로 듣고 간신히 말하는 영어 AIR, HOTEL편
+    지은이 : 이귀영
+    출판사 : 미래사
+    봉사자 : 한양대학교 안산 황태호, 서창원
+
+    틀려도 좋다는 배짱으로 말하라
+처음에 이 책을 써보겠느냐는 제의를 받았을 째 우선은 두  가지 관점에서 몹시 망설였다. 그 하
+나는, 재가 전공한 분야도 아니고 이 분야에 나름대로 전문인 분들이 내놓은 책들이 많은데 거기
+에 또 한 권의 아류를 추가하는 것이 아닐까 하는 우려에 께름직했고, 두 번째로는 내 자신의 회
+사 일이 너무 바빠 과연  시간을 낼 수 있을까 하는  의구심에서였다. 그러나 해외출장을 다니고 
+외국인과 대화하면서 학교에서 배웠던 것과 다른 표현,  또는 알아두면 좋을 표현들을 대할 경우
+가 많았는데, 이러한 것들을 나름대로 정리해 두면 해외여행이나 출장을 떠나는 사람들에게 도움
+을 줄 수 있을 것이라는 생각이 들었다. 다음으로는 회사 일이 아무리 바쁘더라도 잠자는 시간을 
+줄이면 시간을 만들어낼 수 있지 않겠느냐는 생각이  들었는데, 잠이 모자라면 체중도 줄 것이고
+(나를 약간의 비만형이라고들 함) 따라서 나의 몸 건강  관리에도 도움이 될 것이라는 생각이 들
+었다. 사실을 엉뚱하게도 이 두 번째 관점이 이 책을  쓰게끔 결심을 굳히게 한 결정적인 동기임
+을 밝히지 않을 수 없다. 결과적으로 이 두 번째 목적 달성은 아내가 밤참을 준비해 주는 바람에 
+실패로 끝났지만... 이 책은 제목이  의미하는 대로 최소한의 자기  표현을 하는데 가장 효과적인 
+방법을 전달하는 데 주안점을 두었다. 따라서 이 책에서는 문법을 설명하고자 의도하지 않았으며, 
+오히려  문법에 어긋나더라도 원어 민이 쓰는 표현을  기준으로 하였다. 또한 문법적으로는 완벽
+하다 해도 실제상황에서 그렇게 쓰지 않는 경우를  예로 많이 들어놓았다. 원어 민들은 외국인이 
+하는 영어를 들어줄 때 어느 정도 틀린 표현은 감안을 해서 되도록  상대방을 이해하려 노력하므
+로 틀려도 좋다는 배짱으로 밀고 나가면 의사 전달을 충분히  할 수 있을 것으로 생각한다. 영어
+회화를 잘하는 방법은 따로 있는 것이 아니라 영어에 지속적인 관심을 갖고  항상 말문이 트이도
+록 연습하는 것이라 생각한다. 말문을 트이게 하는 효과적인 방법 중의 하나는 자기 자신의 영어
+문장 연습을 녹음해서 들어보는 것이라고 하는데 이 책의 독자들에게도 이 방법을 시도해 보도록 
+권하고 싶다. 이 책이 세상에 나올 수 있기까지 주위의 많은 사람들이 도움을  주었다. 새벽 두세 
+시까지 책상에 앉아 머리를 싸매고 있을 때, 살찐다고 타박을 하면서도  밤참을 챙겨주고, 왕년의 
+영어 교사 실력을 발휘하여 본문의 문법 교정은 물론 대화의 구성에 이르기까지  많은 조언을 해
+준 아내 조광숙과, 새벽 두 시가 넘도록  많은 밤을 함께 해준 사랑하는 나의 쌍둥이  아들 동환, 
+창환이, 비록 그들이 입시공부를 하느라 그랬지만 늦게까지 책상머리에 같이 앉아 있었다는 사실
+이 아빠의 졸음을 쫓는데 많은 힘이 되어 주었다. 내가 쓴 원고를 정성스레 word processing해준 
+나명주 씨, 출산일 이 가까워 몸이  무거운데도 많은 자료를 모아다 주느라 수고한  조카 이주연, 
+책의 구상단계에서 독자의 입장에서 조언을  해준 박향주 씨, 최유진 씨,  그리고 꼼꼼하게 proof 
+reading을 해준 Rose Park 등에게도 감사의 뜻을 전하고 싶다.  또한 이 책을 써보도록 권유하고 
+출판이 되도록 애써준 친구, 미래사의 김광국  사장에게도 사의를 표하고 싶다. 이 책을  쓰는 동
+안, 나와 김광국 사장은 여러 번 만나서 올바른 영어문장의 구사 방법이라던가, 본문의 내용에 무
+엇을 어떻게 담을까 하는 문제, 더 거창하게는 한국 영어 교육의 문제점 등  많은 논의를 했었다. 
+그때마다 우리가 만났던 장소는 광화문 근처의 막걸리 집이었다. 가장 한국적이고 토속적인 막걸
+리와 가장 외국적인 영어회화-그것은 전혀 어울리지 않는 contrast였지만,  한편으로는 아주 낭만
+적인 추억으로 남아 있다. 본 책은 여행의 경우만을 다루었는데 앞으로  병원, campus등 여러 다
+른 경우를 망라하는 후속편이 계속 나오는 것으로 알고 있다. 그런 의미에서도 이 책은 미완이라 
+할 수 있고, 또한 내용 면에서 추가적인 보완이 필요하다는 점에서도 부분의 완성이라고 본다. 이 
+책을 쓰면서 저자는 전공이 아닌 분야를 다루느라 힘도 많이 들었고, 나름대로 꽤 심혈을 기울였
+다. 그럼에도 불구하고 무언가 다 채우지 못한 것 같은  아쉬움이 남아 있다는 것을 고백하지 않
+을 수 없다. 이것은 영어회화에 관심을 가진 독자들의 의견을 수렴하여 가까운 장래에 보완할 것
+을 약속드린다. 1998년 7월 서울 목동에서 이귀영
+
+  이 책의 사용법
+이 책은 각 chapter별로, 여러 가지의 실제 상황에서 오갈 수 있는 대화를 중심으로  회화시 많이 
+쓰이는 표현을 익히도록 구성하였다. 자주 쓰이는 표현은 반복해서 나오기 때문에 따로 암기하기
+보다는 순서대로 읽어가다 보면 기억이 될 수  있도록 하였다. 영어로 효과적인 의사표현을 하기 
+위한 첫 단계는 대화시 상대방이 하는 말, 또는 여행시 방송으로 안내되는 말들을 알아듣는 것이
+다. 본문에서는 설정된 상황에서 상대방이 할 것으로  예상되는 대화나 안내방송 내용 등을 가능
+한 한 상세히 기록하도록 노력하였다. 이러한 문장을  미리 읽어 key word가 무엇인지 이해한다
+면, 실제 상황에서 약간 표현이 바뀌는 경우 100%알아듣지는 못해도 어느 정도 감을 잡아 꼭 필
+요한 의사 소통은 문제없이 해낼 수 있을 것이다. 이러한 의도 하에 각 chapter는 다음과 같이 구
+성하였다.
+1.전체 상황에 대한 설명 
+2. Key Expressions
+회화시 유용하게 쓰이는 표현을 발췌하여 각 chapter의 앞에  정리하여 독자로 하여금 어느 경우
+에 어떤 표현이 쓰이는지를 미리  생각해 보도록 하였으며, 본문에서는  진한 글씨체로 표시하여 
+눈에 쉽게 띄도록 하였다.
+3. 상황 설명 
+각 chapter의 상황에서, 구체적으로 일어날 수 있는 실제의 여러 상황을 다시 세분화하여  설정하
+였다. 이것은 한 가지 상황에서, 대화가 여러 가지 다른 방향으로 전개될 수  있는 경우들을 짧게 
+예시한 것이다. 또 한편으로는, 전체를 하나의 상황으로 묶을 경우  Dialogue가 너무 길어지게 되
+어, 독자로 하여금 지루하다는 느낌을 줄 수 있어 이를 피하기 위한 목적도 있다. 
+4. Dialogue
+세분된 상황에서 오가는 대화를 예시하였다. 가능한 한 대화의 시작부터 끝까지 마무리가 되도록 
+하였으며 Key Expressions에 정리해 놓은 회화 표현들이 어떻게 쓰이는지를 보여주었다. 실제 대
+화 위주의 구성이므로 full sentence 보다는 짧은 key word 중심의 표현이 많으며, 대화를 매끄럽
+게 연결하는데 필요한 의미 없는 감탄사 또는 please나 excuse me와 같은 표현이 자주 나오도록 
+하였다. 
+5. Tips
+세부 상황의 Dialogue에서 나온 표현 중에서 상황 이해에 도움이 되거나 부연  설명을 필요로 하
+는 내용들을 기재하였다. 실제 대화에서 쓰이는 key word 중심의 표현을 full sentence로 하면 어
+떻게 되는가에 대해서도 설명을 붙었으며, 같은 내용을 다르게 표현하거나 또는  같은 단어, 같은 
+구문이 다른 경우에는 어떻게 쓰이는지를 설명하였다.
+6. Drill
+같은 표현을 하는 여러 가지 예, 또는 같은 구문에 쓸 수 있는 다른 종류의 표현들을 될 수 있는 
+한 망라하였으며 각 chapter에서 익혔던 표현을 연습을 통해  다시 기억해낼 수 있도록 배려하였
+다.
+7. Review
+각 chapter의 끝에 한 가지 상황에  대해 오갈 수 있는 대화를 종합적으로  정리하여 다시 한 번 
+복습할 수 있도록 하였다. 여기서는 각  chapter에서 나누어서 설정되었던 세부 상황들이  어떻게 
+연결되고 있는지를 볼 수 있도록 하였으며, 앞서 배웠던 중요 표현들을 굵은 글씨로 표시하여 복
+습에 도움이 되도록 하였다. 
+  이 책 전체를 통하여 ( ) 안에 들어 있는 표현은 회화시 생략할 수도 있고, 안 할 수도 있는 경
+우를 나타낸다. 예를 들어,
+A : Round trip is 950 dollars and one way is 500 dollars. 
+B : (I'd like a) Round trip (ticket), please.
+위의 대화에서 B의  대답은 I'd  like a  round trip  ticket, please.라고 해도  좋고 또는  단순히 
+Round trip, please.라고 해도 좋다는 의미이다.  가능한 한 key words 위주의  짧은 문장을 실제 
+회화에서 쓰도록 노력하면 쉽게 실력 향상이 될 수 있으리라 생각한다. 그리고 '/(slash)는 대체할 
+수 있는 표현들을 나타낸다. 예를 들어 Which airline flies  / goes there?로 되어 있으면, Which 
+airline flies there? 또는 Which  airline goes there?의 둘 중  어느 하나로써도 된다는 의미이다. 
+또한 대화 중에 ( )안의 필기체로 되어 있는 부분은 동작을 나타내는 표현이지,  대화의 일부분은 
+아니다. 본문의 중간 중간에 휴게실이나 허튼  소리란 을 넣어서, 읽는데 흥미를 느낄  수 있도록 
+하였다. 휴게실에서는 영어 회화시의 실수 담이나, 본문의 상황에서는 다루지 않았으나 일상의 대
+화시 알아두면 도움이 되는 표현들이나 요령 등을  정리하였다. 본문에서도 여러 차례 강조를 하
+지만 영어 회화시 꼭 필요한 의사 소통을 하는 데에는 몇 개의  key words만으로도 훌륭하게 해
+낼 수 있는 경우가 만다. 또한 문법적으로 완벽한 문장이라도  주어진 상황에 따라서는 쓸 수 없
+는 경우도 많고, 반대로 문법적으로 옳지 않는 표현이라 해서  반드시 사용할 수 없는 것도 아니
+라는 것을 염두에 둘 필요가 있다.  오히려 문법에 너무 얽매이다 보면, 미리  속에서 문법적으로 
+완벽한 문장을 작문하는 동안 표현할 시기를 놓치기  일쑤일 것이다. 이 책에서는 이러한 표현들
+과 더불어, 한국 사람들이 영어회화시 사용하는데 인색한 please나 의미 없는 감탄사 등이 대화를 
+매끄럽게 하는데 아주 중요한 역할을 하므로, 본문의 대화 속에 이런 표현을 의도적으로 많이 삽
+입하였다. 이러한 점들에 유의하면서 이 책을 읽으면 좀더 도움이 되리라 믿는다.
+    Chapter 1. Making Flight Reservation 
+  여행을 시작하려 할 때, 또는  도중에 여정(itinerary)을 바꿔야 할 경우가  생기면 비행기 표를 
+예약해야 되는데, 어떤 항공사를 이용해야 하는지조차 모르는  경우도 많다. 이럴 때는 office, 식
+당, hotel, 공중전화 booth 등 어디서나 쉽게  찾을 수 있는 전화번호부(telephone directory)를 이
+용하면 편리하다. 여기에는 두 종류가 있다. Yellow Page라 불리는 전화번호부(표지와 본문이 노
+란 색)에는 상호나 회사가 업종별로  되어 있고, White Page인 전화번호부  (표지와 본문이 하얀 
+색)에는 개인이나  가게, 회사  등이 alphabet  순으로  되어 있다.  항공사 이름조차  모를 때는 
+Yellow Page에서 alphabet  A의 airline section을  찾으면 되고,  최소한 항공사 이름(예를  들어 
+Northwest, United 등)을 먼저 알고 있으면 White Page에서 alphabet 순서에 의해 그 항공사  번
+호를 찾을 수 있다.  여러 번호 중  가능하면 1-800-xxxx 번호를 이용하면  요금은 수신자 부담
+(toll-free)이므로 편리하다.
+  Key Expressions 1
+1) I wonder if you have flights L.A. to New York on May 2nd.
+2) United and American Airlines have services from L.A. to New York.
+3) All the lines are busy at the moment. 
+4) Please hold the line.
+5) Any flights available in the morning hours?
+6) I'd like to make a reservation from L.A. to New York, JFK on May 2nd.
+7) Let me check (it for you).
+8) Any earlier flights?
+9) There's no difference in fares.
+10) How much is the fare for flight UA 723?
+11) How do you spell your (last) name, please?
+12) May I have your name, please?
+13) C, as in Charlie.
+14) How would you like to pay?
+15) By credit card.
+16) When's the expiration date?
+17) Would you like to book a return flight, too? 
+18) Make it open, please.
+19) You are now booked on UA flight 723. 
+20) You can pick up your ticket at the airport counter.
+21) (Is there) Anything I can do for you, sir? 
+22) That would be it.
+23) I'll would that.
+  상황설명 1.1
+우선 전화번호부에서 임의의 항공사를 하나 선택하여 toll-free  number를 이용해서 전화를 건다. 
+대개의 경우 녹음으로 안내를 해주는데, 녹음의 지시에 따라  원하는 dial을 누르고 agent가 나오
+면, 원하는 날짜에 목적지까지의 항공편이 있는지를 확인한다. 그 항공사에 원하는 항공편이 없다
+면 다른 항공사에 대한 안내를 부탁한다.
+  Dialogue 1.1
+Agent : Northwest Airline reservation. How can I help you?
+Lee : (I) Wonder if you have a flight from L.A. to New York on May 2nd.
+Agent : I'm afraid, we don't.
+Lee : Could you tell me which airline goes / flies there?
+Agent : Of course.  Let's see. (After  working on keyboards)  United and American  Airlines 
+have services from L.A. to New York.
+Lee : Thank you.
+  Tips 1.1
+1) 항공사에 전화를 하면 대부분은 아래와 같이 녹음으로 안내를 해준다. Thank  you for calling 
+United. If you need departure and  arrival information, press 1, and  if you need reservations, 
+press 2, and for all the other information, please press 3. Thank you.  예약을 원하는 경우이므
+로 2번 dial을 한 번  누르면 다시 녹음 안내가 나온다.  All the lines are busy  at the moment. 
+please hold the line and the next available operator  will help you. 여기서 좀더 기다리면 교환
+원이 나온다. 
+2) All the lines are busy at the moment. 현재 모든 회선이 통화 중이다. at the moment는 now
+의 의미.
+3) hold the line, 전화를 끊지 않고 기다리다. stay on the line으로도 표현한다. 
+4) I wonder if ~는 Do~ 를 쓰는 의문문보다  덜 직선적인 표현이다. 이런 표현으로 대화가 너무 
+딱딱해지거나 사무적이 되지 않도록 할 수 있다. 대화시에 I 는 생략해도 좋다. 진행형으로 쓸 때
+는 현재형이 아닌 I was wondering if ~처럼 과거형으로 써야 적당하다.
+5) 항공편을 지칭하는 말로 flight 대신 service 라는 표현도 자주 쓴다. Service가 동사로  쓰이는 
+경우는 Northwest services from  Detroit to New York  3 times a  day. 와 같이 되고,  여기서 
+services 대신 serves 로 쓰지 않는다. service라는 단어는 차량을 정비한다는 의미로도  쓰이는데 
+예를 들면, Cars should be serviced regularly. My car's being serviced today.와 같이 쓴다.
+  상황설명 1.2
+원하는 항공편이 있는 항공사를 알았으므로, 그 항공사에 전화를 걸어 원하는 시간대에 항공편이 
+있는지를 확인한다. 원하는 시간에 맞는 항공편이 없으면 다른 항공사를 알아본다.
+  Dialogue 1.2
+Agent : American Airline reservations. May I help you?
+Lee : I was wondering whether you have flights from L.A. to New York on May 2nd.
+Agent : Sure, we do.
+Lee : Any flights available in the morning hours?
+Agent : No, sir. Sorry. We have only afternoon and evening flights (available).
+Lee : I see. Thanks.
+  Tips 1.2
+1) Sure, we do. 이것은 Certainly. 또는  Of course.의 뜻이다. 여기서 We sure do.로  쓰면 약간 
+다른 의미가 되는데, 이때의 뜻은 We definitely have it.(확실히 있다)이 된다. 
+2) Any flights available in the  morning hours? 이것을 더 줄이면  Any morning flights?로 할 
+수 있다. 생략해도 의사 전달에 혼선이 없는 경우에는  가능한 한 key word만 사용하여 짧게 대
+화하는 것이 원칙이고 또한 요령이다. 
+  상황설명 1.3
+이제 United Airline에 전화를 해서 New York으로 가는 비행개편을 예약할 경우를 생각해보자.
+  Dialogue 1.3
+Agent : United Airline reservations. May I help you?
+Lee : I'd like to make a reservation from L.A. to New York, JFK on May 2nd.
+Agent : O.K. Let me check. Yes, we have flight UA 123, Leaving L.A. at 8 a.m. and arriving 
+in New York, JFK at 4 p.m.
+Lee : Any earlier flights?
+Agent : Sorry, we have only later flights (available).
+Lee : I see. When's the next flight, then?
+Agent : We have one leaving at 11 a.m., that's UA 125.
+  Tips 1.3
+1) want to~ 나 wish to~ 보다는 I'd  like to ~를 쓰는 것이 더 부드러운 표현이며,  친하지 않은 
+상대방과 대화 시에는 I'd like to를 쓰는 것이 무난하다.
+2) I'd like to  make a reservation (from  L.A.) to New York,  JFK. 예약할 때 쓰는  표현으로 
+make a reservation 자리에 reserve  a seat 으로 바꿀  수 있다. 이 문장에서  전화 거는 사람이 
+L.A.에 있는 것을 상대방이 이미 알고 있는 경우에는 from L.A.를 생략한다. 
+3) 미국의 New York, Washington D.C., Chicago 같은 대도시나 유럽의 London, Paris등은  공항
+이 2개가 있으므로 이 도시로 여행할 경우에는 최종 목적지의 위치를 지도상에서 check하여 가능
+한 가까운 비행기표를 예약하는 것이 좋다. 
+1> New York : JFK(John F. Kennedy) Airport, La Guardia Airport
+2> Washington D.C. : Dulles Airport, National Airport
+3> Chicago : O' Hare Airport, Midway Airport
+4> London : Heathrow Airport, Gatwick Airport
+5> Paris : Orly Airport, Charles De Gaulle Airport
+6> Tokyo : Narita Airport, Haneda Airport
+4) Let me check  (it for you). 내가  알아봐 주겠다고 할  때 쓰는 표현이며, I'll  check (it for 
+you).로도 쓴다. Let me  ~는 자주 사용되는 표현이므로  익혀 두는 것이 좋다.  Let me have  a 
+look at it. Let me know the result, please. Let me help you.
+5) Any earlier flights? 생략되지 않은 full sentence는 Do you have any earlier flights available, 
+then?이 될 것이다. 여기서도 key word만 사용하여 짧게 대화하는 것이 효과적이다.
+  상황설명 1.4
+최종 목적지가 New York 이나 London등  대도시 근처인 것은 알고 있으나, 그  도시에 있는 두 
+개의 공항 중 어느 공항을 이용하는 것이 더 나은지를 알아보고자 할 경우의 대화를 생각해보자.
+  Dialogue 1.4
+Agent : British Airways reservations. May I help you?
+Lee : Yes, I'd like to reserve two seats from L.A. to London on May 2nd, please.
+Agent : O.K.  We have  flight BA  325, departing  L.A. at  8 a.m. and  arriving in  London, 
+Heathrow at 7 p.m.
+Lee : Well,  I'm going to  Brighton, about 100  miles south of  London. Is Heathrow  airport 
+more convenient?
+Agent : If you're going to Brighton, (then) the Gatwick airport would be more convenient for 
+you.
+Lee : (Do) You have also a flight available (from L.A.) to London, Gatwick?
+Agent : No direct flights, sir. Sorry. But if you  transfer at Amsterdam, (then) you could get 
+to London, Gatwick. There's no difference in fares.
+Lee : I see. Let me think about it.
+  Tips 1.4
+1) transfer (비행기 등 탈 것을)갈아타다. 또는 짐을 옮겨 싣다. 
+2) There's no difference in fares.  요금 차이가 없다. 장거리 국제선의 경우는  경유지가 있어도 
+직접 가는 경우와 요금 차이가 없는 것이 보통이다.
+3) Let me think about it. 그것에 대해 생각해 보겠다. think over는 심사숙고하는 경우에 쓰이므
+로 이 경우에는 적당치 않다.
+  휴게실
+인도 사람이 미국을 여행 중에 배가 몹시 고파서 무엇인가를  사먹으려고 주위를 두리번거리다가 
+Hot Dog이라고 쓰여진 간판을 보았다. 이 친구는 배고픈  탓에 개고기고 뭐고 가릴 생각도 못하
+고, 또 지레짐작으로 '매운(spicy)양념의 개고기' 정도라고 생각하고(hot의 의미 중에 spicy라는 것
+도 있으니까) 들어가서 hot dog를 하나  시켰다. 나온 것을 보고 이 친구  왈 "Oh, no ! not this 
+part, please."라 고 했다나.
+  상황설명 1.5
+비행기편을 정했으면 가격을 알아본다.
+  Dialogue 1.5
+Lee : I'm calling to check the fares.  How much is the fare for the flight  from L.A. to New 
+York, JFK?
+Agent : Round trip is 950 dollars and one way is 500 (dollars).
+Lee : (I'd like a) Round trip (ticket), please.
+Agent : May I have your name, please?
+Lee : Sure, my name is Chul Soo Lee, last name is L-E-E.
+Agent : How do you spell your first name, please?
+Lee : C, as in Charlie, and H-U-L-S-O-O.
+  Tips 1.5
+1)How much is the fare? 탈것의 요금은 fare로 쓴다. 예를 들어  a taxi fare, a bus fare 등. 같
+은 의미로 What's the price?로 할 수도 있는데, 여기서 How much is the price?로 쓰면 틀린 표
+현이 되므로 주의해야 한다. 요금의 의미는 단어  중 fee는 보수, 수수료, 사례비의 성격이고, toll
+은 세금 성격의  요금, price는  일반적이고 넓은  의미의 가격의 뜻으로  구분해서 쓴다.  즉 an 
+admission/entrance fee...입장료, a fee for a doctor's visit...의사의  왕진료, a toll gate...고속도로 
+등의 요금징수소, a toll free number...요금이 공짜인 전화-수신자 요금 부담, a wholesale price...
+도매가, price 대신 fee나 cost는 못 쓴다. a retail price...소매가
+2) 편도는 one-way, 왕복 편은 round trip, 돌아오는 편은 return trip (flight)으로 표현한다. 요금
+을 나타낼 때 one-way / round-trip fare, Europe에서는 single / double fare로도 쓴다.
+3) May I have your name, please? 상대방의 이름을  물을 때 What's your name?하는 것은 너
+무 직선적인 질문으로 부드러운 회화를 위해서는 피하는  것이 좋다. 정중하게 묻는 다른 표현으
+로는 Could I ask your name, please?가 있다. 앞에서처럼,  성/이름의 spelling을 전부 얘기해 달
+라고 할 때는 How do you spell your last / first name, please?로 물으면 된다.
+4) C, as in Charlie. Spell을 풀어 말할 때 혼동하게 쉬운  alphabet, 예를 들면 B와 D 등은 위와 
+같이 'Charlie 에 쓰는 C'로 좀더  정확히 상대방이 알아들을 수 있도록  하면 나은 표현이 된다. 
+다음의 alphabet들이 자주 풀어쓰는 것들이다. 'B' as in Boy. 'D' as in David. 'F' as in Frank. 
+'G' as in George. 'H' as in Harry. 'J' as in Jason. 'M' as in Mary. 'N' as in Nancy. 'P' as 
+in Peter. 'S' as in Sam. 'V' as in Victor.
+  휴게실
+같은 조건으로 비교하다는 표현은, Make a comparison under the same  conditions.이거나 Make 
+a comparison on the  same basis. 정도인데, 우회적으로는  Do not compare an  apple with an 
+orange.로도 할 수 있다.  사과와 오렌지를 비교하지 말라는  표현으로부터 유래해서 이것은 It's 
+an apple-to-apple comparison.으로 써도 좋다.
+  상황설명 1.6
+비행기표 예약시 일반적으로 credit card  번호를 요구한다. 이것은 표를  예약해 놓고 pick up해 
+가지 않았을 경우에 대비한 보증금의 성격이다. 비행기표의 지불방법에 대한 대화를 생각해 보자.
+  Dialogue 1.6
+Agent : Let me book you on flight UA 123. How would you like to pay?
+Lee : By credit card.
+Agent : May I have your credit card number, please?
+Lee : Sure, I have a Visa card, 1234-5678-8765-4321.
+Agent : When's the expiration date?
+Lee : July 99.
+  Tips 1.6
+1) 지불 방법을 물을 때 How would  / do you like to pay?라는  표현이 유용하게 쓰인다. How 
+are you going to pay?로도 할 수 있으나 덜 정중한 표현이다. 
+2) by credit card 신용카드로 지불할 때 쓰는 표현. by 대신 with로 써도 좋다. 
+3) When's the expiration date? 신용카드의 유효기간을 묻는 표현. When's  it expired?로 할 수
+도 있다. expiration date, expiry date 둘 다 맞는 표현이다.
+  상황설명 1.7
+Credit card가 아닌 현금으로 지불을 원하는 경우라도, 우선은 보증금  성격으로 credit card 번호
+를 알려 주어야 하고 ticket을 pick-up시 현금으로 지불하면 된다. 
+  Dialogue 1.7
+Agent : How would you like to pay?
+Lee : (I'll pay in) Cash, please.
+Agent : But,  we need to  have your credit  card number to  guarantee your reservation.  Of 
+course, you can pay (in) cash when  you pick up the ticket at the  airport counter, or at one 
+of our branch offices.
+Lee : O.K. Here's my American Express Card number.
+  Tip 1.7
+1) 현금 지불시 Cash, please. 또는 I'll pay (in) cash.라 하면  된다. 이 경우도 key word 하나로 
+의사소통을 할 수 있는 예이다. 여기서 I'll pay by cash.로 쓰지 않도록 주의한다.
+  상황설명 1.8
+왕복표를 사게 되면, 돌아오는 비행편도 예약해 둘지를 묻는 것이 보통이다.
+  Dialogue 1.8
+Agent : Would you like to book a return flight, too?
+Lee : No, make it open, please.
+Agent : All right sir. You are now booked on UA flight 123,  leaving L.A. at 8 a.m., arriving 
+in New York,  JFK at 4  p.m. on  May 2nd, and  I've made  your return ticket  open. Your 
+confirmation number is B, as  in Boy, 3-4-5-6. You  can pick up your tickets  at the airport 
+counter, and please make sure (that) you'd be there at least hour before departure time. Also 
+you will need to bring your identification. (Is there) Anything else I can do for you, sir?
+Lee : No, thanks. That would be it.
+Agent : Thank you for choosing United and have a nice trip!
+  Tips 1.8
+1) You are booked on UA flight 123. '비행기 좌석이나 호텔 방을 예약하다'는 표현은 book으로 
+쓴다. 이 표현은 We book you on UA flight 123.로 써도 좋다.  명사형은 booking. Do you need 
+a hotel booking?처럼 쓴다. 
+2) Make it open, please. 돌아오는 편이 확실치 않을 경우에 쓰는 표현이다. 이 때는  목적지에서 
+다시 돌아오는 비행기편을 예약해야 한다. 이 대화를  피하고 싶으면 처음부터 이렇게 말하면 된
+다. I'd like a round-trip ticket with an open return, please.
+3) pick up the ticket 여기서는 표를 찾는다는 의미이다. pick up은 '물건을 가져오다', '사람을 차
+로 데려오다'는 의미 등 아주 광범위하게 쓰인다. 다른  예로 I pick up bits of information from 
+the morning paper.의 경우처럼 '정보를 입수하다'는 의미도 있다.
+4) confirmation number 예약 확인 번호. 후에  예약을 변경하거나 재확인할 때 유용하므로 기억
+해 두는 것이 좋다.
+5) make sure (that) ~ , ~을 확실히 해두다. 회화에서 that은 거의 생략한다.
+6) identification, Driver's license나 passport 등의 신분 증명서. 영국에서는 identity card라고 한
+다.
+7) Anything else I can do for you? 더 필요한 것이 없느냐는 질문. 줄여서는 Anything else? 로 
+할 수 있다. 예를 들어 기내식으로 채식(vegetarian foods)을 원하는 경우 이때 말할 수 있다. 
+8) Have a nice trip! '즐거운 여행이 되십시오' 하는 표현. nice 대신 good  또는 pleasant등 여러 
+가지로 표현할 수 있다. 돌아가는 편의 여행이 즐겁기 바란다는 표현은 Have a nice trip back.으
+로 back을 뒤에 쓰면 된다.
+  상황설명 1.9
+돌아오는 시간이 확실한 경우에는 돌아오는 편을 미리 예약해 두는 것이 좋다.
+  Dialogue 1.9
+Agent : Would you like to book a return flight?
+Lee : Yes, please. I'll be coming back to L.A. on May 5th.
+Agent : We have a  couple of flights from New  York, JFK to L.A. on  May 5th. One at 12 
+noon and another one at 4 p.m.
+Lee : What time does the 4 p.m. flight arrive in L.A.?
+Agent : 7 p.m. sit.
+Lee : Good. I'll take that.
+  Tips 1.9
+1) a couple of 라는 표현은  2번을 나타낸다. 불특정 다수를 나타내거나 3회  이상일 경우에는 a 
+couple of를 쓰면 안되고 a few, several 또는 many라고 써야 옳다. 
+2) 정오를 나타낼 때는 12 noon, 자정을 나타낼 때는 12 midnight.
+3) I'll take that. '그것으로 하겠어요'하는 표현인데 이것도 Let me take that.으로 할 수 있다.
+  휴게실
+영어 문법에서는 정관사 the나, 부정관사  a는 고유명사인 사람이름 앞에  쓰지 말라고 가르친다. 
+그러나 실제로는 얘기하는 사람의 의도에 따라, 사람 이름  앞에 the나 a를 써도 이상할 것은 없
+다. 미국 프로농구 NBA(National Basketball Association)의 Boston Celtics 팀에 지금은 다른 팀
+의 coach가 된 Larry Bird라는 걸출한 선수가 있었다. 예나 지금이나 유명한 운동 선수들은 광고
+에 많이 출연을 하는데 광고 장면 중에 이런 대화가 있다. A : Is he Larry Bird? B : Yes, he is 
+the Larry Bird. 여기서 the가 붙어서 '바로 그 유명한' Larry Bird라는 의미로 쓰인 것이다. 정관
+사, 부정관사를 정확하게 쓰는 것은 매우 중요하고 또 매우 어렵다. 그러나 관사의 정확한 선택에 
+따른 미묘한 뜻의 차이를 전달하는 경우가 아닌  바에는 두려움 없이 편하게 골라 쓰는  편이 낫
+다. 관사 선택에 정  자신이 없는 경우에는  복수형이나 소유격을 쓰는  것도 한 가지  요령이다. 
+Could I have a seat assignment  here?대신에 Could I have seat assignments  here?나 Could I 
+have my seat assigned here? 로 하면 된다.
+  Drill 1
+1) ( ) I help you, sir?
+May / How may, Can / Could, How can / How could
+2) ( ) you have flights available ( ).
+I wonder if                    to Chicago, O'hare.
+I was wondering whether      from L.A. to Phoenix.
+Do
+3) I'd like to ( ) on your flight 123.
+make a reservation, reserve 2 seats
+4) Do you have ( ) flights available?
+morning/evening, any earlier/any later, (a little) cheaper
+5) When's ( )?
+the next flight, the arrival time in Denver, the departure time (from L.A.), the expiration date
+6) ( ) flight UA 123?
+How much is the fare for,     What's the price for
+7) ( ) your ( ), please.
+May I have    name and address
+Could / Can I have    credit card number
+Could / Can I ask    telephone number
+Let me have
+8) I'd like to pay ( ).
+(in) case, with  my /  by credit card,  with my  / by  Visa Card, with  my /  by American 
+Express
+9) Thank you for ( ) United Airlines.
+choosing, using, flying, calling
+  Review 1
+Agent : United Airline reservations. May I help you?
+Lee : I'd like to make a reservation from L.A. to New York, JFK on May 2nd.
+Agent : O.K.  We have 3  services daily from  L.A. to New  York, JFK. The  earliest flight 
+leaves L.A. at 8 a.m. and arrives in New York, JFK at 4 p.m.
+Lee : When's the departure time for the next flight?
+Agent : 10 a.m.
+Lee : Do you have seats available on the 10 a.m. flight?
+Agent : Yes, we do.
+Lee : How much is the fare?
+Agent : 500 dollars for one-way and 950 (dollars) for round-trip.
+Lee : I'd like a round-trip, please.
+Agent : O.K. Could I have your name and credit card number, please?
+Lee :   My name  is Dongho,   Lee, last  name  is L-E-E.   And I  have a   Master Card, 
+1234-5678-8765-4321.
+Agent : How do you spell you first name, please?
+Lee : D, as in David, and O-N-G-H-O.
+Agent : When's the expiry date, please?
+Lee : July, 99.
+Agent : All right. Would you like to book a return flight, too?
+Lee : No, make it open, please.
+Agent : All right sir. We booked you on flight UA 123 leaving L.A. at 8 a.m. and arriving in 
+New York, JFK at 4 p.m. on May  2nd. You can pick up your tickets at  the airport counter, 
+and should be there at  least one and a  half hours before departure  time. Is there anything 
+else I can do for you, sir?
+Lee : Oh, yes. Could I order a vegetarian meal on the flight, please?
+Agent : Yes, I'll make sure (that) you'll get a vegetarian meal in the cabin.
+Lee : May I have the confirmation number, please?
+Agent : Oh, yes. It's B, as in boy, 3-4-5-6. Anything else, sir?
+Lee : No thanks. That would be it.
+Agent : O.K. Mr. Lee. Thank you for choosing United, and have a pleasant trip !
+    Chapter 2. Looking for Cheaper Tickets
+세계 어느 지역이나 마찬가지로 비행기표는 비수기, 성수기에 따라 같은 구간이라도 요금이 다르
+다. 같은 기간  중에도 non-stop  flight인가 아닌가에  따라서도 다르고,  비행기표에 제한  조건
+(restriction)이 붙느냐 안 붙느냐에 따라서도 다르다. 또, 주중(weekday)에 왕복을 하는 경우보다
+는 목적지에서 주말(weekend)를 반드시 보내고 오는 경우에 비행기 요금이 싼 경우가 많고, 또한 
+일단 예약을 했다가 변경을 절대 안 하는 조건(변경할 경우 요금 차액을 지불해야 함)으로 더 싼 
+표를 구할 수도 있다. 통계자료에  의하면, 미국 L.A.에서 New  York을 왕복하는 구간의 비행기 
+요금 종류가 1천 가지가  넘는다고 한다. 미국의 경우  서부(L.A.나 San Francisco 등)에서  동부 
+(New York, Boston, Detroit 등)로 여행할 경우 서부에서 밤늦게 출발하여 동부에 새벽에 도착하
+는 편-red eye라 부름(잠을 못 자 눈이 빨개지므로)-은  가장 싼 표 중의 하나다. 비행기표가 조
+금 비싸다는 생각이 들 경우에 하는 대화를 생각해 보자.
+  Key Expression 2
+1) That sounds very expensive.
+2) That's the lowest we have.
+3) It makes a couple of stops on the way to New York.
+4) You're Looking for a real cheap one.
+5) I got ripped off.
+6) You're paying the full fare.
+7) You should book a flight at least two weeks in advance.
+8) It's beyond my budget.
+9) Do you have any money-saving offers?
+10) We do have some with restrictions attached.
+11) You must fly during the weekdays to qualify for this offer.
+12) It's final.
+13) What if I change my reservation?
+14) It will perfectly work in that case.
+15) I'll go with that.
+16) You're all set.
+  상황설명 2.1
+비행기표 값이 생각보다 비쌀 때 좀더 싼 편을 구하는 경우의 대화를 생각해보자.
+  Dialogue 2.1
+Agent : Round trip from L.A. to New York is 950 dollars. It's a non-stop service.
+Lee : Wow ! That sounds very expensive.
+Agent : Yeah, it does. That's because you have to pay the regular fare.
+Lee : Do you have a cheaper one?
+Agent : Well,  for a non-stop  service, that's the  lowest we have.  But we do  have a less 
+expensive one, 700 dollars for  a round trip, but  it makes a couple  of stops on the  way to 
+New York, one at Denver, Colorado and another one at Columbus, Ohio.
+Lee : It's a little cheaper, but it still seems expensive to me. 
+Agent : Well, if you looking for a real(ly) cheap one, we have the red-eye, departing L.A. 12 
+midnight and arriving in New York 7 a.m., the next day. It's 550 dollars.
+Lee : Fine. I'll take that, please.
+Agent : Sure, let me book you on the red-eye, it's flight UA 232.
+Lee : Thank you.
+  Tips 2.1
+1) 직행 편은 non-stop service라하고 중간에  기착하는 곳은 stop 또는 stopover로  표현하면 된
+다.
+2) 비싸다고 생각할 경우, It is expensive. 라는 표현은 밋밋하다. is 대신 sounds라 하면 비싼 것
+처럼 들린다는 표현이 되어 맛이 있다. 또는 seems를 대신 써도 좋다. 또 물건을 살 때 바가지를 
+썼다는 표현은(물론, 상황에 따라 골라 써야 하지만) I got  ripped off.로 하면 되고, 그것은 바가
+지다라는 표현은 It's a rip-off. 이다.
+3) regular fare 또는 full fare는 할인이 되지 않은 요금을 말한다. 할인된 요금은 discounted fare
+이다.
+4) the lowest we have. 내려갈  수 있는 최저가격이라는 의미. 상점에서는 보통  the lowest we 
+can go 라는 말을 종종 들을 수 있다.
+5) We do have a less expensive  one. 여기서 do는 강조하기 위해 쓰였다. 이렇게  아주 간단한 
+강조의 용법만으로도 대화가 훨씬 매끄러워진다.
+6) really cheap one이 원래 문법적으로는 맞는 표현이나 회화할 때는 real cheap 과 같이도 많이 
+쓰므로 두 가지다 알아두면 좋다.
+7) red-eye 심야 비행 편. 잠을 못 자 눈이 빨개진다는 의미에서 나온 표현이다.
+  허튼 소리...(해답은 p.57에)
+예전에 beauiful이 무슨 뜻인가 묻는 우스개 질문이 있었다. beau(t)iful에서 온 말로 '티(t)없이 예
+쁜' 뜻이라나. 그러면 다음 단어들의 뜻은? prety, tigr, liioness, tiigrss
+  상황설명 2.2
+일반적으로 비행기표를 하루나 이틀 전에 촉박해서 예약하는 것보다 2~3주전에 여유 있게 예약하
+는 것이 값이 저렴한 경우가 많다.
+  Dialogue 2.2
+Agent : Round trip from L.A. to New York is 950 dollars.
+Lee : Wow! That sounds very expensive.
+Agent : Well, you're  paying the full fare.  If you book a  flight two weeks in  advance, it's 
+only 750 dollars for a round trip, non-stop service.
+Lee : Oh, I see. Next time, I will sure do that.
+  Tips 2.2
+1) in advance 라는 표현은 ~  전에, 또는 미리 ~하다의 뜻이며, 여기서는  earlier라고 써도 된다. 
+선금을 내다는 pay in advance로 하면 된다.
+  상황설명 2.3
+여러 가지 제한조건이 붙는 비행기표는 값이 싸기는 하나 예약 변경 등으로  인하여 제한 조건을 
+충족시키지 못하는 경우는 오히려 손해볼 수도 있으므로 주의해야 한다. 주말에는 여행객이 많으
+므로 주중에 여행을 하면 값이 싼 경우가 있다.
+  Dialogue 2.3
+Agent : 950 dollars for a round-trip.
+Lee : Wow!  It seems to  be beyond my  budget. Do you  have any money-saving  offers / 
+alternatives?
+Agent : Yes, we do have some with restrictions attached.
+Lee : Beg your pardon?
+Agent : I mean... you must fly during the weekdays and spend weekends  at your destination 
+to qualify (for this offer). And, once you  make a reservation, it's final, you may  not change 
+it.
+Lee : What if I change my reservation?
+Agent : Then, you have to pay the regular fare.
+Lee : Oh, I see. How much is that money-saving offer?
+Agent : It would be 700 dollars for a round-trip.
+  Tips 2.3
+1) beyond my budget 내 예산 범위 밖이다. 범위내인 경우는 within으로  쓴다. 여기서 over또는 
+under my budget으로 표현하지 않는다. 다만 동사의 경우 I've  overrun / underrun my budget. 
+으로 쓸 수 있다. 
+2) money-saving offer / alternative 돈을 절약할 수 있는 제안 / 대안.
+3) some  restrictions  attached 제한조건이   붙은. 제한  조건이 없다는   표현을 할  때는. no 
+restrictions / strings attached로 하면 된다.
+4) to qualify for 자격을 갖추다. 윗문장에서 for this offer는 생략 가능하다.
+5) It's final 그것으로 마지막이다. 더 이상은 없다는 뜻. 여기서는  더 이상 변경이 불가능하다는 
+의미 No changes are allowed.의 뜻이다.
+6) What if~ , What would happen if ~ 의 의미.
+  상황설명 2.4
+자신의 일정이 절대 변경되지 않고 여행사가 제시하는  조건을 만족시킬 수 있다고 판단되면, 즉 
+앞의 예와 같이 주중에 여행을 하고 주말을 반드시 목적지에서 보내는 경우에는  값이 싼 비행기
+표로 예약하는 것이 가능하다.
+  Dialogue 2.4
+Lee : I see what  you mean. If I fly  on May 2nd, Friday to  New York, and come back  on 
+May 5th Monday to L. A., then I can take your money-saving offer. Right?
+Agent : Yes, sir. It will perfectly work (in that case).
+Lee : Fine. Let me go with that.
+Agent : All right. It'll  be an excellent choice if  you don't change your schedule.  Can I get 
+your name and credit card number, please?
+Lee : Sure. I have a Diners Card, 1234-1234-5678-5678.
+Agent : O.K.  You're all set  now. Please don't  forget (that) you'll  be charged 250  dollars 
+more, when you change flights.
+Lee : O.K. I won't.
+  Tips 2.4
+1) It will (perfectly) work. 아주 잘 맞아떨어진다. 바로  그 경우에 적용된다는 뜻. 여기서 work 
+는 (그 경우에) 효과가 있다는 뜻으로 쓰였다.
+2) go with ~ , ~으로 택하다. go for~ 로도 쓴다.
+3) You'll be charged 250 dollars more. 예약을  변경하는 경우는 regular fare와의 차액 250불을 
+추가로 물어내야 한다는 의미.
+4) You're all set. 모든 준비가 다 끝났다. 일이 마무리되었다는 뜻으로 자주 쓰이는 표현이다. 달
+리기를 할 때 '출발선 정렬, 준비!' 하는 표현은 On your mark, get set~으로 쓴다.
+  해답(p.52에서)
+pret(t)y:티(t) 하나  없이 예쁜,  tig(e)r:이(e) 빠진  호랑이, li(i)oness:아이(i),  즉 새끼  밴 사자, 
+ti(i)gr(e)ss:주책. 왜? 이 빠진 늙은 호랑이가 새끼를 뱄으므로
+  Drill 2
+1) It ( ) ( ).
+sounds  very expensive.
+seems   really cheap.
+        a little cheaper.
+2) I ( ) a really cheap one.
+am looking for, would like, need
+3) That's the ( ) .
+lowest price we can go, lowest possible price
+4) If you ( ) ( ) in advance, you'll get a discount.
+book    at least two weeks
+reserve  a full month
+pay
+5) I have ( ) ( ).
+a money-saving  offer
+an inexpensive   alternative
+a much cheaper  idea
+6) It is ( ) my budget.
+beyond, within
+7) The restriction is that you ( ). 
+must spend weekends at your destination,  must not change your reservation, can  not smoke 
+on this flight
+  Review 2
+Lee : What's the round-trip fare from L.A. to New York?
+Agent : It's 950 dollars.
+Lee : Wow! That sounds quite expensive. Do you have a cheaper one?
+Agent : Well,  you could  get a  discount, only  if you  book flight  at least  two weeks  in 
+advance. Now you're making  a reservation for  tomorrow's flight, 950 dollars  is the lowest 
+(price) we have for a  non-stop flight. But, we do  have a less expensive  one that makes a 
+couple of stopovers on the way to New York. 
+Lee : What's the arrival time in New York, JFK with that flight?
+Agent : It's 11 p.m.
+Lee : Um... it sounds a little bit too late.
+Agent : We also have money-saving offers available with some restrictions.
+Lee : Beg your pardon?
+Agent : I mean... you must travel  during weekdays and spend weekends at  your destination 
+to qualify for a discounted fare. Moreover,  once you make a reservation, it's  final, you may 
+not change it.
+Lee : I'm  afraid I couldn't  go for  that, since my  schedule in New  York should  be very 
+flexible. Do I have any other choices?
+Agent : Well, if you're looking for a  really cheap one, I would suggest the  red-eye, leaving 
+L.A. 12 midnight and  arriving in New  York, JFK 7  a.m. tomorrow morning.  It's only 550 
+dollars.
+Lee : (It) Sounds good to me. Let me take that, please.
+    Chapter 3. Changing/Cancelling Flight Reservations
+새로운 여행 일정이 추가되는 경우와 달리 이미 예약되어 있는 일정 중에도  도착 시간만을 바꾸
+거나 또는 경유지를 바꿀 때를 생각해 보자. 도착 시간만을 바꾸는 경우는 요금의 변동이 없으므
+로 간단하게 예약되어 있는 편을 취소하고 원하는 시간의 비행 편으로 예약을  재확인만 하면 되
+나, 경유지를 바꾸거나 추가하는 경우에는 요금을 추가로 내야 하는 경우도 있다.
+  Key Expressions 3
+1) I'd like to change (my) reservation.
+2) I cancelled your flight on May 2nd.
+3) It's (all) sold out.
+4) I can check another airlines for you.
+5) Here we go!
+6) Can I be waitlisted on that flight?
+7) I'll take the chance.
+8) I'll put your name on the waiting list.
+9) Any chances to get a seat?
+10) Chances are very slim.
+11) It would be better for you to try other airlines.
+12) I'd like to reconfirm my flight to L.A.
+13) Your flight is confirmed.
+14) You can reach me anytime after 10 p.m.
+  상황설명 3.1
+목적지는 같고 단지 도착일자나 시간만을 변경하고자 할 때는 항공사의 reservation에 전화를  걸
+면 된다.
+  Dialogue 3.1
+Agent : United Airline reservations. May I help you?
+Lee : Yes, please. I'd like to change  my reservation. I'm booked on flight 123 to  New York 
+on May 2nd, but I'd like to change it to May 3rd.
+Agent : O.K. May I have your name, please?
+Lee : My name is Chul Soo, Lee, last name is L-E-E.
+Agent : Would you like to fly the same time? We have the same flight 123 to New York on 
+May 3rd, too.
+Lee : Yes, please.
+Agent : All right. I cancelled your flight on May 2nd, and booked you on the May 3rd flight, 
+departing and arriving at the same time.
+Lee : Thank you.
+  Tips 3.1
+1) change /  cancel a  reservation 예약을  변경/취소하다. 이때 예약  확인 번호  (confirmation 
+number)를 대면 이름을 확인하는 절차가 생략된다.
+  휴게실 
+혼동하기 쉬운 표현 및 가지. Don't call me names. 이  표현은 이름을 부르지 말라는 뜻이 아니
+고, 욕하지 말라는 의미이므로 주의해야 한다. We gave  him big hands. 이것은 그에게 큰 박수
+를 쳐주었다는 의미로 We gave him a  big applause.와 같은 뜻이다. 기립박수를 쳤다는 표현은 
+We gave him a standing ovation.으로 한다. 앞에서 hands는 손 두 개가 마주치는 것, 즉 박수의 
+의미인 반면에, We gave him a hand.로 하면 그를 도와주었다는 의미가 된다.  여기서 a hand는 
+a helping hand의 뜻이다. 야구경기에서 어느 선수가 홈런을 치고 home base에 들어오면서 자기
+팀 선수들과 손바닥을 서로 마주치는 것을 볼 수 있다. 이 경우에  They're giving him fives. 라 
+표현하면 된다. 손바닥을 마주치자는 표현은 Give me five!로 하면 된다.
+  상황설명 3.2
+도착일자를 변경하려 하였으나 원하는 날짜에 그 항공사의 비행편이 이미 만석이거나, 아예 비행
+편이 없는 경우가 있을 수 있다.
+  Dialogue 3.2 
+Agent : Sorry, but our  flight to New York  on May 3rd is  sold out. If you  must leave on 
+May 3rd, I can check another airlines for you.
+Lee : Yes, please.
+Agent : Let's see. Here we go! Northwest and American Airlines have services to New York, 
+JFK on May 3rd.
+Lee : Thank you.
+  Tips 3.2
+1) sold out 비행편이나 공연 등의 좌석이 매진되었을 경우 쓰는 표현이며 It's sold out.이나 We 
+are sold out. 또는 It's fully booked.로도 쓴다.
+2) check another airlines 다른 항공사에 (비행기편이 있는지를) 확인하다.
+3) Here we go! '자, 여기 있다.'는 뜻. 여기서 '찾았다! 여기 있구나!'라는 의미의 혼잣말 비슷하게 
+쓰였다.
+  상황설명 3.3 
+이미 만석인 경우에, 가능한 한 그 편을 타고자 할  때는 대기자 명단에 이름을 올리고 기다려볼 
+수도 있다. 출발 하루 전까지도 확인(confirm)이 안 되면 다른 항공사의 비행 편으로 예약을 변경
+하면 된다.
+  Dialogue 3.3
+Agent : Sorry, but our flight to New York on May 3rd is fully booked. How  can I help you, 
+sir?
+Lee : Can I be waitlisted on that flight?
+Agent : Sure, you could if you'd  like to take the chance. I'll put  your name on the waiting 
+list for flight 123 on May 3rd. Pease check with us whether your flight is confirmed by May 
+2nd.
+Lee : O.K. I'll do that. Thanks.
+  Tips 3.3
+1) be waitlisted 공석이 나기 기다릴 때 Can I  be waitlisted? Can I be on the waiting  list for 
+that flight? 또는 Could you put me on the  waiting list?로 표현한다. 공석이 나길 기다리고 있
+는 사람을 표현할 때는 standby passenger라 하거나 waitlisted passenger로 한다.
+2) take  the chance  (운에 맡기고)  기회를 본다는  의미이다. 전혀  가능성이 없는  경우는 no 
+chance로 표현하면 된다. You have no chance to get a seat.
+3) by May 2nd 출발 하루 전인 5월 2일까지는 (by) 확인되어야 하므로.
+  상황설명 3.4
+Waiting list에 이름을 올려놓고 기다리다가 확인전화를 할 경우에는 이렇게 될 것이다.
+  Dialogue 3.4 
+Agent : United Airline. How can I help you?
+Lee : Hi! I am waitlisted on your flight 123 on May 3rd. Could you please check whether it's 
+confirmed (or not)?
+Agent : Sure,  I could. (pause)  Sorry, you are  still on the  waiting list, as  we have many 
+standby passengers.
+Lee : Any chances to get a seat?
+Agent : Chances are very slim, I'm afraid. It would be better for you to try other airlines.
+Lee : I see. Thanks.
+  Tips 3.4
+1) Any chances to get a  seat? 자리가 날 가능성이 어느  정도인지를 묻는 질문. How do you 
+see the chances of getting a seat? 으로 물어도 좋다.
+2) Chances  are  very slim.   별로 가망성이 없다는   표현이다. '가망성이  50%다' 할  경우는 
+Chances are 50-50 (fifty-fifty)로 표현한다.
+3) It would be better for you to try other airlines 다른 항공사를 시도해 보는 것이 좋을 것 같
+다는 의미이고 try 대신 call이나 contact를 써도 좋다.  권유의 의미로 Why don't you try other 
+airlines?로 쓸 수도 있다. 같은 의미이기는 하지만 You'd better try other airlines.는 손아래 사람
+한테나, 동년배 또는 친한 사이에서 쓰는 표현이므로 공식적인 대화에서는 안 쓰는 것이 좋다.
+  상황설명 3.5
+출발 시에 예약했던 비행 편을 일정변경 없이 그대로 재확인(reconfirm) 하는 경우는 아래와 같이 
+될 것이다. 비행기표(flight coupon)의 status란에 확약(confirm) 상태로 되어 있더라도 출발 전 늦
+어도 하루 전에는(대개의 항공사는 72시간 전을 요구하고 있다) 재확인해 두는 것이 안전하다.
+  Dialogue 3.5
+Agent : United Airline. How can I help you?
+Lee : Hi! I'd like to reconfirm my flight to L.A. tomorrow afternoon.
+Agent : May I have your name, please?
+Lee : Last name Lee is L-E-E, and first name is C-H-U-L-S-O-O.
+Agent : O.K. You are booked on flight UA321, leaving New York, JFK at 4 p.m. and arriving 
+in L.A. at 7 p.m. tomorrow. Your flight is confirmed.  May I have your phone number where 
+you can be reached, please?
+Lee : Sure, I'm staying at the Holiday Inn in  Manhattan. Phone number is, (area code) 213- 
+345-6789, extension717. You can reach me anytime after 10 p.m.
+Agent : Thank you.
+  Tips 3.5
+1) 최초 예약시의  확인은 confirm이고,  이미 예약된 표를  출발 전에  다시 확인하는  경우에는 
+reconfirm으로 표현해야 옳다.
+2) 재확인되고 나면 대개는 연락처를 물어본다. 전화번호를 얘기할  때 구내번호는 extension으로 
+쓴다.
+3) You can reach me anything after 10 p.m. 저녁 10시 이후에는 언제나 연결이  가능하다는 뜻 
+reach 대신 call을 사용할 수 있다.
+  Drill 3
+1) I'd like to ( ) my reservations.
+change, cancel, reconfirm
+2) It's ( ).
+sold out, fully booked
+3) Here ( ).
+you are, you go, we go
+4) I am ( ) flight 123.
+waitlisted for, still on the waiting list for
+5) I'll ( ) to get a seat.
+take my chances, have no chance
+6) I'm afraid that chances ( ).
+are very slim, are fifty-fifty
+7) ( ) other airlines
+It would be  better for  you to  try, Why  don't you  call/try/contact, You'd better  try/call/ 
+contact  
+8) You can ( ) anytime after 10 p.m.
+reach me, call me, give me a ring
+  Review 3
+Agent : American Airline reservations. May I help you?
+Kim : Yes. I've made  a reservation for your  flight 123 to New York  on May 2nd, but  I'd 
+like to change it to May 3rd. My name is Man-Soo Kim, last name Kim.
+Agent : Sorry Mr. Kim, but all of our flights to New York on May 3rd are sold out. But we 
+do have seats available for the May 4th flights.
+Kim : O.K. Could you book me on the May 4th flight and put me on the waiting list for the 
+May 3rd flight?
+Agent : Sure, I could. Now, your flight AA 127 to New York, JFK  on May 4th is confirmed 
+and you're waitlisted for flight AA 123 on May 3rd.
+Kim : How do you see the chances of getting a seat on the May 3rd flight?
+Agent : We don't know yet, but we should know by May 2nd. Please check with us whether 
+there's a seat available for you by then.
+Kim : O.K. I'll do that. Thanks.
+    Chapter 4. At the Ticket Counter
+전화로 비행기편은  예약을 하였으나  표를 가지고  있지 않은  경우는, 예약된  항공사의 ticket 
+counter에 가서 표를 먼저  pick-up 해야 한다. 미국내의  국내선이나 유럽내의 도시간을 여행할 
+때는 출발 시간 1시간 전쯤에  도착하는 것이 안전하다. 예약된  ticket을 pick-up하는 곳과 짐을 
+check-in 하는 경우에는 1시간 반전에 공항에 도착하는  것이 안전하다. 예약된 ticket을 pick-up
+하는 곳이 다를 수 있으므로 ticket counter에서 예약된 표를 받고 나서 탑승권(boarding pass)을 
+받는 counter로 간다. 이때 부칠 짐이 없으면 ticket을 pick-up할 때 좌석배정을 받을 수 있다.
+  Key Expressions 4
+1) Next (in line), please.
+2) I have your reservation on my (computer) screen.
+3) Would you like to charge it to your credit card?
+4) Could I book my seat assignment here?
+5) Would you like a window or an aisle seat?
+6) (I'd like) An aisle seat, please.
+7) Our flights are smoke-free.
+8) Could you have the seat next to me vacant?
+9) I'll see what I can do. I can't guarantee that, though.
+10) I gave you seat 25 B.
+11) Make a left (turn).
+  상황설명 4.1
+Ticket counter - 대개는 check-in 하는 곳과 구분하기 위하여  sign board에 'Purchase Tickets'
+라고 쓰여 있다 - 에서 단순히 예약된 표를 pick-up 하는 경우는 아래와 같은 대화가 오고 갈 것
+이다.
+  Dialogue 4.1
+Agent : Next (in line), please.
+Lee : Hi, I have a reservation  on flight UA 123 to New York  today. My name is Chul Soo 
+Lee. Last name L-E-E.
+Agent : O.K. Mr. Lee. Let me check. (After working on keyboards) First name C-H-U-L-S- 
+O-O?
+Lee : Yes, that's me.
+Agent : I have your  reservation on my (computer)  screen. Flight 123 to New  York, 8 a.m. 
+this morning. Would you like to charge it to your credit card?
+Lee : Yes, please.
+Agent : Here you go, please sign here. (After sign the credit card slip) You are all set, now. 
+Have a nice trip!
+  Tips 4.1
+1) '다음 분' 하고 말할 때 Next (in line), please 또는 Who's next, please?로 쓴다.
+2) That's me (us).  '그게 바로 나(우리)야.' 하는 표현. 문법적으로는 That's I.라야 맞지만, 원어
+민들은 이렇게 쓰는 것이 보통이다. That's it.하면 '그것으로 전부(끝)이다'는 의미로 대화의 마무
+리를 단호하게 맺을 때 쓴다.
+3) Here you go. '여기 있다'는 의미. 물건을 건네줄 때 자주 쓰는 표현이므로 기억해 두면 좋다. 
+Here you are.나 Here it is. 또는 Here we go.등으로도 쓴다.
+  상황설명 4.2
+Hand carry 하는 짐만 있는 경우에는 counter에서 직접 좌석배정을 받을 수 있다. 
+  Dialogue 4.2
+Lee : Could I book my seat assignment here?
+Agent : Sure. Would you like a window or an aisle seat? 
+Lee : Aisle seat, please. Do you have a smoking section?
+Agent : No, our flights are all smoke-free, sorry.
+Lee : I see. Could you also have the seat next to me vacant?
+Agent : I'll see what I can do. I can't guarantee that, though. I gave you seat 25B, and your 
+gate is 17. All the way down the  hall, and make a left (turn), then  you'll see the departure 
+gates. Boarding will begin in 40 minutes.
+Lee : Thank you.
+Agent : Thank you. Bye and have a pleasant flight!
+  Tips 4.2
+1) seat assignment 좌석배정. assignment 대신 selection을 써도 좋다. 같은 표현으로 Could you 
+have my assigned here? 나 Can I select my seat here?로 할 수도 있다.
+2) Would you like a window or an aisle seat?
+좌석배정시의 일상적인 질문. 그러나 간혹 Would / Do you have a seat preference?로 물어보는 
+경우도 있다.
+3) smoke-free  flight,  non-smoking flight라고도   표현한다. 금연석/흡연석은  a seat   in the 
+smoking / nonsmoking section이다. 이것을 a smoking / nonsmoking seat으로도 한다.
+4) I gave you seat 25B. Your seat number is 25B.라고 할 수 있겠다고도 생각할 수 있지만, 이
+것을 문법 상으로 틀리지는 않으나 실제 상황에서는  거의 쓰이지 않는 표현이다. 마주보고 대화
+를 할 때, 주어는 가능한 한 나 혹은 당신이라야 하는 것이 회화시 기본 사항 중의 하나이다.
+5) have the seat vacant / unoccupied 자리를 비워두다.  문법으로는 have the seat be vacant라
+야 하나 구어체에서는 be는 생략하는 것이 보통이다.
+6) next to ~의 옆에. seat next to me = seat adjacent to me. 내 옆좌석의 뜻. next to는 '~의 다
+음에' 라는 의미로도 많이 쓰이는데 His English is next to none in his class.라고 하면 그의  영
+어는 1등이다(앞에는 아무도 없다는 의미이므로, 직역하면 앞의 아무도 없는 다음 번이라는 의미)
+는 뜻으로 해석한다.
+7) I'll see what I can do. I can't guarantee that, though. 내가 할 수 있을지 두고 보자.  즉, 보
+장은 못하지만 어떻게 해보겠다는  의미이다. I'll see 자리에  Let's see로 쓸  수도 있으나 아주 
+informal한 표현이 되므로 주의해야 한다.
+8) make a left (turn)  왼쪽 방향으로 돌다는 표현.  turn은 써도 좋고 안  써도 좋다. 또는 turn 
+left로 단순하게 표현하기도 한다.
+  휴게실
+우리 나라 사람들끼리 모르는 길을 가르쳐 달라고 물어볼 때는 대부분 "역으로 가는 길을 가르쳐 
+주시겠어요?"라고 묻기보다는 "역까지 어떻게  가는지 아세요?"라고 할 것이다.  이 질문에 대해, 
+상대방도 당연히 길을 가르쳐 달라는 것으로 생각하고  대답을 해줄 것이다. 그러나 미국 친구에
+게 똑같이 질문을 했다고 가정해 보자. Do you know the  way to the station?으로 물으면 상대
+방은 Yes, I do.라고 대답하고는 그냥 가버릴  것이다(물론, 친절한 친구들을 질문이 잘못된 것을 
+눈치채고 제대로 길을 가르쳐 주겠지만).  왜? 질문 자체가 아느냐  혹은 모르느냐이기 때문이다. 
+Do you know how to get there?라고 물어도 마찬가지이다. 바른 표현은 Would you show / tell 
+me the way to the station? 또는 Could I ask you to show me the way to the station?으로 해
+야 한다. 이처럼 영어회화시 한국어 문장을 먼저  생각하고 그것을 영어로 직역하려 들면 실수하
+기 쉽다. 틀려도 영어로 생각하자!
+  Drill 4
+1) I ( ) your flight 123.
+have a reservation on, have made a reservation for, have reserved a seat for
+2) Would you like to ( ) your Visa?
+charge it to, pay with/by
+3) I'd like ( ), please.
+a window seat, an aisle seat, a window seat as forward as possible, an aisle seat to the rear, 
+a smoking and window seat, a seat with lots of leg room
+4) ( ) see what I can do. ( ).
+I'll       I can't guarantee that, though
+Let's     Nothing is guaranteed, though
+5) ( ) , and make a left.
+All the way down the hall, Straight down the hall, Leaving the elevator, Go one stair up
+6) Have a ( ) ( )
+pleasant   flight back
+nice       trip
+good  
+  Review 4
+Agent : Who's next, please? 
+Lee : Hi! I have made a reservation on your flight UA 123 to New York, today.
+Agent : (Could I ask) Your name, sir?
+Lee : I'm Chul Soo Lee, Last name is L-E-E. And my confirmation number is B,  as in boy, 
+3456.
+Agent : O.K. I do have your reservation on my screen, Mr Lee. Flight UA 123 to New  York 
+at 8 a.m. this morning, and an open ticket for return to L.A. Right?
+Lee : Yes, that's right.
+Agent : Would you like to charge it to your Visa?
+Lee : Yes, please.
+Agent : May I have your Visa Card, please? And do you have a seat preference?
+Lee : Yes, I'd like an  aisle seat to the rear.  And could you also have the  seat next to me 
+vacant?
+Agent : I'll see what I  can do, nothing is guaranteed,  though. O.K. Here's your credit card 
+back, and your boarding pass. Please sign  here. I gave you seat 55 B,  and your gate is 17. 
+Boarding will begin at 7:30 a.m. You're all set now. Have a nice flight!
+Lee : Thank you.
+    Chapter 5. Flight Check-in
+비행기의 탑승 수속을 하기 위해서는 국제선(international flight)의  경우는 대개 출발시간 1시간 
+반 또는 2시간 전에, 국내선(domestic flight)은 1시간 전까지 공항에 도착하면 된다. 여권과 비행
+기표, mileage card 등을 가지고 check-in counter에서  탑승 수속을 하는데, 여행하고자 하는 국
+가가 visa를 필요로  하는 때에는 사전에  visa를 받아두어야 한다.  탑승 수속 시에는  수하물을 
+check-in 하고 좌석배정과 탑승권(boarding pass)을 받고 수하물표(baggage claim check)를 받는
+다.
+  Key Expressions 5
+1) Any bags to check?
+2) You have to pay extra for the overweight.
+3) They'll be happy to help wrap it up for you.
+4) You can gage your suitcase there.
+5) Do you carry suntan lotions here?
+6) Would you put my mileage in?
+7) Are you with me?
+  상황설명 5.1
+최종 목적지까지 직행하는 경우는 간단하다. 이미 비행편은 예약이 완료되어 있으므로 별도의 확
+인 절차가 필요 없다. 기내로 가지고 갈 짐 이외에는 check하고 boarding pass를 받으면 된다. 짐
+을 check 할 때, baggage claim tag의 최종 목적지를  확인해 두는 것이 좋다. 대개 공항 이름을 
+alphabet 3자로 표현한다. 예를 들면  L. A.는 LAX, New York은  JFK, 또는 NYC(La Guardia), 
+London은 LHR(Heathrow) 또는 LGA(Gatwick), Seoul 은 SEL, Tokyo는 NRT(Narita)등이다.
+  Dialogue 5.1
+Agent : Next (in line), please.
+Lee : Good morning.
+Agent : Hi, where are you going today, sir?
+Lee : To New York, JFK.
+Agent : Any bags to check?
+Lee : Yes, I have two.
+Agent : Would you prefer a window or an aisle seat?
+Lee : Window and smoking (seat), please.
+Agent : I can give you seat 25A, and the gate is 17, upstairs. 
+Lee : Thank you.
+  Tips 5.1
+1) Where are you going today, sir? 처음 여행을 시작할 때는 출발 당일(today)의 최종 목적지를 
+물어본다. 중간 경유지에서 하루를 묵지  않고, New York으로 가는 경우에  위와 같이 대답하면 
+된다. 이것은 짐을 그날의 최종 목적지까지 부치기 때문이다.
+2) bags to  check (in) 기내로  hand carry할  짐 이외에는 check-in을  하고 수하물표(baggage 
+claim tag)의 flight number와 목적지를 확인해 둔다. 대화시에는 baggage 대신 bag으로 주로 쓰
+고, check-in 대신 단순히 check으로도 많이 쓴다. 당신이 check-in시 이미 많은 짐을  가지고 있
+는 것을 공항 직원이 본다면, 당연히 위의 질문 대신 How many bags are you checking?으로 물
+을 것이다.
+3) 가방을 check-in할 때 가끔 보안상의 이유로 다음과  같은 몇 가지 질문을 할 때가 있다. Did 
+you pack it  by yourself?(Yes.)  Have you  been with  it all  the time  since you've packed 
+it?(Yes.) Did someone ask you to carry anything?(No.) 이러한 질문에 대해서는  ( ) 안의 대답
+이  정답이다.
+4) I have two. 원래의 full  sentence는 I have two bags to  check.이겠으나, 회화에서 상대방이 
+한 말은 가급적 반복하지 않는 것이 원칙이다. 이것도 회화를 세련되게 하는 한 가지 요령이다.
+  휴게실
+의외로 많은 사람들이 틀린 영어표현을 하는 것 중에 동사  discuss 와 marry가 있다. 아마도 한
+국식으로 '~에 관하여 토론하다' '~와 결혼하다'로 생각해서 discuss about 이나, marry with로 쓰
+는 것 같은데, 올바른 표현은 다음과 같다. I'd like to discuss this with you in detail. I want to 
+marry him. 이런 표현을 실수하는 이유는, 문법적으로 타동사인지 자동사인지를 구분해서 기억하
+지 않기 때문인데, 번거롭게 이런 것을 구분하여 들지 말고 표현 자체를 외우는 것이 편하다. 즉, 
+discuss something with someone 이나 marry someone으로 외워두면 실수를 줄일 수 있다. 타동
+사/자동사 구분에  의한 용법  차이를 보여주는  다른 예로  이런 것들이   있다. He started  (= 
+departed from) L.A. and reached  (= arrived in) Las  Vegas in 4 hours.  He entered (= went 
+into) the school. 단  앞의 예에서, I'd  like to have  a discussion on  this with you  in detail. 
+She's  married to him.처럼 명사로 쓰거나, 수동형으로 쓸 경우에는 on이나 to 같은 전치사를 넣
+어야 맞다.
+  상황설명 5.2
+짐을 부칠 때 좌석등급에 따라 차이가 있으나 대개는 30 pounds(약자 lbs로 표기.  1lb=0.45Kg)짜
+리 2개까지 받아준다. 무게를 초과하는 경우 짐을 2개로 나누거나 아니면 추가요금(extra charge)
+을 물어야 한다. 국내에서처럼 봐달라는 것은 통하지 않으므로 이에 대비하여야 한다.
+  Dialogue 5.2
+Agent : Any bags to check (in)?
+Lee : (Putting the bag on the conveyor) Yes, I have just one.
+Agent : It weighs 40 pounds. You can check only bags 30 pounds or less.
+Lee : Excuse me?
+Agent : You have to split it into two, or you have to pay extra for the overweight.
+Lee : Oh, I didn't know that. Where could I do that?
+Agent : Take your bag to our service desk at the left corner on  this floor. They'll be happy 
+to help spilt and wrap it up for you.
+Lee : O.K. Thank you very much.
+Agent : You're quite welcome.
+  Tips 5.2
+1) 30 pounds or less 30파운드 또는 그 이하의  표현이다. 그 이상을 나타낼 때는 30 pounds or 
+more와 같이 하고 이것은 30 pounds plus로 표현하기도 한다.
+2) Excuse me? 여기서 상대방이 한 말을 못 알아들어서 되묻는 뜻으로 쓰였다. 즉 (I) Beg your 
+pardon?, Say that again, please., I'm sorry? 또는 What was that? 등과 같은 의미이다.
+3) pay extra for the overweight 중량 초과에 대해 추가요금을 내다. for being over the limit 으
+로 표현하기도 한다.
+4) split into two 두 개로 나눈다는 의미. 여기서도 two bags에서 bags가 생략되었다.
+5) wrap up 포장하다.
+  상황설명 5.3
+짐이 무게를 초과 않더라도 oversize인 경우에는 기내로 가지고 들어갈 수 없다.
+  Dialogue 5.3
+Lee : Can I hand-carry this into the cabin?
+Agent : May I ask what it is, please?
+Lee : It's golf club. Just one.
+Agent : Sorry, sir. It's oversized, you must check that in.
+Lee : (Putting it on the conveyor) O.K. How about this suitcase?
+Agent : Well, it looks O.K. to me, but you could check with the gage to make sure. Did you 
+see a display board with a picture on it at the entrance  of the terminal? You can gage your 
+suitcase there.
+  Tips 5.3
+1) hand-carry into  the cabin. 기내로  (직접 손으로 들어서)  운반하다. 반입하다의 뜻.  단순히 
+carry into cabin으로 써도  좋다. 기내로 갖고  들어가는 가방은 a  carry-on bag으로 표현한다. 
+carry라는 동사는 가게에  물건을 비치되어  있다는 뜻으로도 많이  쓰인다. 예를  들어 Do  you 
+carry suntan lotions, here?라고 하면 Do you have suntan lotions available, here?의 의미이다.
+2) check with the gage. gage 혹은 gauge(영국식 영어)로 쓴다. 요즈음에는 기내에 가지고 들어
+갈 수 있는 가방 크기를 재어볼 수 있도록 모형을 만들어 놓은 공항이  많다. 이 모형을 gage 또
+는 frame이라 한다.
+  상황설명 5.4
+최종 목적지까지 직항편이 없고 중간 기착지에서 비행기를 갈아타는 경우를 생각해 보자. 갈아타
+는 비행기편의 항공사가 첫 번 여행구간의  항공사와 같은 경우는 처음 check-in할  때 갈아타는 
+편(connecting flight)의 탑승권을 미리 받을  수 있으나, 항공사가 다른  경우는 중간 기착지에서 
+transfer desk를 찾아 다시 탑승권을 받아야 한다.
+  Dialogue 5.4
+Agent : Where are you going today, sir?
+Lee : To New York via Columbus, Ohio. 
+Agent : O.K.  I gave you  seat 25A to  Columbus, Ohio, and  20F to New  York, JFK from 
+Columbus. Your gate is 15. Gate information to JFK is not available  yet, but you can find it 
+on the computer screens at the Columbus airport terminal.
+Lee : Here's my frequent flyer card. Would you put my mileage in?
+Agent : Certainly. (Moments later) Here's your mileage card back  and your boarding passes. 
+You're all set. Have nice trip!
+Lee : Thanks.
+  Tips 5.4
+1) via ~를 경유해서. New York through Columbus에서처럼 via대신 through를 써도 좋다.
+2) mileage card/frequent flyer card 여행거리를 축적하는 카드 제도. 항공사마다 고유의 card 명
+칭을 가지고 있다. 예를 들면, 대한항공의 Morning Calm, Northwest의 Worldperks 등.
+3) put in mileage 여행거리를 입력해 넣다.
+4) 비행기 출발, 도착 information이 나와 있는 화면을 computer screen이라 하거나 또는 monitor
+라고 하면 된다.
+  상황설명 5.5
+연결편의 항공사가 다른 경우는 아래와 같은 대화를 할 것이다. 부친 짐은 항공사가 달라도 최종 
+목적지까지 운반되므로 걱정할 필요는 없으나 만약을 위해서 transfer desk에서 짐이 제대로 옮겨
+지는지를 check 해 두는 편이 좋다.
+  Dialogue 5.5
+Lee : I'm going to New York via Columbus, Ohio, today.
+Agent : O.K. We will send your bags all the way through to New  York, but you should get 
+a new boarding pass, when  you arrive in Columbus, Ohio.  You can do that  at the transfer 
+desk in the arrival terminal.
+Lee : I got you. Thanks.
+  Tips 5.5
+1) I got you.는 당신이 하는 말을 알아들었다는  표현이다. 그 말이 무엇인지 알겠다는 표현은 I 
+got it.이고 회화시에 많이 쓴다. 내가 하는 말을 알아듣느냐고  물을 때는 Do you get me? 또는 
+Are you with me?나 Are you following me?로 쓸 수 있다.
+2) all the way through to New York. New  York까지 계속해서 (보내진다)는 뜻인데 단순히 to 
+New York으로만 써도 의미가 통한다. all the way through는 Ohio에서 짐을 찾는 것 없이  계속 
+간다는 강조의 의미로 보면 된다.
+  휴게실
+영어회화를 좀더 세련되게 하려면, 원어민의 대화 습관을 잘 아는 것이  중요하다. 미국인들이 문
+어체(written English)에서 쓰는 표현은  구어체(spoken English)에서 쓰는 표현과  다른 점이 몇 
+가지 있다. 우선 한 가지만 예를 들면, 이들은 동작을 표현할 때 문어체에서의  동사를 주로 쓰지
+만, 회화에서는 동사보다는 명사형으로 많이 쓴다. 즉, make a reservation, reserve. take  a look, 
+look. have a discussion, discuss. make a copy, copy. 등등. 이러한 것은 일종의 대화 습관이므로 
+달리 설명할 수는 없고, 구태여 짐작해 본다면, 이들은 가능한 한 모든 동작의 표현을 make, take 
+,have 등과 같은 아주 기본적인 동사만으로 처리하려는(단순화해 보려는)의도 때문인 것 같다. 미
+국 영화나 TV를 볼 때, 한 번 주의 깊게 살펴보면 이 점을 금방 느낄 수 있을 것이다.
+  Drill 5
+1) ( ), and you'll get to the departure hall.
+Go straight down the hall, Go straight ahead to your right, Go past the  information desk, Go 
+one stair up
+2) It will cost you ( ).
+30 dollars or less, 30 dollars or more, 30 dollars plus
+3) They'll be happy to help ( ) for you.
+split it into two, wrap it up, solve the problem
+4) We'll send your bags ( ) New York.
+all the way through to, all the way to, to
+  Review 5
+Agent : Next (in line), please.
+Lee : Good morning. Here are my tickets and mileage card. I'm going to New York, JFK. via 
+Chicago, O'hare today.
+Agent : (After checking on the monitor)O.K.  Mr. Lee. Would you like a window  or an aisle 
+seat?
+Lee : I'd like an aisle seat to the rear, please.
+Agent : How many bags are you checking?
+Lee : (Putting the bag on the conveyor)Just two.
+Agent : I have a few questions for you for security reasons. Did you pack them by yourself?
+Lee : Yes.
+Agent : Have you been with them all the time since you've packed them?
+Lee : Yes.
+Agent : Did someone ask you to carry anything?
+Lee : No.
+Agent : All right. Mr. Lee. Here's your boarding pass. I gave you seat 50 B for flight 123 to 
+JFK, and the gate is  17 on the second  floor, one stair up.  All the way down the  hall and 
+make a right, then you'll  find the stairways to  the departure gates. You should  get a new 
+boarding pass when  you arrive in  Chicago. Boarding will  begin in about  40 minutes. And 
+here's your mileage card back.
+Lee : Did you put the mileage in?
+Agent : Yes, I did.
+Lee : How can I get a new boarding pass for the flight from Chicago to JFK?
+Agent : You can get it at the transfer desk at the O'hare airport terminal.
+Lee : I see. Thank you.
+Agent : Have a nice trip!
+    Chapter 6. At the Duty-Free Shops
+출국심사가 끝나고 나서 국제선의 경우에는  탑승 대기하는 동안 면세점에서 간단한  shopping을 
+할 경우가 있다. 대개는 면세물품의 구매 한도가 정해져 있으므로 간단하게 몇 가지 사거나, 그저 
+돌아보는 정도(window-shopping)의 경우가 많다.
+  Key Expressions 6
+1) I'm just browsing.
+2) Take your time.
+3) I'm looking for local wines.
+4) Where can / could I find them?
+5) I'd like something in between.
+6) What do you recommend / suggest?
+7) It's 50 percent off.
+8) It's a real bargain.
+9) You can get three for the price of two.
+10) If you buy two, you'll get one free.
+11) Cash or charge?
+12) 24 dollars out of 30.
+  상황설명 6.1
+물건을 살 생각이 별로 없이 그저 돌아보기만 할 때 점원이 무엇을 사겠느냐고 물어올 경우가 있
+다.
+  Dialogue 6.1
+Clerk : Hi, may I help you?
+Lee : No thank you. I'm just browsing.
+Clerk : O.K. Take your time, and if you need my help, just let me know.
+Lee : Thanks.
+  Tips 6.1
+1) 그냥 구경만 한다는 표현은 I'm  just browsing. 또는 I'm just  looking around.로 하면 된다. 
+상점 안에 들어가지 않고 밖에서 구경만 할 경우는 window-shopping이라 한다. eye-shopping으
+로 표현하는 것은 한국식 영어이다.
+2) Take your time. 시간 여유를 갖고 천천히 하라는 의미.
+  휴게실.
+근래에 와서 '가격 파괴'라는 표현이 자주 등장하고 있다.  영어로 이 표현을 딱 맞아떨어지게 하
+기는 좀 곤란한 것 같다. 다만, 파격 세일의 의미로는  Liquidating Sale(우리말의 '점포정리 세일'
+의 뜻이다.)이  쓰인다. 미국  TV를  보면, 특히  연말(10월이나 11월경)에   이따금씩 No down 
+payment, no interest and no payment until next year!하고 광고를 하는 것을 보게 된다. 미국의 
+물건 구입 문화는 거의 모든 것이 월부 제여서, 당연히 물건 구입 시에 선수금(down payment)을 
+얼마 내고 나머지는 다음 달부터 월부금을 내는  방식으로 되어 있다. 월부금에는 이자가 가산되
+어 있음을 물론인데, 이 광고에서는 선수금 없이  물건을 먼저 가져가고 물건값은 무이자 할부로 
+그것도 몇 달 후부터 내라는 것이니 우리의 '가격 파괴'에  해당된다고 볼 수도 있을 것 같다. 미
+국에서는 심지어 병원 비도 월부로 낸다. 아기의 출산 비용을 월부로 갚아가던 부부가 마지막 할
+부금을 내고 나서. "Finally, this baby is really ours!"(이제야 이 애가 진짜 우리 자식이 되었군!)
+했다나?
+  상황설명 6.2
+실제로 물건을 몇 가지 살 경우를 생각해 보자.
+  Dialogue 6.2
+Clerk : He! Can I help you?
+Lee : I'm looking for local wines. Where can I find them?
+Clerk : Let me show you, it's on aisle 6. Which one would you like, red or white?
+Lee : Red one, please.
+Clerk : We have California 93's and 95's. Would you like something dry or sweet?
+Lee : I'd like something in between, not too dry or (too)sweet.
+Clerk : Um. How about this one? This is California 93's, medium dry.
+Lee : O.K. Let me have two of them, please.
+Clerk : Sure. Take these to the lady at the cashier, please. Thank you very much.
+  Tips 6.2 
+1) looking for ~을 찾고 있다는 표현이다. Do you have / carry local wines?로 써도 좋다.
+2) a local wine  그 지방에서 나는 포도주.  wine은 생산지를 구분해서 얘기한다.  French wine, 
+Italian wine... 등.
+3) 93's. Ninty-threes. 93년도 산이라는 의미.
+4) something in between. 이것과 저것의 중간 것.
+  상황설명 6.3
+특별히 마음에 둔 것은 없으나 무엇인가 간단한 것을 사고자 할 경우를 생각해 보자.
+  Dialogue 6.3
+Clerk : Hi! May I help you? 
+Lee : Yes, please. I'm looking for something for my wife. What do you recommend/suggest?
+Clerk : Let me see. How about this amber bracelet? It's now 50% off. It's real bargain.
+Lee : I see. Let me have a closer look, please.
+  Tips 6.3
+1) 권할 만한 것이 있느냐고 물을 때, What do you  recommend? 혹은 suggest로 쓴다. 또한 간
+단하게는 Any recommendations?로 할 수도 있다.
+2) 50%(percent) off. 50% 할인. 내가 물건값을 50% 깎아주겠다는 표현은 I'll take 50% off.로 쓴
+다. sale 중이다는 표현은 It's on sale now. 가 된다.
+3) It's a real bargain. 아주  싸게 잘 사는 것이라는 표현. a  real bargain 대신 a good bargain 
+또는 a good deal로 써도 좋다.  It's not a big deal. 하는  표현이 있는데, 이것은 별 것 아니다, 
+사소한 일이다는 의미이다.
+  상황설명 6.4
+면세점에서도 sale을 하는 경우가 종종 있다. 담배를 사면 라이터를 선물로 준다거나 whiskey2병
+을 사면 1병을 덤으로 준다거나 하는 등의 끼워 팔기 형태가 많다.
+  Dialogue 6.4
+Clerk : Hi! How may I help you?
+Lee : Where can I find cigarettes?
+Clerk : It's on aisle 7.
+Lee : I'd like a carton of Marlboro Light, please. 
+Clerk : It's on sale now. You can get three for the price of two. 
+Lee : (I'm) Sorry?
+Clerk : If you buy two, you'll get one free. I mean, it's 33% off.
+Lee : Oh, I see. I'll take them, please.
+Clerk : Sure. It's 24 dollars. Cash or charge?
+Lee : Cash, please. Here's 30 dollars.
+Clerk : 24 dollars out of 30. 6 dollars is your change.
+  Tips 6.4
+1) You can get three for the price of two. 2개의 값으로  3개를 얻는다. 즉 33% 할인이라는 의
+미. You pay the price of two for three. 도 같은 의미.
+2) (I'm) Sorry? 못 알아들은 말을 되물을 때 쓴다.
+3) buy two, get one free. 2개를 사면 1개는 덤(공짜)으로 준다는 뜻.
+4) Cash or charge? 지불 방법이 현금이냐, 신용카드냐는 질문. 원래 문장은 Would/Will that  be 
+cash or charge?이다. 여행자 수표(traveller's check)는 현금과 동일하게 취급하면  되고, 신용 카
+드로 지불을 원할 때는 Charge, please. 또는 I'll pay with Master Card.등으로 대답하면 된다.
+5)24 dollars out of 30 (당신이 지불한)30불에서 24불을 뺀다는 의미. 거스름돈 계산시 자주 쓴다.
+  휴게실
+미국뿐만이 아니라 서구에서는 거스름돈(change)을 계산하는 방식이 우리 나라와는 차이가 있다. 
+상점에 가서 78불 짜리 물건을 사고 100불을 지불했다고 가정해 보자. 이들은 22불의 거스름돈을 
+주면서 이렇게 얘기할 것이다.(돈을 한 장 한 장 세어 당신에게 주면서). "Here are your change, 
+22 dollars. Which makes one hundred." 거스름돈  22불을 얘기하는 것이 아니라, 물건값에다 거
+스름돈을 합하면 당신이 낸 돈과 같아진다는 식의 표현이다.  우리처럼 100-78=22의 계산이 아닌 
+78+22=100으로 표현하는 것이다. 즉 보수(complementary number)의 개념이다.
+  Drill 6
+1) ( ) local wines.(?)
+I'm looking for, Do you have/carry
+2) I'm just ( ).
+browsing, looking around
+3) What do you ( ) ?
+recommend, suggest
+4) It's ( ).
+a real bargain, a good deal, 50% off, on sale now
+5) ( ).
+If you buy two, you'll get one free, You'll get three for  the price of two, You pay the price 
+of two for three
+  Review 6
+Clerk 1 : Hi! May I help you?
+Lee : No, Thanks. I'm just looking around. 
+Clerk 1 : O.K. Take your time. And just let me know if you need help.
+Lee :  Thank you.  I'll do  that. (Moments  later)Excuse me.  Could you  please recommend 
+something for my wife?
+Clerk 2 : Well, Let's see. If  you're thinking of a simple souvenir, I  would recommend these 
+key-holders or silver spoons. 
+Lee : Well, anything else?
+Clerk 2 : Then, how about this amber bracelet? Very good quality amber is  produced locally, 
+you know. It's on sale now, it's 50 percent off.
+Lee : (It) Sounds good.
+Clerk 2 : Would you like to take a look at those? We have many different designs.
+Lee : Sure, I'd love to. (After selecting one)Let me take this one, please.
+Clerk 2 : O.K. I think it's a good deal. Anything else, sir?
+Lee : Yes, I'd like a carton of Marlboro Light, please.
+Clerk 2 : It's on sale, too. You pay the price of two (cartons) for three.
+Lee : Beg your pardon?
+Clerk 2 : If you buy two, then you'll get one free. I mean, it's 33% off.
+Lee : Good. I'll buy them, too.
+Clerk 2 : Is that all, sir?
+Lee : Yes, that's it.
+Clerk 2 : Please take these to the lady at the cashier, she'll help you.
+Lee : O.K.
+Cashier : Hi. It will be 87 dollars in total. Cash or charge?
+Lee : Cash, please.
+Cashier : May I see your boarding pass, please?
+Lee : Sure. Here you are.
+    Chapter 7. Waiting at the Departure Lounge
+탑승을 기다리는 동안 면세품 shopping이나, 외화환전 등을  하고 lounge에서 기다리면 출발시간
+20~30분전에 탑승 안내 방송이 나온다. 어떤 때는 갑작스럽게 출발편이 지연되거나, 탑승구(gate)
+가 변경되는 경우도 있다. 안내 방송을 잘 들어야 문제없이 여행을 할 수 있다.
+  Key Expressions 7
+1) Is this taken?
+2) Please of ahead.
+3) I'd like to change dollars into German Marks.
+4) What's the exchange rate between the dollar and the German Mark?
+5) What's the exchange fee?
+6) It's 3 dollars minimum, or 2%.
+7) Have your passport ready for inspection, please.
+8) I couldn't hear what you were saying.
+9) You have to hold on for a while.
+10) Please proceed to gate 21
+11) We'll keep you posted.
+12) We don't expect (that) delay will be too long.
+13) We're looking for 3 volunteers to give up their seats.
+14) What's going on here?
+15) That coupon is good only for UA flights.
+16) They give away cash.
+  상황설명 7.1
+Lounge에서 빈자리를 찾아 앉을 때 옆에 있는 사람에게 자리가 비었는지를 확인해 두는 것이 좋
+다.
+  Dialogue 7.1
+Lee : Excuse me. Is this taken?
+Passenger : No, it's not (taken). Please go ahead.
+Lee : Thank you.
+  허튼 소리...(해답은 p.127에)
+다음동물의 이름을 맞춰 보시오.
+1. Name the birds that have 2 heads, 4 eyes, 4 legs and 4 wings, but can't fly.
+2. Name an animal that has 2 tail,  1 hand, 2 heads, 3 eyes and 6  legs, and can run as fast 
+as a horse can.
+3. Name an animal that has 1 head, 2 eyes, 3 noses, 4 hands and 5 legs.
+  Tips 7.1
+1) Is this taken? 이 자리를 차지하고 있느냐? 는 물음이다. Is this occupied?로 써도 좋다. May 
+I sit here? 또는 Would you mind if I sit here?라고 물어볼 수도 있겠으나,  아주 예의를 갖추어 
+대화하는 경우가 아니면 자주  쓰지는 않는다. Would you  mind ~? 로 물었을  때의 대답은 Of 
+course not. 이나 Certainly no. 또는 Not at all.로 하면 된다. No, I don't로 할 수도 있으나 너무 
+딱딱한 느낌을 준다.
+2) Go ahead. 많이 쓰는  표현으로 그렇게 하라는 의미이다. Why  don't you go ahead?로 쓰면 
+그렇게 하는 것이 어떠냐는 권유의 의미가 된다.
+  상황설명 7.2
+탑승 대기실(waiting lounge)에서 기다리는 동안 필요하면 환전할 수 있다.
+  Dialogue 7.2
+Clerk : Hi, may I help you?
+Lee : Hi, I'd like  to change dollars into  german marks. What's the  exchange rate between 
+the dollar and the German Mark?
+Clerk : Well, the  rate changes everyday. Today's  rate is 1.72 Mark  to the dollar if  you're 
+buying.
+Lee : Excuse me ?
+Clerk : Well, the  rate is also  different if you're  buying or selling  German Mark. It's 1.72 
+Mark to the dollar when you buy, and 1.85 when you sell.
+Lee : I see. What's the exchange fee?
+Clerk : It's 3 dollars minimum, or 2%.
+  Tips 7.2
+1) change dollars into German (or Deutsch) Marks. 달러화를  독일 마르크화로 바꾸다. into 혹
+은 to로 쓴다.
+2) exchange rate between A and B. A와 B사이의 교환비율. between A and B대신에 for A  to 
+B로 써도 좋다. 
+3) today's rate 오늘의 환율. current rate도 같은 표현이다.
+4) It's 3 dollars minimum, or 2%. 환전 액의  2%를 적용한 수수료가 3달러 이하일 경우, 매 건
+당 3달러는 최소한 change한다는 뜻.
+  해답(p.124에서) 
+1. Two dead birds. (두 마리의 죽은 새)
+2. The Captain Hook on a horse riding.(왜? Walt Disney의 만화영화 Peter Pan에 나오는 Hook
+선장은 애꾸눈에 외팔이니까)
+3. monster (괴물. 왜? 이런 동물은 없다!)
+  상황설명 7.3
+대개 출발 20~30분전에 탑승 안내방송을 한다. 어린이 등반 승객이나 노약자와 같이 승무원의 도
+움이 필요한 승객이 먼저 탑승(preboarding)한다. 이때의 안내방송은, "Good afternoon, lades and 
+gentlemen. Your flight UA123 bound for New York is now ready for boarding. First,  we will 
+do preboarding. Passengers with  children or any  passengers who may  need assistance will 
+board this time. Please have  your boarding pass and  passport ready for inspection. We  ask 
+other passengers to  wait in  the lounge,  until we  announce the  general boarding  by row 
+number. Thank   you." 다음으로  일등석(first  class), 이등석(business   class) 승객이탄  후에 
+economy class 승객이 타는데, 대개는  비행기의 뒷좌석부터 탑승하게 된다.  이때의 안내방송은, 
+"Good afternoon, ladies and gentlemen. We are now ready for general boarding (for flight 123 
+bound for New York, JFK). Passengers with  seat numbers / rows 30 or over  may board at 
+this time. First and business class  passengers may board anytime. (Pause) Now,  passengers 
+with between 15 thru 29 may board this time. (Pause) Now, passengers with rows from 1 to 
+14 may board this  time. Thank you  for flying United, and  we wish you  a pleasant flight. 
+Thank you."
+  Dialogue 7.3
+Lee : Excuse me. I couldn't hear what you were saying. My seat is 25B, can I board now?
+Clerk : No, you have to hold on for a while. Rows 30 or over are boarding now.
+Lee : I see. Thank you.
+  Tips 7.3
+1) bound for ~, ~로  향하다는 표현이다. 여기서는 bound  for 대신 departing for  또는 heading 
+for 로 써도 된다.
+2) have your passport ready for inspection. 여권 검사를 받을 수 있도록 준비하다. 생략되지 않
+은 문장은 have your passport made ready for inspection일  것이나, 구어체에서는 made를 생략
+한다.
+3) seat row 좌석의 (옆 방향) 한 줄. 세로 방향의 줄은 seat column으로 표현한다. 
+4) 당신이  한 말을  못 알아들었다는  표현은 I  couldn't hear  what you  were saying.이나  I 
+couldn't hear you.로 하면 되고, 또는 I didn't get you.로 할 수 있다.
+5) hold on 동작을 멈추다,  기다리다는 의미로 광범위하게 쓰인다.  전화통화시에도 많이 쓰이는 
+표현이므로 알아두는 것이 좋다.
+  휴게실
+영국 영어에서는 안 쓰이고, 미국 영어에서만 쓰이는 구어체 표현 중 문법적인 설명이 난해한 것
+의 하나가 Go get it.이다.  쉬운 표현이고 자주 쓰이는 말이라서  '가서 그것을 가져라'는 뜻으로 
+이해는 되지만, 혹자는 이것이 원래 Go to get it.또는 Go and get it.이라는 원문장에서 to나 and
+가 생략된 형태이고, 이러한 생략은  go와 come 같은 동사만 가능하다고  하는데... 글세 그럴까? 
+왜냐하면 come동사의 경우는 분명히 Come and get it.으로 쓰지. and를 생략한 Come get it.으로 
+쓰지 않기 때문이다. 비슷한 표현을 찾아보면 '(현재의 위치에서 출발하여) 가서 물건을 가져오라'
+고 할 때 Go fetch!라고 하는 것과 '밖에 나가서 먹자'고 할 때의 Let's go eat. 등이 있다. 이것들
+도 Go to / and fetch! 나 Let's go to / and eat.에서 to나 and가 생략된 것이라고 설명할 수 있
+을 것 같다. 중요한 것은, 문법적인 설명이야 어떻든 간에 원어민이 쓰는 표현을  그대로 외워 쓰
+는 것이 원칙이라는 것이다. 오히려  문법에 맞지 않는 여러 가지  표현을 익히는 것도 외국어를 
+배우는 재미일 수 있다.  
+  상황설명 7.4
+간혹 기다리는 중간에 탑승구 번호가 변경되는 경우가  있다. 대개는 여러 번 안내반송이 나오고 
+gate의 행선지 표지판이나 monitor의 안내가 변경되므로 착오가 발생한  경우는 적으나 출발전에 
+반드시 monitor의 departure  information을 확인해  두자. "May I  have your  attention, please. 
+Gate number for the United Airline flight UA123 bound for New York, JFK has been changed 
+from 15 at 21. Please proceed to  gate 21." 또는 비행기가 연발하는 경우에도 안내방송이  나온
+다. "May I have your attention, please. United Airline flight UA123 bound for New York, JFK 
+will be delayed  about 30  minutes, due to  bad visibility  at the airport.  We will  keep you 
+posted for a new boarding time. We are sorry for this inconvenience and  thank you for your 
+cooperation."
+  Dialogue 7.4
+Lee : Are you saying that this flight will be delayed?
+Clerk : Yes.  But we  don't expect  that delay  will be  too long.  We'll announce  the new 
+boarding time when we are ready. Sorry for this inconvenience.
+  Tips 7.4
+1) keep you posted 새로운 상황을 계속 알려주다는 의미고 posted 대신 informed를 써도 좋다.
+2) 비행기 출발이 늦어질 때 be delayed 대신 It's not (due) on time.으로도 표현한다.
+3) We don't expect / think that  delay will be long.에서 we expect  / think that delay won't 
+be long.이라 하면 옳지 않다.
+  상황설명 7.5
+일반적으로 항공사에서는 좌석을 20%  정도 overbooking을 해둔다. 마지막  순간에 가서 예약을 
+취소하거나 비행기 출발시간에 맞추어 나타나지  못하는(no show-up)손님을 대비해서이다. 그런
+데 간혹 항공사의 예상이 빗나가서 비행기  좌석보다 많은 승객수가 많아지는 경우  우선 좌석을 
+자발적으로 포기할 승객(volunteer)을 구한다. 이때의 안내방송은 다음과  같이 흘러나온다. "May 
+I have your attention, please, ladies and gentleman.  We are overbooked for our flight UA123 
+to New York. We're looking for 3 volunteers to give up their seats. For those who volunteer, 
+we'll book them on  our next flight  UA 125 departing two  hours later, and  give them 200 
+dollars worth of UA flight coupons  which you can use on your  next UA flight to make up 
+for this inconvenience. Any volunteers, please  show yourself to the ticketing  counter. Thank 
+you."
+  Dialogue 7.5
+Lee : Excuse me. Could you explain what's going on here?
+Passenger : Oh, yes. They're  looking for 3 volunteers to  give up their seats  on this flight. 
+You can volunteer, if it's O.K. for you to arrive in New York two hours later.
+Lee : I don't think I have a problem with that.
+Passenger : Then you  should volunteer and get  the 200 dollar coupon  for your future use. 
+It's not bad at all.
+Lee : Is that coupon good only for UA flight?
+Passenger : Yes, I think so. That means you'll get 200 dollar discount on your next purchase 
+of UA tickets. Sometimes they give away cash for compensation, but this time they didn't.
+Lee : I see.
+  Tips 7.5
+1) What's going on? 무슨 일이 일어나고 있냐?는 뜻. What's happening now?와 같은 의미.
+2) give up 양보하다. 포기하다.
+3) make up for 보상하다. compensate
+4) show oneself 나타나다. 비행기  시간에 맞추어 나타나지 못하는 승객을  no shows라 부른다. 
+예를 들면, We'll charge 20 percent of the fare as a penalty for no shows.
+5) good for~ ~에 유효하다. 여기서 good은 valid의 의미이다.
+6) give away 주어버리다. 나누어주다.
+  휴게실
+미국인이 구어체에서 자주 사용하는 대화 습관 두 가지 더. 우선, 시제(tense) 선택에 진행형이 많
+다. How are you doing? How are you?, I'll be coming back.  I'll be back., I'll be seeing you. 
+I'll see you., It's being shown here. It's shown here. 등등. 다음으로는 have /  get + 과거분사 
+형태의 구문이 많다. I'll have it done. I'll do it., I'll get it prepared for you.  I'll prepare it for 
+you., Could you have my shirt pressed? Could you press my  shirt? 등등. 앞의 예에서 오른쪽 
+줄의 표현들도 전부 다 옳다. 그런데도 미국인들은 대화시에 왼쪽의 표현을  더 선호한다. 이것을 
+특별히 설명할 방법은 없다. 한 마디로 이들의 대화 습관이 이러하니,  향후에 미국인과의 대화시 
+이런 방향으로 시도해 보면 좀더 세련된 맛을 풍길 수 있지 않을까?
+  Drill 7
+1) What's the exchange rate ( ) ?
+between the dollar and the Won, for the dollar to the Won
+2) ( ) rate is 1.72 Mark to the dollar.
+Today's/Current, Today's buying, The exchange
+3) ( ) for exchange?
+What's the charge/fee, How much do you charge
+4) Is this ( ) ?
+taken, occupied
+5) I couldn't hear ( ).
+you, what you were saying, what you said
+6) Flight UA123 is delayed due to ( ).
+bad visibility,   weather conditions,  late  arrival of   the connection  flight,  cabin clean-up, 
+maintenance check
+7) It ( ).
+will be delayed, is not (due) on time
+8) We'll keep you ( ).
+posted, informed, updated
+9) ( ) here?
+What's going on, What's happening
+  Review 7
+Lee : Is flight 123 on time? 
+Passenger : I think it is.
+Lee : I couldn't hear the announcement she made. Could you explain what's going on here?
+Passenger : Sure. They're looking  for three volunteers to  give up their seats  for the flight 
+123.
+Lee : Excuse me?
+Passenger :  They over  booked the  flight. They   have three more  passengers than  seats 
+available. 
+Lee : Oh, I see. Who will give up their seats, then?
+Passenger : Well, if it's O.K. for  you to arrive at New York two  hours later, then you can 
+volunteer. 
+Lee : I think it's O.K. for me. I just need to make one  phone call to my friend who's going 
+to pick me up from the JFK terminal.
+Passenger : They will give you 200 dollars to make up for your delay in arrival.
+Lee : In cash?
+Passenger : Oh, no. Just flight coupons worth 200 dollars.
+Lee : Can I use it for any flights?
+Passenger : No, you can't. It's good  only for UA flights. That means you'll  get 200 dollars 
+off when you purchase UA tickets next time.
+Lee : Not bad.
+Passenger : No, not bad at all, if you have time.
+Lee : Go to the counter over there, and tell them you'd like to volunteer.
+Lee : I see. Thanks.
+    Chapter 8. During the Flight
+기내에 자리를 잡고 앉으면 승무원(flight attendant 또는 cabin crew)이 행선지에 대한 안내를 하
+고 안전수칙에 대한  시범(demonstration)이 있다. 이때의  안내방송은 대개 다음과  간다. "Good 
+afternoon, ladies and  gentlemen. On behalf  of United  Airline, Captain Smith  and his crew 
+welcomes you on board our flight UA  123 bound for New York, JFK. For  your own safety, 
+please fasten your seat belt, and store your bags in the overhead bin / compartment or under 
+your seat. Flight time to  New York, JFK will be  3 hours and 30 minutes  after take-off. If 
+there is anything we can do for you to make your flight more enjoyable, please let  us know. 
+We wish you a pleasant flight. Thank you."
+  Key Expressions 8
+1) Would you like something to drink?
+2) Could you have (some) more coffee, please?
+3) Traffic is heavy at the airport now.
+4) We get clearance for take-off from control tower.
+5) Sit back and relax.
+6) What's the local time in New York?
+7) I'm sure I will have jet-lag.
+8) You'll have a hard time getting up in the morning.
+9) San Francisco is on Pacific Standard Time.
+10) Can I change my seat?
+11) Can I move next to my friend over there, please?
+12) I'll get you one right away.
+13) Any duty-free items?
+14) We accept Visa.
+15) I feel nauseated.
+16) It's on a first-come-first-served basis.
+17) We have a strong tail wind.
+18) I have a connecting flight to catch at 8 p.m.
+19) You have barely enough time to make it.
+20) You need (many) big ifs.
+  상황설명 8.1
+비행기 문이 닫히고 유도로(taxiway)를 가는 동안 안전수칙(safety instruction)에  대해 설명한다. 
+대개는 익숙히 아는  내용이고 마지막  부분에 "For  further information, please  read carefully 
+safety instruction card in your seat pocket. Thank you."와 같은 말을 추가하는 경우도 있다. 또
+한 요즈음 이착륙 직전에 전자제품의 사용을 금한다는 안내방송을 하는데, 이들 제품에서 나오는 
+전자파가 간혹 비행기 control system에 영향을 주어 안전사고가 발생할 수 있기 때문이다. "For 
+your own safety, use of electronic devices such as portable radios, CD players, cellular phones 
+and lap-top computers is not allowed  during take-off and landing. Also,  please be reminded 
+that this is a non-smoking flight, and  smoking is not permitted during the entire  flight, and 
+smoking is strictly prohibited in the lavatories. Thank you for your cooperation." 식사 전에 마
+실 것을 serve 하는데 이때의 대화를 생각해 보자.
+  Dialogue 8.1
+Cabin crew : Would you like something to drink, sir?
+Lee : Yes, coffee, please.
+Cabin crew : Any cream or sugar?
+Lee : No, just black, please.
+Cabin crew : Here you are.
+Lee : Thank you. (After  finishing a first cup)Excuse me.  Could I have (some) more  coffee, 
+please?
+Cabin crew : Certainly.
+  Tips 8.1
+1) Any cream or sugar? 영국에서는 (Would you like)  White or black?으로 물어 보기도 한다. 
+이때 cream이나 우유를 넣는 경우에는 White, please.로 대답하면 된다.
+2) (some) more coffee 커피를 한 잔 더 달라고 할 때, more coffee 또는 another cup of coffee로 
+표현한다. 맥주를 하나 더 달라고 할 때는 반드시  another beer로 써야 한다. 즉 용기(맥주의 경
+우는 can)가 바뀌는 경우는 another로 쓰는 것이 옳다.
+3) 이륙을 대기중인 비행기들이 많아서 taxiway에서 오랫동안 기다릴 때 기장이 하는 안내방송은 
+대개 아래와 같다. "Good afternoon, ladies and gentlemen. Traffic is heavy at the airport now. 
+There's a long line waiting for take-off.  Five planes are ahead of us.  It would be about 15 
+minutes before we take-off. As soon as we get clearance from the control tower, we'll be on 
+our way. Sit back and relax and thank you for understanding."
+4) Traffic is heavy 교통량이 많다.
+5) get clearance from  the control tower (to  take off) 관제탑으로부터 이륙  허가를 받다. We 
+are cleared for take off from control tower.도 같은 표현.
+  휴게실
+영어에서 부정으로 물어보는 질문에 대한 Yes, No의 대답은  우리말 표현과는 반대라는 것을 귀
+에 못이 박히도록 배워왔다. Don't you  think so?라는 질문에 대한 대답은,  Yes, I do. (아니오, 
+그렇게 생각합니다.) No, I don't. (예, 그렇게 생각하지 않습니다.)의 예에서처럼. 비행기에서 커피
+를 마시고 났더니 승무원(flight attendant)이 한잔 더 하겠느냐고 물어보았다.
+승무원 : Would you like more coffee?
+Lee : No more, thank you. 여기까지는 좋았다.
+승무원 : No more?
+Lee : Yes.
+Yes라는 대답에  승무원이 coffee를  더 부어주고  갔음은 물론이다.  Yes라고 대답한  것은 No 
+more?라는 물음에 그렇다(That's  correct.)는 의미였지만, 당연히  승무원은 Yes, I'd  like more 
+coffee.의 뜻으로 받아들였을 것이다.  부정으로 물어보는 질문에 틀리지  않게 대답하는 요령 한 
+가지. Yes나 No로 대답하지 않고 물음에 동의하면 That's  correct. 그렇지 않으면 I don't think 
+so.로 하면 된다. 물론 항상 이 요령이 통하는 것은 아니지만 대부분의 경우에 실수를 피할 수 있
+다.
+  상황설명 8.2
+비행기가 순항고도 (cruising altitude)에 다다르면 기장(captain)의  인사말이 나오는데 대개는 아
+래와 같다. "Good  afternoon, ladies and  gentlemen. This is  your captain speaking.  Welcome 
+aboard United Airline UA123 bound  for New York, JFK.  We have departed L.A.  airport on 
+time and we are now cruising at an altitude of 30,000 feet with ground speed of 550 miles an 
+hour. The weather in New York is forecast to  be generally clear with the temperature of 70 
+degrees(Fahrenheit). Flight time to New York this afternoon will be  3 hours and 30 minutes. 
+Our expected time of arrival at JFK airport is  7 p.m. local time. Beverage service will begin 
+soon. Now, sit back and relax, and enjoy your flight ! Thank you."
+  Dialogue 8.2
+Lee : What time is it in New York (local time)?
+Passenger : There's a 3  hours time difference between  L.A. and New York. Therefore,  it's 
+3:30 p.m. now in New York.
+Lee : Does it go ahead or behind?
+Passenger : The Eastern Standard Time goes ahead.
+Lee : Then, I'm sure I will have jet-lag.
+Passenger : Maybe, you'll have a hard time getting up early in the morning.
+  Tips 8.2
+1) ground speed 순항 속도. 원래 비행기의 속도에다 바람의  속도를 가감한 지상과의 상대 속도
+를 나타내므로 ground가 쓰인다. 예를 들어, 비행기의 속도가 시속 500마일이고 순풍(비행기의 진
+행과 같은 방향의 바람)의 속도가 시속 50마일이면,  ground speed는 500+50=550이 된다. 역풍이 
+50마일이면 450이 된다.
+2) 70 degrees Fahrenheit 화씨 70도. 섭씨 온도는 centigrade를 주로 쓰나, Celsius로도 쓴다.
+3) beverage 음료수의  총칭. 예를  들어 alcoholic beverage라  하면 맥주,  위스키, 포도주 등이 
+alcohol이 들어간 음료를 총칭한다.
+4) sit back relax. 뒤로 푹 기대어 편히 쉬다.
+5) local time 현지 시간.
+6) Eastern Standard Time 동부  표준시간. 미국 본토의 시간대(time  zone)는 Eastern Standard 
+Time, Central Time, Mountain Time과 Pacific Standard Time으로 나뉘어져  있다. 동부 시간이 
+서부 시간보다 3시간 빠르다. San Francisco는 Pacific Standard Time을 사용한다는  표현은 San 
+Francisco is on Pacific Standard Time.으로 한다.
+7) jet-lag 여행의 시차에 의한  피로. 이것을 극복하다는 표현은 recover  from jet-lag으로 하면 
+된다.
+8) have a hard time ~ ing. ~을 하는데 힘이 들다는 표현. ~ing자리에 to+원형으로 쓰지 않는다.
+  상황설명 8.3
+비행기가 이륙 후 순항고도에 다다르면 seat belt sign이 꺼지고 기내에서 이동이 가능해진다. 이
+때 자리를 바꾸고 싶으면 승무원에게  물어보면 된다. Seat belt sign이  꺼졌을 때의 안내방송은 
+대개 다음과 같다. "Ladies and gentlemen. The Captain has just turned the seat belt signs off. 
+However, for your safety we recommend you keep  your seat belt fastened whenever / while 
+you're seated. Thank you."
+  Dialogue 8.3
+Lee : Excuse me. Can I change my seat? I'd like to sit next to my friend over there.
+Cabin crew : Sure, you can.
+  Tips 8.3
+1) 자리를 바꿀 때 Can I change  my seat?로 하면 된다. 앞의 dialogue에서 두  문장을 합쳐 말
+면, Can I move next to my friend over there, please?로 할 수 있다.
+  상황설명 8.4
+식사는 대개 2~3가지 중 선택하도록  되어 있다. Steak의 겨우 restaurant과는  달리 익은 정도를 
+자기 취향에 맞게 선택할 수는 없다. First 및 business class에서는  course별로 serve가  되지만 
+economy class에서는 tray 하나에 전식, main dish, 후식이 모두 같이 나온다.
+  Dialogue 8.4 
+Cabin crew : Would you like a hot meal?
+Lee : Yes, please.
+Cabin crew : We have fish or steak. Which one would you like?
+Lee : (I'll have a) Steak, please. Can I have steak sauce, please?
+Cabin crew : Sure, I'll get you one right away. (Serving the plate)Enjoy your meal.
+Lee : Thank you.
+  Tips 8.4
+1) get you (something). (무엇을 ) 가져다준다는 의미. Can I have (something)?을 Can you get 
+me (something)?으로 표현할 수도 있다.
+2) right away. 즉시. immediately, momentarily로도 쓴다.
+3) 비행기 예약시 vegetarian meal(채식)을 미리 주문해 놓았을 경우는 Excuse me. I've  ordered 
+a vegetarian meal when I made a reservation.이라고 하면 된다.
+  휴게실
+사진이 실물보다 낫다. The picture does him justice. 반대로 실물보다 못한 경우는  The picture 
+doesn't do him justice. 여기서처럼 do justice는 '정당하게 평가를 하다'는 의미이다.
+  상황설명 8.5
+국내의 운항구간에서는 해당이 안 되지만  국제선의 경우는 면세품 판매가  있다. 이때의 대화를 
+생각해 보자.
+  Dialogue 8.5
+Cabin crew : (Would you like)Any duty-free items?
+Lee : Yes, I'd like a carton of Marlboro Light, please.
+Cabin crew : Here you are. Is that all?
+Lee : Yes. That's it. Can I charge it to my credit card?
+Cabin crew : Sure. We accept Visa, Master Card or American Express.
+Lee : Do you also accept Diners Card?
+Cabin crew : I'm afraid we don't. Sorry.
+Lee : I see, here's my Master Card.
+  Tips 8.5
+1) a carton 10개 짜리 box를 지칭한다. 담배 한 갑은 a pack of cigarettes.로 한다.
+2) 신용카드를 받다는 표현에서는 accept를 쓴다.
+  휴게실
+유학생 시절에 미국에서 들었던 얘기 하나. 유학생의 부인이 은행에 구좌를  열러 갔는데, 갑자기 
+구좌를 연다는 표현이 생각이 나질 않았다. 생각다 못 해 이 부인은 은행 직원한테 말하기를 
+부인 : I want to give you my money
+Banker : ?? Oh, really? Thank you very much.   하더라나? 물론, 그 은행 직원은 부인의 의도
+가 무엇인지 알아채고 농담으로 받아넘겼지만 이 경우에 올바른 표현은 이렇다. I'd like to  open 
+a checking / saving account, please.
+  상황설명 8.6
+식사와 면세품 판매가 끝나고 나면, 장거리 노선의 경우에는 영화상영이 있다. 이때의 안내방송은 
+다음과 같다. "Ladies and gentlemen.  We'll be commencing our  in-flight movie. The title  of 
+today's feature film is 'Sleepless in Seattle.' starring Tom Hanks. Please select channel 1 for 
+English, and channel 2 for Korean. Enjoy the movie, thank you."
+  Dialogue 8.6
+Lee : Excuse me. Can I have an eye shade, please?
+Cabin crew : Sure, I'll find one for you. You don't want to see the movie?
+Lee : No, I've already seen it before. I'd rather take a nap, I guess.
+Cabin crew : You've already seen it? Was it good?
+Lee : Yes, it was moving.
+  Tips 8.6
+1) today's feature film, feature라는 수식어를 넣어 특별히 선정한 영화라는 것을 표현하였다.
+2) commence the movie 영화상영을 시작하다. 명사형인 commencement는 시작이라는 의미도 있
+지만 졸업이라는 뜻도 있다.  졸업은 곧 새로운  시작이라는 개념이다. 졸업식은  commencement 
+ceremony.
+3) take a nap 잠깐  눈을 붙이다. 잠깐 졸다. have  a nap으로 써도 된다. 아주  잠깐 자는 잠은 
+cat-nap이라 한다. 
+4) it was moving. 그것은 감동적이었다는 의미이지 움직인다는 의미가 아니므로 주의.
+  상황설명 8.7
+기내에서 갑자기 멀미가  나서 도움을 청할  경우를 생각해 보자.  대개 좌석 옆에  승무원 호출 
+button이 있으므로 그것을 눌러 도움을 청한다.
+  Dialogue 8.7
+Lee : Excuse me. I feel nauseated. Can you help me?
+Cabin crew :  Sure. I'll get  you a  sick-bag and some  pills right away.  Please hold  on a 
+second. I'll be right back.
+Lee : Thanks.
+  Tips 8.7
+1) I feel nauseated. 토할 것 같다는 표현. I feel nausea.라고도 쓴다. 이 표현이 어렵다면 쉽게는 
+I feel throwing up.으로 써도 좋다. 한국 사람이 흔히 쓰는 overeat는 옳은 표현이 아니고 이단어
+의 원래 의미는 eat too much(과식하다)이다.
+2) sick-bag 멀미용 봉투
+3) hold on a second (아주)잠깐만  기다리라는 의미. 그 상태로 계속 있으라는  의미가 있으므로 
+on이 쓰였다. Hold on a minute.로 써도 된다.  
+  상황설명 8.8
+휴식을 취하거나 잠을 자기 위해 베개나 담요를 달라고 부탁할 때의 경우를 보자.
+  Dialogue 8.8
+Lee : Excuse me. Could I have a pillow and a blanket, please?
+Cabin crew : Certainly.
+Cabin crew : (Looking into an  overhead bin)Woops! They're all gone.  It's on a first-come- 
+first-served basis. Let me find them somewhere else for you. (Moments later) Here you are.
+Lee : Thanks a lot.
+Cabin crew : You're quite welcome.
+  Tips 8.8
+1) overhead bin / compartment 좌석 위의 짐 넣는 칸
+2) Woops! 이크! 아이구! 의 의미
+3) They're all gone. 모두 없어졌다. 사라져 버렸다는 뜻.
+4) First-come-first-served basis 먼저 온  사람이 먼저 대접받는 원칙. 즉  선착순이라는 뜻으로 
+쓰인다.
+  상황설명 8.9
+목적지에 거의  다다르면 안내  방송이 나온다.  대개의 내용은  아래와 같다.  "Good afternoon, 
+ladies and gentlemen.  We are  now 150  miles away  from JFK  airport and  we have  just 
+started our descent. Please make sure your seat  belt is securely fastened. From now on,  we 
+ask you to  stop using electronic  devices such  as CD players,  cellular phones and  lap-top 
+computers until we touch  down. And we'll  be closing our  in-flight entertainment program. 
+Flight attendants will  be by  to collect  earphones. We'll  be landing  in about  25 minutes. 
+Thank you." 또는 도착예정보다 빠르게 / 늦게 도착하는 경우에는 이에 대한 안내방송이 추가된
+다. "We expect to arrive at JFK international airport 20 minutes earlier / later than scheduled, 
+as we have a strong tail / head wind." 예정보다 늦게 도착하는 경우에 연결 편을 갈아타야 되
+면 미리 연결편의 탑승구를 알아둘 필요가 있다.
+  Dialogue 8.9
+Lee : Excuse me. I have a connection flight to catch at 8 p.m. It's Northwest  035 to Boston. 
+Do you know the gate number for this flight?
+Cabin crew : Sure. I can find that for you. (Pause)It's 19.
+Lee : Do I have enough time to catch that flight?
+Cabin crew : We'll, let's see. We'll be arriving at JFK around 7:30 p.m. at gate 15, and your 
+connecting flight departs from gate  39. I think you have  barely enough time to make  it, as 
+the gates aren't that close.
+Lee : What if I can't?
+Cabin crew : Our ground staff will help you find other flights.
+  Tips 8.9
+1) be by 옆으로 지나가다.
+2) 비행기가 착륙하고 나서 주기장으로 이동할  때의 안내방송은 대개 아래와 같다. "Ladies  and 
+gentlemen. Welcome to New York! Please, remain seated until we get  to the parking lot and 
+seat belt sign has been switched off. It's been  our pleasure serving you today, and we'll be 
+looking forward to seeing you again soon. Thank you for flying United Airlines, and we wish 
+you a pleasant stay here in  New York. And passengers those who  are continuing, we wish 
+you a nice trip to your final destination. Thank you, and have a nice day!"
+3) It's been our pleasure serving you 여기서는 반드시 serving으로 써야하며 to  serve로 못 쓴
+다.
+4) head / tail wind 비행기 진행 방향과 반대로 (같은 방향으로) 부는 바람 역풍/순풍.
+5) 연결편을 타다는 표현은 catch the connecting flight로 쓴다. 놓치다는 miss로 하면 된다.
+6) around 7:30 p.m. 여기서 around는 about의 의미이다.
+7) You have barely enough time to make it. 그것을 간신히 할 수 있는 시간이 없다. 즉, 여기서
+는 탈 수 없다는 의미이다. 같은 표현으로 You can scarcely / hardly make it.으로 할 수 있는데 
+여기서와 같이 scarcely나 hardly를 쓰면 부정의 의미가 되므로 주의해야 한다.
+8) What if~? 만약 ~되면 어떻게 되는가? 하는  질문으로 앞서도 설명한 바 있다. 회화에서 종종 
+쓰이는 표현으로 You need big ifs.가  있는데 큰 (여러 가지의) 가정을 해야  그것이 가능하다는 
+뜻으로 아래의 예문에서처럼 부정적인 의미로 쓰인다. This business could be a success, if you 
+have a favorable market situation,  and if you have  no competitors, and if  and if... Anyway 
+you need many big ifs!
+9) ground staff 지상 직원
+  휴게실
+한국 사람들은 Cola라고 일반적으로  표현하지만, 이것은 유럽에서나  통하고 미국에서는 통하지 
+않는다. 미국에서는 Coke(CocaCola)이나 Pepsi등 특정 상표명을 쓰기 때문이다. 여행할 때 승무원
+한테는, One cola, please.가 아니라 One  Coke/Pepsi, please.라고 해야 알아듣는다. 우리는 Coke 
+이건 Pepsi건 그저  콜라로 통칭하는데, 미국  친구들은 구분해 말하기  때문에 Do  you have a 
+Coke?하고 물었을 때, No, I don't. But I do have a Pepsi.와 같은 미국 승무원의 대답은 지극히 
+당연한 것이다. 우리는 속으로 '둘 다  같은 콜란데 따지기는 뭘 따져?' 하겠지만  말이다. 황당한 
+것은, 이렇게 몇 번의 시행 착오 끝에 Coke이라고  표현하는데 어느 정도 익숙해진 다음, 한국으
+로 돌아오는(국적기) 비행편에서 Coke달라고 하면 "아, 콜라 드릴까요?"라고 되묻는다. (요즈음엔 
+안 그렇지만...).
+  Drill 8
+1) ( ) something to drink?
+Would you like
+May I offer you
+2) ( ) ( ), please?
+Could you get me  (some) more coffee
+Can / May I have  another cup of coffee
+                   Coke with ice
+                   Pepsi without ice
+3) We will arriving at JFK ( ) than scheduled, due to a strong ( ) wind.
+                          earlier                             tail
+                          later                               head
+4) I have ( ).
+a connecting flight to catch
+to catch a connecting flight to Boston
+  Review 8
+Cabin crew : May I offer you something to drink?
+Lee : Yes, an orange juice, please. 
+Cabin crew : With ice ?
+Lee : No, without ice, please.
+Cabin crew : Here you are, sir.
+Lee : Thank you.
+Cabin crew : Would you also like a hot meal? We have a fish, steak or chicken.
+Lee : Excuse me. But, I ordered a vegetarian meal when I made a reservation.
+Cabin crew : Oh, did  you? Let me check.  Your seat number is  ... 25A. Yeah, that's  right. 
+Sorry, I'll get your meal right away.
+Lee : Thank you.
+Moment later
+Lee : Excuse me. Could I have a blanket, please?
+Cabin crew : Sure. Let's see if I can find  it (for you) in the overhead compartment. Woops! 
+It's all gone. For a short flight like  this, we don't stock enough blankets for all  passengers. 
+It's on first-come-first-served basis. Anyway,  let me see if I  can find one. (Moment  later) 
+Here you are, sir. 
+Lee : Thank you.
+Cabin crew : You're welcome. Before  you take a nap, would  you like any duty-free items? 
+We have whiskeys, wines, cigarettes and to forth.
+Lee : No, thank you.

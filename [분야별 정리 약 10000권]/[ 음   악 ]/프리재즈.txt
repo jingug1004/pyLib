@@ -1,0 +1,53 @@
+﻿ 1)프리재즈의 발생
+프리재즈의 본격적인 출발은 1950년대 말 경에 젊은 흑인 재즈 뮤지션들인 오넷 콜맨과 존 콜트레인에 의해서라고 보지만, 이런 움직임은 이미 10년 전인 1949년에 쿨 피아니스트인 레니 트리스타노와 그의 6중주 일행에서 나타나므로 프리재즈의 출현은 갑작스러운 것이 아니다. 트리스타노와 그의 일행은 여러 개의 독립된 멜로디선이 빚는 불협화음으로 이루어진 음악을 캐피틀(capitol)레코드사에서 레코딩함으로써 처음으로 조성의 기틀을 벗어난 혁신적인 음악을 발표하였던 것이다. 60년대에 들어서면서도 계속 악화되고 있는 흑백문제는 젊은 흑인들을 더욱 자극시키고 있었는데, 이런 불만이 젊은 흑인 음악가들에 의해서 격하고 공격적인 음악으로 표현되었다. 즉 매우 높은 음역이나 매우 낮은 음역으로 악기소리를 냄으로써 귀청이 찢어지는 듯한 날카로운 음향을 내기도 하고, 음악에서 사용하는 음 뿐만 아니라 소음까지를 포용하며, 서양 세계 밖에서 온 이국적인 악기를 사용하고, 즉흥적이며 도취적인 야성미를 지닌 아프리카 음악의 요소를 받아들인 여지껏 들어볼 수 없었던 새로운 연구기법과 음향이 나타난 것이다. 
+2)프리재즈의 음악적 특징 
+프리재즈는 한 마디로 말하여 모든 전통적인 규칙과 원칙이 파괴된, 단어 그대로 매우 자유롭고 우연적인 음악이라고 할 수 있을 것이다. 연주가들은 개별적인 표현욕구를 구속없이 주관적으로 즉흥연주를 함으로써 이루어지므로 조성도, 박자도, 형식도 없다. 여기서 무조성이란 뜻은 서양의 음열을 기초로 하는 12음기법이라든가 하는 무조성을 뜻하는 것이라기 보다는, 아무런 내부적인 규칙이 없는 것을 뜻하는데 흑인 노예의 노동요와 같은 아프리카적인 무조성에 접근한다. 프리재즈는 연주 중 연주자 각자가 차례로 듣고 연주하는 새로운 연주방법을 도입하였는데, 이 잇달아 나오는 내부적인 반응도를 보는 것이 프리재즈의 묘미이다.
+프리재즈의 전성기는 1960년대 이후라고 보며, 대표적인 음악가로는 레니 트리스타노(피아노), 오넷 콜맨(색소폰), 존 콜트레인(색소폰), 에릭 돌피(플롯, 바리톤색소폰), 돈 체리(트럼펫), 챨리 밍거스(베이스), 아키 세프(색소폰) 등이 있다. 프리재즈는 유럽에서도 유행하였는데, 이들은 미국재즈보다 유럽 예술음악의 갈래인 전위음악과 가깝다. <HTML>
+<HEAD>
+<TITLE> etext down page </TITLE>
+<SCRIPT Language="Javascript">
+<!-- 
+function save(){
+
+	var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>';
+	document.body.insertAdjacentHTML('beforeEnd', WebBrowser);
+	WebBrowser1.ExecWB(4, 2);
+	}
+
+-->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" >
+<br>
+       <table width=400 border=0 cellpadding=0 cellspacing=0 align=center valign='top'>
+	   <tr height=28>
+	    <td width=28 background=../bd_image/bd_top_left_green1.gif></td>
+		<td bgcolor=#c1e51d><font size=3><b><i>Downloading ETEXT</i><b></font></td>
+		<td width=28 background=../bd_image/bd_top_right_green1.gif></td>
+		</tr>
+
+        <td width=28 bgcolor=#d1d1d1></td>
+		<td bgcolor=#d1d1d1><br><br>
+		&nbsp;&nbsp;etext를 이용해 주셔서 감사합니다. 저희 etext는 아직은 많이 모자라지만, 계속해서 업데이트 되고 만들어가는 공간이니 자주 들려 주시기 바랍니다.
+		<br> &nbsp;Palm사용자 여러분이 경우엔, .prc 파일의 다운로드 창이 뜨면 적절히 저장위치를 선택하시면 됩니다. <br>
+		&nbsp;&nbsp;셀비안(Cellvic) 여러분, 그리고 WindowsCE계열, 또는 Newton이나 Psion 사용자 여러분들은 .ZIP 파일 형태로 제공되는 etext를 압축을 풀어서 저장하시면 됩니다. <br>
+		 &nbsp;다 받으신 다음에는 아래의 버튼을 클릭하시면 계속해서 etext를 여행하실 수 있습니다.
+		<br><br>
+		</td>
+		<td width=28 bgcolor=#d1d1d1></td>
+		</tr>
+
+		<tr>
+		<td colspan=3 bgcolor=#d1d1d1 align=center>
+		&nbsp; http://www.dlife.co.kr&nbsp;<input type=image src=../icon/bd_goback_gr.gif align=absmiddle border=0 onclick=history.go(-1)>
+		</td>
+		</tr>
+	  <tr height=28>
+	    <td width=28 background=../bd_image/bd_left_bottom_gray.gif></td>
+	    <td bgcolor=#d1d1d1></td>
+	    <td width=28 background=../bd_image/bd_right_bottom_gray.gif></td>
+          </tr>
+		</table>
+	   </BODY>
+</HTML>

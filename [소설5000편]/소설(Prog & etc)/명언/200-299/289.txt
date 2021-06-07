@@ -1,0 +1,87 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 282</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">'사람은 기본적으로 착한가?</font>
+<font face="가을체">그렇다! 제한된 의미에서.</font>
+<font face="가을체">사람은 기본적으로 악한가?</font>
+<font face="가을체">그렇다! 넓은 의미에서.'</font>
+&nbsp;
+<font face="가을체">주위에서 지극히 무례하고 전투적인 사람들을 만난다.</font>
+<font face="가을체">기본적으로 사람은 다른 이에게 무관심하고 </font>
+<font face="가을체">친구보다는 적으로 인식하며 </font>
+<font face="가을체">예의로써 대하기 보다는 무례하게, 건방지게 대하는 듯 하다.</font>
+<font face="가을체">자신과 특별한 관계, 즉 같은 회사에 다닌다든지,</font>
+<font face="가을체">서로 또는 어느 한쪽이 좋아하는 사람이든지..., </font>
+<font face="가을체">에 있는 사람에게는 우호적이고 예의를 지키고, </font>
+<font face="가을체">어떤 때는 너무 심하게 까지, 공손하지만</font>
+<font face="가을체">일단 자신의 울타리를 벗어나면 </font>
+<font face="가을체">이러한 태도는 정반대로 변하게 된다.</font>
+&nbsp;
+<font face="가을체">따라서</font>
+&nbsp;
+<font face="가을체">'사람은 기본적으로는 자신에게는 착하고 </font>
+<font face="가을체"> 타인에게는 악하다'</font>
+&nbsp;
+<font face="가을체">그 악이 의식적이든 무의식적이든 </font>
+<font face="가을체">사실 어떻게 보면 의식적인 악보다 </font>
+<font face="가을체">무의식적인 악이 훨씬 많고 그 피해도 크리라</font>
+&nbsp;
+<font face="가을체">*오늘 나로 인해 우는 가슴이 하나 생겼다. </font>
+<font face="가을체">삼가라 그대의 날카로운 이빨을..</font>
+&nbsp;
+&nbsp;
+<font face="가을체">비가 오려나</font>
+<font face="가을체">회색빛 앙금이 바로 머리위에 가라 앉는다.</font>
+<font face="가을체">눈동자에 점점이 박힌 영혼이 뿌연 흔적을 남기고 </font>
+<font face="가을체">꼬리 짓 치고</font>
+<font face="가을체">몇마리 날벌레들이 이들을 따라 춤춘다</font>
+<font face="가을체">비가 오려나...</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="288.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="290.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

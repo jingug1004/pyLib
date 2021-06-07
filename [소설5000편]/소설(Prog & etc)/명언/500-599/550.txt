@@ -1,0 +1,90 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">류시화님의 질경이</font>
+&nbsp;
+&nbsp;
+<font face="가을체">그것은 갑자기 뿌리를 내렸다. 뽑아낼 시간도 없이</font>
+<font face="가을체">슬픔은 </font>
+<font face="가을체">질경이와도 같은 것</font>
+<font face="가을체">아무도 몰래 영토를 넓혀</font>
+<font face="가을체">다른 식물의 감정들까지 건드린다</font>
+&nbsp;
+<font face="가을체">어떤 사람은 질경이가</font>
+<font face="가을체">이기적이라고 말한다</font>
+<font face="가을체">서둘러 뽑아 버릴 수록 좋다고</font>
+<font face="가을체">그냥 내버려 두면 머지않아</font>
+<font face="가을체">길경이가 </font>
+<font face="가을체">인생의 정원을 망가 뜨린다고</font>
+&nbsp;
+<font face="가을체">그러나 아무도 질경이를 거부할 수는 없으리라</font>
+<font face="가을체">한때는 나는 삶에서 </font>
+<font face="가을체">슬픔에 의지한 적이 있었다</font>
+<font face="가을체">여름이 가장 힘들고 외로웠을 때</font>
+<font face="가을체">내곁에는 아무도 없었다. 오직</font>
+<font face="가을체">슬픔만이 있었을 뿐</font>
+&nbsp;
+<font face="가을체">질경이의 이마위로</font>
+<font face="가을체">여름의 태양이 지나간다</font>
+<font face="가을체">질경이는 내게 </font>
+<font face="가을체">단호한 눈빛으로 말한다</font>
+<font face="가을체">자기 자신으로 부터, 또 타인으로 부터</font>
+<font face="가을체">얼마만큼 거리를 두라고</font>
+&nbsp;
+<font face="가을체">얼마나 많은 시간을 나는</font>
+<font face="가을체">내안에서 방황했던가</font>
+<font face="가을체">8월의 해시계아래서 나는</font>
+<font face="가을체">나 자신을 껴안고 </font>
+<font face="가을체">질경이의 영토를 지나왔다</font>
+<font face="가을체">여름의 그토록 무덥고 긴 날에.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="548.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="551.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

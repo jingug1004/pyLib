@@ -1,0 +1,84 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 334</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green5.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">바람에겐 감정만이 있다</font>
+<font face="가을체">육신도 없는 바람은</font>
+<font face="가을체">마음속 감정에 따라</font>
+<font face="가을체">살랑거리기도 하고</font>
+<font face="가을체">울부짖기도 하고</font>
+<font face="가을체">몰아치기도 하고</font>
+<font face="가을체">도리질치기도 하고</font>
+<font face="가을체">바람에겐 감정만이 남아있다.</font>
+&nbsp;
+&nbsp;
+&nbsp;
+<font face="가을체">바다는 참 눈도 많지</font>
+<font face="가을체">반짝 반짝 빛나는 눈동자들</font>
+<font face="가을체">도시인은 처음 보았을까?</font>
+<font face="가을체">신기한 듯 쳐다보네</font>
+&nbsp;
+<font face="가을체">바다에는 참 주름도 많지</font>
+<font face="가을체">주름 하나 하나에 새겨있는 지혜</font>
+<font face="가을체">해신 포세이돈도 이들에게 배우지</font>
+&nbsp;
+<font face="가을체">바다의 정직, 바다의 율법</font>
+&nbsp;
+<font face="가을체">바다는 긴 칼을 들어 하늘을 나누네</font>
+<font face="가을체">하늘은 허리가 동강나 시뻘건 피가 줄줄</font>
+<font face="가을체">바다는 그것도 부족해</font>
+<font face="가을체">땅에 끊임없이 칼을 갈지</font>
+<font face="가을체">땅마져 동강내려고</font>
+&nbsp;
+<font face="가을체">누군가가 바다에선 비린내가 난다하네</font>
+<font face="가을체">하지만</font>
+<font face="가을체">비린내는 사람에게서 나는 것인걸 이제 아네.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="342.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../300-399.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 300-399"></a></td>
+<td align="left"><p><a href="344.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

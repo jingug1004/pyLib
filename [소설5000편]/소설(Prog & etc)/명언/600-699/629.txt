@@ -1,0 +1,84 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">세상 가득히 흰색 메뚜기떼로 뒤덮혀 있다.</font>
+&nbsp;
+<font face="개성체">가로등 아래로 </font>
+<font face="개성체">겨울의 혁명군들은 무리지어 </font>
+<font face="개성체">윙윙 날개짓하며 </font>
+<font face="개성체">서늘한 추위를 번득인다.</font>
+&nbsp;
+<font face="개성체">자동차위에도</font>
+<font face="개성체">나무가지위에도</font>
+<font face="개성체">지붕위에도</font>
+<font face="개성체">그리고</font>
+<font face="개성체">나의 </font>
+<font face="개성체">검은 기억위에도</font>
+<font face="개성체">붉은 마음위에도</font>
+<font face="개성체">수북히 쌓여서 세상의 진액을 빨아먹는다.</font>
+<font face="개성체">세상이 색을 잃어간다.</font>
+&nbsp;
+<font face="개성체">마침내 세상은 </font>
+<font face="개성체">각자의 색을 갉아 먹히고 </font>
+<font face="개성체">하얗게 탈색되어 하나의 색으로 점령된다.</font>
+<font face="개성체">비록 천국은 아닐지라도 사람이 사는 세상이라면</font>
+<font face="개성체">누구나 자신의 색을 가질 수 있어야 하며</font>
+<font face="개성체">또한 가져야만한다.</font>
+&nbsp;
+<font face="개성체">내딛는</font>
+<font face="개성체">발아래로 </font>
+<font face="개성체">몇마리의 메뚜기가 뿌드득 거리며 으깨어진다*</font>
+&nbsp;
+<font face="개성체">프람 미친바람</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="628.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="630.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

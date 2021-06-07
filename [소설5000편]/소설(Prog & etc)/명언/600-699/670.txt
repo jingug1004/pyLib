@@ -1,0 +1,81 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">점심을 먹고나서 오래동안 햇빛 아래 앉아있었다.</font>
+<font face="개성체">우울한 정신을 바스락 거릴 때까지 말렸지만</font>
+<font face="개성체">나는 </font>
+<font face="개성체">여전히 슬프다</font>
+<font face="개성체">오늘은.</font>
+&nbsp;
+<font face="개성체">오늘은 </font>
+<font face="개성체">이곳에 이건희 회장과 중국의 부주석이 온다고 한다.</font>
+<font face="개성체">어제부터 건물마다 사람들이 딱정이처럼 붙어서</font>
+<font face="개성체">하얗게 페인트질을 하였다.</font>
+<font face="개성체">아무리 페인트로 덧칠을 하여도</font>
+<font face="개성체">금이 간 건물이, </font>
+<font face="개성체">녹이 슨 철판이 처음과 같이 되지는 않겠지만</font>
+<font face="개성체">속은 썩어갈 망정 </font>
+<font face="개성체">어떠한가</font>
+<font face="개성체">어차피 오늘 하루만을 위해서 칠하는 </font>
+<font face="개성체">하루분의 색칠일 뿐인걸.</font>
+<font face="개성체">그래</font>
+<font face="개성체">정신이야 </font>
+<font face="개성체">곰팡이 냄새나며 썩어간들 어떠한가</font>
+<font face="개성체">어차피 한번인 인생인걸.</font>
+<font face="개성체">백년만년 돌에 새겨져 남는 것도 아니고</font>
+<font face="개성체">지나고 나면 먼지처럼 스러질 정신인 것을.</font>
+<font face="개성체">녹슨 정신일랑 덧칠하면서 살아가지 모.</font>
+&nbsp;
+<font face="개성체">프람 미친바람</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="669.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="671.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

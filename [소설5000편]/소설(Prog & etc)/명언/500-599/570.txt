@@ -1,0 +1,85 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="가을체">아침부터 나의 마음속에선 누군가가 노래를 부르고 있다.</font>
+<font face="가을체">딴따라라 따라라라 띠리리 띠리리 띤띠띠리~~~</font>
+<font face="가을체">마음이 우울한 날이면 이렇게 노래가 들리곤 했었지.</font>
+<font face="가을체">오늘 아침에는 오래만에 몸도 마음도 편안하다.</font>
+<font face="가을체">그동안 약간씩 쑤시던 몸도 말짱하게 나았고 피곤하던 마음도</font>
+<font face="가을체">잔잔한 호수처럼 일렁임 하나없이 편안하고 고요한 날이였다.</font>
+<font face="가을체">그러나</font>
+<font face="가을체">가끔씩 정신이 갈라지고 </font>
+<font face="가을체">살구빛 연한 속살같은 무의식이 보이기도 하고</font>
+<font face="가을체">또 가끔은 의식에 찔려서 피를 흘리기도 했다.</font>
+<font face="가을체">이럴때면 무의식의 반란이 두려워 진다.</font>
+&nbsp;
+<font face="가을체"> 롱코트의 깃을 세우고</font>
+<font face="가을체"> 흉한 나의 모습이 보이지 않게 꼭꼭 옷을 여민다</font>
+<font face="가을체"> 사람들은</font>
+<font face="가을체"> 검은 얼굴로 어딘가로 가고있다</font>
+&nbsp;
+<font face="가을체">사람들 사이에서 </font>
+<font face="가을체">나는 마치 누구에게도 보이지 않는 유령과도 같이 </font>
+<font face="가을체">어딘지 모르는 곳으로 그냥 걷는다, </font>
+<font face="가을체">세상은 그물과도, 털실 옷과도 같다고 한다.</font>
+<font face="가을체">그물의 한코가 뜯어지면 뜯어진 코에서 시작된 분열은 </font>
+<font face="가을체">그물전체를 망치게 된다.</font>
+<font face="가을체">어느날 갑자기 내가 세상에서 사라지게 되면 </font>
+<font face="가을체">나로부터 시작된 파멸은 </font>
+<font face="가을체">전 우주로 퍼지게 될 것인가?</font>
+<font face="가을체">나는 마치 유령처럼 세상을 걷고있다*</font>
+&nbsp;
+<font face="가을체">프람 미친바람</font>
+&nbsp;
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="569.htm"><img src="../../images/arro_38.gif" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="571.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

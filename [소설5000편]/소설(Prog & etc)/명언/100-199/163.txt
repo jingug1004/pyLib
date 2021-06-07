@@ -1,0 +1,78 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 161</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="233" height="286"><p>&nbsp;</td>
+<td width="235" height="286"><pre><font face="가을체">거의 두달만에 산에 가게 되었다</font>
+<font face="가을체">다리를 다친 이후로.</font>
+<font face="가을체">산을 보게 된다는 셀레임으로 가슴이 뛴다. 처음 데이트를 하는 이처럼.</font>
+<font face="가을체">하지만</font>
+<font face="가을체">내가 설레이는 것 이상으로 그도 설레이리라</font>
+<font face="가을체">사랑하는 이를 다시 볼 수 있다는 것 때문에.</font>
+<font face="가을체">나에게 충고 하기 위해 나를 아프게 했을 때 </font>
+<font face="가을체">그의 마음은 얼마나 아팠을까?</font>
+<font face="가을체">건방지고 삼갈 줄 모르는 나, 자신만 생각하는 나</font>
+<font face="가을체">그리고 양보 할 줄 모르는 나</font>
+<font face="가을체">이러한 나를 경계하기 위하여 나를 내칠 때 </font>
+<font face="가을체">그리고 그로인해 두달동안이나 나를 만나지 못하고 </font>
+<font face="가을체">먼발치에서 친구들이 구름편에, 바람편에 보내오는 소식만 들어야</font>
+<font face="가을체">했을 때 그는 얼마나 그리웠겠는가?</font>
+<font face="가을체">하지만</font>
+<font face="가을체">이제 곧 우리는 만나게 되리</font>
+<font face="가을체">지금 잘려간다 산을 향하여.</font>
+&nbsp;
+<font face="가을체">이렇듯 사랑이란 때론 날카로운 칼날 같은 것</font>
+<font face="가을체">썩은 것을 과감하게 도려낼 수 잇는 용기가 있어야 하는 법.</font>
+<font face="가을체">설사 그로 인해 그와의 사랑이 깨어지더라도, </font>
+<font face="가을체">그가 당신을 멀리 하게 되더라도</font>
+<font face="가을체">그의 썩은 곳을 도려내는 용기와 그로 인한 아픔은 견디어야 한다.</font>
+<font face="가을체">그래</font>
+<font face="가을체">도려내는 이의 아픔은 그의 아픔보다 두배, 세배의 아픔</font>
+<font face="가을체">또한 기쁨 역시 두배, 세배의 기쁨.</font></td>
+<td width="234" height="286"><font face="가을체">&nbsp;</font></pre></td>
+</tr></table>
+<pre><font face="가을체">&nbsp; </font></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="162.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="166.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

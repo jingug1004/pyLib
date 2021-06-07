@@ -1,0 +1,79 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 400-499</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/pink14.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">꿈을 꾸었지.</font>
+<font face="가을체">너와 내가 만났는데 사랑이 무럭무럭 자라서 하늘에 닿는 꿈이였어.</font>
+<font face="가을체">그러다가 따르릉 전화가 와서 깨었지.</font>
+<font face="가을체">기분 좋은 일일 것같아 수화기를 들었다가 실망으로 근방 내려 놓는다.</font>
+<font face="가을체">그러고는 다시 꿈.</font>
+<font face="가을체">그러나 이제는 깨어나도 기억을 못하는 이상한, 허망한 꿈들 뿐.</font>
+<font face="가을체">오늘이 동면을 시작한지 이틀째이다.</font>
+&nbsp;
+&nbsp;
+&nbsp;
+<font face="가을체">당신에게 나는 바람같을까?</font>
+<font face="가을체">어느날 홀연히 불어와서 </font>
+<font face="가을체">가슴속을 들락들락 불다가 다시 어느날</font>
+<font face="가을체">갑자기 사라질 것 같은 </font>
+<font face="가을체">그런 바람같을까?</font>
+<font face="가을체">가슴속에 붙잡아 두려해도</font>
+<font face="가을체">잡히지 않고</font>
+<font face="가을체">마음속에 닫아 가두면 이리저리</font>
+<font face="가을체">맴돌다가 죽어버릴 것 같은</font>
+<font face="가을체">그런 바람같을까?</font>
+<font face="가을체">그러나</font>
+<font face="가을체">난 당신의 혈관을 따라 흐르는 바람인걸.</font>
+<font face="가을체">피가 심장에서 나와 온몸을 돌아 다시 심장으로 가는한</font>
+<font face="가을체">당신의 생명을 나르는 바람인걸.</font>
+<font face="가을체">당신의 몸안에,</font>
+<font face="가을체">정신안에 쉬임없이 부는</font>
+<font face="가을체">바람인걸.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="430.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../400-499.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 400-499"></a></td>
+<td align="left"><p><a href="436.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

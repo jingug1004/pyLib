@@ -1,0 +1,83 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 400-499</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/pink14.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">왜 이제야 전화했니?</font>
+<font face="가을체">난 아침부터 네 전화를 기다렸는데</font>
+<font face="가을체">전화벨이 울릴 때마다 하는 일을 멈추고 </font>
+<font face="가을체">너의 전화이기를 바라는 걸 아니</font>
+<font face="가을체">우리팀의 박용대리가 </font>
+<font face="가을체">자기 스키 사러 가는데 같이 가자고 했을 때도</font>
+<font face="가을체">혹시나 집으로 전화할까봐 </font>
+<font face="가을체">집에 빨리 들어와 전화를 기다리는 걸 넌 아니</font>
+<font face="가을체">화장실에 있을 때 전화가 올까봐 조바심을 내는 날 넌 아니</font>
+<font face="가을체">하루에도 수십번 삐삐를 쳐다보는 날 넌 아니</font>
+<font face="가을체">전화가 오면 반가움으로 수화기를 들었다가 </font>
+<font face="가을체">실망으로 내려 놓는 걸 넌 아니</font>
+<font face="가을체">내가 널 얼마나 안고 싶은지</font>
+<font face="가을체">네 가슴에 머리를 묻고 잠들고 싶은지</font>
+<font face="가을체">얼마나 네 입술을 부비고 싶은지</font>
+<font face="가을체">얼마나 네가 보고싶은지 넌 아니</font>
+<font face="가을체">오늘은 한가지 꿈을 꾸었었다. </font>
+<font face="가을체">아니 널 만날 때부터 꾸었지만</font>
+<font face="가을체">오늘은 꼭 이루어 질 것만 같았지</font>
+<font face="가을체">내가 어디야 라고 했을때</font>
+<font face="가을체">'당신 집앞이야. 당신이 보고 싶어서 왔어. 곧 갈께</font>
+<font face="가을체">어디가지 말고 기다리고 있어야 돼</font>
+<font face="가을체">알았지? 꼭 기다려줘'</font>
+<font face="가을체">라고 말해 주기를</font>
+&nbsp;
+<font face="가을체">하지만 오늘도 꿈은 꿈일 뿐</font>
+<font face="가을체">나는 여전히 기다림중..</font>
+<font face="가을체">나의 심장을 꺼내서 뜨거운 피를 모두 쏟아 버리고 </font>
+<font face="가을체">호박빛 알콜로 가득 채운다</font>
+<font face="가을체">나는 아직도 완전하지 못한 어둠속에 갇혀있다.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="420.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../400-499.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 400-499"></a></td>
+<td align="left"><p><a href="427.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

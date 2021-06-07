@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 375</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green5.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">루이제린저의 '생의 한가운데'에서</font>
+&nbsp;
+<font face="가을체">우리가 처음 만났을 때 나는 당신이 나의 생과 떼어 놓을 수 없게</font>
+<font face="가을체">연결되어 있음을 알았읍니다. 당신은 나의 생에 새로운 용기를 주었</font>
+<font face="가을체">습니다. 당신은 내 본질에 있는 두꺼운 층을 용해 시켰읍니다</font>
+<font face="가을체">당신은 나에게 좋은 일을 베풀어 주었으면서도 그걸 모르고 계십니다</font>
+<font face="가을체">나는 당신이, 마치 공기가 인간에게 절대적으로 필요하듯이 필요합</font>
+<font face="가을체">니다. 당신을 찾기위해 방황하고 있습니다. 당신을 꼭 다시 만나</font>
+<font face="가을체">야 겠습니다. 내 생명은 당신에게 속해 있습니다.</font>
+&nbsp;
+&nbsp;
+<font face="가을체">정도상님의 소설</font>
+<font face="가을체">'그여자 전혜린' 중에서</font>
+&nbsp;
+&nbsp;
+<font face="가을체">사랑도 마찬가지다. 그것이 정신에 의해서</font>
+<font face="가을체">빛나게 된 것이 아니라면 무가치하다. 우리</font>
+<font face="가을체">가 뜨겁게 미칠듯이 사랑할 수 있는 것은 가장</font>
+<font face="가을체">순수한 의식의 상태에서 뿐이다. 그러나</font>
+<font face="가을체">그런 상태-순수한 사랑이란 이세상에서</font>
+<font face="가을체">는 순간으로 밖에 선사되어 있지 않다. 언제</font>
+<font face="가을체">나 거기에 어떤 다른 무엇이 섞인 혼합물, 때</font>
+<font face="가을체">로는 싸구려 혼합물, 심지어는 대용품만이</font>
+<font face="가을체">우리에게 주어진다.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="374.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../300-399.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 300-399"></a></td>
+<td align="left"><p><a href="379.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

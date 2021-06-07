@@ -1,0 +1,3283 @@
+﻿    한국어 1
+  한국어문화연수부편
+  발행처: 고려대학교 민족문화연구소
+  편집 겸 발행인: 김흥규
+  1986년 3월 초판, 1997년 6월 개정2판9쇄 발행
+
+    머리말
+  먼저 한국어를 공부하기 위하여 이 교재를 선택한 여러분에게 감사를 드린다. 
+  우리나라는 꾸준한 경제, 사회적 성장을 통하여 이제 세계사의 커다란 흐름의 중심에 굳건히 
+자리잡은 위대한 국가로 발전하고 있다. 아울러 이러한 시대적, 국제적 상황의 변화 속에서 
+한국어 역시 세계인의 주목을 받고 있으며, 국제어로서 한국어를 습득하기 위한 외국인의 관심
+은 
+날로 높아가고 있다. 
+  바로 이와 같은 역사적 흐름에 발맞추어 본 연구소는 지난 1986년 한국어문화연수부를 
+설립하여 외국인 및 우리말을 모르는 해외동포들에게 한국어를 교육하여 왔다. 본 연구소에서 
+실시하고 있는 한국어 교육은 단순히 어학능력의 배양과 향상만이 아니라 한국의 문화를 함께 
+이해하게 하는 데에 더 큰 목표를 두고 있다. 이는 이렇게 하는 것이 보다 높은 차원에서 
+한국어를 이해하는 바른길이 된다고 믿기 때문이기도 하다. 그리고 이를 통해 한국문화의 해외 
+확산 및 국제간 민간교류에도 커다란 기여를 하게 되리라고 생각하는 바이다. 
+  본 한국어 교재는 이와 같은 한국어 교육의 목표를 좀 더  효율적이고 충실히 달성하기 위하
+여 
+본 연구소 교수진의 열의와 정성이 뭉쳐져 이루어진 것이다. 본 연구소에서는 이미 1986년 
+[한국어 독본]을 편찬한 바 있고 그 사이  강의를 통하여 개선할 점을 부분 수정하여 활용했으
+며, 
+1988년 이를 전면 개정하여 [한국어 I]로 개편 ,활용하다가 이제 이를 토대로 다시 새롭게 
+개정판을 펴내게 되었다. 
+  특히 이 책은 그동안 현장에서 쌓은 다양한 교수경험과 선진 언어교육이론을 토대로 하에 
+이전의 부족한 점을 수정, 보완하였고 특히 생생한 상황 설정을 통하여 실생활에 가장 유용한 
+생활언어의 습득에 중점을 두어 편찬하였다. 따라서 한국어를 배우고자 하는 모든 분들에게 가
+장 
+효과적이고 보람 있는 교재라고 자부하는 바이다. 그러나 이 책에도 여러 가지 문제점이 있을 
+것으로 생각된다. 앞으로 발견되는 부족한 점은 계속  수정하고 보완하여 더 좋은 한국어 교재
+를 
+만들고자 하오니 독자 여러분의 많은 질정을 바란다. 
+  끝으로 이 책의 집필을 맡아 수고한 본 연구소의 김영아, 김정숙 연구원과 영어 풀이를 맡아
+준 
+강영 연구원, 그리고 그것을 감수한 Bob Fouler 교수, 일어 풀이를 해준 전전전자선생, 삽화를 
+그려준 이현주선생, 그리고 전반적인 감수를 정성스럽게  해주신 배희임 교수님과 교정과 제작
+에 
+참여한 관계자 여러분에게 깊은 감사의 뜻을 표한다. 
+  1991. 1. 고려대학교 민족문화연구소 소장 정재호
+    목차
+  제1과 한글 자모 1
+  제2과 자음 2
+  제3과 모음 7
+  제4과 받침 11
+  제5과 복습 I 14
+  제6과 친구가 옵니다 16
+  제7과 오늘 친구를 만납니까? 26
+  제8과 세 사람이 식당에 있습니다 37
+  제9과 나는 독일에서 왔습니다 49
+  제10과 복습 II 62
+  제11과 나는 어제 백화점에 갔습니다 68
+  제12과 저기 앨버트씨가 옵니다 85
+  제13과 한국어를 배우러 학교에 갑니다 102
+  제14과 늦어서 미안합니다 117
+  제15과 복습 III 128
+  제16과 피곤해서 늦잠을 잤습니다 136
+  제17과 꽃집에 가서 장미꽃을 샀습니다 150
+  제18과 나는 그림 그리는 것을 좋아합니다 162
+  제19과 서로 사랑하게 되었습니다 173
+  제20과 복습 IV 185
+  색인 191
+
+    일러두기
+  본 개정판은 한국어 교육과정에 있어 네 단계로 나뉘어져 있던 이전의 교과서를 여섯 단계로 
+세분하였다. 이 책은 그 중 첫 단계의 것으로 문형 및 문법사항의 체계적이고 다양한 활용을 
+보임으로써 효과적인 한국어 학습의 안내서가 되게 하였다. 
+  특히 [한국어 I]은 한국어를 습득하는 초보단계에서 필요한 내용을 종합적으로 수록하여 그 
+기초를 다질 수 있도록 하였다. 
+  이 책은 모두 20과로 되어 있고, 각과는 본문, 새단어, 기본문형, 연습문제, 새단어의 순서로 
+되어 있다. 
+  편찬에 있어 중점을 둔 바는 다음과 같다. 
+  #1 일상생활에서 많이 사용하는 문형과 기초어휘를 골라 이들을 사용빈도와 난이도에 따라 
+배열하였다. 
+  #2 학습자의 흥미를 유발시킬 수 있게 본문을 재미있게 만들고, 본문과 기본문형에 상황을 
+부여한 그림과 함께 회화체의 문장을 이용하였다. 그리하여 독본교재가 가지는 문법 설명 위주
+의 
+학습을 지양하고 기초단계에서의 회화력 배양에 도움을 주고자 하였다. 
+  #3 문형을 문법 설명과 아울러 단계적으로 제시하여 한국어를 구조적으로 이해하기 쉽게 
+만들었다. 
+  #4 각 과마다 중요한 문법사항을 영어와 일본어로 간명하게 설명해 학습자의 이해를 돕고, 
+문장 속에서 자연스럽게 습득할 수 있도록 하였다. 
+  #5 기본문형에서는 문법과 문형을 아우르면서 어법이나 표현을 다양하게 제시해 반복해서 
+연습할 수 있도록 하였다. 
+  #6 각 과의 학습이 끝난 후 연습문제를 통해 충분히 복습하고 확인할 수 있도록 하였다. 
+  #7 앞에서 배운 문법 사항과 어휘를 뒤에서 반복해 다룸으로써 학습자가 완전히 익힐 수 
+있도록 배려하였다. 
+  민족문화연구소 한국어 교재 편찬실
+
+ @p1
+    제1과 한글 자모
+  1. 모음(vowel)
+ 자형: ㅏ 음가: a 이름: 아
+ 자형: ㅑ 음가: ja 이름: 야
+ 자형: ㅓ 음가: 이름: 어
+ 자형: ㅕ 음가: 이름: 여
+ 자형: ㅗ 음가: o 이름: 오
+ 자형: ㅛ 음가: jo 이름: 요
+ 자형: ㅜ 음가: u 이름: 우
+ 자형: ㅠ 음가: ju 이름: 유
+ 자형: ㅡ 음가: 이름: 으
+ 자형: ㅣ 음가: I 이름: 이
+ @p2
+  2. 자음(consonant)
+ 자형: ㄱ 음가: k 이름: 기역
+ 자형: ㄴ 음가: n 이름: 니은
+ 자형: ㄷ 음가: t 이름: 디귿
+ 자형: ㄹ 음가: r/l 이름: 리을
+ 자형: ㅁ 음가: m 이름: 미음
+ 자형: ㅂ 음가: p 이름: 비읍
+ 자형: ㅅ 음가: s/t 이름: 시옷
+ 자형: ㅇ 음가: 이름: 이응
+ 자형: ㅈ 음가: c/t 이름: 지읒
+ 자형: ㅊ 음가: ch/t 이름: 치읓
+ 자형: ㅋ 음가: kh/t 이름: 키읔
+ 자형: ㅌ 음가: th/t 이름: 티읕
+ 자형: ㅍ 음가: ph/p 이름: 피읖
+ 자형: ㅎ 음가: h/t 이름: 히읗
+  Writing Order: All symbols of 한글 are written from top to bottom and from left to right.
+ @p3
+    연습
+  1. 한글 자모를 순서대로 말하고 써 보세요.
+ @p4
+    제 2과 자음(consonant)
+ ㄱ: 가수, 가로수, 거미, 구두, 아가, 야구
+ ㄴ: 나비, 너, 노루, 누나, 하나, 어머니
+ ㄷ: 다리, 도자기, 두부, 바다, 지도, 수도
+ ㄹ: 라디오, 우리, 머리, 소라, 기러기, 유리
+ ㅁ: 마루, 모자, 마디, 미소, 거미, 나무
+ ㅂ: 바구니, 보리, 비누, 아버지, 어부, 우비
+ ㅅ: 사자, 소나무, 수저, 나사, 도시, 모서리
+ ㅇ: 아이, 오리, 우유, 여자, 이마, 우비
+ ㅈ: 자유, 저고리, 주사, 지구, 기자, 바지
+ @p5
+ ㅊ: 차, 초, 치마, 마차, 기차, 고추
+ ㅋ: 카메라, 코, 키, 크다, 조카, 소쿠리 
+ ㅌ: 타자기, 투수, 투구, 도토리, 코트, 사투리
+ ㅍ: 파도, 포도, 피서, 모포, 도포, 모피
+ ㅎ: 하마, 호수, 허수아비, 휴지, 지하
+ ㄲ: 까치, 토끼, 미꾸라지, 꼬마, 코끼리
+ ㄸ: 따오기, 또아리, 사또, 오뚜기, 뜨다
+ ㅃ: 뻐꾸기, 아빠, 뼈, 뽀뽀, 뿌리
+ ㅆ: 싸리비, 싸우다, 쏘다, 아저씨, 쓰다
+ ㅉ: 짜다, 가짜, 쪼다, 찌다, 버찌
+ @p6
+    연습
+  1. 아래 단어를 읽어 보세요.
+  나무, 부자, 파리, 도시, 주머니, 야구, 거지, 모기, 투지, 두루미, 하루, 바가지, 자유, 고기, 파, 
+혀, 처마, 나라, 소, 터, 마부, 여기, 고려, 소리, 키다리
+  2. 선생님이 부르는 단어를 쓰세요.
+ @p7
+    제3과 모음(vowel)
+  단모음: ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ, ㅐ, ㅔ
+  이중모음: ㅑ, ㅕ, ㅛ, ㅠ, ㅒ, ㅖ, ㅘ, ㅙ, ㅚ, ㅝ, ㅞ, ㅟ, ㅢ
+  1. 단모음
+ ㅏ: 가게, 도자기, 개나리, 자리, 사다
+ ㅓ: 허리, 버스, 두더지, 아주머니, 대머리
+ ㅗ: 모래, 오리, 포도, 고래, 세모
+ ㅜ: 우주, 노루, 부모, 소나무, 배추
+ ㅡ: 흐르다, 나그네, 며느리, 모르다. 고프다
+ @p8
+ ㅣ: 비, 키, 지리, 아니오, 나이
+ ㅐ: 배, 개미, 무지개, 보조개, 새우
+ ㅔ: 게, 제주도, 메기, 제비, 가게
+  2. 이중모음
+ ㅑ: 야구, 시야, 주야, 야자
+ ㅕ: 여자, 벼, 소녀, 겨우
+ ㅛ: 요리, 요가, 묘비, 차표
+ ㅠ: 유리, 유자, 뉴스, 휴지
+ ㅒ: 얘, 얘기, 걔, 쟤
+ ㅖ: 예, 차례, 시계, 세계
+ ㅘ: 과자, 사과, 기와, 화가
+ ㅙ: 왜, 돼지, 홰, 쾌차
+ ㅚ: 외교, 교회, 구두쇠, 회사
+ ㅝ: 추워요, 더워요, 가벼워요, 무거워요
+ ㅞ: 궤, 궤도, 꿰매다. 웨이터
+ ㅟ: 위, 귀, 뒤, 쥐
+ ㅢ: 의사, 의자, 예의, 저희
+ @p13
+    Rule of Pronunciation
+  1. ㅐ, ㅔ
+  The distinction between ㅐ and ㅔ is being lost by the younger generation in standard 
+Korean speech.
+  2.ㅙ, ㅞ, ㅚ
+  As a result of loss of distinction between ㅐ and ㅔ, the three vowels ㅙ, ㅞ, and ㅚ are 
+not normally distinguished in standard Korean speech today.
+  3.ㅒ, ㅖ
+  In the case of ㅒ and ㅖ, the distinction between the two vowel is being lost by the 
+younger generation in standard Korean speech. And ㅖ can be pronounced as [ㅔ] after 
+consonant.
+  시계[시게/시계] 지폐[지페/지폐]
+  4. ㅢ
+  ㅢ is pronounced [ㅢ, ㅣ, ㅔ]
+  (1) [ㅢ]
+  When ㅢ is located at the beginning of a syllable, and there is no consonant before ㅢ, ㅢ 
+is always pronounced as [ㅢ].
+  의사[의사] 의자[의자]
+ @p10
+  (2) [ㅣ]
+  When ㅢ is not located at the beginning of a syllable, or when ㅢ is located at the 
+beginning of syllable after a consonant before ㅢ, ㅢ can be pronounced as [ㅣ]. 
+  회의[회이/회의) 회망 (히망/희망) 저희[저히/저희] 희생[히생/희생] 
+  (3) [ㅔ]
+  When ㅢ is used as possessive particle, ㅢ can be pronounced as [ㅔ]. 
+  우리의[우리에/우리의] 언니의[언니에/언니의] 
+    연습
+  1. 아래 단어를 읽어 보세요.
+  무지개, 소나무, 모래, 지휘, 여우, 제주도, 고프다, 두더지, 기와, 추워요, 의자,  예의, 오리, 우
+유, 
+돼지, 궤도, 귀
+  2. 선생님이 부르는 단어를 쓰세요.
+ @p11
+    제4과 받침
+ [-k]: ㄱ, ㅋ
+ [-n]: ㄴ
+ [-t]: ㄷ, ㅅ, ㅈ, ㅊ, ㅌ, ㅎ
+ [-l]: ㄹ
+ [-m]: ㅁ
+ [-p]: ㅂ, ㅍ
+ [-]: ㅇ
+  ㄱ, ㅋ: 악수, 책, 한국, 꼭대기, 부엌
+  ㄴ: 안개, 노인, 편지, 수건, 눈, 건물, 언니
+  ㄷ, ㅅ, ㅈ, ㅊ, ㅌ, ㅎ : 돋보기, 숟가락, 듣다, 옷, 다섯, 젓가락, 낮, 빚, 낯, 빛, 꽃, 밑, 끝, 
+보리밭, 히읗
+  ㄹ: 달, 가을, 딸기, 얼굴, 빨래, 벌레, 달리다. 올라가다
+ @p12
+  ㅁ: 밤, 섬, 봄, 담배, 잠, 마음, 음악
+  ㅂ, ㅍ: 밥, 직업, 입술, 수업, 잎, 숲, 앞, 옆
+  ㅇ: 강, 방, 공, 형, 송아지, 강아지, 동그라미
+  Rule of Pronunciation
+  There are 27 final consonants in the Korean language. Each of these consonants has its 
+sound value in the syllable initial position. When they are located in the syllable final 
+position, only several sounds are represented.
+  They are as follows: 
+ #1 Representative sound of final ㄱ, ㅋ, ㄲ is [ㄱ]
+ #2 Representative sound of final ㄴ is [ㄴ]
+ #3 Representative sound of final ㄷ, ㅅ, ㅈ , ㅊ, ㅌ, ㅎ ㅆ is [ㄷ]
+ #4 Representative sound of final ㄹ is [ㄹ]
+ #5 Representative sound of final ㅁ is [ㅁ]
+ #6 Representative sound of final ㅂ, ㅍ is [ㅂ]
+ #7 Final ㅇ sounds as [ㅇ]
+ @p13
+    연습
+  1. 아래 단어를 읽어 보세요.
+  안경, 웃다. 씻어요, 눈물, 악어, 달리다, 꽃다발, 병, 정말, 올라가다, 접시, 연습, 병원, 지갑, 
+수건, 신발, 책상, 강아지, 담쟁이, 잎사귀, 택시, 다섯 개
+ @p14
+    제 5과 복습 I
+  1. 다음 단어들을 읽어 보세요.
+ 1) 덥다-다방-방석-석굴암-암흑-흑장미-미술-술래
+ 2) 아가-가방-방송-송아지-지붕-붕괴-괴물-물건-건물
+ 3) 냉장고-고릴라-라디오-오빠-빠르다-다행-행복-복잡
+ 4) 앨범-범인-인사-사과-과수원-원숭이-이빨-빨래
+ 5) 쇠고기-기자-자신-신발-발견-견학-학생-생각
+ 6) 돋보기-기적-적성-성공-공책-책상-상추-추석
+ @p15
+  2. 다음 문장을 읽어 보세요.
+ 1) 하늘이 푸릅니다. 
+ 2) 꽃이 예쁩니다. 
+ 3) 달이 뜹니다. 
+ 4) 책상이 높습니다. 
+ 5) 차가 빨리 달립니다. 
+ 6) 키가 큽니다. 
+ 7) 토끼가 귀엽습니다. 
+ 8) 편지를 씁니다. 
+ 9) 풀밭에 불이 났습니다. 
+ 10) 기린은 키가 큽니다. 
+ 11) 토끼는 눈이 동그랗습니다. 
+ 12) 우리집 돼지는 등등합니다. 
+ 13) 빵을 많이 먹어서 배가 부릅니다. 
+ 14) 어제는 날씨가 발발했습니다. 
+ 15) 아침에 일찍 일어나서 방을 청소하고 빨래를 했습니다. 
+ @p16
+    제6과 친구가 옵니다. 
+  친구가 옵니다. 
+  기분이 좋습니다. 
+  음악을 듣습니다. 
+  텔레비전을 봅니다.  
+  친구를 만납니다. 
+  이야기를 합니다. 
+ @p17
+    새단어
+ 친구 friend
+ -이/가 subject particle
+ 오다 to come
+ -ㅂ니다/습니다 declarative sentence ending(다's Polite from)
+ 기분이 좋다 to feel good
+ 음악 music
+ -을/를 object particle
+ 듣다 to listen
+ 텔레비전 television
+ 보다 to look at, to see
+ 만나다 to meet
+ 이야기(를) 하다 to have a talk(with)
+    한국어의 구조(The structure of the Korean language)
+  Korean is a subject-object-verb(SOV) language while English is a 
+subject-verb-object(SVO) language. The most important element of the Korean sentence is 
+the verb. Its place, therefore, is at the end of the sentence.
+  Any part of the sentence, with the  exception (usually) of the verb, can be  omitted from 
+the 
+sentence whenever its meaning is already conveyed to the listener by the context or the 
+situation.
+  (나는)[S] 신문을[O] 봅니다.[V], I[S] read[V] a newspaper.[O]
+ @p18
+    기본문형
+  1. -ㅂ니다/습니다
+  In Korean honorific expressions, the predicate of a sentence has a different ending which 
+shows the relationship between the speaker and the listener . There are two representative 
+endings of honorific expressions. -습니다  Is used So, the polite  formal style and -아/어요 
+for 
+the polite informal style .
+  (1) The Polite Formal Style (-습니다 style) is used when the social status of the person 
+you are talking to is higher than yours or even when his status is equal to or lower than 
+yours, you should use this style in a formal situation.
+  (2) The Polite Informal  Style (-아요 style) is  used when you talk  informally to People 
+with 
+whom you feel close even though they are older than you and their social status is higher 
+than fours. This is most commonly used with parents, elder brothers and sisters, superiors, 
+and strangers after the initial phase of formality. Remember that this style is not less polite 
+than the polite formal style. This style also tends to be used more frequently by women 
+when meeting for the first time.
+  a) -ㅂ니다 comes after verb and adjective stems ending in a vowel.
+ 보(stem)다(ending) 보 + ㅂ니다 -> 봅니다
+  b) -습니다 comes after verb and adjective stems ending in a consonant.
+ 좋(stem)다(ending) 좋 + 습니다 -> 좋습니다
+ @p19
+  가다 -> 갑니다, 듣다 -> 듣습니다, 오다 -> 옵니다, 먹다 ->  먹습니다, 만나다 -> 만납니
+다, 
+입다 -> 입습니다, 예쁘다 -> 예쁩니다, 덥다 -> 덥습니다, 비싸다 -> 비쌉니다 많다 -> 
+많습니다
+  2. -이/가
+  -이/가 is the subject particle.
+  a) -이 comes after nouns ending in a consonant.
+  b) -가 comes after nouns ending in a vowel.
+ 기분이 좋습니다.(I feel good.) 
+ 옷이 비쌉니다.
+ 돈이 많습니다.
+ 날씨가 덥습니다.
+ 친구가 옵니다.
+  3. -을/를
+  -을/를 is the object particle.
+  a) -을 comes after nouns ending in a consonant.
+  b) -를 comes after nouns ending in a vowel.
+ 음악을 듣습니다. (I listen to the music) 
+ 옷을 입습니다. 
+ 밥을 먹습니다. 
+ 커피를 마십니다. 
+ 친구를 만납니다. 
+ 이야기를 합니다. 
+ @p20
+    연습
+  1. '보기'에서 알맞은 말을 골라 넣으세요.
+  (보기)-이, -가, -을, -를
+ #1 텔레비전 ( ) 봅니다. 
+ #2 기분 ( ) 좋습니다. 
+ #3 비 ( ) 옵니다
+ #4 음악 ( ) 듣습니다. 
+ #5 친구 ( ) 만납니다. 
+ #6 옷 ( ) 입습니다. 
+ #7 옷 ( ) 비쌉니다. 
+ #8 밥 ( ) 먹습니다. 
+  2, '보기'와 같이 하세요.
+  보기: 친구가 (옵니다.) -> 오다
+ #1 텔레비전을( ) -> 보다
+ #2 옷을 ( ) -> 입다
+ #3 꽃이 ( ) -> 예쁘다
+ #4 기분이 ( ) -> 좋다
+ #5 음악을 ( ) -> 듣다
+ #6 밥을 ( ) -> 먹다
+ @p21
+ #7 날씨가 ( ) -> 덥다
+ #8 친구를 ( ) -> 만나다
+  3. 그림을 보고 '보기'와 같이 하세요
+  보기: (친구를) 만납니다.
+ #1 ( ) 예쁩니다.
+ #2 ( ) 듣습니다.
+ #3 ( ) 비쌉니다.
+ #4 ( ) 합니다.
+ #5 ( ) 봅니다.
+ #6 ( ) 옵니다.
+ #7 ( ) 마십니다.
+ #8 ( ) 많습니다.
+ @p23
+  4. 그림을 보고 '보기'와 같이 하세요.
+  보기: 음악을 듣습니다.
+ #1
+ #2
+ #3
+ #4
+ #5
+ #6
+ #7
+ #8
+ @25
+    새단어
+ 가다 to go
+ 예쁘다 (be) pretty, (be) good-looking
+ 비싸다 (be) expensive
+ 먹다 to eat, to take
+ 입다 to put on, to wear
+ 덥다 (be) hot
+ 많다 (be) many, much
+ 옷 cloth
+ 돈 money
+ 날씨 weather
+ 나 I, me
+ 밥 a meal (breakfast, lunch, dinner) , boiled rice
+ 커피 coffee
+ 마시다 to drink
+ 사람 a person
+ 비가 오다 It rains.
+ 꽃 flower
+ 눈 snow
+ @p26
+    제7과 오늘 친구를 만납니까?
+  빵을 먹습니까 ?
+  네, 빵을 먹습니다. 
+  우유를 마십니까 ?
+  아니오, 안 마십니다.
+  오늘 친구를 만납니까?
+  네, 친구를 만납니다.
+  같이 무엇을 합니까?
+  영화를 봅니다. 
+ @p27
+    새단어
+ 오늘 today
+ -ㅂ니다 interrogative sentence ending
+ /습니까? (polite form)
+ 우유 milk
+ 네 yes
+ 아니오 no
+ 안 negative prefix for verb and adjective
+ 같이 together with
+ 무엇 what
+ 하다 to do (something)
+ 영화 a movie, a film
+    문법
+  1. -ㅂ니까/습니까 ?
+  The sentence ending -ㅂ니까/습니까 specifies the interrogative mood in the polite style of 
+address.
+  a) -ㅂ니까 comes after verb and adjective stems ending in a vowel.
+  마시(stem) + 다(ending) 마시 + ㅂ니까 -> 마십니까?
+  b) -습니까 comes after verb and adjective stems ending in a consonant.
+  먹(stem) + 다(ending) 먹 + 습니까 -> 먹습니까?
+  가다 -> 갑니까, 오다 -> 옵니까, 보다 -> 봅니까, 듣다 -> 듣습니까, 먹다 -> 먹습니까, 
+입다 -> 입습니까, 비싸다 -> 비쌉니까, 예쁘다 -> 예쁩니까, 나쁘다 -> 나쁩니까, 좋다 -> 
+좋습니까, 춥다 -> 춥습니까, 많다 -> 많습니까
+ @p28
+  2. 갑니다 -> 안 갑니다 (to go/do not go)
+  The word 안 is prefixed to verb and adjective stems to form their negative counterparts.
+  갑니다 -> 안 갑니다, 옵니다 -> 안 옵니다, 봅니다 -> 안  불러다, 비쌉니다 -> 안 비쌉니
+다, 
+예쁩니다 -> 안 예쁩니다, 나쁩니다 -> 안 나쁩니다, 듣습니다  -> 안 듣습니다, 먹습니다 -> 
+안 
+먹습니다, 입습니다 -> 안 입습니다, 좋습니다 -> 안 좋습니다, 춥습니다 -> 안 춥습니다, 
+많습니다 -> 안 많습니다.
+  3. 네/아니오 (Yes/No)
+  친구를 만납니까 ? (Do you meet your friend?)
+ -> 네, 만납니다. (Yes, I do.)
+ -> 아니오, 안 만납니다. (No, I don't.)
+  밥을 먹습니까 ?
+ -> 네, 먹습니다. 
+ -> 아니오, 안 먹습니다. 
+  텔레비전을 봅니까 ?
+ -> 네, 봅니다. 
+ -> 아니오, 안 봅니다. 
+  우유를 마십니까 ?
+ -> 네, 마십니다. 
+ -> 아니오, 안 마십니다. 
+ @p29
+  옷이 예쁩니까 ?
+ -> 네, 예쁩니다. 
+ -> 아니오, 안 예쁩니다. 
+  음악을 듣습니까?
+ -> 네, 듣습니다. 
+ -> 아니오, 안 듣습니다. 
+  날씨가 좋습니까 ?
+ -> 네, 좋습니다. 
+ -> 아니오, 안 좋습니다. 
+  사람이 많습니까 ?
+ -> 네, 많습니다. 
+ -> 아니오, 안 많습니다
+  4. 무엇을 -ㅂ니까/습니까 ? (What are you (do)ing ?)
+  무엇을 합니까 ? (What are you doing ?)
+ -> 공부를 합니다. (I am studying)
+ -> 라디오를 듣습니다. 
+ -> 책을 봅니다. 
+ -> 전화를 합니다. 
+ -> 빵을 먹습니다. 
+  무엇을 듣습니까? 음악을 듣습니다
+  무엇을 봅니까? 책을 봅니다. 
+  무엇을 삽니까? 우유를 삽니다. 
+  무엇을 마십니까? 커피를 마십니다. 
+  무엇을 먹습니까? 빵을 먹습니다. 
+  무엇을 좋아합니까? 고양이를 좋아합니다. 
+ @p30
+    연습
+  1. '보기'와 같이 고치세요.
+  (보기) 비, 오다 -> 비가 옵니까?
+ 1) 책, 사다 ->  
+ 2) 사람, 많다 ->  
+ 3) 텔레비전, 보다 ->  
+ 4) 날씨, 좋다 ->  
+ 5) 꽃, 예쁘다 ->  
+ 6) 빵, 먹다 ->  
+ 7) 음악, 듣다 ->  
+ 8) 우유, 마시다 ->  
+  2. '보기'와 같이 하세요.
+  (보기) 빵/네/우유/아니오
+  빵을 먹습니까? 네, 빵을 먹습니다. 
+  우유를 마십니까? 아니오, 안 마십니다. 
+ 1) 밥/네/물/아니오
+ 2) 사과/네/쥬스/아니오
+ 3) 과자/네/우유/아니오
+ 4) 아이스크림/네/콜라/아니오
+ 5) 라면/네/술/아니오
+ @p31
+  3. '보기'와 같이 하세요.
+  (보기) 친구/영화, 보다
+  친구를 만납니까? 네, 친구를 만납니다. 
+  같이 무엇을 합니까? 영화를 봅니다. 
+ 1) 선생님/공부, 하다
+ 2) 어머니/옷, 사다
+ 3) 동생/테니스, 치다
+ 4) 형/술, 마시다
+ 5) 언니/쇼핑, 하다
+  4. '보기'와 같이 하세요.
+  (보기) 빵/네 /우유 /아니오/친구/영화, 보다
+  빵을 먹습니까 ? 네, 빵을 먹습니다. 
+  우유를 마십니까 ? 아니오, 안 마십니다. 
+  오늘 .친구를 만납니까 ? 네, 만납니다. 
+  같이 무엇을 합니까? 영화를 봅니다. 
+ @p32
+ 1) 사과/네/쥬스/아니오/선생님/공부, 하다
+ 2) 과자/네/우유/아니오/어머니/옷, 사다
+ 3) 아이스크림/네/콜라/아니오/언니/쇼핑, 하다
+  5. 그림을 보고 대답하세요.
+  (보기) 옷을 입습니까? 네, 옷을 입습니다. 
+ 1) 영화를 봅니까?
+ 2) 비가 옵니까?
+ 3) 음악을 듣습니까?
+ @p33
+ 4) 사과를 삽니까?
+ 5) 날씨가 춥습니까?
+ 6) 돈이 없습니까?
+ 7) 기분이 나쁩니까?
+ 8) 밥을 먹습니까?
+ @p34
+  6. 그림을 보고 대답하세요.
+  (보기) 무엇을 합니까? 텔레비전을 봅니다.
+ 1) 무엇을 합니까?
+ 2) 무엇을 합니까?
+ 3) 무엇을 합니까?
+ @p35
+ 4) 무엇을 합니까 ?
+ 5) 무엇을 합니까 ?
+ 6) 무엇을 합니까 ?
+ 7) 무엇을 합니까 ?
+ 8) 무엇을 합니까 ?
+ @p36
+    새단어
+ 나쁘다 (be) bad
+ 공부(를) 하다 to study
+ 책 book
+ 전화(를)하다 to make a phone call
+ 사다 to buy
+ 물 water
+ 사과 apple
+ 쥬스 juice
+ 과자 sweets, cookies
+ 아이스크림 ice cream
+ 콜라 coca-cola
+ 라면 instant noodles
+ 술 alcoholic drink
+ 선생님 teacher
+ 어머니 mother
+ 동생 younger brother(sister)
+ 테니스(를) 치다 to play tennis
+ 언니 a woman's elder sister
+ 쇼핑(을) 하다 to do one's shopping
+ 없다 to not have, do not exist
+ @p37
+    제8과 세 사람이 식당에 있습니다
+  세 사람이 식당에 있습니다. 
+  남자 한 명과 여자 두 명이 있습니다. 
+  식탁 위에 밥이 세 그릇 있습니다. 
+  반찬도 많이 있습니다. 
+  과일도 있습니다. 
+  그런데 무엇이 없습니까?
+  수저가 없습니다. 
+ @p38
+    새단어
+ 세 three
+ 식당 a restaurant
+ -에 at (locative particle)
+ -에 있다 someone or something is located in a certain place
+ 남자 man
+ 한 one
+ 명 person (number classifier)
+ -와/과 and (conjunctive particle)
+ 여자 woman
+ 두 two
+ 있다 to exist, to have
+ 식탁 dining table
+ 위 above, over
+ 그릇 bowl
+ 반찬 side dish(served with rice)
+ -도 too, also (additive particle)
+ 많이 much, many
+ 과일 fruit
+ 그런데 by the way
+ 수저 spoon and chopsticks
+    기본문형
+  1. -에 있다/없다
+  -에 is the locative particle added to nouns. One of its functions is to specify location in 
+space.
+ @p39
+  The English translation of locative -에 may be "in", "on", "at", or " to" appropriate in the 
+context.
+  The existence verbs  있다 and  없다 coming  after a  locative expression  means "to  be 
+located 
+or to be present" and  "not to be located or  be present". The expression  -에 없다 is also 
+used 
+for the of "to be lacking".
+  교실에 학생이 있습니다. (There are students in the classroom.)
+  교실에 선생님이 없습니다. 
+  방에 책상이 있습니다. 
+  방에 의자가 없습니다. 
+  가방에 책이 있습니다. 
+  가방에 노트가 없습니다. 
+  집에 개가 있습니다. 
+  집에 고양이가 없습니다. 
+  2. -와/과
+  -와/과 "and" is a conjunctive particle. It occurs between nouns to connect them.
+  a) -와 comes after nouns ending in a vowel, 
+  b) -과 comes after nouns ending in a consonant
+ 우유와 빵 (milk and bread)
+ 개와 고양이
+ 엄마와 아기
+ 책과 노트
+ 눈과 비
+ 손과 발
+ @p40
+  3. 수(Cardinal Numbers)
+  There are two sets of cardinal numbers, i.e., the native Korean numbers and the 
+Sino-Korean numbers(e.g. numbers of Chinese origin).
+  We use these differently in accordance with the kind of number classifier which 
+follows. (예: 일 월 이십 일, 한 시 오 분)
+  1 일 하나 한(개)
+  2 이 둘 두
+  3 삼 셋 세
+  4 사 넷 네
+  5 오 다섯 다섯
+  6 육(륙) 여섯 여섯
+  7 칠 일곱 일곱
+  8 팔 여덟 여덟
+  9 구 아홉 아홉
+  10 십 열 열
+  11 십일 열하나 열한(개)
+  12 십이 열둘 열두
+  13 십삼 열셋 열세
+  14 십사 열넷 열네
+  15 십오 열다섯 열다섯
+  20 이십 스물 스무(개)
+  30 삼십 서른 서른
+  40 사십 마흔 마흔
+  50 오십 쉰 쉰
+  60 육십 예순 예순
+  70 칠십 일흔 일흔
+  80 팔십 여든 여든
+  90 구십 아흔 아흔
+ @p41
+  4. 수량명사(Numeral Classifiers)
+  Nouns are counted in construction with one of a group of special words called numeral 
+classifiers (of numerical counters). Nouns are classified into categories, and each of these 
+categories is represented by a special word--these are the numeral classifiers.
+  Some of the more commonly used numeral classifiers are: 
+  명, 사람 human being, person 
+  개 inanimate object, thing 
+  마리 animal, bird, insect, fish 
+  권 volume (of books) 
+  그릇 bowl 
+  잔 glass, cup 
+  학생 일곱 명 -> 학생이 일곱 명 있습니다. There are seven students.
+  사과 두 개 -> 사과를 두 개 먹습니다. 
+  고양이 네 마리 -> 고양이가 네 마리 있습니다. 
+  책 다섯 권 -> 책을 다섯 권 삽니다. 
+  밥 세 그릇 -> 밥이 세 그릇 있습니다. 
+  커피 한 잔 -> 커피를 한 잔 마십니다. 
+  5. 위치 (location)
+  위 on, above, over 
+  아래. 밑 under 
+  앞 front 
+  뒤 back 
+ @p42
+  옆 next, by, beside
+  오른쪽 right side
+  왼쪽 left side
+  안, 속 in, inside
+  밖, 겉 outside
+  6. -도 (also, too)
+  개를 좋아합니다. 고양이도 좋아합니다. I like dogs. I also like cats.
+  커피가 있습니다. 콜라도 있습니다. 
+  아기가 잡니다. 고양이도 잡니다. 
+  눈이 예쁩니다. 코도 예쁩니다. 
+  빵을 삽니다. 우유도 삽니다. 
+  7. 그런데 (by the way)
+  밥과 반찬이 있습니다. 그런데 무엇이 없습니까?
+ -> There are boiled rice and side dishes. By the way, what is not here?
+  책상 위에 책과 노트가 있습니다. 그런데 볼펜이 없습니다. 
+  내 동생은 예쁩니다. 그런데 키가 좀 작습니다. 
+  비가 옵니다. 그런데 우산이 없습니다. 
+ @p43
+    연습
+  1. '보기'와 같이 하세요.
+  (보기) 교실/학생/있다 -> 교실에 학생이 있습니다. 
+ 1) 교실/선생님/없다
+ 2) 가방/책/있다
+ 3) 가방 /공책/없다
+ 4) 집/개/없다
+ 5) 집/고양이/있다
+ 6) 방/책상/있다
+ 7) 방/의자/없다
+  2. '보기'와 같이 하세요.
+  (보기) 우유, 빵/먹다 -> 우유와 빵을 먹습니다. 
+ 1) 선생님, 학생 오다 ->
+ @p44
+ 2) 책, 노트/사다 ->
+ 3) 개, 고양이/있다 ->
+ 4) 콜라, 쥬스/마시다 ->
+ 5) 배, 사과/먹다 ->
+  3. '보기'에서 알맞은 말을 고르세요,
+  (보기) 명(사람), 개, 마리, 권, 그릇, 잔
+ 1) 의자가 네 ( ) 있습니다. 
+ 2) 고양이가 세 ( ) 있습니다. 
+ 3) 밥을 한 ( ) 먹습니다. 
+ 4) 우유를 두 ( ) 마십니다. 
+ 5) 책을 다섯 ( ) 삽니다. 
+ 6) 여자가 여섯 ( )있습니다. 
+  4. '보기'와 같이 하세요.
+  (보기) 책이 몇 권 있습니까? (2) -> 두 권 있습니다. 
+ 1) 고양이가 몇 마리 있습니까? (4) ->
+ 2) 사과를 몇 개 먹습니까? (3) ->
+ 3) 맥주를 몇 잔 마십니까? (5) ->
+ 4) 라면을 몇 그릇 먹습니까? (1) ->
+ @p45
+ 5) 친구를 몇 명 만납니까? (2) ->
+ 6) 노트를 몇 권 삽니까? (15) ->
+ 7) 버스정류장에 몇 사람 있습니까? (13) ->
+ 8) 사탕을 몇 개 삽니까? (20) ->
+  5. 그림을 보고 빈칸을 채우세요.
+ 교문 ( ) 가게가 많습니다.
+ 사진관도 있습니다. 
+ 사진관 ( ) 서점과 문방구가 있습니다.
+ 사진관 오른쪽에 ( )이 있고, ( ) 문방구가 있습니다. 
+ 사진관 위에도 ( )이 있고, ( )에도 있습니다.
+ 근처에 식당도 많이 있습니다. 
+ 우리 하숙집은 이발소 ( )에 있습니다.
+ @p46
+  6. 보기의 그림을 알맞은 곳에 그려 넣으세요.
+ 의자 밑에 구두가 있습니다. 
+ 텔레비전 위에 담배가 있습니다. 
+ 탁자 위에 전화가 있습니다. 
+ 소파 뒤 책장 옆에 우산이 있습니다. 
+ 방 가운데 고양이가 있습니다. 
+ 책장 앞에 가방이 있습니다. 
+ 텔레비전 옆 탁자 앞에 책이 있습니다. 
+ 탁자 아래 안경이 있습니다. 
+ @p47
+  7 '보기'와 같이 하세요
+  (보기) 커피와 콜라가 있습니다. -> 커피가 있습니다. 콜라도 있습니다. 
+ 커피가 있습니다. 콜라가 있습니다. -> 커피와 콜라가 있습니다. 
+ 1) 아기와 고양이가 잡니다. ->
+ 2) 눈과 코가 예쁩니다. ->
+ 3) 빵과 우유를 삽니다. ->
+ 4) 개와 고양이를 좋아합니다 ->
+ 5) 손과 발을 씻습니다. ->
+ 6) 사과를 먹습니다. 배를 먹습니다. ->
+ 7) 선생님을 만납니다. 친구를 만납니다. ->
+ 8) 언니가 방에 있습니다. 동생이 방에 있습니다. ->
+    새단어
+ 교실 classroom
+ 학생 student
+ 방 room
+ @p48
+ 책상 desk
+ 의자 chair
+ 가방 bag, purse, suitcase
+ 노트 notebook
+ 개 dog
+ 고양이 cat
+ 볼펜 ballpoint pen
+ 코 nose
+ 키가 작다 to be short in stature
+ 좀 a little, rather
+ 우산 umbrella
+ 배 pear
+ 맥주 beer
+ 버스정류장 bus stop
+ 사탕 candy
+ 교문 school gate
+ 가게 shop
+ 서점 bookstore
+ 문방구 stationery shop
+ 근처 surroundings
+ 우리 we, our
+ 하숙집 boarding house
+ 이발소 barber shop
+ 구두 shoes
+ 담배 cigarettes
+ 탁자 table
+ 전화 telephone
+ 소파 sofa
+ 책장 bookshelf
+ 안경 glasses
+ 좋아하다 to like, to have a liking for
+ @p49
+    제9과 나는 독일에서 왔습니다
+  안녕하세요.
+  나는 토마스입니다. 
+  독일에서 왔습니다. 
+  나의 고향은 함부르크입니다. 
+  나이는 스물일곱 살입니다. 
+  가족은 모두 몇 명입니까?
+  우리 가족은 어머니, 아버지, 형, 나, 여동생
+  모두 다섯 명입니다. 
+  모두 함부르크에 있습니까?
+  아니오. 내 동생은 지금 나와 같이 한국에
+  있습니다. 
+ @p50
+    새단어
+ 안녕하세요 How are you?
+ -은/는 topic particle
+ -이다 to be (copula)
+ 독일 Germany 
+ -에서 from
+ -았습니다/었습 the past form of declarative
+ 니다/였습니다 sentence ending -ㅂ니다/습니다
+ -의 possessive particle
+ 고향 one's native place, hometown
+ 함부르크 Hamburg
+ 나이 age
+ 살 age (classifier)
+ 가족 family
+ 모두 all, everybody, everything
+ 몇 how many
+ 아버지 father
+ 여동생 younger sister
+ 지금 now
+ -와/과 같이 with someone
+ 한국 Korea
+    기본문형 
+  1. Noun + 입니다/입니까?
+  -이 다 is a copula, implying 'to be', that identifies the predicate of a sentence with the 
+subject. It functions as the connecting  link between the subject and  the other elements in 
+the 
+sentence. We use -이다 when  we tell what a person or what a thing is,
+ @p51
+  내 동생은 학생이다. My younger brother is a student.
+  이것은 아버지의 책이다. This is my father's book.
+  In case, -이다 comes after a noun ending in a vowel, the -이 is usually dropped .
+  -입니다 is the polite formal declarative form of 이다. 
+  -입니까 is the polite formal interrogative form of 이다. 
+  이(stem): 다(ending) 이 + ㅂ니다 -> 입니다, 이 + ㅂ니까 -> 입니까
+  학생 -> 학생입니다, 학생입니까?
+  한국 사람 -> 한국 사람입니다, 한국 사람입니까?
+  스물일곱 살 -> 스물일곱 살입니다, 스물일곱 살입니까?
+  서울 -> 서울입니다, -> 서울입니까?
+  커피 -> 커피입니다, -> 커피입니까?
+  어머니 -> 어머니입니다, 어머니입니까?
+  친구 -> 친구입니다, 친구입니까?
+  버스정류장 -> 버스정류장입니다, -> 버스정류장입니까?
+ @p52
+  2. -은/는 
+  -은/는 is a topic particle which is mainly attached to a subject noun or a pronoun. In 
+building Korean sentences, the subject sometimes comes in front of  everything else, almost 
+as 
+if it had structurally no relation ship with the rest of the sentence. In those cases, the 
+particle -은/ 는 is usually added to the topic.
+  a) -은 after nouns ending in a consonant.
+  b) -는 after nouns ending in a vowel.
+  오늘은 월요일입니다. Today is Monday.
+ 동생은 미국에 있습니다. 
+ 형은 음악을 듣습니다. 
+ 선생님은 전화를 합니다. 
+ 나는 독일 사람입니다. 
+ 나는 스물 일곱 살입니다. 
+ 우리는 학생입니다. 
+ 함부르크는 독일에 있습니다. 
+  3. -았습니다/었습니다/였습니다 
+  -았습니다/었습니다 /였습니다 is the  past form of  a verb or an   adjective + ㅂ/습니다. 
+The 
+past tense infix -았/었/였- indicates some  facts which took place in the past.
+  (1) -았습니다 is used when the preceding vowel is 아, 오 When there is no intermediate 
+consonant, a contraction may be formed  between 아 or 오 and -았-.
+  가(verb stem) 가았습니다(past tense) 갔습니다(contraction)
+ @p53
+  (2) -었습니다 is used when  the preceding vowel is 어,  우, 으, 이...(all vowel except  아, 
+오). 
+Contraction formed in the absence of  intermediate consonant is also shown in the example 
+.
+  서(verb stem) 서었습니다(past tense) 섰습니다(contraction)
+  (3) -였습니다 is always preceded by the verb 하다. 하였습니다 is usually contracted to 
+했습니다. 
+ 공부하(verb setm) 공부하였습니다(past tense) 공부했습니다(contraction)
+  갑니다 -> 갔습니다 
+  옵니다 -> 왔습니다
+  봅니다 -> 보았습니다
+  앉습니다 -> 앉았습니다
+  좋습니다 -> 좋았습니다
+  높습니다 -> 높았습니다 
+  먹습니다 -> 먹었습니다
+  마십니다 -> 마셨습니다
+  웃습니다 -> 웃었습니다
+  재미있습니다 -> 재미있었습니다
+  없습니다 -> 없었습니다
+  맛있습니다 -> 맛있었습니다
+  합니다 -> 했습니다
+  공부합니다 -> 공부했습니다
+  전화합니다 -> 전화했습니다
+  청소합니다 -> 청소했습니다
+  깨끗합니다 -> 깨끗했습니다
+  조용합니다 -> 조용했습니다
+ @p54
+  4. -에서 
+  The locative particle -에서 is added to nominals of place and indicates a starting point of 
+movement .
+ 앨버트씨는 어디에서 왔습니까? Where does Albert come from?
+ 앨버트씨는 미국에서 왔습니다. 
+ 미국에서 편지가 왔습니다. 
+ 부산에서 전화가 왔습니다. 
+  5. -의
+  -의 is a possessive particle. It is attached to a noun or pronoun and  it indicates that 
+whatever follows is a possession of that noun or pronoun . In ordinary usage, the Particle 
+-의 can  be  pronounced as  [e]  in  standard  speech,  나의 (my)  and  너의 (your)  are 
+frequently 
+contracted to 내 and 네.
+ 어머니의 시계는 예쁩니다. Mother's watch is pretty.
+ 언니의 가방은 작습니다. 
+ 나의 책이 가방 안에 있습니다. 
+ 내 안경이 책상 위에 있습니다. 
+ 오늘은 동생의 생일입니다. 
+ 아버지의 구두는 큽니다. 
+ @p55
+  8. 가족 (family)
+  할아버지 (grandfather)-할머니 (grandmother) 
+  외할아버지 (maternal grandfather)-외할머니 (maternal grandmother) 
+  아버지 (father)-어머니 (mother) 
+  형 (오빠)-elder brother
+  누나 (언니)-elder sister
+  나-boy (girl)
+  남동생-younger brother
+  여동생-younger sister
+    연습
+  1. '보기'와 같이 하세요.
+  보기:  나는 독일 _사람입니다._ 함부르크는 독일에 _있습니다._ 
+ 1) 나는 스물일곱 살 ( ).
+ 2) 오늘은 월요일 ( ).
+ @p56
+ 3) 동생은 미국에 ( ).
+ 4) 우리는 학생 ( ).
+ 5) 내 책이 가방에 ( ).
+ 6) 오늘은 동생의 생일 ( ).
+ 7) 나는 학교에 ( ).
+ 8) 시간이 ( ).
+ 9) 나는 남자 ( ).
+ 10) 볼펜은 책상 위에 ( ).
+  2. '보기'에서 알맞은 말을 골라 넣으세요.
+  보기:  -은, -는, -의
+ 1) 나 ( ) 학생입니다. 
+ 2) 한국 ( ) 날씨는 좋습니다. 
+ 3) 동생 ( ) 미국에 있습니다. 
+ 4) 선생님 ( ) 안경은 책상에 있습니다. 
+ 5) 아버지 ( ) 신문을 봅니다. 
+ 6) 형 ( ) 나이는 스물아홉 살입니다. 
+ 7) 백화점 ( ) 옷은 비쌉니다. 
+ 8) 언니 ( ) 시계는 예쁩니다. 
+ 9) 어머니의 구두 ( ) 작습니다. 
+ 10) 오늘은 누나 ( ) 생일입니다. 
+ @p57
+  3. 그림을 보고 대답하세요
+ 1) 어제 무엇을 했습니까? -> 
+ 2) 어제 무엇을 했습니까? ->
+ 3) 무엇을 했습니까? ->
+ 4) 무엇을 했습니까? ->
+ 5) 무엇을 했습니까? ->
+ @p58
+ 6) 무엇을 했습니까? ->
+ 7) 무엇을 했습니까? ->
+ 8) 무엇을 했습니까? ->
+ 9) 무엇을 했습니까? ->
+ 10) 무엇을 했습니까? ->
+ @p59
+  4. '보기'와 같이 하세요.
+  보기: 어제 영화를 보았습니다. _무척 재미있었습니다._ 
+ 1) 일요일에 산에 갔습니다. ( ).
+ 2) 어제는 날씨가 ( ). 그런데 오늘은 춥습니다. 
+ 3) 버스를 탔습니다. 버스 안에 사람이 ( ).
+ 4) 오늘은 일요일입니다. 교실에 학생이 ( ).
+ 5) 어제 불고기를 먹었습니다. ( ). 
+ 6) 내 동생은 지금 키가 큽니다. ( ).
+ 7) 어제 친구 집에 갔습니다. 집이 ( ).
+ 8) 그저께 하루종일 일했습니다. 어제는 ( ).
+  5. '보기'에서 알맞은 말을 골라 넣으세요.
+  보기: -에, -에서
+ 1) 토마스는 독일 사람입니다. 독일( ) 왔습니다. 
+ 2) 어제 독일( ) 편지가 왔습니다. 
+ 3) 우리는 내일 부산( ) 갑니다. 그런데 어제 언니가 부산( ) 왔습니다. 
+ 4) 친구가 일본( ) 옵니다. 나는 오늘 공항( ) 갑니다. 
+ 5) 나는 어제 일본( ) 전화를 했습니다. 그런데 오늘 일본( ) 전화가 왔습니다. 
+ @p60
+  6. 자기 소개를 해 보세요.
+ 안녕하세요.
+ 나는 ( )입니다. 
+ 나의 고향은 ( )입니다.
+ 나이는 ( )입니다. 
+    새단어
+ 한국사람 Korean
+ 서울 Seoul
+ 월요일 Monday
+ 미국 America
+ 서다 to stand up
+ 앉다 to sit down
+ 좋다 to like, (be) good, fine, nice
+ 높다 (be) high
+ 웃다 to laugh, smile
+ 재미있다 (be) interesting
+ 맛있다 (be) tasty, delicious
+ 청소하다 to clean
+ 깨끗하다 (be) clear, clean
+ 조용하다 (be) quiet, silent
+ 어디 where
+ 부산 Pusan
+ 시계 watch
+ 작다 (be) small, tiny
+ 생일 birthday
+ 크다 (be) large, (be) big
+ @p61
+ 신문 newspaper
+ 어제 yesterday
+ 무척 very, highly
+ 일요일 Sunday
+ 산 mountain
+ 춥다 (be, feel) cold
+ 버스 bus
+ 타다 to take a ride in (a car)
+ 불고기 bulgogi (thin sliced barbecued beef)
+ 작년 last year
+ 집 house, home
+ 그저께 the day before yesterday
+ 하루종일 all day long
+ 일하다 to work
+ 일본 Japan
+ 공항 airport
+ @p62
+    제 10과 복습 II
+  1. -ㅂ니다/습니다.
+  갑니다. 듣습니다. 옵니다. 먹습니다. 봅니다. 걷습니다. 예쁩니다. 덥습니다.
+  2. - 이/가
+  기분이 좋습니다. 친구가 옵니다. 옷이 예쁩니다. 날씨가 덥습니다. 돈이 많습니다. 아기가 
+웃습니다. 선생님이 전화합니다. 커피가 맛있습니다.
+  3. -을/대
+  음악을 듣습니다. 커피를 마십니다. 책을 삽니다. 친구를 만납니다. 손을 씻습니다. 영화를 
+봅니다. 밥을 먹습니다. 청소를 합니다.
+  4. - ㅂ니까/습니까?
+  책을 삽니까? 음악을 듣습니까? 텔레비전을 봅니까? 손을 씻습니까? 우유를  마십니까? 날씨
+가 
+좋습니까? 꽃이 예쁩니까? 사람이 많습니까? 
+ @p63
+  5. 갑니다 -> 안 갑니다 
+  책을 안 삽니다. 텔레비전을 안 봅니다. 우유를 안 마십니다. 꽃이 안 예쁩니다. 
+  6. 네/아니오 
+  책을 삽니까? 네, 책을 삽니다. 
+  텔레비전을 봅니까? 아니오, 안 봅니다. 
+  우유를 마십니까? 네, 마십니다. 
+  꽃이 예쁩니까? 아니오, 안 예쁩니다. 
+  7. 무엇을 -ㅂ니까/습니까?
+  무엇을 합니까? 무엇을 듣습니까?
+  무엇을 봅니까? 무엇을 먹습니까? 
+  무엇을 삽니까? 무엇을 씻습니까?
+ @P64
+  8, -에 이다/없다
+  교실에 학생이 있습니다. 교실에 선생님이 없습니다. 
+  방에 책상이 있습니다. 방에 의자가 없습니다. 
+  집에 개가 있습니다. 집에 고양이가 없습니다. 
+  9. -와/과
+  우유와 빵을 먹습니다. 
+  개와 고양이가 있습니다. 
+  손과 발을 씻습니다. 
+  책과 노트를 삽니다. 
+  10. 수량명사
+  학생이 일곱 명 있습니다. 
+  사과를 두 개 먹습니다. 
+  고양이가 네 마리 있습니다. 
+  책을 다섯 권 삽니다. 
+  밥이 세 그릇 있습니다. 
+  커피를 한 잔 마십니다. 
+  11. 수
+  5 오 다섯 다섯 개
+  13 십삼 열셋 열세 개
+  20 이십 스물 스무 개
+ @p65
+  34 삼십사 서른넷 서른네 개
+  47 사십칠 마흔일곱 마흔일곱 개
+  56 오십육 쉰여섯 쉰여섯 개
+  68 육십팔 예순여덟 예순여덟 개
+  72 칠십이 일흔둘 일흔두 개
+  85 팔십오 여든다섯 여든다섯 개
+  91 구십일 아흔하나 아흔한 개
+  12. 위치
+  위 on, above
+  아래, 밑 under
+  앞 front
+  뒤 back
+  옆 next, by, beside
+  오른쪽 right side
+  왼쪽 left side
+  안, 속 in, inside
+  밖, 겉 outside
+  13. -도
+  커피가 있습니다. 콜라도 있습니다. 
+  빵을 삽니다. 우유도 삽니다. 
+  눈이 예쁩니다. 코도 예쁩니다. 
+  개를 좋아합니다. 고양이도 좋아합니다. 
+ @p66
+  14. 그런데
+  밥과 반찬이 있습니다. 그런데 무엇이 없습니까?
+  책상 위에 책과 노트가 있습니다. 그런데 볼펜이 없습니다. 
+  내 동생은 예쁩니다. 그런데 키가 좀 작습니다. 
+  15. Noun+입니다/입니까?
+  학생입니까? 네, 학생입니다. 
+  한국사람입니까? 네, 한국사람입니다. 
+  몇 살입니까? 스물일곱 살입니다. 
+  서울입니까? 네, 서울입니다. 
+  16. -은 /는
+  오늘은 월요일입니다. 
+  동생은 미국에 있습니다. 
+  선생님은 전화를 합니다. 
+  나는 스물일곱 살입니다. 
+  우리는 학생입니다. 
+  함부르크는 독일에 있습니다. 
+ @p67
+  17. -았습니다/었습니다
+  갑니다 -> 갔습니다
+  봅니다 -> 보았습니다
+  먹습니다 -> 먹었습니다
+  재미있습니다 -> 재미있었습니다
+  18. -했습니다
+  합니다 -> 했습니다
+  이야기합니다 -> 이야기했습니다
+  공부합니다 -> 공부했습니다
+  깨끗합니다 -> 깨끗했습니다
+  19. -에서 
+  앨버트씨는 어디에서 왔습니까? 앨버트씨는 미국에서 왔습니다. 
+  일본에서 편지가 왔습니다. 부산에서 전화가 왔습니다. 
+  20. -의
+  어머니의 시계는 예쁩니다. 
+  오늘은 동생의 생일입니다. 
+  백화점의 옷은 비쌉니다. 
+  내 안경이 책상 위에 있습니다.
+ @p68
+    제 11과 나는 어제 백화점에 갔습니다 
+  나는 어제 백화점에 갔습니다. 
+  백화점에서 옷을 샀습니다. 
+  그리고 친구를 만났습니다. 
+  영진: 누구를 만났습니까?
+  수미: 경주를 만났습니다. 
+  영진: 몇 시에 만났습니까?
+  수미: 6시에 만났습니다. 
+ @p69
+    새단어
+ 백화점 department store
+ -에 가다 to go to (destination)
+ -에서 in (locative particle )
+ 그리고 and
+ 누구 who
+ -에 at(time particle)
+    기본문형
+  1. -에 가다
+  The particle에 "to" is used  after nominals of place  and denotes direction when followed 
+by 
+either 가다,   오다, 다니다   or their   compound verbs   (올라가다, 내려오다,   들어가다...). 
+Therefore 
+it is always used with verbs denoting movement .
+  1) A: 어제 어디(에) 갔습니까? B: 백화점에 갔습니다.
+ Where did you go yesterday? I went to the department store.
+ 2) A: 어디 갑니까? B: 은행에 갑니다. 
+ 3) A: 어디 갑니까? B: 우체국에 갑니다. 
+ 4) A: 어디 갑니까? B: 다방에 갑니다. 
+ 5) A: 어디 갑니까? B: 학교에 갑니다. 
+ @p70
+ 6) A: 어디 갑니까? B: 식당에 갑니다. 
+ 7) A: 어제 어디 갔습니까? B: 시장에 갔습니다. 
+ 8) A: 어디 갑니까? B: 화장실에 갑니다. 
+  2. -에서 
+  -에서 is locative particle as is -에. While -에 in association  with a verb of existence 있
+다 
+and 없다 means "to be in (on)" and "not to be in (on)", -에서 in association with a active 
+verb specifies location of that activity in space .
+  나는 학교에서 공부합니다. I'm studying at school.
+  나는 학교에 있습니다. I'm at school.
+  나는 방에서 음악을 듣습니다. 
+  동생은 식당에서 밥을 먹습니다. 
+  어머니는 부엌에서 그릇을 씻습니다. 
+  아버지는 방에서 신문을 봅니다. 
+  오빠는 목욕탕에서 손을 씻습니다. 
+  형은 방에서 공부를 합니다. 
+  우리는 다방에서 커피를 마셨습니다. 
+  나는 가게에서 우유를 샀습니다. 
+  3. 그리고 <and>
+  그리고 "and" is typically used to introduce a sentence.
+ @p71
+ 1) 옷을 샀습니다. 그리고 친구를 만났습니다.
+ I bought some clothes. And I met a friend, too.
+ 2) 노래를 부릅니다. 그리고 춤을 춥니다. 
+ 3) 신문을 봅니다. 그리고 음악을 듣습니다. 
+ 4) 세수를 했습니다. 그리고 발을 씻었습니다. 
+ 5) 과자를 먹습니다. 그리고 커피를 마십니다. 
+ 6) 한국어를 배웁니다. 그리고 한국노래를 배웁니다.
+ 7) 책을 삽니다. 그리고 가방을 삽니다. 
+ 8) 테니스를 쳤습니다. 그리고 콜라를 마셨습니다.
+  4. 누구 /누가 <who>
+  누구 someone, who.
+  누가 someone, who (as subject) .
+ 1) A: 누구를 만납니까? B: 친구를 만납니다.
+ Whom will you meet? I'll meet a friend.
+ 2) A: 누구입니까? B: 선생님입니다. 
+ 3) A: 누구를 찾습니까? B: 내 동생을 찾습니다. 
+ 4) A: 누구를 제일 좋아합니까? B: 어머니를 제일 좋아합니다. 
+ 5) A: 누가 책을 읽습니까? Who is reading a book?
+ B: 형이 책을 읽습니다. My elder brother is reading a book.
+ 6) A: 누가 시장에 갑니까? B: 어머니가 시장에 갑니다. 
+ 7) A: 누가 텔레비전을 봅니까? B: 동생이 텔레비전을 봅니다. 
+ @p72
+ 8) A: 누가 노래를 부릅니까? B: 학생들이 노래를 부릅니다. 
+  5. -시, -분 <the hours and the minutes>
+  The hours on the clock are denoted by native Korean cardinal number words, and the 
+minutes are denoted by Sino-Korean number words .
+ 1) 1: 01 한 시 일 분
+ 2) 2: 02 두 시 이 분
+ 3) 3: 10 세 시 십 분
+ 4) 4: 25 네 시 이십오 분
+ 5) 5: 30 다섯 시 삼십 분/다섯 시 반
+ 6) 6: 37 여섯 시 삼십칠 분
+ 7) 9: 45 아홉 시 사십오 분
+ 8) 10: 48 열 시 사십팔 분
+ 9) 11: 50 열한 시 오십 분
+ 10) 12: 00 열두 시
+  6. -에
+  -에 is suffixed to  time expressions to  indicate the time  at which  something happens. 
+Time 
+words which occur without the particle -에 are  지금 "now", 어제 "yesterday", 오늘 "today", 
+내일 "tomorrow", etc.
+ 1) A: 몇 시에 만났습니까? B: 여섯 시 반에 만났습니다.
+ When did you meet? I met at six-thirty.
+ 2) A: 일요일에 무엇을 했습니까? B: 친구와 같이 산에 갔습니다. 
+ @p73
+ 3) A: 오후에 시간이 있습니까? B: 미안합니다. 시간이 없습니다. 
+ 4) A: 아침에 밥을 먹었습니까? B: 아니오, 빵을 먹었습니다. 
+ 5) A: 오늘 수업이 있습니까? B: 네, 수업이 있습니다. 
+ 6) A: 지금 비가 옵니까? B: 아니오, 안 옵니다. 
+ 7) A: 내일 병원에 갑니까? B: 아니오, 모레 갑니다. 
+ 8) A: 언제 시험이 있습니까? B: 내일 있습니다. 
+    연습
+  1. 알맞은 말을 '보기'에서 고르세요.
+  보기: 어디, 누구, 누가, 몇, 무엇, 
+ 1) A: 전화는 ( )에 있습니까? B: 엘리베이터 옆에 있습니다. 
+ 2) A: 오늘 ( )를 만났습니까? B: 친구를 만났습니다. 
+ 3) A: ( )(에) 갑니까? B: 우체국에 갑니다. 
+ 4) A: ( )시입니까? B: 3시 반입니다. 
+ @p74
+ 5) A: ( ) 노래를 부릅니까? B: 동생이 노래를 부릅니다. 
+ 6) A: 언니는 방에서 ( )을 합니까? B: 책을 읽습니다. 
+ 7) A: ( )를 좋아합니까? B: 수미를 좋아합니다. 
+ 8) A: 백화점에서 ( )을 샀습니까? B: 시계를 샀습니다. 
+ 9) A: ( ) 시장에 갔습니까? B: 어머니가 시장에 갔습니다. 
+ 10) A: ( )에 병원이 있습니까? B: 버스 정류장 옆에 있습니다. 
+  2. 그림을 보고 '보기'와 같이 하세요.
+  보기: 어디 갑니까? -> 백화점에 갑니다.
+ 1) 어디 갑니까? ->
+  @p75 
+ 2) 어디 갑니까? ->
+ 3) 어디 갑니까? ->
+ 4) 어디 갑니까? ->
+ 5) 어디 갑니까? ->
+ 6) 어디 갑니까? ->
+ @p76
+ 7) 어디 갑니까? ->
+ 8) 어디 갑니까? ->
+ 9) 어디 갑니까? ->
+ 10) 어디 갑니까? ->
+ 11) 어디 갑니까? ->
+ @p77
+ 12) 어디 갑니까?
+  3. '보기'에서 알맞은 말을 골라 넣으세요.
+  보기: -에, -에서
+ 1) 교실( ) 선생님과 학생이 있습니다.
+ 2) 교실( ) 학생이 공부합니다.
+ 3) 나와 동생은 방( ) 있습니다. 
+ 4) 우리는 방( ) 텔레비전을 봅니다. 
+ 5) 어머니는 부엌( ) 있습니다. 
+ 6) 어머니는 부엌( ) 그릇을 씻습니다.
+ 7) 우리는 식당( ) 밥을 먹습니다. 
+ 8) 아버지는 가게( ) 담배를 삽니다. 
+ 9) 방 안( ) 책상이 있습니다. 
+ 10) 책상 위( ) 시계가 있습니다.
+  4. '보기'와 같이 하세요.
+  보기: 어디에서 무엇을 합니까? -> 다방에서 커피를 마십니다. 
+ 어디에 무엇이 있습니까? -> 책상 위에 볼펜이 있습니다. 
+ @p78
+ 1) 
+ 2) 
+ 3) 
+ 4)  
+ 5) 
+ @p79
+ 6) 
+ 7) 
+ 8) 
+  5. '보기'와 같이 하세요.
+  보기: 옷을 샀습니다. 그리고 친구를 만났습니다.
+ 1) 커피를 마십니다. 그리고 ( ).
+ 2) 텔레비전을 보았습니다. 그리고 ( ).
+ 3) 과자를 삽니다. 그리고 ( ).
+ 4) 노래를 부릅니다. 그리고 ( ).
+ 5) 편지를 씁니다. 그리고 ( ).
+ @p80
+ 6) 꽃을 삽니다. 그리고 ( ).
+ 7) 손을 씻었습니다. 그리고 ( ).
+ 8) 숙제를 했습니다. 그리고 ( ).
+  6. '보기'를 보고 질문에 대답하세요.
+  보기: 지금 몇 시입니까? -> 세 시 입니다. 
+ 1) 지금 몇 시입니까? ->
+ 2) 지금 몇 시입니까? ->
+ 3) 지금 몇 시입니까? ->
+ 4) 지금 몇 시입니까? ->
+ @p81 
+ 5) 지금 몇 시입니까? ->
+ 6) 몇 시에 친구를 만납니까? ->
+ 7) 몇 시에 학교에 갑니까? ->
+ 8) 몇 시에 집에 옵니까? ->
+ 9) 몇 시에 아침밥을 먹습니까? ->
+ 10) 어제 몇 시에 잤습니까? ->
+ @p82
+  7. '보기'와 같이 하세요.
+  보기: 백화점/옷, 사다/친구, 만나다
+ A: 어제 어디 갔습니까? B: 백화점에 갔습니다. 
+ A: 백화점에서 무엇을 했습니까? B: 옷을 샀습니다. 그리고 친구를 만났습니다. 
+ 1) 학교/공부, 하다/테니스, 치다
+ 2) 우체국/전화, 하다/편지, 보내다
+ 3) 다방/커피, 마시다/이야기, 하다
+ 4) 서점/책, 사다/신문, 사다
+  8. 질문에 대답하세요.
+ 1) 오늘 오후에 시간이 있습니까? ->
+ 2) 아침에 커피를 마십니까? ->
+ 3) 이번 일요일에 무엇을 합니까? ->
+ 4) 지금 무엇을 합니까? ->
+ 5) 오늘 친구를 만납니까? ->
+ 6) 내일 어디에 갑니까? ->
+ @p83
+ 7) 어제 오후에 무엇을 했습니까? ->
+ 8) 작년에 어디 있었습니까? ->
+ 9) 어제 술을 마셨습니까? ->
+ 10) 오늘 학교에서 누구를 제일 먼저 만났습니까? ->
+    새단어
+ 은행 bank
+ 우체국 post office
+ 시장 market
+ 화장실 rest room
+ 부엌 kitchen
+ 씻다 wash
+ 목욕탕 bath room
+ 손 hands
+ 노래(를) 부르다 to sing a song, sing
+ 춤(을) 추다 to dance a dance, dance
+ 세수(를) 하다 to wash one's face
+ 한국어 Korean language
+ 배우다 to learn
+ 누가 who
+ 찾다 to look for, seek for
+ 제일 the first
+ 읽다 to read
+ 들 suffix for plural noun
+ 분 minute
+ @p84
+ 반 half 
+ 산 mountain
+ 수업 classwork
+ 병원 hospital
+ 모레 the day after tomorrow
+ 언제 when
+ 시험 examination, test
+ 엘리베이터 elevator
+ 대사관 embassy
+ 쓰다 to write
+ 숙제(를) 하다 to do homework
+ 아침밥 breakfast
+ 보내다 to send
+ 친척 elative
+ 구경 (을) 하다 to sightsee
+ 오후 afternoon
+ 술 alcoholic drink, liquor
+ 먼저 first, first of all
+ @p85
+    제 12과 저기 앨버트씨가 옵니다
+  저기 앨버트씨가 옵니다. 
+  앨버트씨는 우리 옆집에 살고 있습니다. 
+  지금 고려대학교에서 한국어를 공부합니다. 
+ @p86
+  영민: 오래간만입니다, 앨버트씨 .
+  앨버트: 안녕하십니까?
+  영민: 앨버트씨는 이 식당에 자주 옵니까?
+  앨버트: 아니오, 가끔 옵니다. 
+  영민: 요즘도 열심히 공부하고 있습니까?
+  앨버트: 네, 열심히 하고 있습니다.
+  한국어는 아주 어렵습니다.
+  그렇지만 한국어 공부는 재미있습니다.
+  그런데 영민씨는 지금 대학생입니까?
+  영민: 아니오, 나는 대학생이 아닙니다.
+  대학원생입니다. 
+    새단어
+ 저기 over there, that Place
+ 옆집 (the) next door, the adjacent house
+ 살다 to live
+ -고 있다 the expression for the present progressive form 
+ 오래간만입니다 It has been a long time since we met.
+ 이 this
+ 자주 frequently, often
+ 가끔 from time to time, once in a while
+ 요즘 (in) these days, nowadays
+ @p87
+ 열심히 eagerly, enthusiastically 
+ 아주 quite, very (much) 
+ 어렵다 (be) difficult, (be) hard 
+ 그렇지만 but 
+ 대학생 a university student 
+ -이/가 아니다 the negative form of a copula -이다 
+ 대학원생 a graduate school student 
+  기본문형
+  1. -이/가, -은/는
+  (1) The subject particle -이/가
+  -이/가 marks off the word to which it is added as the subject of  the of the sentence. In 
+a 
+great many cases, however, subjects take the particle -은/는 instead of -이/가.
+  When a subject is mentioned for the first time, the subject particle -이/가 is usually used 
+(new information). Thereafter, the (same) subject is either repeated with -은/는 added  to it 
+or 
+it is omitted altogether (old information).
+  저기 앨버트씨가 옵니다. Albert comes over there. 
+  앨버트씨는 우리 옆집에 살고 있습니다. He lives next door to me.
+  전화가 어디에 있습니까? (new information) 
+  전화는 우체국 옆에 있습니다. (old information)
+  (2) The topic particle -은/는
+  One of  the functions  of the  topic  particle -은/는  is to  express the  subject  of that 
+sentence. 
+When the subject is described as the topic word of the sentence, -은/는 is used without 
+regard to  it.  In this  case,  though the  subject  is mentioned  for  the first  time,  it is   
+considered 
+as old information ,
+ @p88
+  이것은 책입니다. This is a book.
+  나는 학생입니다. 
+  앨버트씨는 미국사람입니다. 
+  (3) The contrast particle -은/는
+  The particle -은/는 is added to the  subject (object, etc.) of the sentence  when we want 
+to 
+bring out a contrast between the subject and a previously mentioned subject (object, etc)
+  If -은/는 is added to the subject or object, the subject and object particles (-가, -를) do 
+not occur.
+ #1 날씨가 좋습니다. The weather is fine .
+ 날씨는 좋습니다. The weather (I'm not speaking of the other thing) is fine. 
+ #2 동생이 집에 있습니다. 동생은 집에 있습니다. 
+ #3 배가 아픕니다. 그렇지만 머리는 안 아픕니다. 
+ #4 개를 좋아합니다.  그렇지만 고양이는 안 좋아합니다. 
+  (4) In building Korean sentences, the subject you are going to say something about(the 
+topic) sometimes comes in front everything else, almost as if it had structurally no relation 
+with the rest of the sentence .
+ @p89
+  In those cases  usually the  particle -은/는 is  added to  the topic. It   implies a  vague 
+contrast 
+with things you could be speaking about but actually are not .
+ #1 수미는 키가 큽니다. Sumi (I'm not speaking of the other lone) is tall .
+ #2 수미는 공부를 잘합니다. 
+ #3 한국은 가을 날씨가 좋습니다. 
+ #4 오늘은 기분이 좋습니다. 
+  (5) In the cases of the four wh _ question (who, what, where, which  question), the 
+answer must be given with -이/가 subject word.
+ #1 누가 김선생님입니까? 저 사람이 김선생님입니다.
+ Who is Mr.Kim? That person is Mr.Kim.
+ #2 어느 것이 책입니까? 이것이 책입니다. 
+  2. -고 있다
+  -고 있다  is  used only   with action  verbs and   indicates that  an action   is actually 
+progressing. 
+But to express the simple progressive aspect of an action, it is usually sufficient to use the 
+simple present tense form .
+  공부합니다. I study.
+  공부하고 있습니다. I am studying.
+  친구와 이야기하고 있습니다. 
+  밥을 먹고 있습니다. 
+  라디오를 듣고 있습니다. 
+  전화하고 있습니다. 
+ @p90
+  웃고 있습니다. 
+  책을 읽고 있습니다. 
+  친구를 기다리고 있습니다. 
+  신문을 보고 있습니다. 
+  3. 이, 그, 저/이것, 그것, 저것
+  이 "this", 저 "that over there", 그 "that" indicate something; these demonstrative pronouns 
+are bound elements, since they are always used with a noun.
+ 이 책상 저 사람 그 여자 이것 저것 그것
+  이것: refers to things close to the speaker: "near me"
+  저것: refers to things removed from both the speaker and the person spoken to: "over 
+there"
+  그것: refers to things removed from the speaker but close to the person spoken to: "near 
+you". It  is also   used to indicate   that  the speaker  and  listener have  some common 
+knowledge  
+of the subject under discussion. The English euivalent is "it", "that" or sometimes "the'.
+  이 사람은 내 친구입니다. This is a friend of mine.
+  이 책상은 비쌉니다. 
+  저 손수건은 내 것입니다. 
+  저 사람을 좋아합니다. 
+  그 여자는 예쁩니다. 
+  그 영화는 재미있습니다. 
+  이것은 무엇입니까? What's this?
+  이것은 책상입니다. 
+  그것은 내 가방입니다. 
+ @p91
+  그것은 담배입니다. 
+  저것은 우산입니다. 
+  저것은 내 시계입니다.
+  4. 그렇지만
+  Korean language has  two words  그렇지만, 그러나  for the  English clauses  which use 
+"but"; 
+these words  are used  to connect  two opposite  meaning.  In everyday  conversation, we 
+usually 
+use 그렇지만, while 그러나 is used only in the written language.
+  1) 한국말은 아주 어렵습니다. Korean language is very difficult. 
+ 그렇지만/그러나 한국어 But studying Korean language is
+ 공부는 재미있습니다. interesting.
+  2) 앨버트씨는 미국사람입니다. 그렇지만 한국어를 잘합니다. 
+  3) 나는 산을 좋아합니다. 그렇지만 바다는 안 좋아합니다. 
+  4) 나는 텔레비전을 많이 봅니다. 그렇지만 영화는 안 봅니다. 
+  5) 형은 술을 많이 마십니다. 그렇지만 담배는 안 피웁니다. 
+  6) 지금은 봄입니다. 그렇지만 좀 춥습니다. 
+  7) 나는 사과를 좋아합니다. 그렇지만 내 동생은 배를 좋아합니다. 
+  8) 오늘은 일요일입니다. 그렇지만 나는 학교에 갑니다. 
+ @p92
+  5. -이/가 아니다
+  Noun + 이/가 아니다 is the negative form of Noun + 이다. 
+ 1) A: 학생입니까? B: 아니오, 학생이 아닙니다.
+ Are you a student? No, 1 am not a student.
+ 선생님입니다. I am a teacher.
+ 2) A: 선생님입니까? B: 아니오, 선생님이 아닙니다. 대학원생입니다. 
+ 3) A: 일본 사람입니까? B: 아니오, 일본 사람이 아닙니다. 중국 사람입니다. 
+ 4) A: 오늘은 일요일입니까? B: 아니오, 오늘은 일요일이 아닙니다. 토요일입니다. 
+ 5) A: 사과입니까? B: 아니오, 사과가 아닙니다. 배입니다. 
+ 6) A: 구두입니까? B: 아니오, 구두가 아닙니다. 운동화입니다. 
+ 7) A: 친구입니까? B: 아니오, 친구가 아닙니다 언니입니다. 
+ 8) A: 아버지의 넥타이입니까? B: 아니오, 아버지의 넥타이가 아닙니다. 형의 넥타이입니다. 
+ @p93
+    연습
+  1. ( )에 '-이/가'나 '-은/는'을 넣으세요. 
+ 저기에 앨버트씨( ) 있습니다. 앨버트씨( ) 친구와 이야기를 합니다. 
+ 수미: 고향( ) 어디입니까?
+ 앨버트: 내 고향( ) 알래스카입니다. 
+ 수미: 알래스카에는 눈( ) 많이 옵니까?
+ 앨버트: 네, 눈( ) 많이 옵니다. 
+ 수미: 알래스카에도 여름( ) 있습니까?
+ 앨버트: 네, 여름( ) 있습니다. 그렇지만 여름( ) 짧습니다. 한국( ) 언제 날씨 좋습니까?
+ 수미: 한국( ) 가을에 날씨( ) 좋습니다. 그런데 앨버트씨, 이것( ) 무엇입니까?
+ 앨버트: 장미꽃입니다. 오늘( ) 아내의 생일입니다. 이 꽃( ) 생일선물입니다. 
+ 수미: 다른 선물도 있습니까?
+ 앨버트: 아니오, 다른 선물( ) 없습니다. 
+  2. 그림을 보고 '보기'와 같이 대답하세요.
+  보기: 무엇을 하고 있습니까? -> 커피를 마시고 있습니다. 
+ @p94
+ 1) 무엇을 하고 있습니까? ->.
+ 2) 무엇을 하고 있습니까? ->
+ 3) 무엇을 하고 있습니까? ->
+ 4) 무엇을 하고 있습니까? ->
+ 5) 무엇을 하고 있습니까? ->
+ @p95
+ 6) 무엇을 하고 있습니까? ->
+ 7) 무엇을 하고 있습니까? ->
+ 8) 무엇을 하고 있습니까? ->
+  3. 그림을 보고 '보기'와 같이 하세요. 
+  보기: A: 이 것은 무엇입니까? B: 그것은 꽃입니다. 
+ 1) A: 저것은 무엇입니까? B: 
+ @p96
+ 2) A: 그것은 무엇입니까? B: 
+ 3) A: 이것은 무엇입니까? B: 
+ 4) A: 그것은 무엇입니까? B: 
+ 5) A: 저것은 무엇입니까? B: 
+ 6) A: 그것은 무엇입니까? B: 
+ @p97
+ 7) A: 이것은 무엇입니까? B:
+ 8) A: 이것은 무엇입니까? B: 
+ 9) A: 그것은 무엇입니까? B: 
+ 10) A: 저것은 무엇입니까? B: 
+  4. 그림을 보고 '보기'에서 알맞은 말을 골라 넣으세요
+  보기: 이, 그, 저, 이것, 그것, 저것
+ @p98
+ 영진: ( )은 누구의 카메라입니까?
+ 수미: ( )은 내 카메라입니다. 
+ 영진: ( )은 무엇입니까?
+ 수미: ( )은 곰인형입니다.
+ 영진: ( )은 수미씨의 사진입니까?
+ 수미: 네, ( )은 내 사진입니다. 
+ 영진: 오늘 오후에 무엇을 합니까?
+ 수미: 롯데백화점에 갑니다. 
+ 영진: 그렇습니까?
+ 나도 오후에 ( ) 친구(선영)와 같이 ( ) 백화점에 갑니다.
+  5. '보기'와 같이 하세요.
+  보기: 버트씨는 미국사람입니다. 그렇지만 한국어를 잘합니다. 
+ 1) 지금은 봄입니다. 그렇지만 ( ).
+ @p99
+ 2) 나는 고양이를 좋아합니다. 그렇지만 ( ).
+ 3) 나는 영화를 자주 봅니다. 그렇지만 ( ).
+ 4) 나는 술을 많이 마십니다. 그렇지만 ( ).
+ 5) 머리가 아픕니다. 그렇지만 ( ).
+ 6) 나는 친구를 기다리고 있습니다. 그렇지만 ( ).
+ 7) 내 동생은 예쁩니다. 그렇지만 ( ).
+ 8) 나는 돈이 많습니다. 그렇지만 ( ).
+ 9) 어제는 눈이 많이 왔습니다. 그렇지만 ( ).
+ 10) 나는 한국어를 두 달 공부했습니다. 그렇지만 ( ).
+  6. 대답하세요.
+ 1) 오늘은 월요일입니까? 네, ( ).
+ 2) 지금은 여름입니까? 아니오, ( ). 가을입니다. 
+ 3) 영진씨는 대학생입니까? 아니오, ( ). 대학원생입니다. 
+ 4) 자오즈민씨는 중국사람입니까? 네, ( ).
+ @p100
+ 5) 이것은 어머니의 손수건입니까? 아니오, ( ). 언니의 것입니다.
+ 6) 저것은 동생의 우산입니까? 네, ( ). 
+ 7) 저 사람은 의사입니까? 아니오, ( ). 병원 직원입니다. 
+ 8) 이것은 사진입니까? 아니오, ( ). 그림입니다.
+    새단어
+ 배 stomach
+ 머리 the head
+ 잘하다 to do well, to do skillfully
+ 라디오 radio
+ 기다리다 to wait for, to await
+ 손수건 handkerchief
+ 내 my(possessive form of I)
+ 그러나 but
+ 바다 the sea, the ocean
+ 담배를 피우다 to smoke
+ 중국사람 Chinese person
+ 토요일 Saturday
+ 운동화 sports shoes
+ 넥타이 necktie
+ 알래스카 Alaska
+ 짧다 (be) short
+ @p101
+ 장미꽃 rose 
+ 아내 wife 
+ 선물 present, gift
+ 다른 different
+ 사진 photograph, picture
+ 버스표 bus token 
+ 카메라 camera 
+ 우표 (postage) stamp
+ 곰인형 a bear doll
+ 봄 spring
+ 달 month
+ 여름 summer
+ 그림 picture, painting 
+ @p102
+    제 13과 한국어를 배우러 학교에 갑니다
+  나는 아침 6시 반에 일어납니다. 
+  먼저 세수를 하고 밥을 먹습니다. 
+  8시쯤 한국어를 배우러 학교에 갑니다. 
+  9시부터 1시까지 학교에서 공부합니다. 
+  오후에 가끔 한국 친구를 만납니다. 
+  그 친구는 언제나 재미있게 이야기합니다. 
+  나도 빨리 한국어를 잘하고 싶습니다. 
+  그래서 열심히 공부합니다. 
+  보통 저녁 6시쯤 집에 옵니다. 
+  밤에는 부모님과 친구에게 편지를 씁니다. 
+  그리고 12시쯤 잡니다. 
+ @p103
+    새단어
+ 아침 morning
+ 일어나다 to get up
+ -고 and
+ -쯤 about
+ -(으)러 in order to (verb suffix)
+ -부터 from
+ -까지 to
+ 빨리 soon, in a hurry
+ -고 싶다 would like to (verb suffix)
+ 그래서 do that way and(so)
+ -게 adverbial ending 
+ 보통 ordinarily, usually
+ 저녁 evening
+ 밤 night
+ 부모님 parent
+ -에게 to (a person or animal)
+    기본문형
+  1. verb, adjective + 고 
+  -고 "and" is the conjunctive ending. It links two clauses, but it  does not show any 
+specific relation between them .
+  The subjects of the two clauses can be either same or different.
+  -고 has  two senses  of meaning:  (1) coordinating  "and",  as enumerating  a series  of 
+actions, 
+conditions, qualities, and so on.
+  (2) sequential  "and", where  the action,  condition, quality   of the concluding  clause is 
+ordered 
+in time after that of the clause in -고 and  does not necessarily have a relation to it. 
+ @p104
+  나는 청소를 하고 빨래를 했습니다. I cleaned the room and (then) I washed the clothes. 
+  (나는) 세수를 합니다. 그리고 (나는) 밥을 먹습니다. -> (나는) 세수를 하고 밥을 먹습니다. 
+  내 동생은 예쁩니다. 그리고 (내 동생은) 똑똑합니다. -> 내 동생은 예쁘고 똑똑합니다. 
+  나는 청소를 했습니다. 그리고 내 동생은 빨래를 했습니다. -> 나는 청소를 하고 내 동생은 
+빨래를 했습니다. 
+  나는 클래식음악을 좋아합니다. 그리고 우리 언니는 팝송을 좋아합니다. -> 나는 클래식음악
+을 
+좋아하고 우리 언니는 팝송을 좋아합니다. 
+  2. -(으)러 가다 <to go (to somewhere) to do (something)>
+  -(으)러 expresses the purpose of the action. -(으)러 is attached to the stem of verbs and 
+is 
+always followed by either 가다. 오다, 다니다  or their compounds.
+  a) -러 comes after verb stems ending in a vowel or consonant, ㄹ .
+  b) -으러 comes after verb stems ending in a consonant (except  consonant ㄹ),
+  한국어를 배우러 학교에 갑니다. I go to school (in order) to  study Korean ,
+  친구를 만나러 다방에 갑니다. 
+  동생은 영화를 보러 극장에 갔습니다. 
+  옷을 사러 백화점에 갑니다. 
+  수미가 나를 만나러 우리집에 왔습니다. 
+ @P105
+  밥을 먹으러 식당에 갑니다. 
+  손을 씻으러 목욕탕에 들어갔습니다. 
+  옷을 갈아입으러 방에 갔습니다. 
+  선영이는 전화를 걸러 나갔습니다. 
+  한국말을 배우러 학교에 다닙니다. 
+  3. -부터 -까지 <from ... to>
+ 1) A: 몇 시부터 몇 시까지 공부합니까? B: 9시부터 1시까지 공부합니다.
+ From what time to what time do you study? I study from 9:00 in the morning to 1: 00 in 
+the afternoon 
+ 2) A: 몇 시부터 몇 시까지 잡니까? B: 밤 12시부터 아침 7시까지 잡니다. 
+ 3) A: 며칠부터 며칠까지 여름방학입니까? B: 7월 22일부터 8월 24일까지 여름방학입니다. 
+ 4) A: 그 연극은 며칠부터 며칠까지 합니까? B: 4월 18일부터 5월 3일까지 합니다. 
+ 5) A: 언제부터 언제까지 시험이 있습니까? B: 어제부터 내일까지 시험이 있습니다. 
+ 6) A: 언제부터 언제까지 비가 많이 옵니까? B: 6월부터 8월까지 비가 많이 옵니다. 
+  4. -고 싶다 <would like to>
+  -고 싶다 is used with the verb stem and indicates the desire of the speaker. -고 싶다 is 
+usually used with the first person in statements and with the second person in questions 
+only. When we express the  desire of the second  or third person in  declarative sentences, 
+we 
+use -고 싶어하다. 
+ @p106
+  배가 고픕니다. 밥을 먹고 싶습니다. I am hungry, I want to eat .
+  피곤합니다. 자고 싶습니다. 
+  목이 마릅니다. 물을 마시고 싶습니다. 
+  설악산은 아름답습니다. 설악산에 가고 싶습니다. 
+  어머니가 그립습니다. 어머니가 보고 싶습니다. 
+  나는 영화를 보러 가고 싶습니다. 
+  내 동생도 영화를 보러 가고 싶어합니다. 
+  5. 그래서 <so, therefore>
+  나는 한국을 좋아합니다. I like Korea, so I'm studing Korean .
+  그래서 한국어를 공부합니다. 
+  오늘 피곤합니다. 그래서 일찍 잡니다.
+  시간이 없습니다. 그래서 택시를 탑니다. 
+  머리가 아픕니다. 그래서 약을 먹습니다. 
+  나는 학생입니다. 그래서 열심히 공부합니다. 
+  날씨가 춥습니다. 그래서 나는 옷을 많이 입습니다. 
+  6. -게
+  If an adjective comes before a verb and modifies the verb, we have to add -게 to the 
+adjective stem. In other words,'adjective stem+게' form functions as an adverb .
+ @p107
+  이가 심하게 아픕니다. My teeth hurt severely.
+  친구들과 재미있게 이야기를 했습니다. 
+  오늘은 바쁘게 일했습니다. 
+  오늘 점심은 맛있게 먹었습니다. 
+  오늘은 친구들과 기분 좋게 술을 마셨습니다.
+  저 남자는 옷을 아주 멋있게 입었습니다. 
+  7. -에게
+  -에게 "to" indicates direction toward persons and animals, but  in conversation -한테 "to" 
+is 
+frequently used. -한테 is used mostly for  animals .
+  친구에게 편지를 씁니다. I am writing a letter to my friend. 
+  여자 친구에게 전화를 합니다. 
+  아내에게 생일선물을 줍니다. 
+  남편에게 이야기합니다. 
+  강아지한테 밥을 줍니다. 
+  새한테 물을 줍니다. 
+    연습
+  1. 두 문장을 연결하세요.
+ 1) 밥을 먹습니다. 그리고 이를 닦습니다. -> ( ).
+ 2) 청소를 합니다. 그리고 집에서 쉽니다. -> ( ). 
+ 3) 신문을 봅니다. 그리고 음악을 듣습니다. -> ( ).
+ @p108
+ 4) 나는 신문을 봅니다. 그리고 동생은 책을 읽습니다. -> ( ).
+ 5) 아버지는 방에 있습니다. 그리고 어머니는 부엌에 있습니다. -> ( ).
+ 6) 어머니는 커피를 마십니다. 그리고 아버지는 담배를 피웁니다. -> ( ).
+  2. '보기'와 같이 하세요.
+  보기: 수미는 밥을 먹고 커피를 마십니다. 
+ 1) 
+ 2) 
+ 3) 
+ @p109
+ 4) 
+ 5) 
+  3. 무엇을 하러 어디에 갑니까? '보기'와 같이 하세요.
+  보기: 커피를 마시러 다방에 갑니다.
+ 1) 
+ 2) 
+ @p110
+ 3) 
+ 4) 
+ 5) 
+ 6) 
+ 7) 
+ 8) 
+ @p111
+  4. 대답하세요.
+ 1) 몇 시부터 몇 시까지 학교에서 공부합니까? (8:15~1:00) ->
+ 2) 몇 시부터 몇 시까지 잡니까? (11:30~6:00) ->
+ 3) 며칠부터 며칠까지 방학입니까? (6월 28일~7월 15일) ->
+ 4) 며칠부터 며칠까지 제주도에 갑니까? (10월 6일~10월 10일) ->
+ 5) 언제부터 언제까지 시험이 있습니까? (오늘~모레)
+ 6) 언제부터 언제까지 눈이 많이 옵니까? (12월~2월)
+  5. 질문에 대답하세요.
+ 1) 지금 무엇을 제일 하고 싶습니까? ->
+ 2) 지금 누가 제일 보고 싶습니까? ->
+ 3) 지금 무엇을 제일 먹고 싶습니까? ->
+ @p112
+ 4) 지금 무엇을 제일 가지고 싶습니까? ->
+ 5) 지금 어디에 제일 가고 싶습니까? ->
+  6. ( )에 알맞은 말을 '보기'에서 골라 넣으세요.
+  보기: -는, -에, -부터, -에게, -가, -한테
+ 1) 모리씨는 2년전( ) 한국에 살고 있습니다. 
+ 가족은 모두 일본( ) 있습니다. 
+ 그래서 자주 일본의 가족( ) 전화를 합니다. 
+ 그리고 가끔 친구( ) 편지를 씁니다. 
+ 2) 우리집에는 고양이( ) 한 마리 있습니다. 
+ 그 고양이( ) 우유를 무척 좋아합니다. 
+ 그래서 나는 매일 아침 고양이( ) 우유를 줍니다. 
+  7. '보기'와 같이 하세요.
+  보기: 나는 한국을 좋아합니다. 그래서 (한국어를 공부합니다.) 
+ 1) 머리가 아픕니다. 그래서 ( ).
+ 2) 날씨가 좋습니다. 그래서 ( ). 
+ 3) 시간이 없습니다. 그래서 ( ). 
+ 4) 날씨가 춥습니다. 그래서 ( ).
+ 5) 내일은 수업이 없습니다. 그래서 ( ). 
+ 6) 배가 고픕니다. 그래서 ( ).
+ @p113
+ 7) 텔레비전을 많이 봅니다. 그래서 ( ).
+ 8) 돈이 없습니다. 그래서 ( ).
+  8. 그림을 보고 '보기'의 단어를 알맞은 형태로 고쳐 넣으세요.
+  보기: 목욕탕, 하다, 먹다, 일어나다, 감다, 갈아입다, 공부하다, 마시다 닦다, 빗다, 가다, 세수, 
+돌아오다, 자다, 보다, 씻다
+ 1) 선영이는 6시 30분에 ( ). 먼저 ( )에서 ( )를 하고 머리를 ( ).
+ 2) 옷을 ( ) 7시쯤 아침밥을 ( ). 식사 후 이를 ( ).
+ 3) 화장을 하고 머리를 ( ). 9시쯤 학교에 ( ).
+ @p114
+ 4) 오전 9시부터 오후 4시까지 학교에서 ( ). 버스를 타고 6시쯤 집으로 ( ).
+ 5) 먼저 손과 발을 ( ). 저녁밥을 먹고 차를 ( ).
+ 6) 그 후 신문을 ( ) 공부를 ( ). 밤 12시쯤 ( ).
+    새단어
+ 똑똑하다 (be) clever, smart
+ 빨래(를) 하다 to wash clothes, to do laundry
+ 클래식음악 classical music
+ 팝송 popular songs
+ @p115
+ 극장 a theater
+ 들어가다 to enter, to go into
+ 갈아입다 to change(clothes)
+ 전화(를) 걸다 to make a phone call 
+ 나가다 to go out
+ 다니다 to come and go, attend,
+ work (in, at)
+ 며칠 what date
+ 여름방학 summer vacation
+ 연극 drama, dramatic performance
+ 배가 고프다 (be) hungry
+ 피곤하다 (be) tired
+ 마르다 (be) thirsty
+ 그립다 (be) missed, (be) longed for
+ 택시 a taxi
+ 약 medicine, drug
+ 심하다 (be) severe, excessive
+ 멋있다 (be) wonderful, stylish, 
+ 주다 to give
+ 남편 husband
+ 강아지 a puppy, a little dog 
+ 새 bird
+ 닦다 to brush (one's teeth)
+ 쉬다 to take a rest
+ 기타(를) 치다 to play the guitar 
+ 꽃집 flower shop
+ 미장원 beauty shop
+ 약국 drugstore, pharmacy
+ 제주도 Chejudo (Cheju Island)
+ 가지다 to have
+ 머리를 감다 to wash one's hair
+ @p116
+ 화장(을) 하다 to make oneself up 
+ 머리를 빗다 to comb one's hair 
+ 차 tea 
+ @p117
+    제 14 과 늦어서 미안합니다
+  알림: 9월 17일에 시험이 있습니다. 9시까지 3-110 교실로 오십시오. 늦지 마십시오.
+  시험날
+  선생님: 빨리 들어오십시오.
+  학생1: 늦어서 미안합니다.
+  선생님: 저쪽으로 앉으십시오. 그런데 저 자리는 누구의 자리입니까?
+  학생2 : 스즈키씨 자리입니다. 
+  선생님: 오늘 결석입니까?
+ @p118
+  학생2: 네, 감기에 걸려서 못 옵니다. 
+  선생님: 그렇습니까? 여러분도 감기 조심하십시오. 그럼 시험을 시작하겠습니다. 
+    새단어
+ 늦다 to get late
+ -아/어서 so, and then (connective suffix)
+ 미안하다 (be) sorry
+ 알림 notice
+ -(으)로 to
+ -(으)십시오 imperative ending 
+ -지 마십시오 negative form of imperative ending -(으)십시오
+ 날 day
+ 들어오다 to come into, enter
+ 저쪽 that side
+ 자리 a seat
+ 결석 absence
+ 감기에 걸리다 to get cold, take cold
+ 못 can not (verb prefix)
+ 그렇습니까? Are you sure?
+ 여러분 everybody, all of you
+ 조심하다 to take care
+ 그럼 if that is the case, then
+ 시작하다 to begin, to start
+ -겠- intentional infix (speaker's future volition) 
+ @p119
+    기본문형
+  1. -(으)십시오 <Please (do)>
+  -(으)십시오 is the polite  formal ending in  the imperative mood.  This ending is  always 
+used 
+with action verbs .
+  아홉 시까지 오십시오. Please come by 9 o'clock in the morning .
+  안녕히 계십시오.
+  여보세요. -네, 말씀하십시오.-
+  빨리 들어오십시오.
+  저쪽으로 앉으십시오.
+  맛있게 드십시오.
+  (여러분들도) 감기 조심하십시오
+  열심히 공부하십시오.
+  교실에서는 조용히 하십시오.
+  2. -지 마십시오 <Don't>
+  -지 마십시오 is the negative form of -(으)십시오, so it expresses prohibition or dissuasion 
+.
+  늦지 마십시오. Don't be late, please. 
+  지금 가지 마십시오.
+  의자에 앉지 마십시오.
+  떠들지 마십시오.
+ @p120
+  교실에서는 담배를 피우지 마십시오.
+  잔디밭에 휴지를 버리지 마십시오.
+  위험합니다. 여기에 있지 마십시오.
+  술을 너무 많이 마시지 마십시오.
+  3. -아/어서 <because of->
+  -아/어서 is the causal conjunctive ending. It is always suffixed to the verb and it has no 
+tense. the real time of the clause in -아/어서 is determined by the tense of the concluding 
+clause. In  sentences  with  a   conjective clause in   -아/어서 which  implies cause,  the 
+concluding 
+clause can never be in the imperative mood or the propositive mood.
+  늦어서 미안합니다. I am sorry fur being late, 
+  시간이 없어서 점심에 라면을 먹었습니다. 
+  너무 많이 먹어서 배가 부릅니다. 
+  책을 많이 읽어서 눈이 아픕니다. 
+  기분이 좋아서 노래를 부릅니다. 
+  오랫동안 미국에 살아서 영어를 잘합니다. 
+  차를 오래 타서 머리가 아픕니다. 
+  오래간만에 친구를 만나서 기분이 좋습니다. 
+  4. - (으)로 <to (direction)>
+  The particle -(으)로 "to"  has a similar  meaning to the  direction particle -에.  There is 
+some 
+difference in meaning, however. While  -에 expresses a pure destination,  -(으)로 expresses 
+the 
+connotation that the destination is a matter of choice or option.
+ @p121
+  a) -로 comes after nouns ending in a vowel or consonant ㄹ.
+  b) -으로 comes after nouns ending in a consonant (except consonant ㄹ ) .
+  이번 여름에는 바다로 놀러갑니다. This summer, 1 will go on a pleasure trip to the sea
+  지하철역은 어디로 갑니까?
+  앨버트씨가 이리로 오고 있습니다. 
+  저쪽으로 앉으십시오
+  이쪽으로 오십시오.
+  학교쪽으로 걸어갑니다. 
+  이 층으로 올라가십시오.
+  안으로 들어가십시오.
+  5. 못 <can't> 
+  When the prefix 못- is used with action verb, it indicates impossibility.
+  감기에 걸려서 못 옵니다. She caught cold, so she can't come. 
+  수영을 못 합니다. 
+  시간이 없어서 내일 못 갑니다. 
+  비가 와서 테니스를 못 합니다. 
+  산이 높아서 못 올라갑니다. 
+  나는 노래도 못 하고 춤도 못 춥니다. 
+  이 신발은 작아서 못 신습니다. 
+  한국말을 잘 못합니다. 
+ @p122
+  6. -겠- <I will ∼>
+  The intentional infix -겠- is inserted between the stem and the ending. It states or asks 
+for the subject's intention or plans. -겠- is usually used with the first person in statements 
+and the second person in questions only .
+  시험을 시작하겠습니다. I will begin the test. 
+  버스정류장에서 기다리겠습니다. 
+  내일 아침에 다시 오겠습니다. 
+  제가 하겠습니다. 
+  무엇을 마시겠습니까?
+  커피를 마시겠습니다. 
+  영화를 보러 가겠습니다. 
+  언제 영화를 보러 가겠습니까?
+    연습
+  1. '보기'와 같이 하세요.
+ 보기: 잔디밭에 들어가지 마십시오
+ 1) ( ).
+ @p123
+ 2) ( ).
+ 3) ( ).
+ 4) ( ).
+ 5) ( ).
+ 6) ( ).
+  2. '보기'와 같이 하세요.
+  보기: 늦어서 미안합니다. 
+ 1) 기분이 ( ) 노래를 부릅니다. 
+ @p124
+ 2) 시간이 ( ) 택시를 탑니다. 
+ 3) 책을 많이 ( ) 눈이 아픕니다. 
+ 4) 오래간만에 친구를 ( ) 기분이 좋습니다. 
+ 5) 공부를 많이 ( ) 피곤합니다. 
+ 6) 술을 많이 ( ) 배가 아픕니다.
+ 7) 하루종일 ( ) 피곤합니다. 
+ 8) 비가 ( ) 야구를 못합니다. 
+ 9) ( ) 미안합니다. 
+ 10) ( ) 기분이 좋습니다. 
+  3. 그림을 보고 '-아/어서'를 사용해 문장을 완성하세요.
+  김 민숙씨는 회사에서 일합니다. 매일 자동차를 타고 회사에 갑니다. 오늘은 길이 안( ) 회사
+에 
+조금 일찍 도착했습니다. 커피를 한 잔 마시고 일을 시작했습니다. 일이 ( ) 하루종일 
+힘들었습니다. ( ) 집에 일찍 돌아갔습니다. 
+  4. ( )에 알맞은 말을 넣으세요.
+  <안암동 로타리에서>
+ A: 실례합니다. 말씀 좀 묻겠습니다. 나는 지금 고려대학교( ) 가고 싶습니다. 어느 쪽( ) 
+갑니까? B: 이쪽( ) 10분쯤 걸어가십시오.
+  <고대 교문 앞에서>
+ A: 민족문화연구소가 어디에 있습니까?
+ C: 오른쪽( ) 계속 올라가십시오. 왼쪽에 박물관 건물이 있습니다. 3층( ) 올라가십시오.
+ 거기에 민족문화연구소가 있습니다. 
+  @p125 
+  5. ( )에 '안'과 '못'을 알맞게 넣으세요.
+ 1) 오늘은 일요일입니다. 그래서 학교에 ( ) 갑니다. 
+ 2) 오늘은 화요일입니다. 그렇지만 나는 감기에 걸려서 학교에 ( ) 갔습니다. 
+ 3) 나는 포도를 안 좋아합니다. 그래서 ( ) 먹습니다. 
+ 4) 나는 카메라를 사고 싶습니다. 그런데 돈이 없어서 ( ) 삽니다. 
+ 5) 친구가 ( ) 와서 기다리고 있습니다. 
+ 6) 김선생님은 아주 바쁩니다. 그래서 오늘 ( ) 옵니다. 
+ 7) 나는 뚱뚱합니다. 그래서 오늘도 저녁밥을 ( ) 먹었습니다.
+ 8) 수미씨는 노래를 잘합니다. 그렇지만 나는 ( ) 합니다.
+ 9) 비가 와서 기분이 ( ) 좋습니다. 
+ 10) 편지를 쓰고 싶습니다. 그렇지만 볼펜이 없어서 ( ) 씁니다.
+  6. 알맞은 시제를 사용해 문장을 완성하세요.
+ (1) A: 영수씨, 시간이 있습니까?
+ B: 네, 있습니다. 왜요?
+ A: 같이 이야기를 하고 싶습니다. 
+ B: 그러면 좀 기다리십시오. 곧 일이 끝납니다. 
+ A: 제가 학교 앞에 있는 다방에서 ( ).
+ B : 미안합니다. 10분쯤 후에 ( ).
+  <다방에서>
+ B: 앨버트씨, 무엇을 ( )?
+ A: 저는 커피를 ( ).
+ B: 영수씨는 무엇을 ( )?
+ A: 저도 커피를 ( ).
+ (2) 선생님: 오늘은 14과를 ( ). 먼저 누가 읽겠습니까?
+ 학생: 제가 ( ).
+ (3) 수미: 여보세요? 저는 김수미입니다. 영진씨 있습니까?
+ 영진동생: 지금 없습니다. 저녁 때 다시 전화하십시오.
+ 수미: 그러면 9시쯤 다시 ( ).
+ @p126
+    새단어
+ 안녕히 계십시오 Good-bye!
+ 여보세요 Hello!
+ 말씀하시다 to talk, to speak (honorific)
+ 조용히 quietly, calmly
+ 떠들다 to make noise
+ 너무 too (much)
+ 배가 부르다 to be full
+ 아프다 to have a pain, (be) sick
+ 오랫동안 for a long time
+ 오래 long
+ 오래간만에 after a long separation (interval)
+ 이번 this time
+ 놀러가다 to go on a pleasure trip
+ @p127
+ 지하철역 subway station
+ 이리 here
+ 수영 swimming
+ 올라가다 to climb(up), to go up
+ 신다 to wear, put(shoes) on
+ 눈 eye
+ 야구 baseball
+ 회사 company
+ 길이 막히다 the road is blocked, traffic is jammed
+ 일찍 early
+ 도착하다 to arrive
+ 일 work
+ 힘들다 to be hard, be arduous
+ 돌아가다 to go back, return
+ 말씀 좀 묻겠습니다 May I ask you a question?
+ 고려대학교 Korea University
+ 걸어가다 to walk, to go on foot
+ 민족문화연구소 Korean Cultural Research Center
+ 계속 continually
+ 박물관 museum
+ 화요일 Tuesday
+ 포도 grapes
+ 뚱뚱하다 (be) fat
+ 곧 soon
+ 후 after
+ 다시 again
+ @p128
+    제 15과 복습 III
+  1. -에 가다
+  어디(에) 갑니까?
+  식당에 갑니다. 
+  우체국에 갑니다. 
+  다방에 갑니다. 
+  시장에 갑니다. 
+  2. -에서
+  나는 방에서 음악을 듣습니다. 
+  어머니는 부엌에서 그릇을 씻습니다. 
+  우리는 다방에서 커피를 마셨습니다. 
+  언니는 가게에서 우유를 삽니다. 
+ 3. 그리고
+  노래를 부릅니다. 그리고 춤을 춥니다. 
+  세수를 합니다. 그리고 발을 씻습니다. 
+  과자를 먹습니다. 그리고 커피를 마십니다. 
+  책을 삽니다. 그리고 노트를 삽니다. 
+ @p129
+  4. 누구/누가
+  누구를 만납니까? 친구를 만납니다. 
+  누구입니까? 선생님입니다.
+  누가 노래를 부릅니까? 동생이 노래를 부릅니다.
+  누가 책을 읽습니까? 형이 책을 읽습니다. 
+  5. -시, -분
+  시: 한 시, 두 시, 세 시, 네 시, 다섯 시, 여섯 시, 일곱 시, 여덟 시, 아홉 시, 열 시, 열한 시, 
+열두 시
+  분: 일 분, 이 분, 삼 분, 사 분, 오 분, 육 분, 칠 분, 팔 분, 구 분, 십 분, 십일 분, 십이분... 
+이십 분, 삼십 분/반, 사십 분, 오십 분... 오십구 분 
+  때: 새벽, 아침, 점심, 낮, 저녁, 밤, 오전, 오후
+  6. -에
+  여덟 시에 학교에 옵니다. 
+  오늘 오후에 친구를 만납니다. 
+  일요일에 친구와 같이 산에 갑니다. 
+  아침에 빵을 먹습니다. 
+ @p130
+  7. -이/가, -은/는
+  저기 앨버트씨가 옵니다. 
+  앨버트씨는 우리 옆집에 살고 있습니다. 
+  이것은 무엇입니까? 그것은 책입니다. 
+  누가 대학생입니까? 저 사람이 대학생입니다. 
+  배가 아픕니다. 그렇지만 머리는 안 아픕니다. 
+  수미는 키가 큽니다. 
+  영미는 얼굴이 예쁩니다. 
+  8. -고 있다
+  공부하고 있습니다. 
+  신문을 보고 있습니다. 
+  친구와 이야기하고 있습니다. 
+  친구를 기다리고 있습니다. 
+  9. 이, 그, 저/이것, 그것, 저것
+  이 책상은 나의 것입니다. 
+  그 책은 재미있습니다. 
+  저 사람은 누구입니까?
+  이것은 무엇입니까?
+ @p131
+  그것은 내 가방입니다. 
+  저것은 누구의 우산입니까?
+  10. 그렇지만
+  한국어는 아주 어렵습니다. 그렇지만 재미있습니다. 
+  앨버트씨는 미국사람입니다. 그렇지만 한국말을 잘합니다. 
+  지금은 봄입니다. 그렇지만 좀 춥습니다. 
+  11. -이/가 아닙니다
+  나는 선생님이 아닙니다. 학생입니다. 
+  오늘은 일요일이 아닙니다. 월요일입니다. 
+  이것은 내 넥타이가 아닙니다. 아버지의 넥타이입니다. 
+  우리는 친구가 아닙니다. 형제입니다. 
+  12. -고
+ (나는) 세수를 합니다. 그리고 (나는) 밥을 먹습니다. -> (나는) 세수를 하고 밥을 먹습니다. 
+ 내 동생은 예쁩니다. 그리고 (내 동생은) 똑똑합니다. -> 내 동생은 예쁘고 똑똑합니다. 
+ @p132
+  나는 청소를 합니다. 그리고 내 동생은 빨래를 합니다. -> 나는 청소를 하고 내 동생은 빨래
+를 
+합니다. 
+  13. - (으)러 가다 
+  친구를 만나러 다방에 갑니다. 
+  밥을 먹으러 식당에 갑니다. 
+  한국말을 배우러 고려대학교에 다닙니다. 
+  전화를 걸러 밖에 나갑니다. 
+  14. -부터 -까지 
+ 1) A: 몇 시부터 몇 시까지 잡니까? B: 밤 12시부터 아침 7시까지 잡니다. 
+ 2) A: 며칠부터 며칠까지 여름방학입니까? B: 7월 22일부터 8월 24일까지 여름방학입니다. 
+ 3) A: 그 연극은 며칠부터 며칠까지 합니까? B: 4월 18일부터 5월 3일까지 합니다. 
+ 4) A: 언제부터 언제까지 시험이 있습니까? B: 어제부터 내일까지 시험이 있습니다. 
+  15. -고 싶다
+  배가 고픕니다. 밥을 먹고 싶습니다. 
+  피곤합니다. 자고 싶습니다. 
+  목이 마릅니다. 물을 마시고 싶습니다. 
+  설악산은 아름답습니다. 설악산에 가고 싶습니다. 
+ @p133
+  16. 그래서
+  나는 한국을 좋아합니다. 그래서 한국어를 공부합니다. 
+  오늘 피곤합니다. 그래서 일찍 잡니다. 
+  시간이 없습니다. 그래서 택시를 탑니다. 
+  17. -게
+  친구들과 재미있게 이야기를 했습니다. 
+  오늘은 바쁘게 일했습니다. 
+  맛있게 먹었습니다. 
+  이가 심하게 아픕니다. 
+  18. -에게/한테
+  아내에게 선물을 줍니다. 
+  어머니에게 전화를 합니다. 
+  친구한테 편지를 씁니다. 
+  고양이한테 우유를 줍니다. 
+  19. - (으)십시오
+  들어오십시오.
+  여기에 앉으십시오.
+  맛있게 드십시오.
+  안녕히 가십시오.
+ @p134
+  20. -지 마십시오
+  가지 마십시오.
+  떠들지 마십시오.
+  교실에서 담배를 피우지 마십시오.
+  술을 많이 마시지 마십시오.
+  21. -아/어서
+  오래간만에 친구를 만나서 기쁩니다. 
+  기분이 좋아서 노래를 부릅니다. 
+  늦어서 미안합니다. 
+  책을 많이 읽어서 눈이 아픕니다. 
+  22. - (으)로
+  이쪽으로 오십시오.
+  안으로 들어가십시오.
+  이번 여름에는 바다로 놀러 갑니다. 
+  지하철역은 어디로 갑니까?
+  23. 못
+  산이 높아서 못 올라갑니다. 
+  비가 와서 테니스를 못 합니다. 
+  한국말을 잘 못합니다. 
+  나는 노래도 못하고 춤도 못 춥니다. 
+  @p135
+  24. -겠-
+  무엇을 마시겠습니까?
+  커피를 마시겠습니다. 
+  버스 정류장에서 기다리겠습니다. 
+  내일 다시 오겠습니다. 
+ @p136
+    제 16 과 피곤해서 늦잠을 잤습니다
+  민섭이는 연극 배우입니다. 이번 달 22일부터 공연이 있기 때문에 요즘 무척 바쁩니다. 
+  어제도 연습을 마치고 밤 11시쯤 집에 돌아왔습니다. 방으로 들어가는데 경주에게서 전화가 
+왔습니다. 두 사람은 1주일 동안 못 만났습니다.  너무 바빠서 전화도 못했습니다. 그래서 경주
+는 
+화가 났습니다. 민섭이와 경주는 다음날 1시에 만나기로 했습니다. 
+  다음날 민섭이는 너무 피곤해서 늦잠을 잤습니다. 택시를 타고 급히 약속 장소로 나갔습니다. 
+그런데 경주가 없었습니다. 민섭이가 2시 5분에 갔기 때문입니다. 
+ @p137
+    새단어
+ 늦잠을 자다 to sleep late in the morning, to get up late
+ -이 suffix for persons name which ends in a consonant 
+ 연극배우 drama actor
+ 공연 performance
+ -기 때문에 because
+ 연습 practice, drill, rehearse a play
+ -는데 connective suffix
+ -에게서 from (some person)
+ 주일 week
+ 동안 while, during
+ 화가 나다 to get angry
+ 다음 next
+ -기로 하다 decide to do, make up one's mind to do, promise to do
+ 급히 hastily
+ 약속 promise
+ 장소 place
+    기본문형
+  1. -기 때문에 <because>
+  -기 때문에 is the causal conjunctive ending. It may be used with any verb and adjective. 
+The tense infixes (-았-, -겠-) can be used if necessary .
+ @p138
+ 12월 22일부터 공연이 있기 때문에 요즘 무척 바쁩니다. We are going to perform the play 
+from the 22nd of December, so we are very busy in these days.
+  머리가 아프기 때문에 병원에 갑니다. 
+  비가 많이 오기 때문에 야구를 못합니다. 
+  날씨가 춥기 때문에 옷을 많이 입었습니다. 
+  피곤했기 때문에 늦잠을 잤습니다. 
+  술을 많이 마셨기 때문에 머리가 아픕니다. 
+  늦게 일어났기 때문에 지각했습니다. 
+  일을 많이 했기 때문에 피곤합니다. 
+  2. -는데
+  -는데 is a  suffix which connects  two clauses, and  there are several  usages of -는데. 
+Here 
+we use this suffix to connect the first clause with something which happened unexpectedly. 
+In this case. each clause has a different subject.
+  방으로 들어가는데 전화가 왔습니다. As I entered the room, the phone rang.
+  공부를 하는데 전화벨 소리가 들렸습니다. 
+  밥을 먹는데 친구가 찾아왔습니다. 
+  산을 올라가는데 갑자기 비가 왔습니다. 
+  내가 집을 나가는데 동생이 들어왔습니다. 
+  공부를 하는데 엄마가 사과를 가져왔습니다. 
+  3. -에게서 <from (some person)>
+  The particle -에게서 "from" is used with nouns referring to persons. But in conversation 
+-한테서 "from" is frequently used. 
+  어제 경주에게서 전화가 왔습니다. Yesterday I had a phone call from Kyeongju
+  이 선물은 동생에게서 받았습니다. 
+  어머니에게서 한국말을 배웠습니다. 
+  선생님에게서 편지가 왔습니다. 
+ @p139
+  4. '으' 불규칙 <으 irregular verb, adjective>
+  In case -아/어 is followed by 으, 으 is deleted. We choose -았습니다, -아서 or -었습니다, 
+-어서 according to which vowel precedes 으. When the previous vowel of 으 is 아, 오 we 
+can choose -았습니다, -아서,  but when the  other vowel comes  before 으 or  there is no 
+vowel 
+before 으, we choose 었습니다, -어서.
+  아프: 았습니다 -> 아팠습니다
+  예쁘: 었습니다 -> 예뻤습니다
+  쓰: 었습니다 -> 썼습니다
+  '으'불규칙 어휘: 아프다, 나쁘다, 고프다, 예쁘다, 슬프다, 기쁘다, 쓰다, 크다
+  아프다: 머리가 아픕니다. I have a headache. 어제 머리가 아팠습니다. 머리가 아파서 병원에 
+갔습니다
+  나쁘다: 기분이 나쁩니다. 기분이 나빴습니다. 기분이 나빠서 일찍 집에 왔습니다. 
+  예쁘다: 손수건이 예쁩니다. 손수건이 예뻤습니다. 손수건이 예뻐서 샀습니다. 
+ @p140
+  슬프다: 영화가 슬픕니다. 영화가 슬펐습니다. 영화가 슬퍼서 많이 울었습니다. 
+  쓰다: 편지를 씁니다. 편지를 썼습니다. 편지를 많이 써서 손이 아픕니다. 
+  5. -기로 하다 <promise to do>
+  -기로 하다 comes after a verb,  and expresses a promise, a decision  or an agreement of 
+the 
+subject of a sentence. So we can translate this as follows: "to promise to do," "to make up 
+one's mind to do,""to agree to do."
+  내일 1시에  만나기로  했습니다. We  promised  to meet  at  l o'clock  in  the afternoon 
+tomorrow.
+  저녁에 다시 전화하기로 했습니다. 
+  내일부터 일찍 일어나기로 했습니다. 
+  담배를 끊기로 했습니다. 
+  술을 안 마시기로 했습니다. 
+  일요일에 산에 가기로 했습니다. 
+    연습
+  1. '보기'에서 알맞은 말을 골라 과거형으로 고쳐 넣으세요.
+  보기: 일어나다, 많다, 좋다, 뛰어가다, 내리다, 사다, 보다, 웃다, 도착하다, 오다, 마시다
+ @p141
+  나는 오늘 아침에 늦게 ( ). 그래서 빨리 세수를 하고 밥을 먹고 물을 ( ). 그리고 지하철역으
+로 
+( ). 지하철에는 사람이 ( ). 그런데 내 앞의 사람이 금방 ( ). 정말 운이 ( ). 나는 신문을 ( ). 
+먼저 만화를 ( ). 만화가 재미있어서 나는 ( ). 곧 동대문역에 ( ). 버스 정류장에서 28번 버스를 
+타고 학교에 ( ). 
+  2. 그림을 보고 과거형을 사용해서 이야기를 만드세요.
+ 1) 경주와 민섭이는 공원에서 ( ).
+ 2) 민섭이는 노래를 부르고 경주는 강아지와 산책을 ( ).
+ 3) 두 사람은 서로 마음에 ( ).
+ @p142
+ 4) 그래서 인사를 ( ).
+ 5) 그리고 다음날 저녁 8시에 다시 만나기로 ( ).
+ 6) 다방에서 경주와 민섭이는 여러 가지 이야기를 ( ).
+ 7) 그 후 두 사람은 자주 ( ).
+ @p143
+ 8) 두 사람은 서로 ( ).
+ 9) 어느 날 두 사람은 ( ).
+ 10) 그래서 ( ).
+  3. '-아/어서' 와 '-기 때문에'를 사용해 '보기'와 같이 대답하세요.
+  보기: 왜 우산을 가지고 왔습니까? 아침에 비가 와서 가지고 왔습니다. 
+ 아침에 비가 왔기 때문에 가지고 왔습니다. 
+ @p144
+ 1) 왜 피곤합니까? ->
+ 2) 왜 그렇게 힘이 없습니까? ->
+ 3) 왜 어제 병원에 갔습니까? ->
+ 4) 왜 그렇게 기분이 좋습니까? ->
+ 5) 왜 지각했습니까? ->
+ 6) 왜 한국에 왔습니까? ->
+ @p145
+  4. 그림을 보고 '보기'와 같이 하세요
+ 보기: 방으로 들어가는데 전화가 왔습니다.
+ 1) ( ) 친구가 왔습니다.
+ 2) ( ) 비가 왔습니다.
+ 3) ( ) 전화벨소리가 들렸습니다.
+ @p146
+ 4) ( ) 동생이 들어왔습니다.
+ 5) ( ) 엄마가 사과를 가져왔습니다.
+ 6) ( ) 친구가 찾아왔습니다.
+  5. '보기'에서 알맞은 말을 골라 넣으세요.
+  보기: -에게서, -에서,
+ 1) 어머니( ) 편지가 왔습니다.
+ 2) 부산( ) 전화가 왔습니다. 
+ 3) 이 선물을 동생( ) 받았습니다. 
+ 4) 어머니( ) 한국말을 배웠습니다.
+ 5) 저는 미국( ) 왔습니다.
+ 6) 집( ) 학교까지 걸어갑니다.
+ 7) 친구( ) 전화가 왔습니다.
+ 8) 어디( ) 왔습니까?
+ @p147 
+  6. '보기'에서 알맞은 말을 골라 알맞게 고쳐 넣으세요.
+ 보기; 고프다, 나쁘다, 슬프다. 아프다, 쓰다, 크다, 기쁘다, 예쁘다
+ 1) A: 왜 그렇게 밥을 많이 먹습니까? B: 배가 ( ) 많이 먹습니다.
+ 2) A: 왜 그렇게 힘이 없습니까? B: 머리가 ( ) 힘이 없습니다.
+ 3) A: 서울은 어제 날씨가 좋았습니까? B: 아니오, ( ). 비가 많이 왔습니다.
+ 4) A: 영화가 재미있었습니까? B: 네, 재미있었습니다. 그렇지만 ( ) 많이 울었습니다. 
+ 5) A: 어제는 기분이 좋았습니까? B: 네, 무척 좋았습니다. 오래간만에 친구를 만나서 ( ).
+ 6) A: 왜 그 여자를 좋아합니까? B: 얼굴과 마음이 ( ) 좋아합니다.
+ 7) A: 어제는 무엇을 했습니까? B: 친구에게 편지를 ( ).
+ 8) A: 왜 그 구두를 안 신습니까? B: 구두가 좀 ( ) 불편합니다.
+  7. '-기로 하다'를 사용해 '보기'와 같이 하세요.
+  보기: A: 민섭씨와 약속했습니까? B: 네, 내일 만나기로 했습니다. 
+ @p148
+ 1) A: 언제 결혼합니까? B: 다음달에 ( ).
+ 2) A: 아직도 담배를 피웁니까? B: 이것이 마지막 담배입니다. 담배를 ( ).
+ 3) A: 아침에 몇시에 일어납니까? B: 보통 8시쯤에 일어납니다. 그렇지만 내일부터 일찍 ( ).
+ 4) A: 계속 인천에서 살겠습니까? B: 아니오, 2년 후에 서울로 ( ).
+ 5) A: 방학 때 여행갑니까? B: 네, 제주도에 ( ).
+ 6) A: 오늘 점심을 누구와 같이 먹습니까? B: 친구와 같이 ( ).
+    새단어
+ 지각하다 (be) late, to come late
+ 벨 bell
+ 소리 sound
+ 들리다 to be heard, to be audible
+ 찾아오다 to call on, to call at, to visit
+ 갑자기 suddenly
+ 가져오다 to bring
+ -한테서 from
+ 슬프다 (be) sad, sorrowful
+ 팔 an arm
+ 담배를 끊다 to quit smoking
+ 내리다 to take off
+ 뛰어 가다 to run dash
+ @p149
+ 금방 just now, a moment ago,
+ 정말 really
+ 운이 좋다 be lucky, have good luck
+ 만화 a cartoon, a comic book
+ 동대문역 Tongdaemun station
+ 공원 park
+ 산책(을) 하다 to take a walk
+ 마음에 들다 be satisfactory, be to one's liking
+ 인사(를) 하다 to greet, say hello
+ 여러 가지 various kinds of, all sorts of
+ 어느 날 some day, one day
+ 싸우다 to fight, (have a)quarrel
+ 헤어지다 to separate
+ 힘(이) 없다 be in low spirits, to have little energy
+ 기쁘다 (be) glad, happy
+ 왜 why
+ 그렇게 like that, so, in that way
+ 울다 to cry
+ 얼굴 face
+ 마음 heart (spiritual), (the)mind
+ 불편하다 to be uncomfortable, feel ill
+ 결혼하다 to marry, to get married to
+ 아직도 not yet, still, even now
+ 마지막 the last, the end
+ 인천 Incheon (place name)
+ 여행하다 to make a trip, to travel
+ @p150
+   제 17과 꽃집에 가서 장미꽃을 샀습니다.
+  오늘은 민섭이의 연극 공연 첫날이었습니다. 경주는 오후에 잔뜩 멋을 부리고 집을 나섰습니
+다.  
+  공연 장소는 대학로의 소극장이었습니다. 소극장은 집에서 꽤 멉니다. 그래서 경주는 일찍 
+집에서 나왔습니다. 
+  30분 전에 대학로에 도착했습니다. 경주는 극장에 가기 전에 먼저 꽃집에 가서 장미꽃과 
+안개꽃 한 다발을 샀습니다. 그리고 극장에 들어가서 프로그램을 보면서 커피를 한 잔 
+마셨습니다. 
+  연극이 끝나고 나서 경주는 무대 뒤로 갔습니다. 민섭이는 경주를 보고 아주 기뻐했습니다. 
+경주는 웃으면서 민섭이에게 꽃다발을 주었습니다. 
+ @p151
+    새단어
+ -아/어서 connective suffix 
+ 첫날 the first day, the opening day, the premiere
+ -이었습니다 the past form of noun 
+ /였습니다 + 입니다
+ 잔뜩 intently
+ 멋을 부리다 to spruce up
+ 나서다 to leave, to get out of
+ 대학로 Taehangno (street for culture and art)
+ 소극장 a small theater
+ 꽤 fairly, quite, pretty
+ 멀다 (be) far, (be) distant
+ 전 before, prior to
+ -기 전에 before doing (something)
+ 다발 a bundle, a bunch
+ 프로그램 program
+ -(으)면서 while, as (ending for progressing  action or the actions which  take place at the 
+so 
+sometime)
+ -고 나서 after(do something or happen something)
+ 끝나다 to be over, to come to an end
+ 무대 the stage
+ 기뻐하다 to be pleased
+ @p152
+    기본문형
+  1. Noun + 이었습니다/였습니다
+  Noun+이었습니다 is the past form of 'Noun+입니다', When noun ends in a vowel, -이었- 
+is usually contracted to -였-.
+  첫날입니다 -> 첫날이었습니다 It was the opening day (of a play).
+  일요일입니다 -> 일요일이었습니다  
+  학생입니다 -> 학생이었습니다
+  우리집입니다 -> 우리집이었습니다
+  친구입니다 -> 친구였습니다
+  2. -기 전에 <before>
+  극장에 가기 전에 꽃집에 갔습니다. I went to a flower shop before going to the theater.
+  자기 전에 일기를 씁니다. 
+  밥을 먹기 전에 손을 씻습니다. 
+  한국에 오기 전에 한국어를 조금 배웠습니다. 
+  학교에 오기 전에 예습을 합니다. 
+  손님이 오기 전에 청소를 했습니다. 
+  3. 'ㄹ' 불규칙 <'ㄹ'irregular verb, adjective>
+  Some stems which end in ㄹ are ㄹ irregular verbs and adjectives.
+  In this case,  ㄹ is dropped  when followed by  ㄴ, ㅂ,  ㅅ, and -오.  Because final ㄹ's 
+quality 
+is very similar to a vowel, final ㄹ always combines with the suffix followed by the vowel 
+(알습니다(X), 걸습니다(X))
+ @p153
+  살: ㅂ니다 -> 삽니다
+  알: ㅂ니다 -> 압니다
+  'ㄹ' 불규칙 어휘: 멀다, 살다, 알다, 길다, 놀다, 울다, 달다, 밀다, 만들다, 졸다, 들다
+  멀다 A: 집에서 학교까지 멉니까? B: 네, 좀 멉니다.
+ Is the school far from your house? Yes, it is.
+  살다 A: 어디에 삽니까? B: 안암동에 삽니다
+ 알다 A: 조용필을 압니까? B: 네, 압니다. 
+ 길다 A: 수미씨는 머리가 깁니까? B: 네, 머리가 깁니다. 
+ 놀다 A: 아이들이 어디에서 놉니까? B: 마당에서 놉니다. 
+ 울다 A: 아이가 많이 웁니까? B: 네, 많이 웁니다. 
+ 달다 A: 커피가 어떻습니까? B: 좀 답니다. 
+  4. -아/어서
+  Connective suffix -아/어서 has two expressions. One is about the cause and the other is 
+about the sequence. On the causal -아/어서, we studied in lesson 14 already. Here we will 
+study about the usage of the sequential -아/어서. 
+ @p154
+  In the case of the conjunctive clause in -아/어서, there is a relationship between the facts 
+in the concluding clause and those of the clause in -아/어서 in addition to the temporal 
+ordering. The subjects of the two clauses are always identical. 
+  꽃집에 가서 장미꽃을 샀습니다. I went to flower shop and  there l bought some roses.
+  책을 사서 읽었습니다. I bought a book and I read it. 
+  친구를 만나서 테니스를 쳤습니다. I met my friend and I Play tennis with him. 
+  학교에 가서 공부합니다. 
+  식당에 가서 밥을 먹습니다. 
+  인형을 만들어서 동생에게 주었습니다. 
+  그림을 그려서 친구에게 주었습니다. 
+  친구를 만나서 이야기했습니다. 
+  언니를 만나서 같이 가겠습니다. 
+  5. - (으)면서 <while>
+  Connective ending -(으)면서 expresses the notion of simultaneity "while...," "at the 
+sometime as...." This  ending indicates  that two  or more  actions performed  by a  single 
+person 
+are taking place at the same time .
+ a) -면서 comes after verb stems ending in a vowel or consonant ㄹ.
+ b) -으면서 comes after verb stems ending in a consonant(except ㄹ).
+ @p155
+  경주는 프로그램을 보면서 Kyeongju drank a cup of coffee
+  (경주는) 커피를 마셨습니다. while looking at the program.
+  나는 신문을 보면서 음악을 듣습니다. 
+  우리는 걸어가면서 이야기했습니다. 
+  아이가 울면서 말했습니다. 
+  나는 밥을 먹으면서 신문을 봅니다. 
+  전화를 받으면서 메모를 합니다. 
+  6. -고 나서 <after>
+  연극이 끝나고 나서 경주는 무대 뒤로 갔습니다. After the performance was over, Kyeongiu 
+went backstage. 
+  밥을 먹고 나서 이를 닦습니다. 
+  이 일을 다 하고 나서 가겠습니다. 
+  돈을 많이 벌고 나서 결혼을 하겠습니다. 
+  일기를 쓰고 나서 잡니다. 
+  그 영화를 보고 나서 울었습니다. 
+    연습
+  1. 과거형을 이용해 ( )를 채우세요.
+ 1) 나는 지금 회사원입니다. 그런데 3년 전에는 학생( ).
+ 2) 오늘부터 수업이 있습니다. 어제까지 방학( ).
+ 3) 오늘은 월요일입니다. 어제는 일요일( ).
+ 4) 여기는 내 친구집입니다. 그렇지만 전에는 우리집( ).
+ @p156
+  2. 그림을 보고 대답하세요.
+  <모리씨의 하루>
+ 1) 아침을 먹기 전에 무엇을 합니까? ->
+ 2) 아침을 먹고 나서 무엇을 합니까? ->
+ 3) 낮에는 무엇을 합니까? ->
+ 4) 집에 돌아와서 무엇을 합니까? ->
+ 5) 저녁을 먹고 나서 무엇을 합니까? ->
+ 6) 자기 전에 무엇을 합니까? ->
+  3. 'ㄹ' 불규칙동사와 형용사를 이용해 문장을 완성하세요
+ 1) A: 사전을 어디에서 팝니까? B: 서점에서 ( ).
+ A: 서점은 여기에서 ( )? B: 아니오, 바로 저기입니다. 
+ @p157
+ 2) A: 어디에서 ( )? B: 기숙사에서 삽니다. 
+ 3) A: 커피가 어떻습니까? B: ( ). 설탕을 너무 많이 넣었습니다. 
+ 4) A: 조용필을 ( )? B: 네, ( ). 가수입니다.
+ 5) A: 아기는 잡니까? B: 아니오, 저기서 ( ).
+ 6) 나는 머리가 짧습니다. 그렇지만 내 동생은 ( ).
+  4. '-아/어서'를 이용해 문장을 연결하세요.
+ 1) 다방에 갔습니다. 그리고 거기에서 친구를 만났습니다. -> 
+ 2) 극장에 갔습니다. 그리고 거기에서 영화를 보았습니다. ->
+ 3) 식당에 갔습니다. 그리고 거기에서 밥을 먹었습니다. -> 
+ 4) 책을 샀습니다. 그리고 그 책을 읽었습니다. -> 
+ 5) 라면을 끓였습니다. 그리고 그 라면을 먹었습니다. -> 
+ 6) 인형을 만들었습니다. 그리고 그 인형을 동생에게 주었습니다. -> 
+ 7) 친구를 만났습니다. 그리고 그 친구와 이야기했습니다. -> 
+ 8) 언니를 만났습니다. 그리고 언니와 백화점에 갔습니다. -> 
+ 9) 친구를 만났습니다. 그리고 그 친구와 테니스를 쳤습니다. ->
+ @p158
+  5. '-고', '-아/어서'를 이용해 문장을 연결하세요.
+ 1) 나는 어제 시장에 갔습니다. 그리고 백화점에 갔습니다. -> 
+ 2) 나는 어제 시장에 갔습니다. 그리고 시장에서 사과를 샀습니다. -> 
+ 3) 어제 친구가 우리집에 왔습니다. 그리고 우리집에서 나와 여러 가지 이야기를 했습니다. -> 
+.
+ 4) 나는 어제 청소를 했습니다. 그리고 빨래를 했습니다. -> 
+ 5) 나는 어제 편지를 썼습니다. 그리고 그것을 어머니에게 보냈습니다. -> 
+ 6) 나는 어제 친구를 만났습니다. 그리고 같이 극장에 갔습니다. -> 
+ 7) 나는 어제 친구를 만났습니다. 그리고 혼자 영화를 보러 갔습니다. ->
+ 8) 나는 배가 아파서 약을 샀습니다. 그리고 그 약을 먹었습니다. -> 
+  6. 그림을 보고 '보기'와 같이 하세요.
+  보기: 커피를 마시면서 신문을 봅니다. 
+ @p159
+ 1) ( ).
+ 2) ( ).
+ 3) ( ).
+ 4) ( ).
+ 5) ( ).
+ 6) ( ).
+ @p160
+    새단어
+ 일기 a diary
+ 예습 preparation of lessons
+ 손님 guest
+ 알다 to know to be familar with
+ 길다 (be) long
+ 놀다 to play
+ 달다 (be) sweet, sugary
+ 팔다 to sell
+ 만들다 to make
+ 졸다 to nap, doze, drowse
+ 들다 to lift(up) , hold, take
+ 안암동 Anam-dong (place name)
+ 아이 child, youngster
+ 마당 a yard, a courtyard
+ 어떻습니까? how about 
+ 전화를 받다 to get a phone call
+ 메모(를) 하다 to take a memo, take notes
+ 다 all
+ 돈을 벌다 to make money
+ 회사원 a company employee
+ @p161
+ 낮 day time
+ 저녁 (밥) dinner
+ 사전 dictionary
+ 바로 just, exactly
+ 기숙사 dormitory
+ 설탕 sugar 
+ 넣다 to put in
+ 가수 singer
+ 끓이다 to boil
+ 혼자 alone, by oneself
+ @p162
+    제 18과 나는 그림 그리는 것을 좋아합니다 
+  나는 그림 그리는 것을 좋아합니다. 지난 주말에도 시골 풍경을 그리러 교외로 나갔습니다. 
+  서울역에서 기차를 탔습니다. 
+  창밖에서 아이들이 작은 손을 흔들었습니다. 기차에서 내려서 30분쯤 걸어갔습니다. 
+  푸른 하늘과 높은 산이 아름다웠고, 맑은 공기와 시원한 바람도 상쾌했습니다. 
+  들에서 열심히 일하는 사람들도 보았습니다. 
+  나는 큰 나무 아래에서 그림을 그리기 시작했습니다.
+  일하는 농부와 소를 그렸습니다. 
+  시간이 있으면 이번 주말에도 또 가고 싶습니다. 
+ @p163 
+    새단어
+ 그리다 to draw
+ -는 것 the action which, the thing which
+ 주말 weekend
+ 시골 the country, rural area
+ 풍경 scenery, a landscape
+ 교외 the outskirts, the suburbs
+ 서울역 Seoul Station
+ 기차 train
+ 창 window
+ -(으)ㄴ noun modifier ending 
+ 흔들다 to shake
+ 푸르다 (be) blue
+ 하늘 sky
+ 맑다 (be) clear
+ 공기 air
+ 시원하다 (be) refreshing, fresh
+ 바람 wind
+ 상쾌하다 (be) crisp, invigorating
+ 들 field
+ -는 noun modifier ending
+ -기 시작하다 to begin to
+ 농부 farmer
+ 소 cow, ox
+ -(으)면 if (conditional ending)
+ 또 again
+ @p164
+    기본문형
+  1. 관형형 현재
+  When a verb and an adjective are located in front of a noun, a adnominal ending is 
+attached to stem . Adnominal means,. applying to a noun.
+  (1) The present tense adnominal form of the verb and adjective 있다, 없다 or their 
+compounds is made by adding the element -는 to the stem .
+  학생이 공부합니다. -> 공부하(stem): 는 학생(ending)
+  영화가 재미있습니다. -> 재미있는 영화
+  (2) The Present tense adnominal form of the adjective is made by adding the element 
+-(으)ㄴ to the stem of the adjective.
+ a) -ㄴ comes after stems ending in a vowel or consonant ㄹ.
+ b) -은 comes after stems ending in a consonant (except ㄹ) .
+  꽃이 예쁩니다 -> 예쁜 꽃
+  산이 높습니다 -> 높은 산
+  아기가 잡니다 -> 자는 아기
+  언니가 청소합니다 -> 청소하는 언니
+  친구가 책을 읽습니다 -> 책을 읽는 친구
+  아이가 사탕을 먹습니다 -> 사탕을 먹는 아이
+  영화가 재미있습니다 -> 재미있는 영화
+  소설이 재미없습니다 -> 재미없는 소설
+  방이 깨끗합니다 -> 깨끗한 방
+  바람이 시원합니다 -> 시원한 바람
+ @p165
+  손이 작습니다 -> 작은 손
+  날씨가 좋습니다 -> 좋은 날씨
+  2, -는 것 <-ing (of something)>
+  -는 것 is directly  attached to the  stem of verbs  and expresses the  act, or manner  of 
+doing 
+something. It corresponds to English "-ing" or to the infinitive marker "to". Verbal noun 
+made with -는 것 are used as a subject or an object.
+  나는 그림 그리는 것을 좋아합니다. I like drawing pictures.
+  나는 영화 보는 것을 좋아합니다. 
+  아이들이 노래하는 것을 보았습니다. 
+  나는 여행하는 것을 좋아합니다. 
+  한국말을 공부하는 것이 재미있습니까?
+  다방에 가는 것이 어떻습니까?
+  어디에 가는 것이 좋습니까?
+  무엇을 하는 것이 좋습니까?
+  3. 'ㅂ' 불규칙 <ㅂ irregular verb, adjective>
+  Some verbs and adjectives whose stems end in ㅂ are irregular. When the final ㅂ is 
+followed by a vowel, it turns into an 오 or 우. In  conjugating, 오 is combined into 아, and 
+우 
+is combined into 어 and 으.  And each is contracted as  와, 워, 우 respectively. But  in the 
+case 
+of ㅂ  irregular  verbs, it   does not  take -았습니다,   -아서 form.  There are   only two 
+exceptions 
+(돕다, 곱다).
+  'ㅂ' 불규칙 동사: 춥다, 덥다, 어렵다, 쉽다, 뜨겁다, 차갑다,
+ @p166
+ 가깝다, 아름답다, 무겁다, 가볍다, 맵다, 싱겁다, 돕다, 곱다
+  춥다: 오늘은 춥습니다. It is cold today. 어제도 추웠습니다. 추워서 옷을 많이 입었습니다. 
+추운 날에는 옷을 많이 입습니다. 
+  어렵다: 한국말은 어렵습니다. 전에는 더 어려웠습니다. 어려워서 열심히 공부했습니다. 
+그렇지만 나는 어려운 한국말을 좋아합니다. 
+  뜨겁다: 커피가 뜨겁습니다. 물이 뜨거웠습니다. 나는 커피가 뜨거워서 못 마십니다. 나는 
+뜨거운 커피를 싫어합니다. 
+  가깝다: 집에서 회사까지 가깝습니다. 전에는  집에서 학교까지 가까웠습니다. 집에서 학교까
+지 
+가까워서 언제나 일찍 도착했습니다. 그래서 지금도 회사에서 가까운 집에 살고 있습니다. 
+  4. -기 시작하다 <begin to>
+  그림을 그리기 시작했습니다. I began to draw a picture.
+  두 사람은 이야기하기 시작했습니다. 
+  수미가 갑자기 웃기 시작했습니다. 
+ @P167
+  편지를 쓰기 시작했습니다. 
+  한 시간 전부터 공부하기 시작했습니다. 
+  남쪽에는 꽃이 피기 시작했습니다. 
+  아침밥을 먹기 시작했습니다. 
+  5. - (으)면 <if>
+  -(으)면 is the conditional ending. The subject of the -(으)면 clause, if different from that 
+of 
+the main clause, usually takes the particle -이/가. If both subjects are same, the particle of 
+the subject of the -(으)면 clause is -은/는.
+ a) -면 comes after verb stems ending in a vowel or consonant ㄹ .
+ b) -으면 comes after verb stems ending in a consonant (except consonant ㄹ ) .
+  비가 오면 안 가겠습니다. If it rains, 1will not go there.
+  아프면 병원에 가십시오.
+  창문을 열면 시원합니다. 
+  전화를 걸면 바로 나가겠습니다. 
+  시간이 있으면 또 가고 싶습니다. 
+  책이 재미없으면 읽지 마십시오,
+  돈이 많으면 여행을 가겠습니다. 
+  내가 보고 싶으면 이 사진을 보십시오.
+ @p168
+  연습
+  1. '-는 것'을 이용해서 문장을 만드세요.
+ 1) A: 나는 매일 그림을 그립니다. 창민씨도 그림 그리는 것을 좋아합니까? B: 아니오, 나는 ( 
+) 
+좋아합니다. 
+ 2) A: 야구를 하는 것이 재미있습니까? B: 아니오, ( ) 더 재미있습니다.
+ 3) A: 다방에 가는 것이 어떻습니까? B: 나는 배가 고파서 식당에 ( ) 더 좋습니다. 
+ 4) A: 나는 아이들이 노래하는 것을 보았습니다. 
+ B: 그렇습니까? 나는 아이들이 ( ) 보았습니다. 
+ 5) A: 나는 일요일에 텔레비전을 보는 것을 좋아합니다. 
+ B: 그렇습니까? 나는 ( ) 아주 좋아합니다. 
+ 6) A: 나는 수미씨가 술을 마시는 것을 보았습니다. 
+ B: 그렇습니까? 나는 ( ) 보았습니다.
+  2. ( )에 알맞은 말을 넣으세요.
+ 1) 나는 지금 책을 읽습니다. 지금 ( ) 책은 재미있습니다. 
+ 2) 한국의 가을은 정말 아름답습니다. ( ) 하늘과 ( ) 산이 특히 아름답습니다. 
+ 3) 아기가 잡니다. ( ) 아기는 언제나 귀엽습니다. 
+ 4) 동생이 텔레비전을 봅니다. 어머니는 ( ) 동생에게 심부름을 시킵니다. 
+ 5) 날씨가 춥습니다. ( ) 차를 주십시오.
+ 6) 이 소설은 재미없습니다. ( ) 소설을 읽고 싶습니다.
+ @p169
+ 7) 우리 하숙집은 더럽습니다. 나는 ( ) 하숙집으로 이사가고 싶습니다. 
+ 8) 여기는 너무 시끄럽습니다. 좀 ( ) 곳으로 가는 것이 어떻습니까?
+ 9) 저쪽에서 아이스크림을 ( ) 아이가 우리 아들입니다. 
+ 10) 배가 고픕니다. 빵집에 가서 ( ) 빵을 먹고 싶습니다. 
+  3. '보기'에 있는 단어를 알맞은 형태로 고쳐 넣으세요
+  보기: 가깝다, 어렵다, 뜨겁다, 춥다, 무겁다, 맵다, 아름답다, 싱겁다
+ 1) 오늘은 날씨가 좋습니다. 그렇지만 어제는 좀 ( ).
+ 2) 어제는 불꽃놀이가 있었습니다. 무척 ( ).
+ 3) 왜 커피를 안 마십니까? ( ) 못 마십니다. 
+ 4) 왜 소금을 넣습니까? 국이 ( ) 소금을 넣습니다. 
+ 5) 김치 좀 드십시오. ( ) 못 먹겠습니다. 
+ 6) 학교에 버스를 타고 갑니까? 아니오, 집에서 ( ) 걸어갑니다. 
+ 7) 이 가방은 너무 ( ) 못 들겠습니다. 
+ 8) 한국말이 어렵습니까? 아니오, 처음에는 좀 ( ). 그렇지만 지금은 괜찮습니다. 
+ @p170
+  4. ( )에 알맞은 말을 넣으세요.
+ 앨버트: 오래간만입니다. 요즘 어떻게 지내십니까?
+ 영진: 한국말을 배우러 고대에 다닙니다. 
+ 앨버트: 언제부터 배우러 다니기 ( )?
+ 영진: 두 달전부터 ( ).
+ 앨버트: 영진씨는 어떻게 지내십니까?
+ 영진: 저는 수영을 배우기 ( ).
+ 앨버트: 언제부터 ( )
+ 영진: 세 달전부터 ( )
+  5. ( )에 알맞은 말을 넣으세요.
+ 1) A: 피곤합니다. B: 피곤하면 ( ).
+ 2) A: 감기에 걸렸어요. B: 많이 아프면 ( ).
+ 3) A: 나는 내일 경복궁에 갑니다 B: 세영씨가 가면 ( ).
+ 4) A: 수미씨를 보고 싶습니다. B: ( ) 빨리 오십시오.
+ @p171
+ 5) A: 시끄럽습니다. 창문을 닫으십시오. B: ( ) 덥습니다. 
+ 6) A: 우리집에 놀러 오십시오. B: ( ) 가겠습니다. 
+ 7) A: 기차가 홈에 들어옵니다. 
+ B: ( ) 위험합니다. 밀지 마십시오.
+ 8) 덥습니까? ( ) 문을 여십시오.
+ 9) 춥습니까? ( ) 문을 닫으십시오.
+ 10) 전화를 ( ) 바로 나가겠습니다. 
+    새단어
+ 소설 novel
+ 노래(를) 하다 to sing a song, to sing
+ 쉽다 (be) easy
+ 뜨겁다 (be) hot
+ 차갑다 (be) cold
+ 가깝다 (be) near
+ 무겁다 (be) heavy
+ 가볍다 (be) light
+ 맵다 (be) hot, spicy
+ 싱겁다 (be) bland
+ 돕다 to help
+ 곱다 (be) pretty
+ 물 water
+ 싫어하다 to dislike
+ 언제나 whenever, always
+ 남쪽 south
+ 꽃이 피다 to bloom (flowers)
+ @p172
+ 창문 window
+ 열다 to open
+ 특히 especially
+ 귀엽다 (be) cute, (be) charming
+ 심부름을 시키다 to make a person do an errand
+ 더럽다 (be) dirty
+ 이사가다 to move, to change one's residence
+ 빵집 bakery
+ 불꽃놀이 a fireworks display
+ 소금 salt
+ 김치 Kimchi (Korean dish)
+ 어떻게 how
+ 지내다 to spend one's time, to get along
+ 경복궁 Kyeongbok Palace
+ 닫다 to close
+ 홈 flaw, speck, crack
+ 위험하다 (be) dangerous
+ 밀다 to push
+ 문 door
+ @p173
+    제 19과 두 사람은 서로 사랑하게 되었습니다
+  친구 선영이가 다음 주 일요일에 결혼을 합니다.  남편될 사람은 같은 과 선배인 창민씨입니
+다. 
+나는 전에 창민씨를 몇번 만난 적이 있습니다. 
+  그들은 3년 전에 만나서 서로 사랑하게 되었습니다. 
+  선영이는 명랑하고 적극적인 성격이고, 창민씨는 자상합니다. 두 사람은 무척 어울리는 한 
+쌍입니다. 나는 두 사람에게 의미있는 결혼선물을 주고 싶습니다. 그래서 나무 기러기를 한 쌍 
+샀습니다. 그리고 축하하는 시도 써서 같이 주려고 합니다. 
+ @p174
+    새단어
+ 사랑하다 to love
+ -게 되다 to begin to do, to come to do (auxiliary verb)
+ -(으)ㄹ imperfect tense adnominal ending 
+ 같다 (be) the same
+ 과 department
+ 선배 senior, superior, elder
+ 몇번 several times
+ -(으)ㄴ 적이 to have ever happened/
+ 있다/없다 have never happened
+ (an expression for experience)
+ 그들 they
+ 명랑하다 (be) bright, (be) cheerful
+ 적극적 (be) positive, (be) active,
+ 성격 character, personality
+ 자상하다 (be) thoughtful, (be) meticulous
+ 어울리다 to be becoming, suitable, to match well, to suit
+ 쌍 pair
+ 의미 있다 to have meaning, to be meaningful
+ 나무기러기 wild goose made of wood
+ 축하하다 to congratulate
+ 시 poem
+ -(으)려고 하다 to intend
+ @p175
+    기본문형
+  1. 관형형 과거
+ (1) The past tense adnominal form of the verb is made by adding the element -(으)ㄴ to 
+the stem.
+ a) -ㄴ comes after verb stems ending in a vowel or consonant ㄹ .
+ b) -은 comes after verb stems ending in a consonant (except ㄹ) .
+  친구가 그림을 그렸습니다. -> 친구가 그리(stem): ㄴ 그림(ending)
+  동생이 코트를 입었습니다. -> 동생이 입(stem): 은 코트(ending)
+ (2) The past tense adnominal form of the adjective is made by adding the element -던 or 
+-았/었던 to the stem.
+  날씨가 좋았습니다 -> 좋(stem): 던 날씨(ending0 or 좋(stem): 았던 날씨(ending)
+  The past tense adnominal form of the adjective  expresses not only the state of the  past 
+but 
+the fact that something turned into another state .
+  영화가 재미있었습니다. -> 재미있던 영화
+ (When I was fifteen years old,  1watched the movie "Romeo and Juliet". That time I had 
+fun. But a few days ago I watched the same movie again.  1didn't have fun at all.)
+  친구가 노래를 했습니다. 노래를 한 친구
+  어제 친구를 만났습니다. 어제 만난 친구
+  며칠 전에 영화를 보았습니다. 며칠 전에 본 영화
+  조금 전에 책을 읽었습니다. 조금 전에 읽은 책
+ @p176
+  생일날 선물을 받았습니다 -> 생일날 받은 선물 
+  강이 깊었습니다 -> 깊던 강 
+  꽃이 예뻤습니다 -> 예쁘던 꽃
+  운동장이 넓었습니다 -> 넓던 운동장
+  키가 작았습니다 -> 작던 키
+  2. 관형형 미래 -(으)ㄹ 
+  The future tense adnominal form of the verb is made by adding the element -(으) ㄹ to 
+the stem.
+  친구를 만나겠습니다. I will meet a friend of mine.  -> 만날 친구 The friend whom I will 
+meet
+  영화를 보겠습니다. -> 볼 영화 
+  꽃을 사겠습니다. -> 살 꽃
+  술을 마시겠습니다. -> 마실 술
+  책을 읽겠습니다. -> 읽을 책
+  옷을 입겠습니다. -> 입을 옷
+  구두를 닦겠습니다. -> 닦을 구두
+  빵을 먹겠습니다. -> 먹을 빵
+  3. -(으)ㄴ 적이 있다/없다 <to have ever happened/have never happened>
+  -(으)ㄴ 적이 있다/없다 indicates one's experience. It means to have ever happened/have 
+never happened. In this case it is similar to the present perfect in English .
+  김선생님을 종로에서 만난 적이 있습니다. 
+  나도 그 영화를 본 적이 있습니다. 
+ @p177
+  한국 소설을 읽은 적이 있습니다. 
+  삼계탕을 먹은 적이 있습니다. 
+  결석한 적이 없습니다. 
+  친구와 싸운 적이 없습니다. 
+  산에 올라간 적이 없습니다. 
+  4. 동사, 형용사 + -게 되다 <to begin to do>
+  By using the -게 되다 form, we can  describe the development or the change of  a state, 
+but 
+in the case of an adjective the -아/어지다 form is more natural and we use it more often.
+  안 사랑했습니다. -> 사랑합니다: 사랑하게 되었습니다. 
+  한국말을 못했습니다. -> 잘합니다: 한국말을 잘하게 되었습니다. 
+  안 좋아했습니다. -> 좋아합니다: 좋아하게 되었습니다. 
+  늦게 일어났습니다. -> 일찍 일어납니다: 일찍 일어나게 되었습니다. 
+  시골에 살았습니다. -> 서울에 삽니다: 서울에 살게 되었습니다. 
+  학교에 다녔습니다. -> 회사에 다닙니다: 회사에 다니게 되었습니다. 
+  이해를 못 했습니다. -> 이해합니다: 이해하게 되었습니다. 
+ @p178
+  5. -(으)려고 하다 <intend to>
+  -(으)려고 하다 means "to intend to... " "to want to..." "to try to...."
+  친구에게 전화를 걸려고 합니다. I intend to call my friend.
+  나무 기러기를 주려고 합니다. 
+  일요일에 집에서 쉬려고 합니다. 
+  오후에 영화를 보러 가려고 합니다. 
+  공원에 가서 사진을 찍으려고 합니다. 
+  점심에 국수를 먹으려고 합니다. 
+  책을 읽으려고 합니다. 
+  구두를 닦으려고 합니다. 
+    연습
+  1. ( )에 알맞은 말을 넣으세요.
+ 1) 나는 어제 영화를 보았습니다. 어제 ( ) 영화는 무척 재미있었습니다. 
+ 2) 나는 어제 옷을 샀습니다. 나는 오늘 어제 ( ) 옷을 입고 학교에 왔습니다. 
+ 3) 나는 생일날 여러 가지 선물을 받았습니다. 이 넥타이도 생일날 ( ) 것입니다. 
+ 4) 나는 어제 소설을 읽었습니다. 지금부터 어제 ( ) 소설을 이야기하겠습니다. 
+ 5) ( ) 하늘이 갑자기 어둡게 변했습니다. 
+ 6) 요즘 운동을 좋아하게 되었습니다. 그래서 전에는 ( ) 축구도 재미있습니다.
+ @p179
+ 7) 3월이 되었습니다. 어느새 ( ) 겨울 날씨가 봄날씨로 변했습니다. 
+ 8) 손님들이 많이 왔습니다. 그래서 ( ) 집이 시끄럽습니다. 
+  2. ( )에 알맞은 말을 넣으세요.
+ 1) 나는 내일 영화를 보러 갑니다. 내일 ( ) 영화는 "Back to the Future2"입니다. 
+ 2) 일요일에 친구를 만나기로 했습니다. 일요일에 ( ) 친구는 대학 동창입니다.
+ 3) 오늘은 아주 바쁩니다. ( ) 일이 많기 때문입니다. 
+ 4) 누가 책을 읽겠습니까? 책을 ( ) 사람은 손을 드십시오.
+ 5) 내일 사진을 찍으러 갑니다. 사진을 ( ) 곳은 경복궁입니다. 
+ 6) 며칠 후에 파티가 있습니다. 그렇지만 파티 때 ( ) 옷이 없습니다. 
+  3. ( )에 알맞은 관형형을 시제에 맞게 넣으세요.
+ 1) 나는 어제 공원에 갔습니다. 공원에는 ( ) 꽃이 많이 있었습니다. 
+ 2) 아기가 자고 있습니다. ( ) 아기의 얼굴은 참 예쁩니다. 
+ 3) 어제 사과와 배를 샀습니다. 우리는 지금 어제 ( ) 사과를 먹고 있습니다.
+ 4) 친구를 만나러 다방에 갑니다. 조금 후에 ( ) 친구는 키가 아주 큽니다. 
+ @p180
+ 5) 방을 청소했습니다. 그래서 ( ) 방이 이제 깨끗하게 되었습니다. 
+ 6) 나는 가을을 좋아합니다. ( ) 하늘과 ( ) 바람을 좋아하기 때문입니다. 
+ 7) 며칠 전에 본 영화는 재미없었습니다. ( ) 영화를 보고 싶습니다. 
+ 8) 나는 지금 책을 읽고 있습니다. 지금 ( ) 책은 무척 재미있습니다. 
+ 9) 지난 주말에 설악산에 갔다왔습니다. 이것은 설악산에서 ( ) 사진입니다. 
+ 10) 머리를 감으려고 합니다. 그런데 머리를 ( ) 샴푸가 없습니다. 
+  4. ( )에 알맞은 말을 넣으세요.
+ 1) A: 나는 어제 마이클 잭슨을 보았습니다.  B: 나도 전에 마이클 잭슨을 ( ).
+ 2) A: 이태원에 간 적이 있습니까? B: 네, 한 달 전에 ( ).
+ 3) A: 나는 요즘 한국 소설을 읽고 있습니다. B: 나는 소설은 어려워서 못 읽습니다. 
+ 그렇지만 수필은 ( ).
+ 4) A: 점심에 냉면을 먹었습니다. B: 나도 전에 냉면을 ( ). 매워서 아주 고생했습니다. 
+ 5) A: 우리는 아주 친합니다. 지금까지 싸운 ( ). B: 그렇습니까? 무척 부럽습니다. 
+ 6) A: 나는 지금까지 결석한 적이 없습니다. B: 나도 ( ). 그리고 지각한 ( ).
+ @p181
+ 7) A: 이번 방학에 여행하러 유럽에 갑니다.  B: 부럽습니다. 나는 지금까지 외국에 ( ).
+ 8) A: 외국 친구가 있습니까? B: 아니오, 외국 사람을 ( ).
+  5. ( )에 알맞은 말을 넣으세요.
+ 1) 봄이 되었습니다. 그래서 날씨가 ( ).
+ 2) 요즘 많이 먹었습니다. 그래서 ( ).
+ 3) 청소했습니다. 그래서 방이 ( ).
+ 4) 운동을 많이 했습니다. 그래서 ( ).
+ 5) 어제는 많이 아파서 병원에 갔습니다. 그래서 ( )
+ 6) 수미는 무척 착하고 예쁩니다. 그래서 나는 수미를 ( ).
+ 7) 1년 전에는 한국말을 못했습니다. 1년 동안 열심히 공부했습니다. 그래서 한국말을 ( ).
+ 8) 전에는 술을 많이 마셨습니다. 그런데 요즘은 몸이 약해서  술을 안 마셨습니다. 그래서 술
+을 
+( ).
+  6. 그림을 보고 대답하세요.
+ 1) 무엇을 하려고 합니까? ->
+ @p182
+ 2) 무엇을 하려고 합니까? ->
+ 3) 무엇을 하려고 합니까? ->
+ 4) 무엇을 하려고 합니까? ->
+ 5) 무엇을 하려고 합니까? ->
+ 6) 무엇을 하려고 합니까? ->
+ @p183
+ 7) 무엇을 하려고 합니까? ->
+ 8) 무엇을 하려고 합니까? ->
+    새단어
+ 코트 coat
+ 강 river
+ 깊다 (be) deep
+ 운동장 a play ground, an athletic field
+ 넓다 (be) wide, (be) broad
+ 종로 Chongno (name of a street in Seoul)
+ 삼계탕 ginseng chicken (broth) Samgyethang
+ 이해(를) 하다 to understand
+ 사진을 찍다 to take a picture
+ 국수 noodles, soop noodles
+ 어둡다 (be) dark
+ 변하다 to change
+ 축구 soccer
+ @p184
+ 어느새 so soon, unnoticed
+ 시끄럽다 (be) noisy
+ 동창 a fellow student, an alumnus
+ 손(을) 들다 to raise one's hand
+ 파티 party
+ 갔다오다 to come back
+ 설악산 Seorak mountain
+ 샴푸 shampoo
+ 이태원 Ithaewon (place name)
+ 수필 essay
+ 냉면 cold buckwheat noodles, naengmyon
+ 고생하다 to have a hard time
+ 친하다 (be) intimate, close
+ 부럽다 (be) enviable
+ 유럽 Europe
+ 외국 foreign country
+ 운동 exercise, sports
+ 착하다 (be) nice, (be) good-natured
+ 몸이 약하다 to be weak in body,
+ to be Physically weak
+ @p185
+    제 20과 복습 (4)
+  1. -기 때문에
+  머리가 아프기 때문에 병원에 갑니다. 
+  비가 오기 때문에 야구를 못합니다. 
+  피곤했기 때문에 늦잠을 잤습니다. 
+  늦게 일어났기 때문에 지각했습니다. 
+  2. -는데 
+  방으로 들어가는데 전화가 왔습니다. 
+  밥을 먹는데 친구가 찾아왔습니다. 
+  산을 올라가는데 갑자기 비가 왔습니다. 
+  공부를 하는데 엄마가 심부름을 시켰습니다. 
+  3. -에게서
+  친구에게서 전화가 왔습니다. 
+  이 책을 언니에게서 받았습니다. 
+  어머니에게서 한국말을 배웠습니다. 
+  4. '으' 불규칙
+  쓰다: 편지를 씁니다. 
+  편지를 썼습니다. 
+  편지를 써서 친구에게 보냈습니다. 
+ @p186
+  아프다: 머리가 아픕니다. 
+  머리가 아팠습니다. 
+  머리가 아파서 병원에 갔습니다. 
+  5. -기로 하다
+  고려다방에서 만나기로 했습니다. 
+  내일부터 일찍 일어나기로 했습니다. 
+  담배를 끊기로 했습니다. 
+  술을 안 마시기로 했습니다. 
+  6. Noun+이었습니다 /였습니다 
+  오늘은 일요일입니다. 어제는 토요일이었습니다. 
+  나는 지금 회사원입니다. 1년 전에는 학생이었습니다. 
+  여기는 내 친구집입니다. 전에는 우리집이었습니다. 
+  7. -기 전에
+  밥을 먹기 전에 손을 씻습니다. 
+  자기 전에 일기를 씁니다. 
+  한국에 오기 전에 한국말을 조금 배웠습니다. 
+  아침을 먹기 전에 세수를 하고 청소를 합니다. 
+  8. -고 나서
+  밥을 먹고 나서 이를 닦습니다. 
+  그 영화를 보고 나서 많이 울었습니다. 
+ @p187
+  숙제를 다 하고 나서 자겠습니다. 
+  한국말을 다 배우고 나서 미국에 돌아가겠습니다. 
+  9. - (으)면서
+  커피를 마시면서 이야기를 했습니다. 
+  텔레비전을 보면서 밥을 먹습니다. 
+  동생이 졸면서 책을 보고 있습니다. 
+  밥을 먹으면서 신문을 봅니다. 
+  좀 웃으면서 이야기하십시오.
+  10. -아/어서
+  식당에 가서 밥을 먹습니다. 
+  학교에 가서 공부를 합니다. 
+  책을 사서 읽었습니다. 
+  인형을 만들어서 동생에게 주었습니다. 
+  친구를 만나서 테니스를 쳤습니다. 
+  언니를 만나서 백화점에 갔습니다. 
+  11. -는 것
+  나는 그림 그리는 것을 좋아합니다. 
+  나는 영화 보는 것을 싫어합니다. 
+  한국말을 공부하는 것은 재미있습니다. 
+  어디에 가는 것이 좋습니까?
+ @p188
+  12. 관형형 현재
+  아기가 잡니다 -> 자는 아기 
+  동생이 빵을 먹습니다 -> 빵을 먹는 동생
+  아기가 웃습니다 -> 웃는 아기
+  영화가 재미있습니다 -> 재미있는 영화
+  소설이 재미없습니다 -> 재미없는 소설
+  교실이 깨끗합니다 -> 깨끗한 교실
+  꽃이 예쁩니다 -> 예쁜 꽃
+  산이 높습니다 -> 높은 산
+  날씨가 좋습니다 -> 좋은 날씨
+  13. 'ㅂ ' 불규칙
+  춥다: 오늘은 춥습니다. 어제도 추웠습니다. 추워서 옷을 많이 입었습니다. 
+  어렵다: 처음에 한국말이 무척 어려웠습니다.  어려워서 열심히 공부했습니다. 그렇지만 지금
+도 
+좀 어렵습니다. 
+  14. 관형헝 과거
+  동생이 그림을 그렸습니다 -> 동생이 그린 그림 
+  어제 친구를 만났습니다 -> 어제 만난 친구
+  며칠 전에 책을 읽었습니다 -> 며칠 전에 읽은 책 
+  생일날 선물을 받았습니다 -> 생일날 받은 선물
+ @p189
+  날씨가 좋았습니다 -> 좋던 날씨
+  키가 작았습니다 -> 작던 키
+  운동장이 넓습니다 -> 넓던 운동장
+  영화가 재미있었습니다 -> 재미있던 영화
+  15. 관형형 미래
+  친구를 만나겠습니다 -> 만날 친구 
+  영화를 보겠습니다 -> 볼 영화
+  책을 읽겠습니다 -> 읽을 책
+  옷을 입겠습니다 -> 입을 옷
+  16. -(으)ㄴ 적이 있다/없다
+  나도 그 영화를 본 적이 있습니다. 
+  한국 소설을 읽은 적이 있습니다. 
+  결석한 적이 없습니다. 
+  친구와 싸운 적이 없습니다. 
+  17. -게 되다 
+  1년전에 한국말을 못했습니다. 
+  그러나 열심히 공부해서 지금은 잘하게 되었습니다. 
+  어제 배가 많이 아팠습니다. 
+  약을 먹어서 지금은 안 아프게 되었습니다. 
+ @p190
+  수미는 착하고 예쁩니다. 
+  그래서 나는 수미를 좋아하게 되었습니다. 
+  18. -(으)려고 하다 
+  오늘은 집에서 쉬려고 합니다. 
+  오후에 영화를 보러 가려고 합니다. 
+  공원에 가서 사진을 찍으려고 합니다. 
+  책을 읽으려고 합니다. 
+ @p191
+    색인
+ 1. 문법
+ 2. 단어
+ 숫자 -> 각 과
+ 본 -> 본문
+ 기 -> 기본문형
+ 연 -> 연습
+ ( ) -> 페이지
+ @p192
+  문법
+  <ㄱ> 
+ -가 6본 (19)
+ -게 13본 (106)
+ -게 되다 19본 (177)
+ -겠- 14본 (122)
+ -고 13본 (103)
+ -고 나서 17본 (155)
+ -고 싶다 13본 (105)
+ -고 있다 12본 (89)
+ -과 8본 (39)
+ -과 같이 9본 (50)
+ -기 때문에 16본 (137)
+ -기 시작하다 18본 (163)
+ -기 전에 17본 (152)
+ -기로 하다 16본 (140)
+ -까지 13본 (103)
+  <ㄴ>
+ -ㄴ 18본 (164)
+ -ㄴ 19본 (175)
+ -ㄴ적이 있다/없다 19본 (176)
+ -는 9본 (52)
+ -는 18본 (164)
+ -는 것 18본 (165)
+ -는데 16본 (138)
+  <ㄷ>
+ -도 8본 (42)
+ -들 11기 (83)
+  <ㄹ>
+ -ㄹ 19본 (176)
+ ㄹ 불규칙 17기 (152) 
+ -러 가다 13본 (104)
+ -려고 하다 19본 (178)
+ -로 14본 (120)
+ -를 6본 (19)
+  <ㅁ>
+ -면 18본 (167) 
+ -면서 17본 (154)
+  <ㅂ>
+ ㅂ 불규칙 18기 (165)
+ -ㅂ니까? 7본 (27) 
+ -ㅂ니다 6본 (17)
+ -부터 13본 (103)
+  <ㅅ>
+ -습니까? 7본 (27)
+ @p193
+ -습니다 6본 (17)
+ -십시오 14본 (119)
+  <ㅇ>
+ -아/어서 14본 (120)
+ -아/어서 17본 (152)
+ -았/었/였습니다 9본 (38)
+ -에 8본 (38)
+ -에 11본 (72) 
+ -에 가다 11본 (69)
+ -에 있다 8본 (38)
+ -에게 13본 (107)
+ -에게서 16본 (138)
+ -에서 9본 (54)
+ -에서 본 (70)
+ -와 (39)
+ -와 같이 (50)
+ -으 불규칙 16기 (139)
+ -으러 가다 13본 (104)
+ -으로 14본 (120)
+ -으면 18본 (167)
+ -으면서 17본 (154)
+ -으십시오 14본 (119)
+ -은 9본 (52)
+ -은 적이 있다/없다 19본(176)
+ -을 6본 (19)
+ -을 19본 (176)
+ -의 9본 (54)
+ -이 6본 (19)
+ -이 16본 (137)
+ -이/가 아니다 12본 (92)
+ -이다 9본 (50)
+ -이었습니다/였습니다 17본(152)
+  <ㅈ> 
+ -지 마십시오 14본 (119) 
+ -쯤 13본 (103)
+  <ㅊ>
+ -한테 13기 (107)
+ -한테서 16기 (138)
+

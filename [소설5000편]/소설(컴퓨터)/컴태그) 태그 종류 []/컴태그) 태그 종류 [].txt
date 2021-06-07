@@ -1,0 +1,7 @@
+﻿글씨 퍼지게 하는 방법 : <span style="color:dddddd;FILTER:shadow(color=000000);height:10px"></span style><p style=font-size=30pt><font face="궁서체"><font color=#ff0008><marquee behavior="alternate">
+                        <span style="FILTER:shadow;height:10px"><h1></span style>
+                        <SPAN style=\"COLOR:orange;FILTER:shadow(color=BLUE);height:10px\"><h1><SPAN style=\"COLOR:dddddd;FILTER:shadow(color=silver);height:10px\"><p style=font-size=50pt><FONT FACE=\"궁서체\">말좀해요~~")
+텔레토비 배경화면 : <Style>BODY{background:url(http://my.netian.com/~ohsooha/po2.jpg)}</Style>
+제자리로 : <style>body{background:blak}</style> 
+방가워요 : <Input type=submit value="눌러요"onclick=alert("방가워요")>
+           <script>{alert("방가워요!")}{alert("전!파워여요")}{alert("조은하루돼구요")}{alert("항상행복하세요")}{alert("까꿍^^")}

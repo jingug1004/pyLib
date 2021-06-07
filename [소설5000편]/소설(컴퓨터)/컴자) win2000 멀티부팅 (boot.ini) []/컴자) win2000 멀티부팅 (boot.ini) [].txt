@@ -1,0 +1,28 @@
+﻿
+『NT/NetWork 연구실-NT/NetWork 활용과 팁 (go WIN)』 3040번
+ 제  목:[참고] WIN2000 멀티부팅 (boot.ini)                          
+ 올린이:빈수레  (이상훈  )    00/03/09 22:36    읽음:743 관련자료 없음
+ -----------------------------------------------------------------------------
+
+안녕하세요 ~ 울산에 빈수레 입니다.
+멀티부팅이 말을안들을때 사용 하십시요.
+저는 boot.ini 파일이 고장나서 복구한다고
+고생고생 했습니다. (친구꺼 복사했지만. .)
+boot.ini 파일은 C: 루트에 히든, 시스템 속성으로
+숨겨져 있습니다.
+
+그 안의 내용입니다.
+boot.ini
+-----------------------------------------------
+[boot loader]
+timeout=30
+default=multi(0)disk(0)rdisk(0)partition(1)\WINNT
+[operating systems]
+multi(0)disk(0)rdisk(0)partition(1)\WINNT="Microsoft Windows 2000 Professional"
+ /fastdetect
+C:\="Microsoft Windows" 
+-----------------------------------------------
+
+P.S : 잘쓰던 boot.ini 가 어느날 boot.--- 로 이름이
+      바뀌면서 멀티부팅이 안되더군요. .. 와글치. .
+      도움 되셨길 바랍니다.

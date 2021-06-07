@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 201</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">최인훈님의 남들의 지붕밑에서 중의</font>
+&nbsp;
+<font face="가을체">-- 그레이 구락부 전말기 중에서</font>
+&nbsp;
+<font face="가을체">움직임의 손발을 갖지 못하고 내다보는 창문만을 가진 인간형이 있다</font>
+<font face="가을체">손하나 발하나 까딱하지 않고 다만 눈에 보이는 온갖 빛깔, 형태를</font>
+<font face="가을체">굶주린 듯 지켜봄으로써 보람을 느끼는 사람. 이런 사람은 &lt;창&gt;타입의</font>
+<font face="가을체">사람이다</font>
+<font face="가을체">창은 두가지 몫이 엇갈린 물건이다. 창은 먼저 밖으로 부터 들어앉은 방을</font>
+<font face="가을체">막아준다. 거칠은 행동과 운동의 번잡에 대한 보호를 뜻하는 &lt;건물&gt;의</font>
+<font face="가을체">한군데 인 것이다. 블라인드를 치고 커튼을 드리우고 덧창을 달고 자물쇠를</font>
+<font face="가을체">채우고 하는 모든 것이 이 창의 닫힘을 나타내는 것이다.</font>
+<font face="가을체">그러나 한편</font>
+<font face="가을체">창은 이같이 닫힌 집이 바깥과 오가기 위한 것이다. 창에서 이루어지는 바깥</font>
+<font face="가을체">하고의 오가기는 오직 눈에 의해서만 이루어진다. 눈으로 하는 사귐은 떨</font>
+<font face="가을체">어져 있고 번거러움이 없다 그는 화창한 삶의 봄과 매서운 싸움의 겨울</font>
+<font face="가을체">을 바라본다. 그는 즐거움에 몸을 불사르지도 않는 한편, 괴로움에</font>
+<font face="가을체">대하여 저주하지도 않는다.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="201.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="203.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

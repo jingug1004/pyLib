@@ -1,0 +1,78 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">겨울 가뭄에 </font>
+<font face="개성체">황토흙 가득한 옆구리를 드러낸 댐과 같이</font>
+<font face="개성체">절개된 머리를 따라서</font>
+<font face="개성체">나의 정신은</font>
+<font face="개성체">지저분한 육욕을 드러내고 있다.*</font>
+&nbsp;
+<font face="개성체">프람 미친바람</font>
+&nbsp;
+&nbsp;
+<font face="개성체">금요일에는 팀장인 이부장과 몇몇의 PL 간의 회식이 있었고</font>
+<font face="개성체">언제나 그랬듯이 술이 취한 이부장은 사람들을 부하처럼 거</font>
+<font face="개성체">느리고 이차 삼차를 외쳐댔다.금요일 저녁부터 퍼마시기 시</font>
+<font face="개성체">작한 술은 토요일 4시가 다 되어서 마쳤고 또 언제나 그랬</font>
+<font face="개성체">듯이 우리 PL 들은 말짱하게 눈을 뜨고 있고 이부장은 소파</font>
+<font face="개성체">에 몸을 묻고 퍼질러 잔다.무지하게 많이 나온 청구서에 분</font>
+<font face="개성체">을 삭이면서 염병할, 빌어먹을 을 연신 내뱉으며 출근할 시</font>
+<font face="개성체">간이 다 되어서 침대에 기어든 정신은 자라는 잠 대신에 머</font>
+<font face="개성체">리를 절개하고 절개된 머리를 따라 난 깊게 패인 골을 따라</font>
+<font face="개성체">무언가를 칠하고 있는 것을 본다.(꿈을 꾸고 있는건가?) 머</font>
+<font face="개성체">리 안에는 마치 댐에 갇힌 물과 같이 정신이 채워져 있었다</font>
+<font face="개성체">그리고 그 정신에는 내 옆자리에 앉아있던 나이어린 여자의</font>
+<font face="개성체">얼굴이 자꾸만 비치었다. 마치 겨울 가뭄에 항토흙 가득한 </font>
+<font face="개성체">옆구리를 드러낸 댐과 같이 나의 지저분한 육욕을 드러내고 </font>
+<font face="개성체">있었다.------------------------------------------------</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="663.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="666.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

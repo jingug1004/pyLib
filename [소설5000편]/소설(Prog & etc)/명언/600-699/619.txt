@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">토요일에는 화장을 했다.</font>
+<font face="개성체">이 나이에는 화장이 아니라 변장이라고 한대는군.</font>
+<font face="개성체">이번에 삼성그룹 기술 대상에도 후보로 나간대다가</font>
+<font face="개성체">울 팀이 신문에 난지도 대여섯번이다 보니</font>
+<font face="개성체">금년 삼성전자 사보의 송년회 특집으로 우리 프로젝트를 실겠다 했다.</font>
+<font face="개성체">그래서 개발에 참여했던 각팀에서 30명정도를 뽑아서 사진을 찍었고</font>
+<font face="개성체">그중에서 다시 핵심으로 참여했다고 생각되는 5명을 다시 추려서</font>
+<font face="개성체">표지 사진을 낸다 했다.</font>
+<font face="개성체">화장이야 이전에도 몇번 해 봤고 또 즐기기 때문에 좋았지만</font>
+<font face="개성체">미친 놈처럼 자꾸만 실실 웃어야 한다는 것이 힘들었다.</font>
+<font face="개성체">어찌 되었던 간에 10시에 시작한 촬영과 인터뷰는 13시가 다 되어서야 끝났고</font>
+<font face="개성체">끝나자 마자 12월호 삼성전자 사보가 기둘려진다.</font>
+<font face="개성체">참으로 간사한 마음이다.</font>
+&nbsp;
+<font face="개성체">프람 표지모델로 모델계에 데뷔를 시작한 미친바람</font>
+<font face="개성체">-----------------------------------------------------------</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="618.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="620.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

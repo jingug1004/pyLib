@@ -1,0 +1,122 @@
+﻿배경음악(<EMBED>) 관련 태그 
+
+<EMBED> 태그 설명 및 기본형식 
+
+
+홈페이지가 뜨자 마자 화면과 함께 배경음악이 나오도록 하는 태그입니다. 
+그러나 큰 용량의 음악화일은 자칫 방문자로 하여금 지루함을 주므로 주의할 필요가 있습니다. 
+
+- <EMBED SRC="음악화일명(wav, midi)> 
+
+
+<EMBED> 태그 옵션 
+- <EMBED SRC="음악화일명" autostart=true> : 자동으로 음악이 나오게 하는 옵션입니다. 
+- <EMBED SRC="음악화일명" border=2 width=145 height=60 autostart=true> : 화면에서 볼륨이나 멈춤을 제어하는 옵션입니다. 
+
+
+그림을 html에 삽입하고 그 위에 글을 쓰거나 다른 작은 그림을 겹쳐넣을때 
+사용하면 좋습니다. 바로 요런걸 레이어(layer)라고들 하죠~! 
+포토샵이나 페인트샵등에서 사용하는 개념하고 비슷하다고 생각하시면 됩니다. 
+// 원하는 부분을 아래 태그를 사용해서 써보세요. 
+
+<div id="layer1" style="position:absolute; left:20px; top:20px; width:100px; height:100px; z-index:1; border-width:1px; border-style:none;"><img src="그림.gif"></div> 
+
+<div id="layer2" style="position:absolute; left:20px; top:20px; width:100px; height:100px; z-index:1; border-width:1px; border-style:none;">여기에 글을 씁니다</div> 
+
+
+// 이건.. 우선 <div> </div>로 레이어를 두개 맹글어서.. 
+
+position:absolute로 해서 그 레이어들 위치 고정시켜줍니다. 
+
+left : 왼쪽으로부터의 여백, top: 위쪽으로부터의 여백 
+
+width : 레이어의 폭, height : 레이어의 높이 
+
+즉 이 레이어라는 건 투명한 셀룰러판같은 거랍니다. 
+눈에는 안보이지만 그 레이어 위에 원하는걸 넣어주게 되면.. 
+그 레이어가 있는 위치에 있게 되는거죠. 
+
+그리고 그 레이어 두개를 겹쳐놓으면 차곡차곡 쌓여서 겹쳐보이는거죠. 
+그림을 넣은 layer1이 밑에 깔리고, 그 위에 글을 쓴 layer2가 겹쳐지면.. 
+보일때는 그림위에 글을 쓴것과 같은 효과가 나타난답니다~! 
+
+프레임이란 화면을 한 개 이상으로 쪼갤 때 사용하는 명령어에요. 
+
+프레임 명령으로 화면을 둘로 쪼개면, 
+쪼개진 두 개의 화면에는 각자 다른 Html 문서가 쓰이는 거죠. 
+즉 프레임으로 쪼개진 만큼의 Html 파일이 필요합니다. 
+
+프레임 구조를 짜는 태그는 <Frame> </Frame>에요. 
+프레임 태그는 html 문서에서 <Head> </Head> 사이에 있어야 하구요. 
+
+우선 예를 들어 설명할까요. 
+
+<Frameset Row="50,*" , border="1"> 
+<Frame Src="test1.html" name = "test1" scrolling = "no" noresize> 
+<Frame Src="test2.html" name = "test2" scrolling = "yes"> 
+</Frameset> 
+
+이제 각 태그를 설명해 볼께요. 
+
+1> Name : 해당 프레임의 이름이에요. 아무 이름이나 써 주세요. 
+
+2> Scrolling : 화면에 스크롤 막대를 보여 줄 것인지를 설정합니다. 
+Auto라고 하면 화면의 분량에 따라 자동으로 생기기도 하고 생기지 않기도 하죠. 
+
+3> Row : 행을 뜻해요. 위와 같은 경우 화면은 가로로 2개로 나뉘는데 
+위에서부터 50 픽셀을 하나의 프레임으로 하고 
+나머지를 또 다른 프레임으로 만들죠. 
+
+세로로 프레임을 나누고 싶다면 Row 대신 Cols를 쓰면 되요. 
+그냥 50이라고 하면 50 픽셀을 말하는 것이고, 
+50%라고 하면 웹브라우저 창의 절반을 의미해요. 
+
+4> Border는 프레임의 두께를 설정해요. 
+보이지 않게 하려면 0으로 해야겠지요. 
+
+5> Noresize라고 써주면 사용자가 임의로 프레임 크기를 변경할 수가 없어요. 
+
+
+하이홈 홈빌더에서는 프레임 기능을 지원하지 않아요. 
+하지만 익스플로러 5.0에서 지원하는 Iframe을 사용하는 것은 가능합니다.
+
+<Meta HTTP-Equiv="Refresh" Content="n;URL=">
+ 일정시간(초)동안 현재화면에서 다른 URL로 이동
+ 
+<Meta HTTP-Equiv="Refresh" Content="3;http://members.tripod.co.kr/A_Plus"> ~  3초후  A_Plus 사이트로 이동하라. 기존의 홈페이지를 다른 사이트로 옮겼을 때 많이 쓰이지요.
+ 
+
+  
+<DIV Align="Center|Left|Right|Justify"> </DIV>
+ 특정 화면 분할(Division)로  중앙, 좌, 우, 로 정렬시킵니다.
+ 
+<BGSound SRC="URL" Loop="n|Infinite">
+ 소리파일 위치 및 파일명, 반복회수
+ 
+
+  이렇게 이름을 주었습니다. 그리고 B문서를 작성할 때 링크에 다음 내용을 줍니다. <a href="~~" target="content"> 자 보세요 링크에 타겟은 content 라는 프레임이다~라고 되어있네요 그러므로 이 링크를 누르면 main으로 지정되어있는 B에 나타나는 것이 아니라 content로 지정되어 있는 C에 나타나는 것이죠. 여기의 프레임 네임은 작성자 마음대로 줄 수 있습니다. 참고로 target를 사용할 때 몇가지 예약어(정해져있는 것)이 있습니다. 우리가 링크를 공부할 때  target="_blank"라고 하면 새창이 떳죠? 이것도 하나의 예약어입니다. 자..그럼 예약어를 알아보죠...
+
+_top
+ 프레임을 해제하고 링크될 문서를 창 전체로 불러온다.
+ 
+_parent
+ 링크될 문서를 링크 전 원래의 프레임인 부모 프레임에 나타낸다. 부모 프레임이 없는 경우는 _self와 같다
+ 
+_self
+ 링크될 문서를 원래 위치와 같은 프레임으로 불러온다.
+ 
+_blank
+ 이름이 없는 새로운 창을 열고 링크될 문서를 그 창으로 불러온다.
+ 
+  
+ <style type="text/css">
+	<!--
+			a.nls0:link { text-decoration: none; color:#000000; font-size:10pt; }
+			a.nls0:visited { text-decoration: none; color:#000000; font-size:10pt; }
+			a.nls0:hover { text-decoration: underline; color:#000000; font-size:10pt; }
+	-->
+	</style> 
+
+ class=nls0----->한메일 링크 모습을 보여줍니다~
+ 
+

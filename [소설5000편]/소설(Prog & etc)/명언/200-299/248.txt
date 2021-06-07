@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 241</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">거리에서 만난 전혀 처음보는 낯선 이가 손을 내민다</font>
+&nbsp;
+<font face="가을체">'당신의 풍요로움을 조금 나누어 주시요</font>
+<font face="가을체"> 부자인 그대여'</font>
+&nbsp;
+<font face="가을체">헐벗고 조금은 비굴한 손을 내밀어 나를 강요한다</font>
+<font face="가을체">어떤 때는 무시하기도 하고 </font>
+<font face="가을체">또 어떤 때는 측은한 마음에 주머니를 뒤진다</font>
+&nbsp;
+<font face="가을체">'그래 엣다 가져라</font>
+<font face="가을체"> 비록 너의 모습이 비굴하게 보이긴 하지만 이걸 알아라.</font>
+<font face="가을체"> 이것은 나의 생명을 갉아 먹으면서 얻은 나의 피, 나의 육신.</font>
+<font face="가을체"> 지금의 너의 모습보다 더 비굴하게 세상에 빌어서 얻은 동냥 밥.</font>
+<font face="가을체"> 사실 나는 겉은 번드르 할 지 모르지만 너보다 더 비참하게 비굴하게</font>
+<font face="가을체"> 살고 있단다</font>
+<font face="가을체"> 그래, 엣다 가져라. 나의 살이다'</font>
+&nbsp;
+<font face="가을체">나는 왜 눈을 감는 법을 배우지 못했을까?</font>
+<font face="가을체">눈을 감으면 더 이상 나의 모습이 보이지 않을턴데</font>
+<font face="가을체">그냥 지내온 옛날이,</font>
+<font face="가을체">그리고 끝없을 하루의 비참들이 .</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="247.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="249.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

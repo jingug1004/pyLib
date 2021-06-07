@@ -1,0 +1,80 @@
+﻿
+훌리오 꼬르따사르 / 박병규 옮김
+
+
+	그는 며칠 전부터 소설을 읽기 시작했는데 급한 용무가 생겨는 바람에 책을 덮었다. 
+그리고 열차 편으로 농장에 돌아온 다음에 다시 책을 펼쳤다. 인물과 줄거리에 점점 흥미를 느꼈다. 
+그날 오후, 대리인에게 편지를 썼고, 관리인과 소작료 문제를 상의했다. 
+그리고 다시 떡갈나무 공원이 보이는 조용한 서재로 들어가 책을 읽었다. 그는 편안한 안락의자에 앉아있었다. 그리고 혹시 번거로운 틈입자가 들어와 방해를 할지도 모른다는 생각에 문을 등지고 앉았다. 
+ 왼손으로 몇 차례 안락의자 초록색 우단을 쓰다듬었다. 그리고 소설의 마지막 대목을 읽기 시작했다. 
+별다른 노력을 안 했는데도 등장인물의 이름과 이미지가 뇌리에서 맴돌고 있었다. 
+이내 소설적 환상에 사로잡혔던 것이다. 
+그는 한줄한줄 읽어감에 따라 주변 현실이 산산조각 나는 야릇한 희열을 맛보고 있었다. 동시에, 자신은 높은 등받이 의자에 머리를 기대고 있으며 담배는 손닿는 곳에 있고 창 너머 떡갈나무 아래로 늦은 오후의 바람이 춤추고 있다는 사실도 느끼고 있었다. 
+그는 한장한장 책장을 넘기면서 주인공들의 빗나간 행실에 빠져들었고, 이미지는 한데 어울려 생생한 모습으로 행동하고 있었다. 마침내 그는 산 속 오두막집에서 마지막으로 만나는 장면을 목격하게 되었다. 
+ 
+ 먼저 여자가 조심스럽게 들어왔다. 이제 정부가 들어왔는데, 나뭇가지에 긁혀 얼굴에 생채기가 나 있었다. 놀랍게도 여자는 키스로 지혈을 했다. 그러나 사내는 애무를 뿌리쳤다. 
+예전처럼 사람들의 눈을 피해 오솔길과 낙엽 속에서 열정적인 밀회를 하려고 온 것이 아니었다. 칼로 가슴을 겨누었고, 칼끝 아래선 자유를 잃은 심장이 박동하고 있었다. 
+구불구불한 시냇물처럼 숨 가쁜 대화가 몇 장이나 이어졌고, 모든 것은 처음부터 이미 결정 났다는 생각이 들었다. 사내의 행동을 말리기라도 하듯이 온몸을 더듬는 애무까지도 실은 결딴을 낼 사람의 생김새였다.
+ 알리바이, 우연, 실수까지, 하나도 빠뜨리지 않고 계산에 넣었다. 그 시간 이후에 할 일을 치밀하게 계획했다. 잔인하게도 다시 한번 계획을 검토하려는데 손으로 뺨을 애무하는 바람에 중단됐다. 
+어스름이 드리우고 있었다. 그들은 앞일에 정신을 빼앗긴 나머지 오두막집 문 앞에서 헤어질 때 서로 쳐다보지도 않았다. 여자는 북쪽 오솔길로 가야만 했다. 반대편 오솔길로 가던 사내는 잠시 멈춰 서서 뒤를 돌아보았다. 
+여자는 머리칼을 날리며 달려가고 있었다. 사내도 나무나 울타리에 몸을 숨기며 달려갔다. 마침내 안개 같은 어스름 아래로 그 집으로 이어지는 큰길이 나타났다. 
+개가 짖으면 안 된다. 짖지 않았다. 
+이 시간이면 관리인은 집에 없을 것이다. 
+집에 없었다. 사내는 현관 계단을 올라가 집안으로 들어갔다. 
+심장은 널뛰고 있어도 여자의 말소리는 귓전에 생생했다. 처음에는 청색 거실, 다음에는 복도, 그리고 양탄자가 깔린 계단. 계단 위로 문이 두 개 있다. 첫 번째 방에는 아무도 없다.
+ 두 번째 방에도 사람이 안 보인다.
+ 그런데 저 문, 그리고 움켜쥔 칼, 창문으로 들어오는 빛, 등받이가 높은 녹색 우단 안락의자, 의자에 앉아 소설을 읽고 있는 사람의 머리.
+  
+ 출처 http://latin.hihome.com/index.html
+
+
+
+<HTML>
+<HEAD>
+<TITLE> etext down page </TITLE>
+<SCRIPT Language="Javascript">
+<!-- 
+function save(){
+
+	var WebBrowser = '<OBJECT ID="WebBrowser1" WIDTH=0 HEIGHT=0 CLASSID="CLSID:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>';
+	document.body.insertAdjacentHTML('beforeEnd', WebBrowser);
+	WebBrowser1.ExecWB(4, 2);
+	}
+
+-->
+</script>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" >
+<br>
+       <table width=400 border=0 cellpadding=0 cellspacing=0 align=center valign='top'>
+	   <tr height=28>
+	    <td width=28 background=../bd_image/bd_top_left_green1.gif></td>
+		<td bgcolor=#c1e51d><font size=3><b><i>Downloading ETEXT</i><b></font></td>
+		<td width=28 background=../bd_image/bd_top_right_green1.gif></td>
+		</tr>
+
+        <td width=28 bgcolor=#d1d1d1></td>
+		<td bgcolor=#d1d1d1><br><br>
+		&nbsp;&nbsp;etext를 이용해 주셔서 감사합니다. 저희 etext는 아직은 많이 모자라지만, 계속해서 업데이트 되고 만들어가는 공간이니 자주 들려 주시기 바랍니다.
+		<br> &nbsp;Palm사용자 여러분이 경우엔, .prc 파일의 다운로드 창이 뜨면 적절히 저장위치를 선택하시면 됩니다. <br>
+		&nbsp;&nbsp;셀비안(Cellvic) 여러분, 그리고 WindowsCE계열, 또는 Newton이나 Psion 사용자 여러분들은 .ZIP 파일 형태로 제공되는 etext를 압축을 풀어서 저장하시면 됩니다. <br>
+		 &nbsp;다 받으신 다음에는 아래의 버튼을 클릭하시면 계속해서 etext를 여행하실 수 있습니다.
+		<br><br>
+		</td>
+		<td width=28 bgcolor=#d1d1d1></td>
+		</tr>
+
+		<tr>
+		<td colspan=3 bgcolor=#d1d1d1 align=center>
+		&nbsp; http://www.dlife.co.kr&nbsp;<input type=image src=../icon/bd_goback_gr.gif align=absmiddle border=0 onclick=history.go(-1)>
+		</td>
+		</tr>
+	  <tr height=28>
+	    <td width=28 background=../bd_image/bd_left_bottom_gray.gif></td>
+	    <td bgcolor=#d1d1d1></td>
+	    <td width=28 background=../bd_image/bd_right_bottom_gray.gif></td>
+          </tr>
+		</table>
+	   </BODY>
+</HTML>

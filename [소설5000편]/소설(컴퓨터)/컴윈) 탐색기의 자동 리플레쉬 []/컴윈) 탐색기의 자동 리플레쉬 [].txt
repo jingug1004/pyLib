@@ -1,0 +1,16 @@
+﻿『윈도우즈-윈도우 98 활용과 팁 (go WIN)』 4472번
+ 제  목:[TIPS] 탐색기의 자동 리플레쉬                               
+ 올린이:x배트맨x(손무홍  ) 98/11/13 03:42  읽음:513  추천:  0 관련자료 없음
+ -----------------------------------------------------------------------------
+
+탐색기를 자동 리프레쉬가 가능하게 하자.
+ 탐색기상에서 폴더를 하나 만들고 접근을 하려면 일일이 보기메뉴에서 최신정보로
+ 고침을 눌러줘야 했다. 그것을 레지스트리 편집을 통하여 자동으로 갱신되게 할수가
+
+ 있다.  HKEY_LOCAL_MACHINE\System\currentcontrolset\Control\Update에서
+ updatemode 값을 01에서 00으로 바꾼다.
+
+Phrozen Crew 98 Oscar Team - NiCK: NetSpider [cRACKER]*UCF
+     Θ-=DaRK-KNiGhT=- Θ http://www.batman.co.kr
+           Email to : batman@batman.co.kr
+

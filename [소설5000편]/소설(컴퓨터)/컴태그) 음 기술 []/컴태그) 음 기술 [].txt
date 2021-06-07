@@ -1,0 +1,408 @@
+﻿기술모음
+가글 : http://www.82wa.com/chat8.htm
+<plaintext>
+아이피추적 : nbtstat -a ip
+아이피추적 : c:\windows\tracert ip
+아이피추적 : http://www.nic.or.kr/info/newwhois.html
+<marquee width=300 scrollamount=20><font size=10 color=red></marquee>
+<marquee behavior=alternate width=700 scrollamount=600><h1></marquee>
+<marquee behavior=alternate width=200><h1></marquee>
+<MARQUEE BGCOLOR=YELLOW><FONT SIZE=10></marquee>
+<marquee diretcion=down bgcolor="00FF00"><h1></marquee>
+<marquee behavior="alternate"><h1></marquee>
+<marquee bgcolor=goldared fast direction=up><h1></marquee>
+<marquee bgcolor=goldared fast direction=down><h1></marquee>
+<MARQUEE BGCOLOR=RED WIDTH=300> <H1></marquee>
+<marquee bgcolor=red scroolla nount=200></marquee>
+<marquee behavior=alternate width=1100 scrollamount=1000><h1></marquee>
+<marquee direction=right><h1></marquee>
+<marquee direction='down'><marquee><h1></marquee>
+<marquee behavior=alternate direction=up><h1></marquee>
+<marquee bgcolor = #"00ff00"><p style=font-size=100pt></marquee>
+<marquee width=300 scrollamount=200><H1></marquee>
+<marquee width=300 scrollamount=200><H1></marquee>
+<marquee behavior=alternate width=100direction></marquee>
+<marquee behavior=alternate height=26 width=150><h1></marquee>
+<marquee bgcolor=yellow direction=up><h1></marquee>
+<marquee behavior=alternate width=700 scrollamount=1000></marquee>
+<MARQUEE WIDTH=300 SCROLLAMOUNT=200><H2></marquee>
+<marquee behavior=alternate direction=up><MARQUEE><H1>잘봐주시요?</marquee>
+<marquee bgcolor=pink>모두즐팅하소^^*</marquee><marquee bgcolor=cred>왜그라요.</marquee>
+<marquee bgcolor=yellow><h1>리얼</marquee><marquee bgcolor=red><h1>신청해!</marquee>
+
+여러가지글씨색깔과글씨크기!
+☆粹誾☆
+☆태리우스☆☆★미래★☆
+☆★粹誾★☆  ☆粹誾愛俟☆
+[난▷다프◁★투투★★보스★★파워★★막내★형]
+<p style=font-size=100>
+내소개 : <LI>남자<LI>장사(수입품매장)<LI>20대<LI>이름:차 현우<LI>사는곳:대구<LI>애인:없음<LI>내랑 놀자</FONT>
+<font size=5>㉻<font size=5 color=#ff6347 face=궁서></font>㉻
+<font size=5>㉻<font color=7979ffred face=궁서></font>㉻
+<font color=red size=5 face=궁서체>☆
+<font color=violet size=5 face=궁서체>☆
+<font color=goldared size=5 face=궁서체>☆
+<font color=pink size=5 face=궁서체>☆
+<font color=grey size=5 face=궁서체>☆
+<font color=gray size=5 face=궁서체>☆
+<font color=purple size=5 face=궁서체>☆
+<font size=5 color=grey face=궁서체>☆
+<font color=orange size=5 face=궁서체>☆  <font color=goldared>[`.^__love~♡]<font color=black>
+☆★미래★☆<font size=4 face=궁서체 color=iceblue>☆
+<font color=mazenta size=5 face=궁서체>☆
+<font size=5 color=drueep face=궁서체>☆
+<font color=ff1493 size=5 face=궁서체>☆
+☆★미래★☆<font size=4 color=!4444 face=궁서체>☆
+<font color=black size=5 face=궁서체>☆
+<font size=5 color=#ff6347 face=궁서>☆
+<font size=5 color=gold face=궁서>☆
+<font color=dodger size=5 face=궁서>☆
+<font size=5 face=궁서 color=bluesky>☆
+<font size=5 face=궁서 color=7979FF>☆
+<font color=red size=5 face=궁서체>☆
+<font size=5 face=궁서 color=7979FF>☆
+<font color=goldenrod size=4 face=개성체>☆
+ <font color=red size= 4face=궁서체>☆
+
+방전체색깔바꾸는거!
+
+<Script>document.bgColor="pink"</script><h1>핑크로 얍
+<Script>document.bgColor="drueep"</script>
+<Script>document.bgColor="black"</script><h1>이방은폐쇄당!캬캬캬
+<Script>document.bgColor="orange"</script><h1>오렌지색으로..짠!
+<Script>document.bgColor="mazenta"</script><h1>짠!바뀌라`얍~캬캬캬
+<Script>document.bgColor="grey"</script><h1>형광으로~~캬캬컄캬
+<Script>document.bgColor="gray"</script><h1>화색으로변해뿌라!캬캬캬
+<Script>document.bgColor="goldared"</script><h1>하늘색으로변해뿌라!캬캬캬
+<Script>document.bgColor="red"</script><h1>빨간글씨를없애주마!캬캬캬
+<Script>document.bgColor="violet"</script><h1>보라색으로짠!흐흐
+<Script>document.bgColor="purple"</script><h1>찐한보라색으로짠!흐흐
+<Script>document.bgColor="!4444"</script><h1>
+<Script>document.bgColor="gold"</script><h1>금색으로~~짠!흐흐흐
+<Script>document.bgColor="yellow"</script><h1>노랑색이쪼아쪼아!^^
+<Script>document.bgColor="dodger"</script><h1>
+<Script>document.bgColor="bluesky"</script><h1>
+<Script>document.bgColor="ICEBLUE"</script><h1>
+<Script>document.bgColor="7979FF"</script><h1>
+<Script>document.bgColor="#FF6347"</script><h1>
+<Script>document.bgColor="white"</script><h1>원상복구~캬캬캬
+
+
+장난치는것모음!
+
+</xmp><font size=44 color=white><xmp>
+<marquee behavior=alternate width=1100 scrollamount=1000><h1>
+<hr><font color=red size=-1>(접속 종료)다시 접속하세요....
+(<fontqksrk) <font krdek><font size=2>공지사항)
+<ul>캬!<ul>캬!<ul>캬!<ul>캬!<ul>캬!<ul>캬!
+</ul>5</ul>4</ul>3</ul>2</ul>1</ul>0<h1>꺼지라!개쌔이야!캬캬캬
+<b><center><h1>글씨야!중앙으로얍얍얍!
+<h1><xmp><h1><xmp>퓨캬캬캬캬캬!
+<ul><ul><ul> <MARQUEE BGCOLOR=YELLOW><FONT SIZE=10>후후!다가치죽자!이개호로들아..후후
+<u><i><center><marquee><h1>이씨벌눔아!조까지마라!씨벌눔아!씨껍해보거라!후후</marquee>
+<basefont size=100000><marquee direction=up><xmp>이것이진정한도배다!개쌔끼들아!
+<h1>쿨~~<h2>쿨~~~<h3>음냐음냐~~<h4>드르렁~~<h5>피유~~~<h6>쿨~~~
+<basefont size=3><h1>글씨야작아져라!얍얍얍!
+<basefont size=30><h1>글씨야커져라~얍얍얍!
+<INPUT TYPE="radio"NAME="radio3"value="싸랑해요!"onclick="alert(value)">눌러
+<aheref=http://www.jgirls.com/hring><u><h1>밑줄을클릭하시요!
+<font face=@돋움체><font size=20><font color=red>글씨야 모두 옆으로 눕거랏~!
+<SELECT NAME=receiver><OPTION>대구<OPTION>남<OPTION>32<OPTION>백수<OPTION>천재</SELECT>
+<INPUT TYPE=SUBMIT NAME=log_off VALUE="퇴장하기">
+<INPUT TYPE=TEXT NAME="chat_message" SIZE=52 MAXLENGTH=80 VALUE="">
+<TABLE BORDER=1000 cellspacing=1000 cellpadding=1000 width=800>
+<ol><li><li><li><li><li><li><li><li><li><li></ol><h1>
+<IMG SRC=img.gif WIDTH=108 HEIGHT=125 ALT=좆이나할타라!! BORDER=99999999999999999999990>
+<BUTTON type="button" name="findButton" value="Find It!" onClick="findIt()">
+
+폭!모음이다!(함부로쓰지마!)
+<Script>while(1)window.close()</Script>          씨발개호로들~~집구석으로꺼져!캬캬캬←창폭!(닫기는것!)
+<Script>while(1)window.open()</script>            씨발개호로들아창이나따까라!캬캬캬←창폭!(열리는것!)
+<Script>for(i=1;i<10000;i++){alert("깝죽되지말고집구석으로꺼져라개섹쓰야!캬캬캬!");}</script>←만번폭!
+language="    script"><!-- hide from other browsersalert("꺼져!");// stop h←망안치게하는폭!
+<font size=8><br><br><br><br></marquee>방폐쇄 !!<marquee width=1>←방글씨삭제와방폐쇄!
+<INPUT TYPE="button"value="짠!선물이야!^^"onclick="for(i=1;i;i++){alert('집에가!')}">←만번폭!
+<INPUT TYPE="radio"value="짠!선물이야^^"onclick="alert('깝치지마!!캬캬캬')">←만번폭!
+<span style="COLOR:RED;FILTER:shadow(color=red);FONT-SIZE:8220pt;HEIGHT:800px">←하드폭!
+<SPAN style=font:20pt궁서;color:red;background-color:red>←말칠때마다방색깔바뀜!
+<SPAN style=font:173pt궁서;color:red;background-color:black>←말칠때마다방색깔바뀜!
+<style>body{background:blue;}</style><Script>for(;;)window.onload</Script>←화면정지폭!
+<Script>close();alert("");prompt();open;for(i=0;i<500;i++)moveTo(i,i)</Script>←무지개폭!
+</FONT><FR><h1>글씨삭제!<body onUnload="if(confirm('')) open if;else if))>←방전체글씨를삭제
+! 
+                          글 자
+<br><font size=2 color=red>♣알림♣
+<input>  <marquee width=300>←♡-<</marquee></marquee><font size=5>{>내-사랑을..
+글: <p style=font-size=80>ⓘ ⓛⓞⓥⓔ ⓨⓞⓤⓡ
+바탕장미 : <Style>BODY{background:url(http://www.bsflower.co.kr/image/flower.gif)}</Style>
+바탕침대 : <Style>BODY{background:url(http://web-pd.com/banner/mattress.gif)}</Style>
+바탕빨강 : <BODY BGCOLOR='FFF6EF' TEXT='black'>
+화면 : <style>BODY{background-color: white(http://www-personal.engin.umich.edu/~doolyii/cjs1.jpg)}</style>
+흰색 : <style>BODY{background: red url(http://www.user.com/sam.gif)}</style>
+바탕김희선 : <Style>BODY{background:url(http://plaza1.snu.ac.kr/~kimsd/hs1.jpe)}</Style> 
+바탕곰돌이 : <Style>BODY{background:url(http://www.cpark.co.kr/data/babu4_a.gif)}</Style>
+바탕화면 :  <Style>BODY{background:url(http://my.netian.com/~ohsooha/nana5.)}</Style>
+텔레토비 : <Style>BODY{background:url(http://my.netian.com/~ohsooha/po2.jpg)}</Style>
+글 : <SPAN style="COLOR:dddddd;FILTER:shadow(color=000000);height:10px"><p style=font-size=30pt><FONT FACE="궁서체">
+이상한글 : <SPAN style="COLOR:orange;FILTER:shadow(color=PINK);height:10px"><h1>
+흰색 : <SPAN style=font:20pt개성;color:white;background-color:white>
+노란색 : <SPAN style=font:20pt개성;color:yellow;background-color:yellow>노란색으로..둔갑
+바탕색 <style>body{background:blak}</style>    <font color=pink size=5 face=휴먼엽서체>
+노란색 <style>body{background:yellow}</style> 파란색 <style>body{background:blue}</style>
+<FONT SIZE=5 COLOR=RED FACE=궁서>☆   <font size=5 color=goldenrod face=궁서>☆
+<font face=@궁서 color=light green size=5>☆ 화면색 <style>body{background:skyblue}</style>
+<font size=5 color=goldenrpd face=궁서>☆ <font size=5 color=orange face=궁서>☆
+<font size=5 color=purple face=궁서>☆  <font size=5 color=silver face=궁서>☆
+<font size=5 face=궁서 color=7979FF>☆  <font face=@궁서 size=5>☆  <font face=굴림체><font face=굴림체>원상태로
+<hr><font color=red size=-1>(공지사항)   <center><h1>공포의 중앙 필살 쓰기  </center>
+<marquee>...... </marquee>       <marquee direction=right>.......</marquee>
+<marquee behavior=alternate width=600>..........</marquee></marquee>
+ <marquee behavior=alternate direction=up height=200 bgcolor=#000080>
+
+여러가지그림들
+<IMG SRC="http://myhome.netsgo.com/auroral/13.jpg">타이타닉
+<IMG src=http://myhome.netsgo.com/okchoco/icon/기호%20아이콘/m92.gif>멋진걸!
+<IMG src=http://www.mhouse.net/chattinghouse/img/mc_banner1.gif>매직챗!
+<IMG src=http://www.mhouse.net/image/ing.gif>다음엔모가나올까?
+<IMG src=http://image.hanmail.net/hanmail/ad_image9905/sambo-m9906-7.gif>울트라캡숑짱
+<IMG src=http://image.hanmail.net/hanmail/ad_image9907/hanlim-i9907.gif>돈벌수있다!2만원.
+<IMG src=http://www.tbc.co.kr/new/apple.gif>티비씨!대구방송
+<IMG src=http://www.018.co.kr/image2/lll-2.gif>고객님을기쁘게..
+<IMG src=http://www.337.co.kr/yah.gif>여러가지정보가...여기에..
+<IMG src=http://smass.018.co.kr/mel/melody/title1-2.gif>나만의벨소리
+<IMG src=http://my.netian.com/~enjoy28/gif/animal11.gif>메롱~~~
+<image src="http://netblue.co.kr/~sinabro/graphic/animal/dol03.gif">돌고래쑈!
+<IMG SRC=http://home.opentown.net/~highnet/Images/113.gif><H1>사랑해요!
+<IMG src=http://203.250.64.34/~yally/backup/image/말/말2.gif>
+<image src=http://gardenflower.co.kr/item/fa-5b.jpg>생일축하해!
+<IMG src=http://203.250.64.34/~yally/backup/image/woman/여자8.gif>얼씨고 
+<image src="http://www.sexy-news.com/ani/ani4-1.jpg">그림!여자만화!
+<IMG SRC=http://www.ansony.com/midicafe/img/midibox.gif>리믹쓰곡입니다요
+<IMG SRC=http://myhome.netsgo.com/y1973/piano.gif>음악한곡틀까요?
+<IMG SRC=http://my.koreamusic.net/y1973/iloveu.gif>하트쪼개지는거!
+<IMG SRC=http://www.ansony.com/flippc.gif>돌고래!
+<IMG SRC=http://www.ansony.com/post.gif>편지!
+<IMG SRC=http://www.mbc.co.kr/NETOP/9906/music/hitsong/img/hit_main_b2.gif>베스트50인데요!어때요?
+<IMG SRC=http://www.mbc.co.kr/NETOP/9906/music/hitsong/img/photo.gif>얘네들이전부우리조직멤버요!
+<IMG SRC=http://www.mbc.co.kr:888/event/banner/img/music_0621.gif>음악신청하실래요?
+<IMG SRC=http://www.mbc.co.kr:888/image3/donga_ad_3.gif>젊은이들힘냅시다요!^^
+<IMG SRC=http://www.mbc.co.kr:888/image3/daewoo_box.gif>내콤퓨러는최고당!
+<IMG SRC=http://www.mbc.co.kr:888/image3/daou_ad_2.gif>리얼플레이는달렸나요?
+<IMG SRC=http://www.mbc.co.kr:888/image2/screen.jpg>모두주목하시요!쩝!
+<IMG SRC=http://www.mbc.co.kr:888/image3/kal_0615.gif>여행은안전한대한항공으로.
+<IMG SRC=http://img.adclick.co.kr/ads/hyperworld/hyperworld_468x60_1.gif>돈좀법시당~
+<image src=http://164.124.107.16/337-4/pic/talk2-2.gif>콤퓨러에러당~
+<image src=http://www.spinwin.com/spinbut.gif>오호!당첨!오렌지~~
+<image src=http://www.casinodinero.com/Resources/dinerosn.gif>자자!돈놓고돈먹기!걸어봐!
+<image src=http://www.337.co.kr/notice.GIF>공지사항
+<image src=http://img.adclick.co.kr/ads/337/banner.gif>우리모두즐거운대화방개설에힘씁시당!
+<image src=http://www.337.co.kr/Banner5.gif>마티즈
+<IMG SRC=http://www.artlang.com/images/coori.jpg>돼지궁디
+<IMG SRC=http://www.artlang.com/images/coori_c.gif>돼지자는그림
+<IMG SRC=http://www.artlang.com/images/nally4.gif>곰돌이
+<IMG SRC=http://www.artlang.com/images/nally6.gif>곰돌이
+<IMG SRC=http://www.artlang.com/images/nally5.gif>곰돌이
+<IMG SRC=http://www.artlang.com/images/nally8.gif>곰돌이
+<IMG SRC=http://www.artlang.com/images/arang1.gif>지금부터공부시작~~
+<IMG SRC=http://www.artlang.com/images/arang2.gif>춘향이~
+<IMG SRC=http://www.artlang.com/youri/youri_sc3.gif>우와!~노래넘잘한다!웅~
+<IMG SRC=http://www.artlang.com/youri/youri_sc1.gif>한곡하실래요?반주띄울께요!
+<IMG SRC=http://www.artlang.com/youri/youri_lc1.gif><h1>나의앤의모습임도!
+<IMG SRC=http://www.artlang.com/uhm/ani_uhm.gif>절대로누르지말것!웅~~
+<IMG SRC=http://www.artlang.com/uhm/pure_sm_a.gif>이쁜소녀당!
+<IMG SRC=http://www.artlang.com/uhm/title.gif><h1>흥!삐질꼬야!
+<IMG SRC=http://www.artlang.com/uhm/teeni_cyber.gif><h1>포이즌이에요!같이추실가요?
+<IMG SRC=http://www.artlang.com/uhm/title1.gif>안녕하세요!엄정화에용!
+<IMG SRC=http://www.artlang.com/nam/chara0.gif><h1>웅~쪼아쪼아
+<IMG SRC=http://www.artlang.com/nam/Nam02s.jpg>빠라빠라빠라밤!남희속입니당!
+<IMG SRC=http://www.artlang.com/images/title1.gif>왜~~
+<IMG SRC=http://www.artlang.com/images/artlogo.gif>그림천국임니다요!
+<IMG SRC=http://www.artlang.com/images/clonmatch.gif>클론돌아오다!
+<IMG SRC=http://www.artlang.com/images/clonimg.jpg>클론이온다!쿵~
+<IMG SRC=http://web-pd.com/banner/sm.gif>에쓰엠
+<IMG SRC=http://web-pd.com/banner/osun.gif>난오양꺼봤는데..
+<IMG SRC=http://web-pd.com/banner/booking.gif>부킹에서2차까지!
+<IMG SRC=http://web-pd.com/banner/hosting.gif>
+<IMG SRC=http://web-pd.com/banner/ok-car01.gif>보험하나드실라우? 
+<IMG SRC=http://web-pd.com/html/image/ec.gif>
+<IMG SRC=http://web-pd.com/banner/host-banner02.gif>쭉쭉빵!
+<IMG SRC=http://www.artlang.com/nam/chara3.gif>남희석
+<image src=http://myhome.netsgo.com/sosimi/jackclose.gif>디카프리오
+<image src=http://myhome.netsgo.com/sosimi/finalscene.jpg>다이다닉  
+<IMG SRC=http://www.artlang.com/uhm/wing1.gif>
+<IMG SRC=http://www.artlang.com/uhm/sign.gif>싸인
+<IMG src=http://mail.kebi.com/~pyh02/sbs/sbs1.jpg>송승헌
+<image src=http://www.gardenflower.co.kr/item/fa-2b.jpg>꽃
+<IMG src=http://dbserver.kaist.ac.kr/~knife/Images/Anim/폭탄.gif>
+<IMG src=http://myhome.shinbiro.com/~fguy/anigif/anim_a29.gif>괴물
+<IMG SRC=http://ps.sbs.co.kr/sbsvj/img/bani1.gif>춤!
+<IMG SRC="http://www.mbc.co.kr:888/image3/magic_ad1.gif">유승준
+<IMG SRC=http://www.cass.co.kr/images/cf9906.gif>맥주
+<IMG src=http://members.iworld.net/netis1/anigif/kiss.gif>키쓰!
+<IMG src=http://www.tit.ac.kr/~t98121002/sub/art/evacm.gif>만화
+<IMG SRC=http://www.digi-cat.com/leebyunghun/images/video01.gif>투헤븐!
+<IMG SRC=http://www.kbs.co.kr/teletubby/img/m_02.gif>텔레토비
+<IMG SRC=http://user.chollian.net/~kesrob/gif/86.gif>쉬~
+<IMG SRC="http://www.geocities.com/baja/dunes/1160/sj45.gif"> 뽀뽀!
+<image src=http://my.netian.com/~nhh2000/IMAGE/Welcom~2.gif><h1>어서와라~~캬캬캬
+<IMG SRC=http://www.ktg.or.kr/img/cigarette/cib/cib_03.jpg>디스
+<IMG SRC=http://myhome.netsgo.com/interlink/bb-eyes-ani.gif>외계인!
+<IMG SRC=http://www.cpark.co.kr/images/newchar/hot1.gif> 애들 풀어야 겠군.
+<image src=http://my.netian.com/~gray/icon/under/028.gif>씨발개쌔기들다파묻어뿌자! 
+<IMG SRC=http://lxcit.yonam-c.ac.kr/~mgjin/gamjaimg/specials.gif>간식들먹고혀라!
+<image src=http://web-pd.com/banner/mattress.gif>에이스침대!캬캬캬캬
+<IMG SRC=http://www.7942.com/speaker.gif><h1>음악들리나요?
+<IMG SRC=http://www.hananet.net/~clot/img/dragon.gif>룡!
+<image src="http://user.chollian.net/~kesrob/gif/38.gif">프리웨어!
+<image src="http://user.chollian.net/~kesrob/gif/21.gif">다음기회에...
+<image src="http://user.chollian.net/~kesrob/gif/9.gif">집에가라~캬캬컄
+<IMG SRC="http://203.250.64.34/~yally/backup/image/하트/하트4.gif">
+<image src="http://user.chollian.net/~kesrob/gif/29.gif">호랭이
+<IMG SRC=http://myhome.shinbiro.com/~guky/stars/Gsy.gif>고소영
+<image src=http://user.chollian.net/~kesrob/gif/18.gif><h1>뉴~
+<image src=http://my.netian.com/~nhh2000/IMAGE/Welcom~2.gif><h1>환영인사
+<image src=http://203.250.64.34/~yally/backup/image/꽃/꽃6.gif>
+<image src=http://203.250.64.34/~yally/backup/image/꽃/꽃9.gif>
+<IMAGE SRC="http://myhome.shinbiro.com/~eunmilee/bars_d11.gif">도망!
+<image src="http://myhome.shinbiro.com/~pparksse/ani/ani5.gif"><h1>폭죽!
+<image src="http://www.tlady.com/preview/9904/14/007TS_17.jpg"><h1>자지보지!
+<image src="http://myhome.netsgo.com/pjjsos/칼움직임.gif">
+<Img src=http://www.eroticd.com/arcade/images/rider1.jpg>포르노!
+<IMG src=http://lxcit.yonam-c.ac.kr/~mgjin/gamjaimg/Image95.jpg>장미꽃!
+<IMG SRC=http://home.tinc.co.kr/~3494/b1b.jpg>비트!
+<IMG SRC=http://plaza1.snu.ac.kr/~kimsd/hs1.jpe>김희선!
+<IMG SRC="http://chat2.neowiz.com/chat/gallery/cat/dead/nature/1.gif">번개!
+<IMG SRC=http://myhome.netsgo.com/chief15/images/칼.gif>
+<IMG SRC="http://my.netian.net/~mh586/pds/human/c9.gif"><H1>해골!
+<image src=http://user.chollian.net/~jiml/main06/1.jpg>피자!
+<image src="http://203.250.64.34/~yally/backup/image/꽃/꽃10.gif">
+<font color=goldared size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<font color=red.white size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<font color=pink size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<font color=purple size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<font color=grey size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<font color=violet size="150">♡♥♡♥♡♥♡♥♡♥받으세요!나의싸랑을..^^
+<image src=http://my.netian.com/~noksso/welcome1.gif>어서와라!대환영이다!후후^^
+<image src=http://myhome.netsgo.com/chief15/images/dies.gif>씨부랄껏!오늘목메달고주거뿌까?
+<image src=http://myhome.netsgo.com/hasse79/peo22.gif>생일잔치!
+<IMG SRC="http://203.255.230.1/~mgjin/gamjaimg/me.gif">나의인사를받아라!후후^^
+<IMG SRC=http://www.tokyo-post.com/pics/115.jpg>니자지닷!후후!^^
+<image src="http://18x.com/lovgung/lovgung01.jpg">햐~~보지봐라!^^
+<image src=http://www.gardenflower.co.kr/item/choco-b.jpg>장미받아라!후후^^
+<image src=http://my.netian.com/~noksso/g08.gif>나랑이렇게놀사람!후후^^
+<image src=http://www.geocities.com/baja/dunes//1160/sj16.gif>큐피트의화살을누구에게쏠까?^^
+<image src=http://hometopia.com/image/ani-a/ani-404>우리모두열심히....즐거운채팅을..
+<image src=http://user.chollian.net/~nitwit/clipart/human/image/h-02-3.gif>우린엄정화백땐써!
+<image src=http://www.ob.co.kr/can.gif>자!한잔하고놀자~~~^^(이맛이맥주!캬~~)
+<IMG SRC="http://www.love-kwangju.co.kr/kangsane/product/images/a-06.gif">하하!나의싸랑이다!
+<image src=http://www.artlang.com/nam/autobike.gif>식사와씨유~~빠라빠라빠라밤!^^
+<image src=http://my.netian.com/~noksso/g12.gif><h1>이닭대가리야!후후^^
+<image src=http://www.digi_cat.com/leebyunghun/images/video01.gif>자~모두감상혀라!후후^^
+<image src=http://www.sweetflower.co.kr/flowers/case_a.jpg>자~~이거드릴께요!후후^^
+<image src="http://203.250.64.34/~yally/backup/image/꽃/꽃3.gif">
+<image src=http://my.netian.com/~nhh2000/IMAGE/Bluebar.gif><h1>레이져
+<image src=http://www.geocities.com/baja/dunes/1160/i20.gif>어디보자~~흠...
+<image src=http://myhome.netsgo.com/revil/cat2.gif>이거사줄께!놀래?후후^^
+<image src="http://www.fortunecity.com/millenium/castleton/29/3dt1b.jpg">다타라!후후^^
+<image src=http://www.bsflower.co.kr/image/flower.gif><h1>장미를그대에게..후후^^
+<image src=http://ddanji.netsgo.com/ad/img/ad6-1.jpg>요기가면박치기확실히갈키준당!^^
+<image src=http://ddanji.netsgo.com/ad/img/ad6-2.jpg>전쟁이 나도 배달은하고만다!(서비수정신)  
+<image src=http://ddanji.netsgo.com/ad/img/ad9_13.gif>내가즐겨입는빤쓰당~~후후^^
+<image src=http://ddanji.netsgo.com/ad/img/ad8_1.gif><h1>파워콘돔의위력!^^
+<image src="http://myhome.netsgo.com/hasae79/plant05.jpg"><h1>꽃
+<IMG src="http://media.snut.ac.kr/ljpson/clipart/Animation/HEART/Love002.gif">꽃
+<IMG SRC=http://www.080flower.co.kr/image/b02.jpg>선물...후후^^
+<image src=http://my.netian.com/~khb1974/t21.gif>햐~~그림조~오~타!후후^^
+<image src=http://myhome.netsgo.com/Y95419/vegetafi.gif>에잇!받아라장풍!
+<image src=http://hometopia.com/image/ani-a/ani-416.gif>엄정화당!후후^^
+<image src=http://user.chollian.net/~kesrob/gif/71.gif>방가워요!(꿀~~꿀)
+<image src=http://www.gamjaggol.com/anigif/afelix.gif><h1>음.....생각좀하고...
+<image src=http://www.gardenflower.co.kr/item/choco-b.jpg>꽃
+<IMAGE SRC=http://www.geocities.com/SoHo/Studios/9271/n52.gif>우와..좋아좋아...
+<IMG SRC="http://user.chollian.net/~mh486/pds/human/eye.gif">눈가리!
+<image src=http://galaxy.channeli.net/soyo/뚜비1.gif>
+<image src="http://myhome.netsgo.com/lilis/ani/카스미1.gif">젖가슴!짱!
+<IMG src=http://tinpan.fortunecity.com/bluenote/329/se3.jpg>에스이에스!
+<image src=http://shinchan.chungnam.ac.kr/shinmot/016.gif>나랑도쫌!노라주세여!^^
+<image src=http://myhome.shinbiro.com/~seojungh/breakin2.gif>힙합!땐쓰~~얍얍얍!^^
+<image src="http://myhome.netsgo.com/hezbolra/gif/sf2/vega2.gif"> 베가!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/손입얼굴/얼굴5.gif>
+<image src="http://cumshot-haven.porncity.net/161/13.gif">이씨발년아!집구석가서너거아빠한테이래라!후후^^
+<IMG SRC="http://user.chollian.net/~i9518107/pr/pn014.gif"><h1>자~디스한대펴!후후^^
+<image src="http://www.yahoo.co.kr/images/new2.gif">뉴버젼!
+<image src=http://www.337.co.kr/eng/yue-sungjoon/m-Yue1.gif>
+<image src=http://user.chollian.net/~misterx/AGENJY.GIF><h1>에잇!한칼무라~~얍얍얍!
+<image src=http://user.chollian.net/~kesrob/gif/80.gif width=300>천사확대
+<image src=http://user.chollian.net/~kesrob/gif/27.gif><h1>자~~별이당!후후^^
+<image src="http://www.rosy.net/image/menulogo.gif"><h1>짠!선물이당!후후^^  
+<image src=http://www.desktopworld.com/kor/khj.gif><h1>우리애인이당!후후^^
+<image src=http://user.chollian.net/~kesrob/gif/6.gif><h1>야들아!~~방가루~~
+<image src=http://user.chollian.net/~kesrob/gif/1.gif>시원하제?
+<image src=http://user.chollian.net/~kesrob/gif/8.gif>독립만세!만세!만만세!
+<IMAGE SRC=http://www.geocities.com/SoHo/Studios/9271/n46.gif>뜨아~~~~
+<IMG src=http://www.a-fox.com/kim-heesun/t-Kim10.jpg>이렇게생긴가스나없남?
+<IMAGE SRC=http://www.geocities.com/Baja/Dunes/1160/i64.gif>어디~~함보자!
+<IMG src=http://www.a-fox.com/amuro-namie/109.jpg>울애인당!후후^^
+<IMAGE SRC=http://www.geocities.com/SoHo/Studios/9271/n97.gif>김양아!요기커피석잔만...^^
+<IMG src=http://www.channeli.net/zzaloo/Graphic/T.gif>아싸리조타!야르야르~~~!
+<IMG SRC="http://myhome.netsgo.com/h74334532/그림/laugh.gif">아가리닥치라!캬캬캬
+<IMG SRC=http://www.artflower.co.kr/flower_large_images/a11.jpg>짠!장미케이크당!축하혀!^^
+<IMG SRC=http://myhome.shinbiro.com/~bluesun2/gif-6.gif>꽃그림만땅!
+<IMAGE SRC=http://user.chollian.net/~met7021/gif/snowman.gif>방갑쏘!^^
+<IMAGE SRC=http://user.chollian.net/~met7021/gif/rocket.gif>폭이당~~(펑)
+<IMG SRC=http://my.netian.com/~koko1029/arm2610.jpg><h1>까불면!!죽음이당~~후후
+<IMG SRC=http://my.netian.com/~koko1029/emtwheel.jpg><h1>까불면!죽음이당~~후후
+<IMG SRC=http://my.netian.com/~koko1029/arm2610.jpg><h1>까불면!죽음이당~~후후
+<IMG SRC=http://my.netian.com/~koko1029/raut6.jpg><h1>까불면!죽음이당~~후후
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람44.gif>웅~~~밥주세요!응애~~
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람46.gif>난잠수나하자!후후^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람40.gif>우린디스님의제자당!^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람41.gif>넌내밥이야!씹쌔꺄!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람42.gif>나갈테니!즐방하시요!^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람43.gif>에잇!주거라!얍얍!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람45.gif>디스님!부르셨습니까?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람47.gif>뭐라꼬?호~~~이런!^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람48.gif>라라라~난체조나할까?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람49.gif>에잇!왜안드가냐?벌씨냐?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람50.gif>나지금열받았따!씩씩!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람30.gif>디스님!나와씨유!(탕!탕!)
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람31.gif>아싸!들어와따!^^자선물이다!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람32.gif>자!덤벼라!얍얍얍!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람33.gif>나의칼을바다라!짠!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람34.gif>왼발찌꼬!~터닝!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람35.gif>기다려라!내가간당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람36.gif>디스님!짱이에요!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람37.gif>싸우지마라!하하
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람38.gif>난큐피트당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람39.gif>발마추어가자!하하
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람20.gif>개쌔꺄!너이렇게될래?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람21.gif>말달리까?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람22.gif>내가널낚아주마!후후
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람23.gif>비켜라~~다죽음이당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람24.gif>맛이어때?주기지?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람25.gif>히히!나요기이따!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람26.gif>노래한곡트까요?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람27.gif>나화나면이렇게된당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람28.gif>무섭지?하하!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람29.gif>나간다이~~빠빠루~~
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람10.gif>아이부끄러워라~~^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람11.gif>우리함출까요?^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람12.gif>누구한테폭을쏘꼬?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람13.gif>날봐라!구엽찌?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람14.gif>앗!따거라!하하!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람15.gif>엘롱이당!^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람16.gif>흠..내속이왜이럴까?
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람17.gif>앙~~잡아무뿌까?^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람18.gif>이럴땐도망이최고당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람19.gif>대피해라!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람2.gif>전화끊어!쯧!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람4.gif>내가갈께!걸어서!하하
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람5.gif>방가여~~^^
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람6.gif>앙~~~나삐질끼당!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람7.gif>널잡꼬야말겠따!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람8.gif>탕!탕!다주거라!탕!탕!
+<IMG SRC=http://203.250.64.34/~yally/backup/image/man/사람9.gif>도망가자~~헉헉헉!
+<IMG SRC=http://netblue.co.kr/~arahan7/sailor/gr0.gif>나의여자친구들이당!^^
+<IMAGE SRC=http://www.geocities.com/SoHo/Studios/9271/i22.gif>함깔까?덤벼!
+
+

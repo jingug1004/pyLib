@@ -1,0 +1,88 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">From Anais</font>
+&nbsp;
+<font face="가을체">바람에게 </font>
+<font face="가을체">그는 말하기 시작했다.</font>
+&nbsp;
+<font face="가을체">'한동안 껍질속에 갇혀있던 나는 </font>
+<font face="가을체">오늘 아침 </font>
+<font face="가을체">오랜만에 잠깐 세상구경을 하기 위해</font>
+<font face="가을체">비로소 그 껍질을 깨고 나올 수 밖에 없었지요</font>
+&nbsp;
+<font face="가을체">그래요</font>
+<font face="가을체">난 바람을 아주아주 좋아해요</font>
+<font face="가을체">어느 한곳에 머무르지 않는</font>
+<font face="가을체">자유롭게 세상 어느 곳이든 그가 원하면 가고 마는</font>
+<font face="가을체">그이기에...</font>
+&nbsp;
+<font face="가을체">세상 구석구석을 돌아다니며</font>
+<font face="가을체">때론 얼음 송곳처럼 날카롭고 차갑게</font>
+<font face="가을체">때론 솜사탕처럼 달콤하고 부드럽게</font>
+<font face="가을체">내게 찾아오는 그</font>
+&nbsp;
+<font face="가을체">때론 벽에 부딛혀 부서질 수도 아는 연약함과</font>
+<font face="가을체">때론 무서운 회오리가 되어 질주해 가는 강인함을 아는</font>
+<font face="가을체">그...</font>
+&nbsp;
+<font face="가을체">사람들은 그로 인하여</font>
+<font face="가을체">행복해 하기도 아파하기도 하면서</font>
+<font face="가을체">그게 바로 그이 때문이란건 잘 모르지요</font>
+<font face="가을체">나를 행복하게 만들었던 그를 감사히 여긴 적도 많지만</font>
+<font face="가을체">또 어떨 땐</font>
+<font face="가을체">나를 아프게 만들었던 그였기에</font>
+<font face="가을체">미울 때도 참 많았지요</font>
+<font face="가을체">지금 내게 찾아온 그는 어떤 모습일까</font>
+<font face="가을체">지금 그에게서 느껴지는 내 모습은...'</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="558.htm"><img src="../../images/arro_38.gif" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="560.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

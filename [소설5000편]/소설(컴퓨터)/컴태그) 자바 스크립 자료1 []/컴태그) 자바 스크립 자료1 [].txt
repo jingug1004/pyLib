@@ -1,0 +1,360 @@
+﻿
+
+마우스 글자 따라 다니는 소스
+
+<html> 
+<head> 
+<title>mujigeashine</title> 
+<style> 
+.spanstyle {   
+position:absolute; 
+visibility:visible; 
+top:-50px; 
+font-family:엽서체; 
+font-size:10pt; 
+font-weight:bold; 
+color:#fffff; 
+} 
+</style> 
+
+<script language="JavaScript"> 
+<!-- 
+var x,y 
+var step=15 
+var flag=0 
+
+// 이부분의 문자열이 출력됩니다. 
+var message="저의 홈페이지에 오신것을 환영합니다.." 
+
+message=message.split("") 
+
+var xpos=new Array() 
+for (i=0;i<=message.length-1;i++) { 
+xpos[i]=-50 
+} 
+
+var ypos=new Array() 
+for (i=0;i<=message.length-1;i++) { 
+ypos[i]=-50 
+} 
+
+function handlerMM(e){ 
+x = (document.layers) ? e.pageX : document.body.scrollLeft+event.clientX 
+y = (document.layers) ? e.pageY : document.body.scrollTop+event.clientY 
+flag=1 
+} 
+
+function makesnake() { 
+if (flag==1 && document.all) { 
+    for (i=message.length-1; i>=1; i--) { 
+     xpos[i]=xpos[i-1]+step 
+  ypos[i]=ypos[i-1] 
+    } 
+ xpos[0]=x+step 
+ ypos[0]=y 
+
+ for (i=0; i<message.length-1; i++) { 
+     var thisspan = eval("span"+(i)+".style") 
+     thisspan.posLeft=xpos[i] 
+  thisspan.posTop=ypos[i] 
+    } 
+} 
+
+else if (flag==1 && document.layers) { 
+    for (i=message.length-1; i>=1; i--) { 
+     xpos[i]=xpos[i-1]+step 
+  ypos[i]=ypos[i-1] 
+    } 
+ xpos[0]=x+step 
+ ypos[0]=y 
+
+ for (i=0; i<message.length-1; i++) { 
+     var thisspan = eval("document.span"+i) 
+     thisspan.left=xpos[i] 
+  thisspan.top=ypos[i] 
+    } 
+} 
+ var timer=setTimeout("makesnake()",30) 
+} 
+// 자바스크립트 끝 --> 
+</script> 
+</head> 
+
+<body bgcolor="#000000" style="width:100%; overflow-x:hidden; overflow-y:scroll" onload="makesnake()"> 
+<script language="JavaScript"> 
+<!-- 
+for (i=0;i<=message.length-1;i++) { 
+   document.write("<span id='span"+i+"' class='spanstyle'>") 
+document.write(message[i]) 
+   document.write("</span>") 
+} 
+
+if (document.layers){ 
+document.captureEvents(Event.MOUSEMOVE); 
+} 
+document.onmousemove = handlerMM; 
+// 자바스크립트 끝 --> 
+</script> 
+</body> 
+</html>
+</body> 
+</html> 
+
+
+
+3초후에 다른 창으로 이동~
+<meta http-equiv="Refresh" content="3; URL=beside1-1.htm"> 
+
+
+시계~
+<html>
+
+
+<!--~=========================== DOCUMENT HEADER ===========================~-->
+<head>
+	<title>가자 자바스크립트 세상으로/Live Text Clock Script </title>
+	<link rel=StyleSheet HREF="../../wizzdesign.css" type="text/css" title="위쯔디자인 CSS">
+</head>
+<!--~========================= END DOCUMENT HEADER =========================~-->
+
+
+
+<body bgcolor=#000080 onLoad="loadclock()">
+　
+
+<p>
+<!-- 아래의 Text Area않에 있는 코드를 사용하고자 하는 html문서의 <BODY> 부분중  자신이 보여지길 원하는 부분에 삽입해 주세요. "var ctime=..." 부분을 수정해 주시면 시계의 색깔과 크기 글자 모양등을 바꾸실수 있습니다. -->
+<div ALIGN="center">
+<span id=tick2>
+</span>
+<script>
+ <!--
+ function show2(){
+ var Digital=new Date()
+ var hours=Digital.getHours()
+ var minutes=Digital.getMinutes()
+ var seconds=Digital.getSeconds()
+ var dn="AM"
+ if (hours>12){
+ dn="PM"
+ hours=hours-12
+ }
+ if (hours==0)
+ hours=12
+ if (minutes<=9)
+ minutes="0"+minutes
+ if (seconds<=9)
+ seconds="0"+seconds
+ var ctime="<b><font face='Verdana' color='#ffffff'>"+hours+":"+minutes+":"+seconds+" "+dn+"</font></b>"
+ if (!document.all)
+ document.write(ctime)
+ else
+ tick2.innerHTML=ctime
+ }
+ function loadclock(){
+ if (document.all)
+ setInterval("show2()",1000)
+ }
+ if (!document.all)
+ show2()
+ //-->
+ </script>
+</div>
+</body>
+</html>
+
+전광판 소스~~
+<applet code="ticker.class" codebase="http://my.netian.com/~johan82" codebase="http://my.netian.com/johan82" width="550" height="60" align="middle"> 
+<param name="Text1" value="IN:UPWARD;OUT:XROUTWARD;PAUSE:1000;COLOR:0,253,254;STRING:저의 홈페이지에 오신걸"> 
+<param name="Text2" value="IN:YRINWARD;OUT:YRINWARD;PAUSE:1000;FLASH:500,10,500;COLOR:0,255,0;STRING:환영합니다!즐거운 시간"> <param name="Text3" value="FONT:굴림체,pink,12;STRING:되세여~~~~~*^^*"> </applet> 
+<html> 
+<head> 
+<title>오벨리안 홈</title> 
+<style type="text/css"> 
+a:link{text-decoration:none} 
+a:visited{text-decoration:none} 
+a:active{text-decoration:none} 
+a:hover{text-decoration:none} 
+</style> 
+</head> 
+</html>
+
+문서만 움직이는 스크립~!
+
+<html> 
+<head> 
+<title>예제입니다-하이홈</title> 
+
+</head> 
+
+<body background="back.gif" bgcolor="white" 
+
+text="black" link="blue" vlink="purple" 
+alink="red" bgproperties="FIXED"> <-------------바로 요부분에 삽입해줬군여!!! 
+
+<div align="center"><table border="0" 
+
+cellpadding="5"> 
+<tr> 
+<td width="485"><p>&nbsp;</td> 
+</tr> 
+</table></div> 
+<p>&nbsp; 
+<div align="center"><table border="0"> 
+<tr> 
+<td width="582"><p align="center"><font 
+
+face="굴림" size="2"><b>안녕하세요? 하이홈입니다</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" 
+
+size="2"><b>요즈음 이미지는 고정되어 있고 텍스트만 움직이는</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" 
+
+size="2"><b>홈페이지 화면 많이 보셨지요?</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" 
+
+size="2"><b>여러분도 이제 부러워하시지만 말고</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" 
+
+size="2"><b>이제 이 자바스크립트로 한 번 </b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b>멋지게 꾸며보세요...</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b>뒤 배경으로 쓰인 그림은 여러분의 홈페이지에</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b>맞도록 다른 것으로 바꿔서 사용하시면 됩니다.....</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b>처음엔 홈페이지 만드는 것이 어렵고 힘들게 느껴지시겠지만...</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b>열심히 노력하면 세련되고 멋진 집을 장만하실 수 있으실 겁니다....^^ 화이팅!!!.....</b></font></p> 
+<p align="center">&nbsp;</p> 
+<p align="center"><font face="굴림" size="2"><b></b></font></p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p align="center"><font size="3" color="red"><b><body>부분에 
+bgproperties="FIXED" 를 삽입하여 주면 됩니다</b></font></p> 
+<p align="center"><font size="3" color="red"><b>그러면 배경화면은 그대로 있고 내용들만 움직이는 효과를 볼 수 있답니다</b></font></td> 
+</tr> 
+</table></div> 
+<p>&nbsp; 
+<div align="center"><table border="0" 
+
+cellpadding="5"> 
+<tr> 
+<td width="509"><p><hr></td> 
+</tr> 
+</table></div> 
+<p>&nbsp;</p> 
+</body> 
+
+</html> 
+
+글씨가 색깔이 변해염~~~
+<html>
+<head>
+<!--여기서 부터 헤드에 넣으세요//-->
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!-- Begin
+function initArray() {
+this.length = initArray.arguments.length;
+for (var i = 0; i < this.length; i++) {
+this[i] = initArray.arguments[i];
+}
+} 
+var ctext = "태그따라잡기 많이 사랑해주세요 알았죠? ^^ "; //이곳에 하시고 싶은 말을 쓰세요
+var speed = 1000;
+var x = 0;
+var color = new initArray(
+"red", 
+"blue", 
+"green",
+"black",
+"orange",
+"silver"
+);
+if(navigator.appName == "Netscape") {
+document.write('<layer id="c"><center>'+ctext+'</center></layer><br>');
+}
+if (navigator.appVersion.indexOf("MSIE") != -1){
+document.write('<div id="c"><center>'+ctext+'</center></div>');
+}
+function chcolor(){ 
+if(navigator.appName == "Netscape") {
+document.c.document.write('<center><font size=2 color="'+color[x]);
+document.c.document.write('">'+ctext+'</font></center>');
+document.c.document.close();
+}
+else if (navigator.appVersion.indexOf("MSIE") != -1){
+document.all.c.style.color = color[x];
+}
+(x < color.length-1) ? x++ : x = 0;
+}
+setInterval("chcolor()",1000);
+// End -->
+</script>
+<style>body{font-weight:bold}</style>
+<!--여기까지 넣어주세요//-->
+</head>
+<body>
+</body>
+</html>
+
+
+
+공지창 테그..^^;;
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=euc-kr"> 
+<META NAME="Generator" CONTENT="EditPlus"> <style type="text/css"> body </style>
+ <script language="JavaScript"> var curObj; function toggleMultimedia() 
+{ if (textFade.filters(0).status == 2) { textFade.filters(0).Stop(); if 
+(textFade.style.visibility == "hidden") textFade.style.visibility = "visible"; 
+else textFade.style.visibility = "hidden"; window.setTimeout("toggleMultimedia()", 1);
+} textFade.filters(0).Apply(); if (textFade.style.visibility == "hidden") 
+extFade.style.visibility = "visible"; else textFade.style.visibility = "hidden"; textFade.filters(0).Play(); } </script>
+ </head> 
+<body>
+<DIV align="center" 
+style="position:absolute;left:50px;top:50px;filter:revealTrans
+(transition=23,duration=0.5) blendTrans(duration=0.5);z-index:5;" 
+id="textFade" onClick="toggleMultimedia()" style="cursor: hand; position: relative; left: 10; width: 310; background:skyblue; border: 0.4em double ; filter: blendTrans(duration=3)">
+ <font style="color:lightcyan;font-size:9pt">
+<br><br>※ 펌프 동호회 T&G ※<br><br>
+<br><br>안녕하세요...<br><br>T&G동호회에 오신것을 환영합니다...
+<br><br>세이캐쉬,돈버는 광고는 사절입니다...^^<br><br>
+필요하신 자료 있으시면 요청해 주세염...^^<br><br>주말마다 올려 드릴께염...
+br><br>그럼... 즐거운 하루 되시길...<br><br>*^^* T&G 화이링~~~ *^^*<br><br>
+<br>글구 이건 클릭하면 사라져요...휘리릭~~~*^^*<br><br><br></font> 
+</DIV> 
+</body> 
+</html>
+br></div></TD></TR><br>
+
+
+
+나갈때 바이 메세지.
+
+<HTML>
+
+<HEAD>
+<script language="JavaScript"> 
+<!-- 
+function Bye() { 
+     alert("\n맨날 널러올꺼쥐??\n널러안오면..\n삐져버릴꼬얌 ^.*"); 
+} 
+// --> 
+</script> 
+</HEAD>
+
+<body onUnload="Bye()" >
+<!--복사는 여기까지--!> 
+
+들어 올때 메세지
+
+<body><SCRIPT> function checkAGE(){if (!confirm ("태그 따라잡기 입니다. 들어오실려면 확인을 누르시고 그렇지 않으면 취소를 눌러주시어요")) history.go(-1);return " "} document.writeln(checkAGE())</SCRIPT>
+
+오른쪽 마우스 클릭 금지
+
+

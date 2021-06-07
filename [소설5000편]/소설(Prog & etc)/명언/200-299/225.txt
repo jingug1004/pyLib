@@ -1,0 +1,74 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 220</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">'내게 당신이 가지고 있는 것 중 하나를 팔지 않겠소?</font>
+<font face="가을체"> 그건 어떻게 생각하면 아주 소중한 것이기도 하지만 </font>
+<font face="가을체"> 또 어떻게 생각하면 너무 흔하고 많아서 이곳 저곳에 </font>
+<font face="가을체"> 버리기도 하는 것이지</font>
+<font face="가을체"> 그건 당신의 시간이요</font>
+<font face="가을체"> 대신 나 역시 내 생명중 하루분을 떼어서 당신에게</font>
+<font face="가을체"> 주도록 하지. 당신의 시간에 대한 대가로.</font>
+<font face="가을체"> 당신도 알다시피 생명은 생명으로만 살 수 있듯이 </font>
+<font face="가을체"> 시간 역시 시간으로만 살 수 있거든'</font>
+&nbsp;
+<font face="가을체">-- 코러스 라인을 보러감</font>
+&nbsp;
+<font face="가을체">'오랜만에 BREMER 에서 아이리쉬 커피를 마신다</font>
+<font face="가을체">뜨거운 커피의 기운이 잔을 통해 손을 데게 하는데도 </font>
+<font face="가을체">마음은 여전히 춥기만 하다</font>
+<font face="가을체">검붉은 원두의 피, 커피.</font>
+<font face="가을체">그리고 악마의 피, 알콜.</font>
+<font face="가을체">이 두가지가 섞인 아이리쉬 커피는 연신 가쁜 숨을 </font>
+<font face="가을체">몰아쉬며 헐떡댄다.</font>
+<font face="가을체">이제 근방 뽑아낸 김이 모락모락 나는 피. 신선한 향내'</font>
+&nbsp;
+<font face="가을체">-- 드라큐라를 봄.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="223.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="226.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

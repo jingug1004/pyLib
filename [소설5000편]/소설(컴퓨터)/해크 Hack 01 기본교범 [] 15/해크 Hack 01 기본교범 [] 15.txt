@@ -1,0 +1,1435 @@
+﻿
+안녕하세요.
+13번째 시간입니다.
+이번 시간까지는 인터넷에 대한 나머지 것을 이야기 하겠습니다.
+본 강좌가 인터넷중점 강좌가 아니기에 더 깊숙히 파고들지는 않겠습니다.
+다음 시간부터 본격적인 해킹으로 들어가겠습니다.
+
+대부분의 내용은 천리안 인터넷 서비스를 중점으로 합니다.
+
+
+WWW(World Wide Web, 인터넷 하이퍼텍스트)은 인터넷을 이용한 검색 도구라 하겠다.
+여지껏 우리가 보아오던 텍스트 방식이 아닌 멀티미디어에 근접한 음성,화상 정보 서비스라
+할것이다.
+이것은 CERN(the Eurobean Laboratory for Particle Physics)의 주도하에
+만들어진 산물로 고퍼, anonymous  FTP, 아키, 유즈넷,텔넷 등으로 이용할 수  있는 모든 서비스
+를 모두 사용할수 있다는 매력도 갖고 있다.
+이러한 WWW의 브라우저로 가장 많이 애용되는 것은 익스플로러와 넷스케이프이다.
+위와는 달리 일반 텍스트 기반의 WWW 도 있다.
+이것은  lynx를 이용하는 방법인데 lynx는 vt100 터미널을 위한 하이퍼텍스트 브라우저로 모자익
+이나 네스케이프 등의 풀그림을 사용할 수 없는 이들에게 유용하다.
+아이네트나 코넷을 이용해  인터넷에 접속하는 경우는 lynx를  사용자가 별도로 설치하지 않아도
+사용할수 있도록 되어 있다.
+다음의 용어는 WWW 사용시 자주 접하게될 것들이다.
+URL(Uniform Resource Locators) 은   인터넷 상의 거의 어떤 자료와 서비스든   그리고 어디에
+있든 접근할 수 있는 방법을 제공한다.
+HTTP(HyperText Transfer Protocol)  는 W3 서버와 클라이언트가  하이퍼텍스트 문서를  위해
+통신하는 프로토콜이다.
+HTML(HyperText Markup Language)  은 hypertext 문서를 만드는 언어로 구조화된  형식을 갖
+는다.
+
+
+
+
+
+
+천리안,하이텔,나우누리등의 통신망에서 가장 인기있는 메뉴가 바로 채팅일것이다.
+지금 이 시간에도 많은 사람들이 채팅에 빠져있을것이다.
+정말 도끼 자루 썩는줄 모르고 하는것이 채팅이다.
+그럼 인터넷에서도 이런 대화방이 존재할까?
+존재하면 세계각국의 사람들과 만나서 이야기 할 수 있을텐데 말이다.
+물론.
+하지만 영어를 공용으로 사용한다는 것이 다소 겁먹게 만든다.
+거기다 보통 영어가 아니라 통신상에서  사용하는 약어, 속어 등과 유사한 통신 언어라는 점이다.
+그래서 처음에 접속해서 대화를 하려면 무척 고생한다.
+
+채팅을 하기 위해서는 다음과 같은 두 가지 방법을 사용하는 것이
+일반적이다.
+
+-telnet을 이용한다.
+Telnet을 이용해서 채팅을 할 수 있도록 해 주는 시스팀이 있다.  아래와
+같은 시스팀에 접속을 하면 된다.  어떤 의미에서는 BBS라고도 할 수
+있는 시스팀이다.
+다음은 대표적인 Chat 서비스 목록이다.
+
+    -Chat Services        telnet english-server.hss.cmu.edu
+                          telnet explorer.clark.net 1420
+        Dolphin           telnet dolphin.csudh.edu 1420
+        Somewhere Else    telnet 199.3.240.54 2010
+        FootHills         telnet marble.bu.edu 2010
+                              or 128.197.10.75 2010
+        The Coffee House  telnet 128.198.1.116 2525
+        Olohof's BBS      telnet morra.et.tudelft.nl 2993
+                              or 130.161.144.100 2993
+        DS9               telnet 128.8.11.201 3000
+        Surfers           telnet 137.73.16.2 3232
+        Mansion II        telnet 163.200.97.1 4000
+        Elec. Night Club  telnet 129.215.162.64 4001 (Evenings Only)
+        Theatre           telnet acad.stedwards.edu 4444
+        Club House        telnet 137.140.5.1 5000
+        CyberEden         telnet rivendel.slip.umd.edu 5000
+                              or 128.8.11.201 5000
+        Multiple Worlds   telnet lintilla.df.lth.se 5000
+                              or telnet 194.47.62.13
+                          telnet islandnet.com 7000
+                              or 134.87.180.1 7000
+        Davenport Beach   telnet 129.74.80.116 7777
+        Greenfield        telnet mary.iia.org 12345
+                              or 198.4.75.9 12345
+
+
+
+다음예는 실제 접속 상황입니다.
+
+예)
+ Somewhere Else 라는 chat 서비스
+
+  +-----------------------------------------------------------------------+
+  |  telnet 199.3.240.54 2010                                             |
+  +-----------------------------------------------------------------------+
+
+  연결이 되면 제일 먼저 사용할 이름과 성별 그리고 사용하는 터미널 형태를 물
+  어보는데 이름은 사용하고 싶은 이름을 영어로 쓰면 되고, 성별은  남자면  M,
+  여자면 F 라고 입력하고 터미털 형태는 vt100 이라고 지정하시기 바랍니다.
+
+  +-----------------------------------------------------------------------+
+  |  Please enter your name:______                                        |
+  |  Gender (Male/Female/Neuter)? _                                       |
+  |  Terminals Available: xterm vt220 vt100 ansi wyse-30 tvi912 sun       |
+  |  Your terminal: vt100                                                 |
+  +-----------------------------------------------------------------------+
+
+    이제 우리는 이야기방으로 들어가게 됩니다..
+
+  +----------------------------------------------------------------------+
+  |  MrBean says 'I also have a 4 year old car with 230,000km            |
+  |              (150,000miles)'                                         |
+  |  Leau asks 'was it interesting?'                                     |
+  |  Robbie says 'Hi Ryu'                                                |
+  |  Puppet says 'no :-)'                                                |
+  |  Leau exclaims 'kewl!'                                               |
+  |  Puppet asks '4 yrs??'                                               |
+  |  Leau asks 'what are you doing next summer MrBean?'                  |
+  |  MrBean says 'Hard to say Leau...I'd love to do a sebatical'         |
+  |  MrBean asks 'Why do you ask?'                                       |
+  +----------------------------------------------------------------------+
+
+      많은 사람들이 이야기를 나누고 있습니다. 하지만 우리는 먼저 각 site 에
+  서 사용하는 독특한 명령어들을 익혀야 합니다. 각각의 IRC site 들은 각각 다
+  른 명령어를 가지고 있기 때문입니다. 이 곳 Somewhere Else 의 기본 명령어는
+  say 입니다. say 라고 치고 한 칸을 비우고 할 말을 치면 다른 사람들에  전달
+  이 됩니다만 그 외에서 수 많은 명령어들이 있습니다. 이 명령어들에 대한  도
+  움말은 help 라는 명령어로 찾아 볼 수 있습니다. 하지만 이 부분들은  여러분
+  들에게 남겨 놓겠습니다. 직접 부딪치며 해외의 친구들을 한 번 만들어 보시기
+  바랍니다.
+
+끝.
+
+
+
+
+-IRC 클라이언트를 사용한다.
+Telnet을 사용하는 방법보다 좀더 사용자에게 편리한 화면과 명령어들을
+제공한다.  IRC를 사용하는 시스팀을 이용할 수 있는데, 다음과 같은
+곳에서 구할 수 있다.  이 시스팀들은 자동적으로 IRC 클라이언트를
+인스톨 해주는 독특한 서비스를 제공한다.
+
+telnet sci.dixie.edu 1 | sh
+telnet rush.cc.edu 1 | sh
+
+
+이 시스팀들은 SUN, VAX, RS/6000 등에서 작동되는 실행코드까지
+만들어 준다. 그러므로 컴파일을 할 필요조차 없다.
+
+영어로 이야기 하기 거북한 사람들을 위한 한글 서버가 있다.
+
+한글 IRC를 제공 서버
+
+korea.slip.umd.edu(미국 동부 한글 서버)
+korea.stanford.edu(미국 서부 한글 서버)
+sol.nuri.net(한국 게이트웨이)
+
+
+*인터넷 상에서 자주 사용되는 기호*
+
+:-)   기본 스마일.  통신을 통해 음성의 고저나 억양을 인식할 수 없기
+때문에 비꼬는 말이나 농        담조의 말에 미소로 대응하기 위해
+사용.
+;-)   윙크 스마일. 비꼬는 말에 대해 긍정 또는 부정을 표시하기 위해
+사용.  '내가 한말에             대해 너무 신경쓰지 마세요'란 의미의
+표현.
+:-(   찡그린 스마일.  거부감을 느끼거나 어떤 것에 대해 화가 났을 때.
+아니면 기분 나쁠 때의        스마일.
+:-I   냉담한 스마일. 찡그린 스마일 보다는 약화된 기분 표현이지만
+웃음짓는 스마일 보다는 못        한 상태.
+:->  거부감을 주는 내용에 대해 매섭게 반응을 보이고 싶을 때
+사용하는 스마일.
+
+
+WWW를 제대로 사용하기 위해서는 도구가 필요하다.
+
+그중 대표적인 도구로 "네트 스케이프"와 "모자이크" 일 것이다.
+
+그중 네트 스케이프를 이용한 설치와 WWW 실제 접속 까지 다뤄보겠다.
+넷스케이프는 넷스케이프커뮤니케이션 사의 제품으로, Trumpet
+Winsock(v 1.0), FTP Software's PC/TCP, NetManage, Microsoft
+WFW(Wolverine), Microsoft NT 등의 TCP/IP 스택에서 테스트를
+거쳤으며, 매킨토시 시스팀 7(또는 그 이상), PC 윈도우즈, 윈도우즈 NT,
+리눅스, X 윈도우 시스팀 등에서 사용 가능하다.
+윈도우즈 하에서 사용하기 위해서 Winsock TCP/IP가 필요하며, 모뎀은
+14,400bps가 추천되는 사양이다.  물론 인터넷 접속 방법은 PPP나
+SLIP이어야 한다.
+넷스케이프의 설치는 여타의 윈도우즈용 풀그림 같이 간단하다.
+setup.exe를 실행하면 자동 설치된다.  사용법도 상당히 간단한데 이것이
+구이가 추구하는 가장 큰 목적이 아닌가.
+특징적인 것만 살펴 보자.  북마크에 자신이 자주 들르는 사이트를
+등록해 놓으면 클릭만 함으로써 원하는 사이트로 연결되므로 편리한
+이용이 가능하다.  그리고 옵션에서 자신의 환경에 맞게 여러 가지
+설정을 해 놓으면 넷스케이프의 진가를 더욱 느낄 수 있게 될 것이다.
+예를 들어 Helper Application에서는 Lview1(jpeg), Mpegplay(mpeg),
+Mplayer(오디오 파일), GhostScript(포스트스크립트 파일) 등을 이용할 수
+있도록 연계해 둘 수 있다.   물론 사용자가 즐겨 쓰는 풀그림을
+이용해도 된다.  또한 프락시(proxy)를 적절한 곳으로 설정하면 보안성을
+유지할 수 있을 뿐 아니라 트래픽을 줄여 주는 효과를 낼 수 있다.
+넷스케이프를 이용해서 뉴스그룹을 검색하거나 포스트하는 것도
+가능하다.  물론 전자우편을 보내거나 받을 수도 있다.
+
+다음은 Freenet BBS 리스트 이다.
+
+UNITED STATES
+
+
+   ALABAMA
+      Organizing Committees
+         Free-Net
+            Tennessee Valley Free-Net - Huntsville
+               Billy Ray Wilson
+                  voice: 205-544-3849
+                  e-mail:
+
+            Mobile Free-Net - Mobile
+               Geoff Peacock
+                  voice: 205-344-7243
+                  e-mail: geoffp@netcom.com
+
+            Tuscaloosa Free-Net - Tuscaloosa
+               Dr. Ron Doctor
+                  voice: 205-348-2398
+                  e-mail: rdoctor@ua1vm.ua.edu
+
+
+   ALASKA
+      Organizing Committees
+         Free-Net
+            AnchorNet - Anchorage
+               Peg Thompson
+                  voice: 907-261-2891
+                  e-mail: pegt@muskox.alaska.edu
+
+            FairNet - Fairbanks
+               Mark O. Badger
+                  voice: 907-474-5089
+                  e-mail: ffmob@aurora.alaska.edu
+
+
+   ARIZONA
+      Affiliates
+         Free-Net
+            AzTeC - Tempe
+               Joseph A. Askins
+                  voice: 602-965-5985
+                  e-mail: joe.askins@asu.edu
+               Modem: 602-965-4151
+               Telnet:129.219.13.60
+                  Visitor login: guest (password: visitor)
+
+
+   ARKANSAS
+      Organizing Committees
+         Free-Net
+            Greater Pulaski County Free-Net - Little Rock
+               John Eichler
+                  voice: 501-666-2222
+                  e-mail: john.eichler@grapevine.lrk.ar.us
+
+
+   CALIFORNIA
+      Affiliates
+         Free-Net
+            Los Angeles Free-Net - Los Angeles
+               Avrum Z. Bluming, M.D.
+                  e-mail: aa101@lafn.org
+               Voice Info: 818-954-0080
+               Modem: 818-776-5000
+               Telnet: lafn.org
+                  Visitor login: Select #2 at first menu
+
+            SLONET - San Luis Obispo
+               Phil Wagner
+                  voice: 805-544-7328
+                  e-mail: pwagner@slonet.org
+               Modem: 805-781-3666
+               Telnet: 199.74.141.2
+                  Visitor login:
+
+         Educational
+            California Online Resources for Education - Seal Beach
+               Keith Vogt
+                  voice: 1-800-272-8743
+                  e-mail: kvogt@eis.calstate.edu
+               Modem: < service not available >
+               Telnet: eis.calstate.edu
+                  Visitor login: <service not available>
+
+      Organizing Committees
+         Free-Net
+            Northern California Regional Computing Network - Chico
+               Patrick Blythe
+                  voice: 916-891-1211
+                  e-mail: pblythe@aol.com
+
+            Davis Community Network - Davis
+               Ann Mansker
+                  voice: 916-752-7764
+                  e-mail: acmansker@ucdavis.edu
+
+            Orange County Free-Net - Orange County
+               Kent D. Palmer, Ph.D.
+                  voice:714-762-8551
+                  e-mail: palmer@world.std.com
+
+            Sacramento Free-Net - Sacramento
+               Cynthia Mulit
+                  voice: 916-484-6789
+                  e-mail: sndview@netcom.com
+
+            Silicon Valley Public Access Link - San Jose
+               Marc Siegel
+                  voice: 415-968-2598
+                  e-mail: msiegel@svpal.org
+
+            Santa Barbara RAIN - Santa Barbara
+               Timothy Tyndall
+                  voice: 805-967-7246
+                  e-mail: rain@rain.org
+
+         RIN
+            Redwood Free-Net - Ukiah
+               Pat Hunt
+                  voice: 707-463-4154
+                  e-mail: pat@pacific.net
+
+
+   COLORADO
+      Affiliates
+         Free-Net
+            Denver Free-Net - Denver
+               Drew Mirque
+                  voice: 303-270-4300
+                  e-mail: drew@freenet.hsc.colorado.edu
+               Modem: 303-270-4865
+               Telnet: freenet.hsc.colorado.edu
+                  Visitor login: guest
+
+
+   CONNECTICUT
+      Organizing Committees
+         Free-Net
+            Danbury Area Free-Net - Danbury
+               Diane Greenwald
+                  voice: 203-797-4512
+                  e-mail: waldgreen@bix.com
+
+            CPBI - Free-Net - Hartford
+               Alfred Steel
+                  voice: 203-278-5310  ext 1230
+                  e-mail: steela@csusys.ctstateu.edu
+
+
+   FLORIDA
+      Affiliates
+         Free-Net
+            SEFLIN Free-Net - Broward County
+               Elizabeth Curry
+                  voice: 305-357-7318
+                  e-mail: currye@mail.seflin.lib.fl.us
+               Modem: 305-765-4332
+               Telnet: bcfreenet.seflin.lib.fl.us
+                  Visitor login: visitor
+
+            Alachua Free-Net - Gainesville
+               Bruce Brashear
+                  voice: 904-372-8401
+                  e-mail: 76314.352@compuserve.com
+               Modem: 904-334-0200
+               Telnet: freenet.ufl.edu
+                  Visitor login: visitor
+
+            Tallahassee Free-Net - Tallahassee
+               Hilbert Levitz
+                  voice: 904-644-1796
+                  e-mail: levitz@cs.fsu.edu
+               Modem: 904-488-5056
+               Telnet: freenet.fsu.edu
+                  Visitor login: visitor
+
+      Organizing Committees
+         Free-Net
+            Miami Free-Net - Miami
+                            Elizabeth Curry
+                  voice: 305-357-7318
+                  e-mail: currye@mail.seflin.lib.fl.us
+
+            Naples Free-Net - Naples
+               Dr. Melody Hainsworth
+                  voice: 1-800-466-8017
+                  e-mail: hainswm@firnvx.firn.edu
+
+            Orlando Free-Net - Orlando
+               C.A. Benoit
+                  voice: 407-833-9777
+                  e-mail: bruce@goliath.pbac.edu
+
+            Palm Beach Free-Net - Palm Beach
+               Elizabeth Curry
+                  voice: 305-357-7318
+                  e-mail: currye@mail.seflin.lib.fl.us
+
+            Sarasota-Manatee Area Free-Net - Sarasota
+               Sally Webb
+                  voice: 813-951-5502
+                  e-mail:
+
+            MCNet - Stuart
+               Gretchen Hammerstein
+                  voice: 407-221-1410
+                  e-mail: hammerg@firnvx.firn.edu
+
+            Suncoast Free-Net - Tampa Bay
+               Marilyn Mulla
+                  voice: 813-273-3714
+                  e-mail: mullam@firnvx.firn.edu
+
+
+   GEORGIA
+      Affiliates
+         RIN
+            Worth County-Sylvester Ga. Free-Net - Sylvester
+               Kent A. Guske
+                  voice: 912-776-8625
+                  e-mail: guske@freenet.fsu.edu
+               Modem: 912-776-1255
+               Telnet: <service not available>
+                  Visitor login:
+
+      Organizing Committees
+         Free-Net
+            404 Free-Net - Atlanta
+               Mike Bernath
+                  voice: 404-892-0943
+                  e-mail: mike_bernath@solinet.net
+
+
+   HAWAII
+      Organizing Committees
+         Free-Net
+            The Aloha Free-Net Project - Honolulu
+               Robert Mathews
+                  voice: 808-533-3969
+                  e-mail: mathews@gold.chem.hawaii.edu
+
+            Maui Free-Net - Maui
+               Donald Regalmuto
+                  voice: 808-572-0510
+                  e-mail: don.regal@tdp.org
+
+
+   IDAHO
+      Organizing Committees
+         Free-Net
+            Sandpoint Free-Net - Sandpoint
+               Jason McMunn
+                  voice: 208-263-6105
+                  e-mail: mcmun911@crow.csru.uidaho.edu
+
+
+   ILLINOIS
+      Affiliates
+         Free-Net
+            Prairienet - Champaign-Urbana
+               Ann P. Bishop
+                  voice: 217-244-3299
+                  e-mail: abishop@uiuc.edu
+               Modem: 217-255-9000
+               Telnet: prairienet.org   (192.17.3.3)
+                  Visitor login: visitor
+
+      Organizing Committees
+         Free-Net
+            Shawnee Free-Net - Carbondale
+               Robert A. Pauls
+                  voice: 618-549-1139
+                  e-mail: ad592@freenet.hsc.colorado.edu
+
+            SWIF-NET - Edgemont
+               Gary A. Ulery
+                  voice: 618-397-0968
+                  e-mail: gulery@minuet.siue.edu
+
+
+   INDIANA
+      Organizing Committees
+         Free-Net
+            Michiana Free-Net Society - Granger
+               Donald McLaughlin
+                  voice: 219-282-1574
+                  e-mail: dmclaugh@darwin.cc.nd.edu
+
+
+   IOWA
+      Organizing Committees
+         Free-Net
+            CedarNet - Cedar Falls
+               Robert Muffoletto
+                  voice: 319-273-6282
+                  e-mail: muffoletto@uni.edu
+
+            Iowa Knowledge Exchange - Des Moines
+               Gary Barrett
+                  voice: 515-242-3556
+                  e-mail: garyb@ins.infonet.net
+
+            Fairfield Free-Net - Fairfield
+               Steve Terry
+                  voice: 515-472-7494
+                  e-mail: sterry@ins.infonet.net
+
+
+   KENTUCKY
+      Organizing Committees
+         Free-Net
+            Pennyrile Area Free-Net - Hopkinsville
+               Mark Roseberry
+                  voice: 502-886-2913
+                  e-mail: mroseberry@delphi.com
+
+            Owensboro Free-Net - Owensboro
+               Donna Treubig
+                  voice: 502-686-4530
+                  e-mail: donna@ndlc.occ.uky.edu
+
+
+   LOUISIANA
+      Organizing Committees
+         Free-Net
+            Baton Rouge Area Interactive Network - Baton Rouge
+               Ann McMahon
+                  voice: 504-346-0707
+                  e-mail: anniemac@acm.org
+
+            Acadiana Free-Net - Lafayette
+               Bob Brantingham
+                  voice: 318-837-9374
+                       e-mail: bobbrant@delphi.com
+
+            Greater New Orleans Free-Net - New Orleans
+               Gordon H. Mueller
+                  voice: 504-286-7187
+                  e-mail: nrrmc@uno.edu
+
+
+   MAINE
+      Organizing Committees
+         Free-Net
+            Maine Community Access Network- Freeport
+               Elizabeth D. Frey
+                  voice: 207-287-6615
+                  e-mail: efrey@mmp.org
+
+
+   MARYLAND
+      Organizing Committees
+         Free-Net
+            Free State Free-Net - Baltimore
+               Andree Duggan
+                  voice: 410-313-9259
+                  e-mail: aduggan@well.sf.ca.us
+
+            Community Service Network - Easton
+               David M. Boan, Ph.D.
+                  voice: 410-822-4132
+                  e-mail: david_boan@martha.washcoll.edu
+
+            Garrett Communiversity Central - McHenry
+               Donald Storck
+                  voice: 301-387-3035
+                  e-mail: 71072.2304@compuserve.com
+
+
+   MASSACHUSETTS
+      Affiliates
+         Educational
+            UMASSK12 - Amherst
+               Morton Sternheim
+                  voice: 413-545-1908
+                  e-mail: mms@k12.ucs.umass.edu
+               Modem: 413-572-5583 or 413-572-5268
+               Telnet: k12.ucs.umass.edu
+                  Visitor login: guest
+
+
+   MICHIGAN
+      Affiliates
+         Free-Net
+            Greater Detroit Free-Net - Detroit
+               Paul Raine
+                  voice: 810-574-8549
+                  e-mail: info@detroit.freenet.org
+               Modem: < service not available >
+               Telnet: detroit.freenet.org
+                  Visitor login: visitor
+
+         Educational
+            Education Central - Mount Pleasant
+               Hal Crawley
+                  voice: 517-774-3975
+                  e-mail: 374cylb@cmuvm.csu.cmich.edu
+               Modem: 517-774-3790
+               Telnet: edcen.ehhs.cmich.edu
+                  Visitor login: visitor
+
+         RIN
+            Almont Expression - Almont
+               George Pratt
+                  voice: 810-798-8150
+                  e-mail: gpratt@expression.org
+               Modem: 810-798-8290
+               Telnet: < service not available >
+                  Visitor login: Visitor (password: Visitor)
+
+            Great Lakes Free-Net - Battle Creek
+               Merritt W. Tumanis
+                  voice: 616-961-4166
+                  e-mail: merritt_tumanis@fc1.glfn.org
+               Modem: 616-969-4536
+               Telnet: <s ervice not available >
+                  Visitor login: visitor
+
+      Organizing Committees
+         Free-Net
+            Huron Valley Free-Net - Ann Arbor
+               Michael Todd Glazier
+                  voice: 313-662-8374
+                  e-mail: michael.todd.glazier@umich.edu
+
+            Genesee Free-Net - Flint
+               David A. Cheslow
+                  voice: 810-762-3309
+                  e-mail: dcheslow@umich.edu
+
+            Grand Rapids Free-Net - Grand Rapids
+               Andrew Bass
+                  voice: 616-459-6273
+                  e-mail: andyb@bethany.org
+
+            Macatawa Area Free-Net - Holland
+               Richard Vander Broek
+                  voice: 616-396-2303 x24
+                  e-mail: ad469@leo.nmc.edu
+
+            Capitol City Free-Net - Lansing
+               Whitney M. Johnson
+                  voice: 517-487-1516
+                  e-mail: whit@jcn.com
+
+
+   MINNESOTA
+      Organizing Committees
+         Free-Net
+            Twin Cities Free-Net - Minneapolis
+               Scott Fritchie
+                  voice: 507-646-3407
+                  e-mail: fritchie@stolaf.edu
+
+
+            Northfield Free-Net - Northfield
+               Andrea Christianson
+                  voice: 507-645-9301
+                  e-mail: andreacris@aol.com
+
+
+   MISSISSIPPI
+      Organizing Committees
+         Free-Net
+            Magnolia Free-Net - Jackson
+               Tom Lowe
+                  voice: 601-354-1027
+                  e-mail: tlowe@ccaix.jsums.edu
+
+            Meridian Area Free-Net - Meridian
+                          Ric Rogers
+                  voice: 601-482-2000
+                  e-mail: ric4aardvark@delphi.com
+
+
+   MISSOURI
+      Affiliates
+         Free-Net
+            Columbia Online Information Network (COIN) - Columbia
+               Elinor Barrett
+                  voice: 314-443-3161 (ext. 350 for voice mail)
+                  e-mail: ebarrett@bigcat.missouri.edu
+               Modem: 314-884-7000
+               Telnet: bigcat.missouri.edu
+                  Visitor login: guest
+
+            ORION - Springfield
+               Annie Linnemeyer
+                  voice: 417-837-5050  ext 15
+                  e-mail: annie@ozarks.sgcl.lib.mo.us
+               Modem: 417-864-6100
+               Telnet: ozarks.sgcl.lib.mo.us
+                  Visitor login: guest
+
+      Organizing Committees
+         Free-Net
+            Show-Me Free-Net - Cape Girardeau
+               Larry Loos
+                  voice: 314-334-9322
+                  e-mail: LLoos@delphi.com
+
+            KC Free-Net - Kansas City
+               James E. Osbourn
+                  voice: 816-340-4228
+                  e-mail: josbourn@tyrell.net
+
+
+   MONTANA
+      Affiliates
+         Free-Net
+            Big Sky Telegraph - Dillon
+               Frank Odasz
+                  voice: 406-683-7338
+                  e-mail: franko@bigsky.dillon.mt.us
+               Modem: 406-683-7680
+               Telnet: 192.231.192.1
+                  Visitor login: bbs
+
+
+   NEBRASKA
+      Organizing Committees
+         Free-Net
+            Omaha Free-Net - Omaha
+               Howard Lowe
+                  voice: 402-554-2516
+                  e-mail: lowe@unomaha.edu
+
+
+   NEVADA
+      Organizing Committees
+         Free-Net
+            Las Vegas International Free-Net - Las Vegas
+               Scott Susman
+                  voice: 702-795-7267
+                  e-mail: scott@gate.vegas.com
+
+
+   NEW HAMPSHIRE
+      Organizing Committees
+         Free-Net
+            The Granite State Oracle - Manchester
+               Quentin Lewis
+                  voice: 508-442-0279
+                  e-mail: quentin.lewis@sun.com
+
+
+   NEW MEXICO
+      Organizing Committees
+         Free-Net
+            New Mexico Free-Net - Albuquerque
+               Lewis R. Newby
+                  voice: 505-277-8148
+                  e-mail: lnewby@unm.edu
+
+            Santa Fe Metaverse - Santa Fe
+               John R. Grizz Deal
+                  voice: 505-989-7117
+                  e-mail: grizz@lanl.gov
+
+
+   NEW YORK
+      Affiliates
+         Free-Net
+            Buffalo Free-Net - Buffalo
+               James Finamore
+                  voice: 716-877-8800  ext 451
+                  e-mail: finamore@ubvms.cc.buffalo.edu
+               Modem: 716-645-3085
+               Telnet: freenet.buffalo.edu
+                  Visitor login: freeport
+
+      Organizing Committees
+         Free-Net
+            Capital Region Information Service - Albany
+               Norman D. Kurland
+                  voice: 518-442-3728
+                  e-mail: nkurland@albnyvms.bitnet
+
+            CASSYnet - Corning
+               Tom Gabriele
+                  voice: 607-936-3713
+                  e-mail: freenet@scccvb.corning-cc.edu
+
+            Southern Tier Free-Net - Endicott
+               Scott Cubic
+                  voice: 607-752-1201
+                  e-mail: cubicsr@vnet.ibm.com
+
+            Rochester Free-Net - Rochester
+               Jerry Seward
+                  voice: 716-594-0943
+                  e-mail: jerry@rochgte.fidonet.org
+
+
+   NORTH CAROLINA
+      Organizing Committees
+         Free-Net
+            Triangle Free-Net - Chapel Hill
+               William R. Hutchins
+                  voice: 919-968-4292
+                  e-mail: hutch@tfnet.ils.unc.edu
+
+            Charlotte's Web - Charlotte
+               Stephen H. Snow
+                  voice: 704-358-5245
+                  e-mail: shsnow@vnet.net
+
+            Forsyth County Free-Net - Winston-Salem
+               John Annen
+                  voice: 919-727-2597  ext 3023
+                  e-mail: annen@ledger.mis.co.forsyth.nc.us
+
+
+   NORTH DAKOTA
+      Affiliates
+         Educational
+            SENDIT - Fargo
+               Gleason Sackman
+                  voice: 701-237-8109
+                  e-mail: sackman@sendit.nodak.edu
+               Modem: 701-237-3283
+               Telnet: sendit.nodak.edu
+                  Visitor lo     n: bbs (password: sendit2me)
+
+
+   OHIO
+      Affiliates
+         Free-Net
+            Tristate Online - Cincinnati
+               Steve Shoemaker
+                  voice: < not available >
+                  e-mail: sshoe@tso.uc.edu
+               Modem: 606-781-5575
+               Telnet: tso.uc.edu
+                  Visitor login: visitor
+
+            Cleveland Free-Net - Cleveland
+               Jeff Gumpf
+                  voice: 216-368-2982
+                  e-mail: jag@po.cwru.edu
+               Modem: 216-368-3888
+               Telnet: freenet-in-a.cwru.edu
+                  Visitor login: Select #2 at first menu
+
+            Greater Columbus Free-Net - Columbus
+               Steven I. Gordon
+                  voice: 614-292-4132
+                  e-mail: sgordon@freenet.columbus.oh.us
+               Modem: 614-292-7501
+               Telnet: freenet.columbus.oh.us
+                  Visitor login: guest
+
+            Dayton Free-Net - Dayton
+               Patricia Vendt
+                  voice: 513-873-4035
+                  e-mail: pvendt@desire.wright.edu
+               Modem: 513-229-4373
+               Telnet: 130.108.128.174
+                  Visitor login: visitor
+
+            Lorain County Free-Net - Elyria
+               Thom Gould
+                  voice: 1-800-227-7113  ext. 2451  or 216-277-2451
+                  e-mail: aa003@freenet.lorain.oberlin.edu
+               Modem: 216-366-9721
+               Telnet: freenet.lorain.oberlin.edu
+                  Visitor login: guest
+
+            Youngstown Free-Net - Youngstown
+               Lou Anschuetz
+                  voice: 216-742-3075
+                  e-mail: lou@yfn.ysu.edu
+               Modem: 216-742-3072
+               Telnet: yfn2.ysu.edu
+                  Visitor login: visitor
+
+         Educational
+            SEORF - Athens
+               Damien O. Bawn
+                  voice: 614-662-3211
+                  e-mail: bawn@oucsace.cs.ohiou.edu
+               Modem: <service not available>
+               Telnet: seorf.ohiou.edu
+                  Visitor login: guest
+
+            Learning Village Cleveland - Cleveland
+               John Kurilec
+                  voice: 216-247-5800
+                  e-mail: jmk@nptn.org
+               Modem: 216-247-6196
+               Telnet: nptn.org
+                  Visitor login: visitor
+
+         RIN
+            Medina County Free-Net - Medina
+               Gary Linden - (Medina Gen. Hosp) Project Director
+                  voice: 216-725-1000  ext 2550
+                  e-mail: gfl@freenet.medina.edu
+               Modem: 216-723-6732
+               Telnet: <service not available>
+                  Visitor login: visitor
+
+      Organizing Committees
+         Free-Net
+            Akron Regional Free-Net - Akron
+               Anne S. McFarland
+                  voice: 216-972-6352
+                  e-mail: r1asm@vm1.cc.uakron.edu
+
+            Stark County Free-Net - Canton
+               Maureen Kilcullen
+                  voice: 216-499-9600  ext 322
+                  e-mail: mkilcullen@ksuvxm.kent.edu
+
+            Lima Free-Net - Lima
+               Paul Monas
+                  voice: 419-226-1218
+                  e-mail: monus@clipo1.usachem.msnet.bp.com
+
+            Toledo Free-Net - Toledo
+               Rebecca Dent
+                  voice: 419-537-3686
+                  e-mail: rad@uoft02.utoledo.edu
+
+         RIN
+            Richland Free-Net - Mansfield
+               Ed Rebmann
+                  voice: 419-521-3111/3110
+                  e-mail: earmrcpl@class.org
+
+
+   OKLAHOMA
+      Organizing Committees
+         Free-Net
+            Oklahoma Public Information Network - Oklahoma City
+               David Drexler
+                  voice: 405-947-8868
+                  e-mail: fn-mail@okcforum.osrhe.edu
+
+            Ponca City/Pioneer Free-Net - Ponca City
+               Phil Abernathy
+                  voice: 405-767-3461
+                  e-mail: philber106@aol.com
+
+
+   PENNSYLVANIA
+      Organizing Committees
+         Free-Net
+            Lehigh Valley Free-Net - Bethlehem
+               Timothy Lindgren
+                  voice: 610-758-4998
+                  e-mail: tpl2@lehigh.edu
+
+            Erie County Free-Net
+               Steven Landon
+                        voice:
+                  e-mail: srl115@psu.edu
+
+            Pittsburgh Free-Net - Pittsburgh
+               Dan Iddings
+                  voice: 412-622-6502
+                  e-mail: iddings@clp2.clpgh.org
+
+            Chester County Interlink - West Chester
+               Jordan Seidel
+                  voice: 215-430-6621
+                  e-mail: jseidel@locke.ccil.org
+
+
+   RHODE ISLAND
+      Affiliates
+         Free-Net
+            Ocean State Free-Net - Providence
+               Howard Boksenbaum
+                  voice: 401-277-2726
+                  e-mail: howardbm@dsl.rhilinet.gov
+               Modem: 401-831-4640
+               Telnet: 192.207.24.10
+                  Visitor login: <service not available>
+
+
+   SOUTH CAROLINA
+      Organizing Committees
+         Free-Net
+            MidNet - Columbia
+               Stephen Bajjaly
+                  voice: 803-777-4825
+                  e-mail: bajjaly@univscvm.csd.scarolina.edu
+
+            Greenet - Greenville
+               Thompson R. Cummins
+                  voice: 803-242-5000  ext 231
+                  e-mail: sgr002@sol1.solinet.net
+
+            GreenCo-NET - Greenwood
+               Kim Madden
+                  voice: 803-223-8431
+                  e-mail: oukmddn@cluster1.clemson.edu
+
+
+   TENNESSEE
+      Affiliates
+         Free-Net
+            Jackson Area Free-Net - Jackson
+               Donald Lewis
+                  voice: 901-425-2640
+                  e-mail: dlewis@jscc.cc.tn.us
+               Telnet: 198.146.108.99
+               Modem: 901-427-4435
+                  Visitor login: guest
+
+      Organizing Committees
+         Free-Net
+            Greater Knoxville Community Network - Knoxville
+               Greg Cole
+                  voice: 615-974-2908
+                  e-mail: gcole@solar.rtd.utk.edu
+
+
+   TEXAS
+      Affiliates
+         Free-Net
+            Rio Grande Free-Net - El Paso
+               Don Furth
+                  voice: 915-775-6077
+                  e-mail: donf@laguna.epcc.edu
+               Modem: 915-775-5600
+               Telnet: rgfn.epcc.edu
+                  Visitor login: visitor
+
+      Organizing Committees
+         Free-Net
+            Big Country Free-Net - Abilene
+               J. David Bavousett
+                  voice: 915-674-6964
+                  e-mail: davidb@alcon.acu.edu
+
+            Austin Free-Net - Austin
+               Jeff Evans
+                  voice: 512-288-5691
+                  e-mail: jeff_evans@capmac.org
+
+            North Texas Free-Net - Dallas
+               Ken Loss-Cutler
+                  voice: 214-320-8915
+                  e-mail: kenlc@tenet.edu
+
+            Tarrant County Free-Net - Fort Worth
+               Joseph Coles
+                  voice: 817-763-8437
+                  e-mail: jcoles@pubcon.com
+
+            Houston Civnet - Houston
+               Paul Hutmacher
+                  voice: 713-869-0521
+                  e-mail: paul@sugar.neosoft.com
+
+            West Texas Free-Net - San Angelo
+               Timothy R. Elwell
+                  voice: 915-655-7161
+                  e-mail: timelwell@delphi.com
+
+            San Antonio Free-Net - San Antonio
+               Michael S. Lotas
+                  voice: 210-561-9815
+                  e-mail: mlotas@espsun.space.swri.edu
+
+
+   VERMONT
+      Organizing Committees
+         Free-Net
+            Lamoille Net - Morrisville
+               Balu Raman
+                  voice: 802-888-2606
+                  e-mail: braman@world.std.com
+
+
+   VIRGINIA
+      Affiliates
+         Free-Net
+            Central Virginia's Free-Net - Richmond
+               Kenneth Guyre
+                  voice: 804-828-6650
+                  e-mail: kguyre@cabell.vcu.edu
+               Modem: < service not available >
+               Telnet: freenet.vcu.edu
+                  Visitor login: visitor
+
+         Educational
+            VaPEN - Richmond
+               Dr. Harold Cothern
+                  voice: 804-225-2921
+                  e-mail: hcothern@vdoe386.vak12ed.edu
+               Modem: < service not available >
+               Telnet: vdoe386.vak12ed.edu
+                  Visitor login:
+
+      Organizing Committees
+         Free-Net
+            SEVANET -                wport News
+               Bill Winter
+                  voice: 804-594-7092
+                  e-mail: bwinter@powhatan.cc.cnu.edu
+
+            Blue Ridge Free-Net - Roanoke
+               Cynthia Obrist
+                  voice: 703-981-1424
+                  e-mail: obrist@leo.vsla.edu
+
+
+   WASHINGTON
+      Affiliates
+         Free-Net
+            Seattle Community Network - Seattle
+               Randy Groves
+                  voice:  206-865-3424
+                  e-mail: randy@cpsr.org
+               Modem: 206-386-4140
+               Telnet: scn.org
+                  Visitor login: visitor
+
+            Tri-Cities Free-Net - Tri-Cities
+               Bruce McComb
+                  voice: 509-586-6481
+                  e-mail: tcfn@delphi.com
+               Modem: 509-375-1111
+               Telnet: <service not available>
+                  Visitor login:
+
+      Organizing Committees
+         Free-Net
+            Kitsap Free-Net - Bremerton
+               Michael Schuyler
+                  voice: 206-377-7601
+                  e-mail: michael@kitsap.lib.wa.us
+
+            Olympic Public Electronic Network (OPEN) - Port Angeles
+               Larry Haas
+                  voice: 206-417-9302
+                  e-mail: lhaas@aol.com
+
+            Inland Northwest Community Network - Spokane
+               Dr. Karen L. Michaelson
+                  voice: 509-359-6567
+                  e-mail: kmichaelson@ewu.edu
+
+            Clark County Free-Net - Vancouver
+               Thomas E. Ryan
+                  voice: 206-696-6846
+                  e-mail: tryan@netcom.com
+
+
+   WISCONSIN
+      Organizing Committees
+         Free-Net
+            Chippewa Valley Free-Net - Eau Claire
+               Steve Marquardt
+                  voice: 715-836-3715
+                  e-mail: smarquar@uwec.edu
+
+
+
+
+AUSTRALIA
+   VICTORIA
+      Organizing Committees
+         Free-Net
+            Melbourne Free-Net - Melbourne
+               Peter Bancroft
+                  voice: +61 3-652-0656
+                  e-mail: pbancroft@ozonline.com.au
+
+
+
+CANADA
+   ALBERTA
+      Organizing Committees
+         Free-Net
+            Calgary Free-Net - Calgary
+               David Elton
+                  voice: 403-264-9535
+                  e-mail: delton@acs.ucalgary.ca
+
+            Edmonton Free-Net - Edmonton
+               Penny McKee
+                  voice: 403-423-2331
+                  e-mail: adavis2@vm.ucs.ualberta.ca
+
+            Praxis Free-Net - Medicine Hat
+               Lawrence Chen
+                  voice: 403-529-2162
+                  e-mail: dreamer@lhaven.uumh.ab.ca
+
+
+   BRITISH COLUMBIA
+      Affiliates
+         Free-Net
+            CIAO! Free-Net - Trail
+               Ken McClean
+                  voice: 604-368-2233
+                  e-mail: kmcclean@ciao.trail.bc.ca
+               Modem: 604-368-5764
+               Telnet: 142.231.5.1
+                  Visitor login: guest
+
+            Victoria Free-Net - Victoria
+               Gareth Shearman
+                  voice: 604-385-4302
+                  e-mail: shearman@freenet.victoria.bc.ca
+               Modem: 604-595-2300
+               Telnet: freenet.victoria.bc.ca
+                  Visitor login: guest
+
+      Organizing Committees
+         Free-Net
+            Campbell River Free-Net - Campbell River
+               Pat Presidente
+                  voice:
+                  e-mail: ppreside@cln.etc.bc.ca
+
+            Prince George Free-Net - Prince George
+               Lynda J. Williams
+                  voice: 604-562-2131 loc 296
+                  e-mail: williams@cnc.bc.ca
+
+            Vancouver Free-Net - Vancouver
+               Brian Campbell
+                  voice: 604-665-3579
+                  e-mail: briancam@vpl.vancouver.bc.ca
+
+
+   MANITOBA
+      Organizing Committees
+         Free-Net
+            Eastmanet - Pinawa
+               Doug Gehon
+                  voice: 204-753-2311  ext 2442
+                  e-mail: gehond@wl.aecl.ca
+
+            SEARDEN Free-Net - Sprague
+               Larry Geller
+                  voice: 204-437-2016
+                  e-mail: larry_geller@mbnet.mb.ca
+
+            Blue Sky Free-Net Of Manitoba - Winnipeg
+               Betty Dearth
+                  voice: 204     45-1413
+                  e-mail: bdearth@gateway.eitc.mb.ca
+
+
+   NEW BRUNSWICK
+      Organizing Committees
+         Free-Net
+            York Sunbury Community Server - Fredericton
+               Michael MacDonald
+                  voice: 506-453-4566
+                  e-mail: mikemac@unb.ca
+
+
+   NEWFOUNDLAND
+      Organizing Committees
+         Free-Net
+            St. John's Free-Net - St. John's
+               Randy Dodge
+                  voice: 709-737-4594
+                  e-mail: randy@kean.ucs.mun.ca
+
+
+   NOVA SCOTIA
+      Organizing Committees
+         Free-Net
+            Cape Breton Free-Net - Cape Breton
+               Dan McMullin
+                  voice: 902-862-6432
+                  e-mail: dmacmull@fox.nstn.ns.ca
+
+            Chebucto Free-Net - Halifax
+               Ellen L. Sherlock
+                  voice: 902-425-2061
+                  e-mail: els@cs.dal.ca
+
+
+   ONTARIO
+      Affiliates
+         Free-Net
+            National Capital Free-Net - Ottawa
+               David Sutherland
+                  voice: 613-788-2600  ext 3701
+                  e-mail: aa001@freenet.carleton.ca
+               Modem: 613-564-3600
+               Telnet: freenet.carleton.ca
+                  Visitor login: guest
+
+      Organizing Committees
+         Free-Net
+            North Shore Free-Net - Elliot Lake
+               Alan Wilson
+                  voice: 705-848-5106
+                  e-mail: alanwils%vef@canrem.com
+
+            Durham Free-Net - Oshawa
+               John Norman
+                  voice: 905-668-3390
+                  e-mail: john.norman@freenet.durham.org
+
+            Niagara Free-Net - St. Catharines
+               Jon Radue
+                  voice: 416-688-5550  ext 3867
+                  e-mail: jradue@sandcastle.cosc.brocku.ca
+
+            Sudbury Regional Free-Net - Sudbury
+               J. Steve Beynon
+                  voice: 705-675-1151  ext. 2202
+                  e-mail: steve@nickel.laurentian.ca
+
+            Thunder Bay Free-Net - Thunder Bay
+               Don Watson
+                  voice: 807-343-8354
+                  e-mail: dwatson@flash.lakeheadu.ca
+
+            Toronto Free-Net - Toronto
+               Laine G.M. Ruus
+                  voice: 416-978-5365
+                  e-mail: laine@vm.utcc.utoronto.ca
+
+
+   QUEBEC
+      Organizing Committees
+         Free-Net
+            Free-Net du Montreal Metropolitain - Montreal
+               Steven Sacks
+                  voice: 514-278-9173
+                  e-mail: ssacks@cam.org
+
+
+   SASKATCHEWAN
+      Organizing Committees
+         Free-Net
+            Great Plains Free-Net - Regina
+               Robert Greenfield
+                  voice: 306-584-9615
+                  e-mail: rhg@unibase.unibase.sk.ca
+
+            Saskatoon Free-Net - Saskatoon
+               Peter Scott
+                  voice: 306-966-5920
+                  e-mail: scottp@herald.usask.ca
+
+
+
+FINLAND
+      Affiliates
+         Educational
+            Finland Free-Net - Helsinki
+               Heikki Korpinen
+                  voice: +358-0-451-4007
+                  e-mail: korpinen@freenet.hut.fi
+               Modem: 358-929292
+               Telnet: 130.233.208.40
+                  Visitor login: visitor
+
+
+
+GERMANY
+      Affiliates
+         Free-Net
+            Free-Net Erlangen-Nuernburg - Erlangen
+               Dr. Walter F. Kugemann
+                  voice: +49-9131-85-4735
+                  e-mail: Walter.Kugemann@fim.uni-erlangen.de
+               Modem: +49-9131-85-8111
+               Telnet: 131.188.192.11
+                  Visitor login: gast
+
+      Organizing Committees
+         Free-Net
+            Free-Net Bayreuth - Bayreuth
+               Wolfgang Kiessling
+                  voice: 0921/553134
+                  e-mail: Wolfgang.Kiessling@Uni-Bayreuth.de
+
+
+
+IRELAND
+      Organizing Committees
+         Free-Net
+            Connect-Ireland - Dublin
+               Martin Maguire
+                  voice: 6711687 (+353-1)
+                  e-mail: director@toppsi.gn.apc.org
+
+
+
+ITALY
+      Organizing Committees
+         Free-Net
+            Venice Free-Net - V                ce
+               Corrado Petrucco
+                  voice: 039-41-721900
+                  e-mail: conrad@cidoc.iuav.unive.it
+
+
+
+NEW ZEALAND
+      Affiliates
+         Free-Net
+            Wellington Citynet - Wellington
+               Richard Naylor
+                  voice: +64-4-801-3303
+                  e-mail: rich@tosh.wcc.govt.nz
+               Modem: +64-4-801-3060
+               Telnet: kosmos.wcc.govt.nz
+                  Visitor login: <Service not available>
+
+
+
+PHILIPPINES
+      Organizing Committees
+         Free-Net
+            Philippine Public Telecomputing Network - Quezon City
+               Rommel P. Feria
+                  voice: 632-931-5314
+                  e-mail: rferia@upd.edu.ph
+
+
+
+SWEDEN
+      Organizing Committees
+         Free-Net
+            Medborgarnas Datanat - Norrkoping
+               Kjell-Ove Martinsson
+                  voice: +46-11-150000
+                  e-mail: kjm@norrk.pp.se
+
+
+

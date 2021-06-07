@@ -1,0 +1,71 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 153</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="233"><p>&nbsp;</td>
+<td width="235"><pre><font face="가을체">이동식님의 글</font>
+&nbsp;
+<font face="가을체">-- 면도를 하며</font>
+&nbsp;
+<font face="가을체">면도로 하루를 시작하고</font>
+<font face="가을체">하루를 접는 버릇.</font>
+&nbsp;
+<font face="가을체">일미리도 채 안되게 나온 것을</font>
+<font face="가을체">절단시키는 면도날.</font>
+<font face="가을체">비누 거품에 점처럼 잘려나간</font>
+<font face="가을체">저 수염 조각들이</font>
+<font face="가을체">하루의 시간이라며</font>
+<font face="가을체">나의 삶은 조금이라도 진보하고 있는 것일까.</font>
+&nbsp;
+<font face="가을체">아무리 열심히 걸어봐도</font>
+<font face="가을체">언제나 제자리인듯한</font>
+<font face="가을체">나의 삶.</font>
+<font face="가을체">그래도 그 삶이 조금씩은</font>
+<font face="가을체">꿈의 깃대를 향하여 가고 있는 것일까?</font></td>
+<td width="234"><font face="가을체">&nbsp;</font></pre></td>
+</tr></table>
+<pre><font face="가을체">&nbsp; </font></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="156.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="159.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

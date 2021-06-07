@@ -1,0 +1,89 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 241</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="가을체">기형도님의 오래된 서적.</font>
+&nbsp;
+<font face="가을체">내가 살아온 것은 거의</font>
+<font face="가을체">기적적이였다</font>
+<font face="가을체">오래동안 나는 곰팡이 피어</font>
+<font face="가을체">나는 어둡고 축축한 세계에서</font>
+<font face="가을체">아무도 들여다 보지 않는 질서</font>
+<font face="가을체">속에서, 텅빈 희망속에서</font>
+<font face="가을체">어찌 스스로의 일생을 예언하겠는가</font>
+<font face="가을체">다른 사람들은 분주히</font>
+<font face="가을체">몇몇 안되는 내용을 가지고 서로의 기능을</font>
+<font face="가을체">넘겨보며 서표를 꽂기도 한다</font>
+<font face="가을체">또 어떤 이는 너무 쉽게 살았다고</font>
+<font face="가을체">말한다, 좀더 두꺼운 추억이 필요하다는.</font>
+&nbsp;
+<font face="가을체">사실 완전을 위해서라면 두께가</font>
+<font face="가을체">문제이겠는가? 나는 여러번 장소를 옮기며 살았지만</font>
+<font face="가을체">죽음은 생각도 못했다. 나의 경력은</font>
+<font face="가을체">출생뿐이였으므로, 왜냐하면</font>
+<font face="가을체">두려움이 나의 속성이며</font>
+<font face="가을체">미래가 나의 과거이므로</font>
+<font face="가을체">나는 존재하는 것, 그러므로</font>
+<font face="가을체">용기란 얼마나 무책임 한 것인가, 보라.</font>
+&nbsp;
+<font face="가을체">나를 </font>
+<font face="가을체">한번이라도 본 사람은 모두</font>
+<font face="가을체">나를 떠나갔다. 나의 영혼은</font>
+<font face="가을체">검은 페이지가 대부분이다. 그러니 누가 나를</font>
+<font face="가을체">펼쳐볼 것인가. 하지만 그 경우</font>
+<font face="가을체">그들은 거짓을 논 할 자격이 없다.</font>
+<font face="가을체">거짓과 참됨은 모두 하나의 목적을 </font>
+<font face="가을체">꿈꾸어야 한다. 단</font>
+<font face="가을체">한 줄일 수도 있다.</font>
+&nbsp;
+<font face="가을체">나는 기적을 믿지 않는다</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="253.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="258.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

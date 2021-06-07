@@ -1,0 +1,75 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 241</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">언제인가 기차를 기다리며 서 있었다</font>
+<font face="가을체">앞을, 앞에 널려있는 어둠을 하나 , 둘 세며 서 있었다.</font>
+<font face="가을체">그때 갑자기 기차 하나가 꽤액 소리를 지르면서 어둠을 흩날리며 지나갔다</font>
+<font face="가을체">기차에는 무슨 글씨인가가 적혀있었지만 나는 한 글자도 읽을 수가 없었다</font>
+<font face="가을체">똑바로 앞만 바라보고 있던 나는.</font>
+<font face="가을체">고개를 갸웃거리던 나는 고개를 돌려 기차를 따라 바라보자</font>
+<font face="가을체">그곳에는 에버그린이니, K 라인이니 하는 글자들이 </font>
+<font face="가을체">다닥다닥 붙어 대롱거리는 걸 보았다.</font>
+&nbsp;
+<font face="가을체">현실은, </font>
+<font face="가을체">오늘은 사람을 취하게 하는 힘이 있는 듯 하다.</font>
+<font face="가을체">그래서 </font>
+<font face="가을체">사실을, </font>
+<font face="가을체">진정코 알아야 하는 것들을 흐릿하게 하고</font>
+<font face="가을체">마침내는 혼동과 혼란속에 빠지게 하는 게다.</font>
+<font face="가을체">오히려 현실을 보기 위해서는 고개를 돌려 </font>
+<font face="가을체">옛날을 또는 앞날을 보아야 하는 것이 아닐까?</font>
+<font face="가을체">현실은 너무 정신없이 빨라서 그가 하는 말을 들을 수 없으니</font>
+<font face="가을체">그의 말을 들으려면 오히려</font>
+<font face="가을체">그가 했던 말이나 </font>
+<font face="가을체">그가 할 말을 들어야만 하는 것은 아닐까?</font>
+&nbsp;
+<font face="가을체">마치 기차의 글처럼.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="250.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="252.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

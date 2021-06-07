@@ -1,0 +1,37 @@
+﻿                                 소    리
+LG019 : <EMBED SRC="hello.wav" AUTOSTART="true" HIDDEN="true" LOOP=1 TRUE VOLUME="100%">
+경고 : <bgsound src=http://home.tinc.co.kr/~kookbae/wav/경고.wav loop=5><h1>정의의 이름으로 널 용서하지 않겠다~~
+감잡았쓰 : <bgsound src=http://home.tinc.co.kr/~kookbae/wav/catch.wav loop=7>감잡아서  
+베틀쿠루져 : <bgsound src=http://210.107.20.29/sound/battle3.wav loop=5>베틀쿠루져
+베틀쿠루져 : <bgsound src=http://210.107.20.29/sound/bcruser.wav loop=5>베틀쿠루져
+고고고 : <bgsound src=http://210.107.20.29/sound/gogogo.wav loop=5>고고고
+다크템플러 : <bgsound src=http://210.107.20.29/sound/Dtemplar.wav loop=5>다크템플러
+고스트 : <bgsound src=http://210.107.20.29/sound/Ghost2.wav loop=5>고스트(i am here)
+골리앗 : <bgsound src=http://210.107.20.29/sound/goliath.wav loop=5>골리앗
+매딕 : <bgsound src=http://210.107.20.29/sound/Medic.wav loop=5>메딕
+기지공격 : <bgsound src=http://210.107.20.29/sound/Tadupd00.wav loop=5>기지공격
+핵준비 : <bgsound src=http://210.107.20.29/sound/Tadupd04.wav loop=5>핵 준비
+탱크다리내리기 : <bgsound src=http://210.107.20.29/sound/Ttatra00.wav loop=5>탱크다리내리기
+스팀팩 : <bgsound src=http://210.107.20.29/sound/Tmasti00.wav loop=5>스팀펙
+웃음소리 : <bgsound src="http://myhome.netsgo.com/cks9578/image/hohohaha.wav"loop="2">
+패밀리들 안녕하십니까? : <bgsound src="http://myhome.shinbiro.com/~kwonsw38/wav/패밀리인사.wav"loop=5>
+<bgsound src="http://www.artlang.com/nam/barabara.wav"loop="5"><h1>오빠 달려! 
+<bgsound src=http://myhome.netsgo.com/cks9578/image/cm1.wav loop=5><h1>나 소화 다됐어요
+밤새지 마란 말야 : <BGSOUND SRC=http://myhome.netsgo.com/cks9578/image/밤새자~.wav loop=5><h1>밤새지 맙시다!
+신음소리 : <BGSOUND SRC="http://www.1970.co.kr/sound/animals/sally.au"> 
+야 이 씨발놈아 : <bgsound src="http://my.netian.com/~acpal/real/beat.wav"loop=5><H1>어디서 좀 놀았냐?
+<BGSOUND src="http://www.artlang.com/youri/유리.wav" loop=5><H1> 안녕 난 유린데  
+꿀꺽 : <BGsound src="http://myhome.netsgo.com/cks9578/image/꿀꺽.wav"loop=5><h1>꿀꺽!!!
+친구들 안녕 : <BGsound src=http://ato.snu.ac.kr/~tubby/sound/종료음-친구들안녕.wav loop=5>                 
+감자 소리 : <BGSOUND SRC="http://myhome.netsgo.com/cks9578/image/불량1.wav"loop=5><h1>감자 큐
+닭울음 소리 : <BGsound src=http://myhome.netsgo.com/cks9578/image/닭~.wav loop=5><h1>꼬끼오!!!!  
+뜨아 : <BGsound src=http://myhome.netsgo.com/cks9578/image/뜨아.WAV loop=5><h1>뜨아~~~~
+잠깐만 기다리세요 : <BGsound src=http://myhome.netsgo.com/cks9578/image/귀여워....wav loop=5><h1>잠깐만!!!! 
+벌써 가게 : <bgsound src=http://myhome.netsgo.com/cks9578/image/0003.wav loop=5><h1>벌써가게~
+모니터 꺼라 : <bgsound src=http://www.kebi.com/~kck2002/3.wav loop=5><h1>모니터 꺼라!!!! 
+텔레토비 : <bgsound src="http://ato.snu.ac.kr/~tubby/sound/시작음-사이좋아.wav"loop="5"> 
+펩시맨 : <bgsound src=http://home.tinc.co.kr/~tnsml/wav/펩시맨시작.wav loop=2>펩시~~~맨
+총소리 : <bgsound src=http://soback.kornet21.net/~garamcom/bangbang.wav loop="10">                         
+<bgsound src="http://ato.snu.ac.kr/~tubby/sound/TEL.WAV":헤어질시간wav"loop="5">이제헤어질시간!
+
+늑대 : <bgsound src="http://my.netian.com/~v7csw/sound/HowlWolvesC.wav"loop="5">

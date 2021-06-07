@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 171</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="233" height="286"><p>&nbsp;</td>
+<td width="235" height="286"><pre><font face="가을체">  때로사람이싫어질때가있다모든이에게서떨어져혼자가되고</font>
+<font face="가을체">싶을때가있다홀로된다는건얼마나황홀한가누군가그랬다희극</font>
+<font face="가을체">에는겨우페이소스뿐이지만비극에는오르가즘이있다고황홀한</font>
+<font face="가을체">비극이라는말을쓴다</font>
+<font face="가을체">지난주일이그러하였다모든것을포기하고싶었고모든것에서멀</font>
+<font face="가을체">리있고싶었다나의손은마디가굵어서손가락사이로틈이보인다</font>
+<font face="가을체">이틈새로세상이빠져나간다종래에는손바닥위엔아무것도남지</font>
+<font face="가을체">않는다나는지금까지무엇을움켜쥐었을까무엇을잡으려손내밀</font>
+<font face="가을체">었을까모든이는나와멀게느껴지고모든노력은소용이없다손가</font>
+<font face="가을체">락사이의틈으로모두빠져나가고있다</font>
+<font face="가을체">난가끔나를나의행동방식을생각을이해하지못한다하긴대부분</font>
+<font face="가을체">의생각은이성이고행동은감정이고이걸보는나는남이니알수없</font>
+<font face="가을체">기도하다누구도다른이의생각과감정을알수는없는법이아닌가</font>
+<font face="가을체">오늘도생각따로행동따로기켜보는이따로이다인간은탄생부터</font>
+<font face="가을체">비극이시작된다한다죽음으로만막이내려지는연극비극이든희</font>
+<font face="가을체">극이든그게무슨상관인가나에게는모두남의연극인걸주연도조</font>
+<font face="가을체">연도모두다른이이고나는잠깐얼굴을비치는행인정도그런나에</font>
+<font face="가을체">게이연극이성공하든실패하든비극이든희극이든무슨상관인가</font>
+<font face="가을체">나자신에게도인정받지못하기때문에비극이라고할수있을까그</font>
+<font face="가을체">래더더욱이죽음에의동경이유혹이불어나는건지도</font>
+<font face="가을체">잘못된각본을과감하게구겨버릴수있는용기가필요하다그나마</font>
+<font face="가을체">단역도얻지못해길거리에서배를골더라도가진것을포기할수있</font>
+<font face="가을체">는용기가필요하다</font>
+&nbsp;
+<font face="가을체">먼훗날이글을읽을때기억하라오늘은그의처음인날이다.</font></td>
+<td width="234" height="286"><font face="가을체">&nbsp;</font></pre></td>
+</tr></table>
+<pre><font face="가을체">&nbsp; </font></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="173.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="175.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

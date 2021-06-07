@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 400-499</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/pink14.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">또 기다림</font>
+<font face="가을체">그리움은 항상 기다림을 낳는다</font>
+<font face="가을체">그리고 </font>
+<font face="가을체">그 기다림의 대부분은 혼자서 접어야 한다</font>
+<font face="가을체">허망하게</font>
+&nbsp;
+<font face="가을체">집의 형광등이 단체로 시위하나 보다</font>
+<font face="가을체">상점은 문 닫았고 형광등은 하나씩 죽어가고</font>
+<font face="가을체">이제 겨우 두개만 남았다</font>
+<font face="가을체">이들마저 죽으면 어둠속에 살아야 한다</font>
+<font face="가을체">지금은 기다림중</font>
+<font face="가을체">계속 이어지는 연작소설처럼 또는 연속극처럼</font>
+<font face="가을체">기다림도 계속된다</font>
+<font face="가을체">아마도 마음속에 있는 그리움이 남아있는 한 </font>
+<font face="가을체">내 생의 마지막까지</font>
+&nbsp;
+<font face="가을체">나에게도 복잡한 생각이 많다</font>
+<font face="가을체">하지만 생각하지 않기로 한다</font>
+<font face="가을체">잊어 버리기로 한다</font>
+<font face="가을체">너만을 생각하기로 한다</font>
+<font face="가을체">넌 나에게 모든걸 가능하게 하는 마법.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="460.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../400-499.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 400-499"></a></td>
+<td align="left"><p><a href="479.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

@@ -1,0 +1,83 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">토요일.</font>
+<font face="개성체">밤열시가 다되어서 집을 나선다</font>
+<font face="개성체">오늘은 국도를 따라서 부산까지 가보기로 한다.</font>
+<font face="개성체">지금껏 시간을 핑게삼아 항상 고속도로만을 고집했었다</font>
+<font face="개성체">고속도로는 고시를 가득 메꾼 감옥형 아파트저럼 시멘트 냄새가 난다</font>
+<font face="개성체">말쑥하게 차려 입은 도시사람처럼 싸늘한 느낌이 난다</font>
+<font face="개성체">그에 반해</font>
+<font face="개성체">국도는 얼마나 정겨운가</font>
+<font face="개성체">넉넉한 시골길처럼</font>
+<font face="개성체">냄새 자욱한 푸세식 변소가 있는 시골 토담집처럼 푸근한 느낌이 난다</font>
+<font face="개성체">언제든지 편안한 마음으로 차를 세유고 한눈을 팔 수 있는 곳</font>
+<font face="개성체">오늘은 이 국도를 타고 부산까지 가보기로 한다</font>
+&nbsp;
+<font face="개성체">12시가 넘어서의 국도는 온통 어둡기만 하다</font>
+<font face="개성체">가로등도 없고 앞에 가는 차도 없고 뒤에 따라오는 차도 없으며</font>
+<font face="개성체">불빛 밝은 집 하나 없었다</font>
+<font face="개성체">오직 보이는 건 헤트라이트 불빛에 놀라 차뒤로 벌거벗은 몸을 숨기는 </font>
+<font face="개성체">길옆의 가로수와</font>
+<font face="개성체">그위로 생선 비린내나는 은빛 전기줄,</font>
+<font face="개성체">길을 따라 세상을 수도 없이 칭칭 감고 있을 낚시 그물같은 전기줄뿐이였다</font>
+<font face="개성체">막막한 어둠속에 혼자있는 느낌</font>
+<font face="개성체">어둠속에선 모든게 어둠속으로 녹아드는 법.</font>
+<font face="개성체">차도, 길도, 세상도 모두 어둠속으로 녹아들어서</font>
+<font face="개성체">헤트라이트 후레쉬를 하나 달랑 들고 검은 바다위를 비행하는 느낌이였다</font>
+<font face="개성체">그렇게 </font>
+<font face="개성체">밤을 세우고 아침 6시가 다되어서 나의 비행을 마친다.</font>
+&nbsp;
+<font face="개성체">프람 미친바람---------------------------------------------------</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="616.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="618.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

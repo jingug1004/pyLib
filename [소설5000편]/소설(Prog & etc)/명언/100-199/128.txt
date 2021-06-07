@@ -1,0 +1,71 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 003</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><div align="left"><font face="가을체">옆에 있는 이의 노트를 흘깃 훔쳐본다. 아마도</font></div>
+<div align="left"><font face="가을체">화학을 공부하는 이 인듯.공책안에는 수소니 </font></div>
+<div align="left"><font face="가을체">탄소니 하는 원소의 이름이 쓰여있는 걸 보면.</font></div>
+<div align="left"><font face="가을체">노트의 표지엔 'person's collection' 이라고</font></div>
+<div align="left"><font face="가을체">적혀있다. person 이 주격이니깐 사람이 무언</font></div>
+<div align="left"><font face="가을체">가를 모은다는 뜻인데 무엇을 모은다는 것일까?</font></div>
+<div align="left"><font face="가을체">물론 모든 이는 기본적으로 자신이 원하던 원하</font></div>
+<div align="left"><font face="가을체">지 않던 자신의 역사, 하루 하루의 삶을 모은다</font></div>
+<div align="left"><font face="가을체">깊고 깊은 무의식의 세계에. 하지만 이것이외에</font></div>
+<div align="left"><font face="가을체">어떤 이는 돈을 모으고 어떤 이는 지식을 모으</font></div>
+<div align="left"><font face="가을체">고 어떤 이는 권력을 모으고 또 어떤 남자는</font></div>
+<div align="left"><font face="가을체">여자를 모으고 어떤 여자는 남자를 모으고 </font></div>
+<div align="left"><font face="가을체">어떤 이는 후에 자랑할 거리를 모으고. </font></div>
+<div align="left"><font face="가을체">사람마다 모으는게 다르니 모으는 걸 보면 그</font></div>
+<div align="left"><font face="가을체">사람의 색을 알 수 있겠지. 그럼 나는 무엇을</font></div>
+<div align="left"><font face="가을체">모으고 있는 것일까? 한때는 지식을 모으기도</font></div>
+<div align="left"><font face="가을체">하였고 또 한때는 돈을 모으기도 하였지만</font></div>
+<div align="left"><font face="가을체">이제는 모두 지난 일. 지금의 나는 무엇을</font></div>
+<div align="left"><font face="가을체">모으고 있을까?</font></div></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="127.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="129.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

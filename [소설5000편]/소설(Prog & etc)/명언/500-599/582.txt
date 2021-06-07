@@ -1,0 +1,72 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">배설은 육체를 비우는 일이다.</font>
+<font face="가을체">단식을 해본 이는 안다.</font>
+<font face="가을체">육체가 투명해지는 느낌을.</font>
+<font face="가을체">몸이 가벼워지고</font>
+<font face="가을체">허공에 날려다니는 가벼움을</font>
+<font face="가을체">글을 쓰는 것은 정신을 비우는 것이다.</font>
+<font face="가을체">어떤 이는 종이에 쓰기도 하고</font>
+<font face="가을체">화판이나 사진, 필름에 쓰기도 하지만</font>
+<font face="가을체">공통적인 것은 생각한다는 것.</font>
+<font face="가을체">따라서 생각한다는 것은 </font>
+<font face="가을체">자신의 정신속에 묻혀있는 보석을 캐어서</font>
+<font face="가을체">세상으로 또는 자신에게 버리는 것이다.</font>
+<font face="가을체">그리하여 마침내는 투명한 정신을 갖게 되는 것이다.</font>
+<font face="가을체">내가 당신을 만날 때에는 </font>
+<font face="가을체">항상 비어있는 정신으로 인하여 기뻤다.</font>
+<font face="가을체">그러나 지금은 </font>
+<font face="가을체">거북한 포만감으로 불쾌하기만 하다*</font>
+&nbsp;
+<font face="가을체">프람 미친바람</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="581.htm"><img src="../../images/arro_38.gif" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="583.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

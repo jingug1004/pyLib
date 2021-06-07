@@ -1,0 +1,113 @@
+﻿
+『윈도우즈-윈도우98 FAQ 창고 (go WIN)』 10번
+ 제  목:[FAQ] 윈98 에서 이스터 에그란 무엇이며 어떻게 보는건가요?   
+ 올린이:cookie0 (정기웅  )    98/09/01 04:04    읽음:1373 관련자료 없음
+ -----------------------------------------------------------------------------
+
+Q. 이스터 에그란 무엇이고 어떻게 해야 볼수 있나요?
+
+
+A.이스터 에그(Easter Egg, 부활절 계란)란 프로그래머들이 장난으로 혹은 사용자
+ 들을 재밌게 하려는 의도에서 프로그램 구석구석에 숨겨놓은것을 통털어 이스터
+ 에그라 한다.
+
+ Windows98의 Easter Egg는 membg.dll에 저장되어 있으며 실행법은
+ 2가지가 있습니다. 아무거나 해보세요.
+
+1. 한글Windows98 작업표시줄 맨 오른쪽에 시간 표시되는 곳을 더블 클릭하고
+   날짜/시간 등록정보가 나오면 '표준시간' 을 선택 한후에 세계 지도가
+   나오면 Ctrl 키를 누른 채 마우스로 이집트를 클릭하고 멤피스로 이동
+   합니다. 그러고 나서 계속 Ctrl 키를 누른 채 미국의 시애틀로 옮기면
+   Easter Egg 가 실행이 됩니다.
+
+2. 바탕화면에서 오른쪽 버튼을 눌러 등록정보를 선택해 보면 배경 화면의
+   맨 아래에 'Windows 98'이라는 것이 있다.
+   이것을 선택하면 화면 오른쪽 위에 윈도 98로고가 나올 것 입니다.
+   이것이 바로 이스터 에그입니다. 물론 편집을 해야하는데 메모장이나 기타
+   프로그램으로 C;\Windows\Web\Wallpaper\Windows98.htm을 불러온 후에
+   밑에서 세 번째 줄에  <IMG SRC="res://membg.dll/member.gif" BORDER=0
+   WIDTH=329 HEIGHT=47> </A>&nbsp; </P>라는 항목을 여기에서
+   Width=329 와 Height=47을 지운다. 그 다음으로 res://membg.dll/ 다음에
+   아래의 파일 중 하나를 입력해 보면, 아마 로고의 모습이 싹 바뀌었을
+   것입니다.
+   이들 파일 중에는 개발팀의 모습이나 부근의 풍경 등 재밌는 것이 많습니다.
+
+
+
+
+
+...
+
+『윈도우즈-윈도우 98 활용과 팁 (go WIN)』 4047번
+ 제  목:[TIPS] Windows98 Easter Egg 숨겨진 그림                     
+ 올린이:sector  (서재복  ) 98/05/23 11:22  읽음:1019 추천:  0 관련자료 없음
+ -----------------------------------------------------------------------------
+
+Windows98 Easter Egg  숨겨진 그림 
+ 
+────────────────────────────────────────
+
+Windows 98에 숨겨진 그림이 있습니다.
+
+Beta build에만 포함된것 같은데 최신 한글윈98 B1900에도 아직까지 있더군요.
+아마 영문에도 있을듯...
+windows\system directory에 보면 membg.htm이란 파일이 있습니다.
+여기에 보면
+<IMG SRC="res://membg.dll/membg.gif" BORDER=0 >
+라고 membg.dll을 참조하는데 이 membg.dll안에 무려 37가지의 그림이
+숨어있습니다.
+
+membg.dll을 binary viewer로 보게되면 파일명이 숨겨진게 보입니다.
+이것을 membg.htm의 앞서 나온 행에 membg.gif대신 넣어주면 
+해당 그림이 브라우저에 나타납니다.
+
+아니면 브라우저에 직접 res://membg.dll/파일명 이런식으로 해도 되겠지요.
+
+참고로 파일명은 
+
+C_PLACE.JPG
+BLD27.JPG
+BRICK.JPG
+BLD1678.JPG
+WELCOME.JPG
+CD.JPG
+EMP1.JPG
+EMP3.JPG
+RTM1.JPG
+BUS.JPG
+C_BIKE.JPG
+C_FTN1.JPG
+C_FTN3.JPG
+C_FTN4.JPG
+C_BIRD3.JPG
+C_BIRD2.JPG
+C_CAFE.JPG
+C_LAKE1.JPG
+C_LAKE2.JPG
+C_RECEP.JPG
+C_SPORT.JPG
+HAMMER2.JPG
+PIERS.JPG
+KINGDOM.JPG
+NEEDLE.JPG
+SEA-BLD1.JPG
+SEA-BLD3.JPG
+TRAIN.JPG
+WATER2.JPG
+WATER1.JPG
+MARKET.JPG
+FRAME0.JPG
+FRAME1.JPG
+MEMBG.GIF
+CREDIT.GIF
+BACKGND.GIF
+LOGO.GIF
+
+입니다.  아마도 windows98 project team들이 찍은 사진들인것 같군요...
+
+정식 windows98에서는 사라질지도 모릅니다.
+────────────────────────────────────────
+이상 유니텔 os 동호회 이남석님의 글이었습니다...
+
+
+                                                    /루/이/

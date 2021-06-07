@@ -1,0 +1,52 @@
+﻿
+『윈도우즈-윈도우 98 활용과 팁 (go WIN)』 4506번
+ 제  목:[TIPS] 시스템등록정보에 로고 추가                           
+ 올린이:x배트맨x(손무홍  ) 98/11/17 13:15  읽음:696  추천:  1 E[7m관련자료 있음(TL)E[0m
+ -----------------------------------------------------------------------------
+
+
+
+            제어판의 [시스템] 애플릿을 실행하여 '일반' 탭을 
+            살펴 보자. 시스템과 사용자 정보가 나오고 아래쪽은 
+            그냥 빈 공간으로 남아 있을 것이다. 그러나, 특정 회
+            사에서 생산한 PC의 경우 '일반' 탭의 아래쪽에 제조
+            및 기술 지원 업체라는 항목이 있으며 이곳에 제작사
+            의 로고와 각종 정보가 들어가 있는 것을 볼 수 있
+            다. 그들이 이런 짓(?)을 할 수 있으면 우리도 할 수
+            있다!
+
+            1. 우선 여러분은 이곳에 들어갈 자신의 로고 이미지
+            를 만들어야 한다. 이미지 편집 도구를 사용하여 
+            200x120 픽셀의 BMP 파일을 하나 만들자. 파일의 색상
+            은 원하는 대로 해도 (true 칼라도) 관계없다. 이 파
+            일을 windir\system 폴더에 복사한다.
+
+            2. windir\system 폴더에서 oeminfo.ini 파일을 찾아
+            서 텍스트 편집기로 부른다.
+
+            3. 다음과 같이 정보를 입력한다.
+
+            [general] 
+            Manufacturer=Internet Power Guide 
+            Model=IBM PC Petium classic 150
+
+            [Support Information]
+            Line1= x배트맨x
+            Line2= 
+            Line3= 
+            Line4= 룰루랄라~~ 
+            Line5=
+            Line6= 배트메엔~~~~
+            Line7= 
+            Line8= mailto: batman@batman.co.kr
+            Line9= homepage : http://www.batman.co.kr
+            Line10= TEL : I dunno and u?
+
+            이제 끝났다. 이제 제어판의 시스템 애플릿을 실행해
+            보자. 다음과 같이 바뀐 시스템 등록 정보를 볼 수 
+            있을 것이다. oeminfo.ini의 [general] 필드에 적은 
+            부분은 제조 및 기술 지원 업체 옆에 기록된다
+
+Phrozen Crew 98 Oscar Team - NiCK: NetSpider [cRACKER]*UCF
+     Θ-=DaRK-KNiGhT=- Θ http://www.batman.co.kr
+           Email to : batman@batman.co.kr

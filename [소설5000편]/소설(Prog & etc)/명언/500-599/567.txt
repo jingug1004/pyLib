@@ -1,0 +1,83 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="가을체">눈이 내린다.</font>
+<font face="가을체">하늘에서 땅까지 길고 긴 궤적을 그리면서</font>
+<font face="가을체">눈이 내리고 있다.</font>
+&nbsp;
+<font face="가을체">하늘을 하늘이게 하고</font>
+<font face="가을체">땅을 땅이게 하는 </font>
+<font face="가을체">허공을 할퀴어</font>
+<font face="가을체">하얗고 긴 상처를 허공에 남기면서</font>
+<font face="가을체">눈이 내리고 있다.</font>
+&nbsp;
+<font face="가을체">계절을 따라 </font>
+<font face="가을체">바람에 날리는 모래에,</font>
+<font face="가을체">싸나운 빛방울에, </font>
+<font face="가을체">그리고 오늘 내리는 눈에</font>
+<font face="가을체">수없이 할퀴고 찢기면서도</font>
+<font face="가을체">허공은 아직도 꿋꿋하게 살아 남았다.</font>
+&nbsp;
+<font face="가을체">참으로 질기고도 끈질긴 생명이여</font>
+<font face="가을체">이제는 그만 두어도 될 터인데</font>
+<font face="가을체">누구나 그의 지나온 길을 안다면</font>
+<font face="가을체">그를 비난하지는 못하리라.</font>
+&nbsp;
+<font face="가을체">하지만</font>
+<font face="가을체">허공은 오늘도 하늘을 지탱하고 있다.</font>
+<font face="가을체">수많은 무시와 냉대에도</font>
+<font face="가을체">꿋꿋하게 살아남은 나의 사랑과도 같이*</font>
+&nbsp;
+<font face="가을체">프람 미친바람</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="566.htm"><img src="../../images/arro_38.gif" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="568.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

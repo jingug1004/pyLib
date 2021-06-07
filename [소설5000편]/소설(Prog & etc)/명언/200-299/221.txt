@@ -1,0 +1,81 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 220</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">이외수님의 꿈꾸는 식물중에서</font>
+&nbsp;
+<font face="가을체">동남쪽에서북서쪽으로팔백걸음도망치고거기서북극성</font>
+<font face="가을체">을보며북극성과나란히걸어서삼십보를서행하라바위가하나</font>
+<font face="가을체">머리카락을숨기고누워있다머리카락을당기면문이열린</font>
+<font face="가을체">다거울속에보이는고요한나라죽어서다시만날네혼이보인다</font>
+&nbsp;
+<font face="가을체">접힌칼날을펴서누구를찌르려고하면내칼날의속은언제나</font>
+<font face="가을체">비어있다밤이면밧줄을들고내게오는저마부의완강한팔</font>
+<font face="가을체">뚝나는마차를끌고어디로가야하나벤조를치면서해골하나가</font>
+<font face="가을체">겨울나무가지에앉아울고있다</font>
+&nbsp;
+<font face="가을체">하루에도몇번씩죽어서만나는것은죽어있는나이다나는평면에다그려놓은정</font>
+<font face="가을체">육면체다그림자가없다허공에는차례로떠오르는일곱개의달우주는정칠면체</font>
+<font face="가을체">다구름의방향은정칠면체의바깥이다정육면체는벽에다그려놓아도평</font>
+<font face="가을체">면이다눕여놓거나세워놓으면선이된다전선처럼가늘게그어지는선이되어</font>
+<font face="가을체">바람이불면울기시작하는내신경들이여</font>
+&nbsp;
+<font face="가을체">나는 나는 이 깊은 겨울</font>
+<font face="가을체">한마리 벌레처럼 잠을 자면서</font>
+<font face="가을체">어느 봄 날 은혜의 날개를 달고</font>
+<font face="가을체">한마리 나비되는 꿈을 꾸면서</font>
+<font face="가을체">밤마다 돌아 앉아 촛불을 켠다</font>
+<font face="가을체">그대는 이 나라 어느 언덕에</font>
+<font face="가을체">그리운 풀 꽃으로 흔들리느냐</font>
+<font face="가을체">오늘은 네곁으로 바람이 불고</font>
+<font face="가을체">나는 여기 홀로 술 한잔을 마신다</font>
+<font face="가을체">내 젊음, 어두움도 모두 마신다.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="220.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="222.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

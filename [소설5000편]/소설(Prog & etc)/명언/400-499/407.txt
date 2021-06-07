@@ -1,0 +1,72 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 400-499</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/pink14.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">최영미님의 시</font>
+&nbsp;
+<font face="가을체">- 폭풍주의보</font>
+&nbsp;
+<font face="가을체">천지간 어디,</font>
+<font face="가을체">삼십년 고히 썩힌 울음 받아줄 품 있을까만은 </font>
+<font face="가을체">쫓고 쫓기여 늙은 여관방</font>
+<font face="가을체">오르내리 치대는 하루밤 흥정처럼</font>
+<font face="가을체">창밖으론 바다가 수다스럽게 끓어오르고</font>
+<font face="가을체">하늘도 물도 검게 풀려</font>
+<font face="가을체">희망과 절망처럼 쉽게 서로 넘나드니</font>
+<font face="가을체">어디가 시작이고 어디가 끝인지</font>
+<font face="가을체">밤안개 피어 도져도 </font>
+<font face="가을체">지평선을 묻지는 않기로 했다.</font>
+<font face="가을체">고통은 고통끼리 정붙여</font>
+<font face="가을체">살 맞대고 물어뜯는 밤,,</font>
+<font face="가을체">치욕은 또 다른 치욕으로만 씻기나니</font>
+<font face="가을체">아무 것도 그냥은 사라지지 않는다</font>
+<font face="가을체">폭풍 주의보에 묶힌 겨울, 땅끝 마을에서도.</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="406.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../400-499.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 400-499"></a></td>
+<td align="left"><p><a href="408.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

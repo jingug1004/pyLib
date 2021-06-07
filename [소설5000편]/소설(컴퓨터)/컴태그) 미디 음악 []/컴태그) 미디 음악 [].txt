@@ -1,0 +1,381 @@
+﻿  가요미디??
+ <bgsound src="http://www.interbird.co.kr/midi/data/59.mid">[강수지]후회
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/12.mid">[고요태]순정
+ <bgsound src="http://www.interbird.co.kr/midi/data/35.mid">[구피]비련 
+ <bgsound src="http://www.interbird.co.kr/midi/data/142.mid">[김건모]사랑이 떠나가네
+ <bgsound src="http://www.interbird.co.kr/midi/data/141.mid">[김건모]뻐꾸기 둥지위로 날아간 새
+ <bgsound src="http://www.interbird.co.kr/midi/data/161.mid">[김건모]잘못된 만남
+ <bgsound src="http://www.interbird.co.kr/midi/data/162.mid">[김건모]스피드 
+ <bgsound src="http://www.interbird.co.kr/midi/data/24.mid">[김경호]나를 슬프게 하는 사람들
+ <bgsound src="http://www.interbird.co.kr/midi/data/44.mid">[김경호]슬픈영혼에 아리아 
+ <bgsound src="http://www.interbird.co.kr/midi/data/46.mid">[김원준]얄개시대 
+ <bgsound src="http://www.interbird.co.kr/midi/data/138.mid">[김정민]비 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/15.mid">[김정은]오렌지 나무  
+ <bgsound src="http://www.interbird.co.kr/midi/data/136.mid">[김장훈]나와 같다면 
+ <bgsound src="http://www.interbird.co.kr/midi/data/37.mid">[김종환]사랑을 위하여 
+ <bgsound src="http://www.interbird.co.kr/midi/data/223.mid">[김태영]혼자만의 사랑 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/1.mid"> [김현식] 비처럼 음악처럼 
+ <bgsound src="http://www.interbird.co.kr/midi/data/222.mid">[김현정]그녀와의 이별  
+ <bgsound src="http://www.interbird.co.kr/midi/data/145.mid">[김현철]거짓말도 보여요  
+ <bgsound src="http://www.interbird.co.kr/midi/data/30.mid">[노사연]만남 
+ <bgsound src="http://www.interbird.co.kr/midi/data/22.mid">[디바]그래
+ <bgsound src="http://www.interbird.co.kr/midi/data/150.mid">[디바]왜불러  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/19.mid">[룰라]사랑법7.25.  
+ <bgsound src="http://www.interbird.co.kr/midi/data/134.mid">[박상민]하나의 사랑  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/17.mid">[박지윤]소중한 사랑
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/21.mid">[박지윤]StealAway 
+ <bgsound src="http://www.interbird.co.kr/midi/data/25.mid">[박진영]난
+ <bgsound src="http://www.interbird.co.kr/midi/data/168.mid">[박진영]썸머 징글벨
+ <bgsound src="http://www.interbird.co.kr/midi/data/137.mid">[박진영]십년이 지난후
+ <bgsound src="http://www.interbird.co.kr/midi/data/249.mid"> [박진영]KISS ME
+ <bgsound src="http://www.interbird.co.kr/midi/data/14.mid">[뱅크]가을의 전설  
+ <bgsound src="http://www.interbird.co.kr/midi/data/54.mid">[비비]하늘땅 별땅  
+ <bgsound src="http://www.interbird.co.kr/midi/data/32.mid">[사준]메모리스 
+ <bgsound src="http://www.interbird.co.kr/midi/data/160.mid">[서태지와 아이들]내 모든 것(1집)
+ <bgsound src="http://www.interbird.co.kr/midi/data/48.mid">[서태지와 아이들]우리들만의 추억  
+ <bgsound src="http://www.interbird.co.kr/midi/data/29.mid"> [손지창]마지막 연인 
+ <bgsound src="http://www.interbird.co.kr/midi/data/40.mid">[수]Somday 
+ <bgsound src="http://www.interbird.co.kr/midi/data/148.mid">[신화]해결사 
+ <bgsound src="http://www.interbird.co.kr/midi/data/135.mid">[아담]세상에 없는 사람  
+ <bgsound src="http://www.interbird.co.kr/midi/data/53.mid">[안재욱]Forever  
+ <bgsound src="http://www.interbird.co.kr/midi/data/236.mid"> [안치환]광야에서 
+ <bgsound src="http://www.interbird.co.kr/midi/data/241.mid"> [양파]애송이의 사랑
+ <bgsound src="http://www.interbird.co.kr/midi/data/164.mid">[언타이틀]날개
+ <bgsound src="http://www.interbird.co.kr/midi/data/163.mid">[언타이틀]책임져  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/18.mid">[엄정화]숨은그림찾기 
+ <bgsound src="http://www.interbird.co.kr/midi/data/27.mid">[업타운]내안의 그대  
+ <bgsound src="http://www.interbird.co.kr/midi/data/56.mid">[에코]행복한 나를  
+ <bgsound src="http://www.interbird.co.kr/midi/data/147.mid">[여명]사랑한후에  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/2.mid">[예민]산골소녀의 사랑 이야기  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/22.mid">[영턱스 클럽]아시나요  
+ <bgsound src="http://www.interbird.co.kr/midi/data/52.mid"> [우노]첫사랑
+ <bgsound src="http://www.interbird.co.kr/midi/data/167.mid">[유승준]가위
+ <bgsound src="http://www.interbird.co.kr/midi/data/146.mid">[유승준]나나나
+ <bgsound src="http://www.interbird.co.kr/midi/data/156.mid">[유승준]내가 기다린 사랑
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/2.mid">[유승준]열정7.25.  
+ <bgsound src="http://www.interbird.co.kr/midi/data/155.mid">[이문세]솔로예찬  
+ <bgsound src="http://www.interbird.co.kr/midi/data/157.mid">[이소라]믿음
+ <bgsound src="http://www.interbird.co.kr/midi/data/154.mid">[이소라]잊지 말기로 해 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/3.mid">[이소은]작별  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/12.mid">[이승환]프란더즈의 개7.25.
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/13.mid">[이승환]내게7.25.  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/11.mid">[이오공감]꿈꾸는 소년7.25.  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/5.mid">[임강구]해바라기 
+ <bgsound src="http://www.interbird.co.kr/midi/data/19.mid">[이승환]그들이 사랑하기 까지
+ <bgsound src="http://www.interbird.co.kr/midi/data/51.mid">[이승환]천일동안 
+ <bgsound src="http://www.interbird.co.kr/midi/data/49.mid">[지훈]이별 
+ <bgsound src="http://www.interbird.co.kr/midi/data/38.mid">[이현도]사자후  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/20.mid">[이현우]돌아와줘 
+ <bgsound src="http://www.interbird.co.kr/midi/data/149.mid">[이형석]언제나 사랑 
+ <bgsound src="http://www.interbird.co.kr/midi/data/33.mid">[임성은]미련 
+ <bgsound src="http://www.interbird.co.kr/midi/data/16.mid">[임창정]결혼 해줘
+ <bgsound src="http://www.interbird.co.kr/midi/data/133.mid">[임창정]별이되어
+ <bgsound src="http://www.interbird.co.kr/midi/data/151.mid">[임창정]진달래꽃  
+ <bgsound src="http://www.interbird.co.kr/midi/data/57.mid">[자우림]Hey Hey Hey  
+ <bgsound src="http://www.interbird.co.kr/midi/data/17.mid">[장혜진]꿈의 대화 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/9.mid">[전람회] 하늘높이7.25.
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/10.mid">[전람회]기억의 습작7.25.  
+ <bgsound src="http://www.interbird.co.kr/midi/data/243.mid">[전인권]사랑한 후에 
+ <bgsound src="http://www.interbird.co.kr/midi/data/23.mid">[젝스 키스]기사도
+ <bgsound src="http://www.interbird.co.kr/midi/data/147.mid">[젝스 키스]연정
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/17.mid">[젝스 키스]커플7.25.
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/28.mid">[잭스 키스]커플  4.26.
+ <bgsound src="http://www.interbird.co.kr/midi/data/169.mid">[젝스 키스]폼생폼사  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/10.mid">[조성모]후회  
+ <bgsound src="http://www.interbird.co.kr/midi/data/42.mid">[주주클럽]수필 러브
+ <bgsound src="http://www.interbird.co.kr/midi/data/158.mid">[주주클럽]일대일  
+ <bgsound src="http://www.interbird.co.kr/midi/data/26.mid">[지누션]내가
+ <bgsound src="http://www.interbird.co.kr/midi/data/31.mid">[지누션]말해줘  
+ <bgsound src="http://www.interbird.co.kr/midi/data/244.mid">[지니]이건 뭐야  
+ <bgsound src="http://www.interbird.co.kr/midi/data/184.mid">[지퍼]내가 사랑하는 그녀는 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/16.mid">[최승진]그대 기쁨도 내가 됐으면  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/8.mid">[최창민]짱
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/19.mid">[최창민]영웅 
+ <bgsound src="http://www.interbird.co.kr/midi/data/21.mid">[카니발]그땐 그랬지  
+ <bgsound src="http://www.interbird.co.kr/midi/data/43.mid">[컨츄리 꼬꼬]너에게 나를  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/4.mid">[쿠키]애인 맞아  
+ <bgsound src="http://www.interbird.co.kr/midi/data/28.mid">[쿨]루시퍼의 변명
+ <bgsound src="http://www.interbird.co.kr/midi/data/153.mid">[쿨]사랑의 끝
+ <bgsound src="http://www.interbird.co.kr/midi/data/39.mid">[쿨]송인
+ <bgsound src="http://www.interbird.co.kr/midi/data/152.mid">[쿨]슬퍼지려 하기전에
+ <bgsound src="http://www.interbird.co.kr/midi/data/139.mid">[쿨]애상
+ <bgsound src="http://www.interbird.co.kr/midi/data/165.mid">[쿨]운명
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/9.mid">[쿨]Misery 
+ <bgsound src="http://www.interbird.co.kr/midi/data/36.mid">[클론]빙빙빙 
+ <bgsound src="http://www.interbird.co.kr/midi/data/18.mid">[터보]Goodbye yesterday  
+ <bgsound src="http://www.interbird.co.kr/midi/data/237.mid">[핑클]내 남자친구에게
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/3.mid">[핑클]루비7.25. 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/28.mid">[푸른하늘]사랑 그대로의 사랑  
+ <bgsound src="http://www.interbird.co.kr/midi/data/242.mid">[015B]단발머리  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/6.mid">[DOG]집에 돌아오면  
+ <bgsound src="http://www.interbird.co.kr/midi/data/170.mid">[DJ doc]여름 이야기  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/8.mid">[G.O.D]관찰7.25.
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/11.mid">[G.O.D]어머님께 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/4.mid">[H.O.T]빛7.25.
+ <bgsound src="http://www.interbird.co.kr/midi/data/140.mid">[H.O.T]캔디  
+ <bgsound src="http://www.interbird.co.kr/midi/data/55.mid">[NEXT]해에게서 소년에게  
+ <bgsound src="http://www.interbird.co.kr/midi/data/45.mid">[R.ef]심연
+ <bgsound src="http://www.interbird.co.kr/midi/data/58.mid">[R.ef]후에
+ <bgsound src="http://www.interbird.co.kr/midi/data/159.mid">[R.ef]never ending story 
+ <bgsound src="http://www.interbird.co.kr/midi/data/240.mid">[S.E.S]DREAMS COME TRUE
+ <bgsound src="http://www.interbird.co.kr/midi/data/143.mid">[S.E.S]I'm your girl
+ <bgsound src="http://www.interbird.co.kr/midi/data/144.mid">[S.E.S]Oh my love 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/14.mid">[S.E.S]애인찾기 
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/23.mid">[THE THE]네게 다시  
+ <bgsound src="http://www.interbird.co.kr/midi/data-out/13.mid">[TOY]여전히 아름다운지 
+ <bgsound src="http://www.interbird.co.kr/midi/data/166.mid">[UP]바다
+ <bgsound src="http://www.interbird.co.kr/midi/data/34.mid">[UP]밝은세상  
+ <bgsound src="http://www.interbird.co.kr/midi/data/155.mid">[U.R.I.]You and I  
+ <bgsound src="http://www.interbird.co.kr/midi/data/15.mid">걸어서 하늘까지  
+ <bgsound src="http://www.interbird.co.kr/midi/data/20.mid">그대에게  
+ <bgsound src="http://www.interbird.co.kr/midi/data/41.mid">수요일에는 빨간장미를
+ <bgsound src="http://www.interbird.co.kr/midi/data/50.mid">작은 기다림
+
+ 뽕짝미디??
+<bgsound src="http://www.interbird.co.kr/midi/data/188.mid">[김수희]남행열차  
+<bgsound src="http://www.interbird.co.kr/midi/data/190.mid">[김수희]애모  
+<bgsound src="http://www.interbird.co.kr/midi/data/185.mid">[김자옥]공주는 외로워  
+<bgsound src="http://www.interbird.co.kr/midi/data/187.mid">[김흥국]59년 왕십리  
+<bgsound src="http://www.interbird.co.kr/midi/data/193.mid">[나훈아]무시로  
+<bgsound src="http://www.interbird.co.kr/midi/data/11.mid">[설운도]사랑의 트위스트  
+<bgsound src="http://www.interbird.co.kr/midi/data/192.mid">[설운도]삼바의 여인  
+<bgsound src="http://www.interbird.co.kr/midi/data/186.mid">[이무송]사는게 뭔지  
+<bgsound src="http://www.interbird.co.kr/midi/data/189.mid">[조영남]화개장터  
+<bgsound src="http://www.interbird.co.kr/midi/data/191.mid">[편승엽]찬찬찬  
+<bgsound src="http://www.interbird.co.kr/midi/data/12.mid">[현숙]요즘여자 요즘남자  
+<bgsound src="http://www.interbird.co.kr/midi/data/10.mid">[현숙]사랑은 얄미운 나비인가봐  
+<bgsound src="http://www.interbird.co.kr/midi/data/9.mid">두만강 푸른물에...  
+<bgsound src="http://www.interbird.co.kr/midi/data/13.mid">울고넘는 박달재  
+
+만호미디???
+[덤보]Circuis Music <bgsound src="http://www.interbird.co.kr/midi/data/100.mid"> 
+[라이온킹]Hakuna Matata
+[라이온킹]Can You Feel the Love Tonight
+[라이온킹]Can't Wait to be a King
+[라이온킹]Circle of Life
+[라이온킹]Be Prepared
+[라이온킹]Hyenas
+[라이온킹]Lion Sleeps Tonight
+[라이온킹]This Land <bgsound src="http://www.interbird.co.kr/midi/data/101.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/102.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/103.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/104.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/105.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/106.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/107.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/108.mid"> 
+[미녀와야수]Title Song
+[미녀와야수]Be Our Guest
+[미녀와야수]Bonjour and Opening Number
+[미녀와야수]Gaston's Song
+[미녀와야수]Somethng
+[미녀와야수]The Mobsong <bgsound src="http://www.interbird.co.kr/midi/data/109.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/110.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/111.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/112.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/113.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/114.mid"> 
+[백설공주]Whistle While You Work
+[백설공주]Some Day <bgsound src="http://www.interbird.co.kr/midi/data/115.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/116.mid"> 
+[신데렐라]Bibbity Bobity Bo ! <bgsound src="http://www.interbird.co.kr/midi/data/117.mid"> 
+[아리스토캣]주제가 <bgsound src="http://www.interbird.co.kr/midi/data/118.mid"> 
+[알라딘]A Whole New World
+[알라딘]Arabian Nights
+[알라딘]One Jump
+[알라딘]Prince Ali <bgsound src="http://www.interbird.co.kr/midi/data/119.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/120.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/121.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/122.mid"> 
+[앨리스]Unbirthday Song <bgsound src="http://www.interbird.co.kr/midi/data/123.mid"> 
+[에반겔리온]주제가
+[에반겔리온]끝 음악 <bgsound src="http://www.interbird.co.kr/midi/data/238.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/239.mid"> 
+[인어공주]Kiss the Girl
+[인어공주]Part of Your World
+[인어공주]Under the Sea <bgsound src="http://www.interbird.co.kr/midi/data/124.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/125.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/126.mid"> 
+[정글북]Bare Necessities <bgsound src="http://www.interbird.co.kr/midi/data/127.mid"> 
+[피노키오]When You Wish Upon a Star <bgsound src="http://www.interbird.co.kr/midi/data/128.mid"> 
+[환타지아]Nutcracker <bgsound src="http://www.interbird.co.kr/midi/data/129.mid"> 
+[푸]Winnie The Pooh <bgsound src="http://www.interbird.co.kr/midi/data/130.mid"> 
+[디즈니]Disney Melody <bgsound src="http://www.interbird.co.kr/midi/data/131.mid"> 
+가제트 형사 <bgsound src="http://www.interbird.co.kr/midi/data/180.mid"> 
+개구리 왕눈이 <bgsound src="http://www.interbird.co.kr/midi/data/176.mid"> 
+레이어즈 <bgsound src="http://www.interbird.co.kr/midi/data/182.mid"> 
+괴도 세인트 테일(천사소녀 네티)
+ 7.9. <bgsound src="http://www.interbird.co.kr/midi/data-out/990709/1.mid"> 
+마징가 Z <bgsound src="http://www.interbird.co.kr/midi/data/177.mid"> 
+슬램덩크  <bgsound src="http://www.interbird.co.kr/midi/data-out/27.mid"> 
+슬레이어즈 NEXT 오프닝 <bgsound src="http://www.interbird.co.kr/midi/data/179.mid"> 
+오 나의 여신님 <bgsound src="http://www.interbird.co.kr/midi/data/178.mid"> 
+은하철도 999 <bgsound src="http://www.interbird.co.kr/midi/data/175.mid"> 
+케산 <bgsound src="http://www.interbird.co.kr/midi/data/181.mid"> 
+<bgsound src="http://www.interbird.co.kr/midi/data-out/26.mid">[미야자키 하야오] 이웃의 토토로
+ 
+팝??? 
+[ Andy Williams ]
+Love Is a Many Splendored Thing
+[ Andy Williams ]Moon River
+[ Andy Williams ]Speak softly love <bgsound src="http://www.interbird.co.kr/midi/data/83.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/84.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/93.mid"> 
+[ Barbra Streisand ]The Way We Were <bgsound src="http://www.interbird.co.kr/midi/data/97.mid"> 
+[ Beach Boys ]Kokomo <bgsound src="http://www.interbird.co.kr/midi/data/80.mid"> 
+[ Beatles ]Let It Be
+[ Beatles ]Octopus's garden
+7.25.  <bgsound src="http://www.interbird.co.kr/midi/data/82.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data-out/990609/6.mid"> 
+[ Bette Midler ]The Rose <bgsound src="http://www.interbird.co.kr/midi/data/96.mid"> 
+[ Billie Holliday ]Summertime <bgsound src="http://www.interbird.co.kr/midi/data/94.mid"> 
+[ Bobby Mcferrin ]Don't worry be happy <bgsound src="http://www.interbird.co.kr/midi/data/69.mid"> 
+[ Bryan Adams ]Everything I do I do it~ <bgsound src="http://www.interbird.co.kr/midi/data/72.mid"> 
+[ D.Tiomkin ]Giant <bgsound src="http://www.interbird.co.kr/midi/data/75.mid"> 
+[Deep people]Burn7.25.  <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/7.mid"> 
+[ Diana Ross and Lionel Richie ]
+Endless Love <bgsound src="http://www.interbird.co.kr/midi/data/71.mid"> 
+[ Elvis Presley ]Are You Lonesome Tonight?
+[ Elvis Presley ]Can't Help Falling In Love
+[ Elvis Presley ]Don't Be Cruel
+[ Elvis Presley ]HAWIIAN WEDDING SONG
+[ Elvis Presley ]Hound Dog
+[ Elvis Presley ]It's Now or Never
+[ Elvis Presley ]Jail House Rock
+[ Elvis Presley ]
+You Don't Have To Say You Love Me <bgsound src="http://www.interbird.co.kr/midi/data/217.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/68.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/216.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/76.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/214.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/219.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/215.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/218.mid"> 
+[ Eric Clapton ]Layla
+[ Eric Clapton ]Let It Grow
+[ Eric Clapton ]Tears In Heaven
+[ Eric Clapton ]Wonderful Tonight <bgsound src="http://www.interbird.co.kr/midi/data/207.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/205.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/204.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/206.mid"> 
+[ Gene Kelly ]Singing In The Rain <bgsound src="http://www.interbird.co.kr/midi/data/91.mid"> 
+[ Harry Nilsson ]As Time Goes By <bgsound src="http://www.interbird.co.kr/midi/data/65.mid"> 
+[ Irene Cara ]Fame <bgsound src="http://www.interbird.co.kr/midi/data/74.mid"> 
+[ Irish Air ]Auld lang syne <bgsound src="http://www.interbird.co.kr/midi/data/66.mid"> 
+[ JoeCocker and Jennifer Warnes ]
+Up Where We Belong <bgsound src="http://www.interbird.co.kr/midi/data/6.mid"> 
+[ John Lenon ]Beautiful Boy
+[ John Lenon ]Happy X-mas
+[  John Lenon ]Imagine
+[ John Lenon ]Instant Karma
+[ John Lenon ]Jealous Guy
+[ John Lenon ]Love
+[ John Lenon ]Woman <bgsound src="http://www.interbird.co.kr/midi/data/210.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/209.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/78.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/213.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/211.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/212.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/208.mid"> 
+[ Julie Andrews ]Edelweiss <bgsound src="http://www.interbird.co.kr/midi/data/70.mid"> 
+[ Karoline Kruger ]You call it love <bgsound src="http://www.interbird.co.kr/midi/data/5.mid"> 
+[ Lionel Richie ]Say you say me <bgsound src="http://www.interbird.co.kr/midi/data/89.mid"> 
+[ Los Lobos ]La bamba <bgsound src="http://www.interbird.co.kr/midi/data/81.mid"> 
+[ Louis Armstrong ]What a wonderful world <bgsound src="http://www.interbird.co.kr/midi/data/4.mid"> 
+[ Lulu ]To Sir With Love <bgsound src="http://www.interbird.co.kr/midi/data/98.mid"> 
+[ Michael Jackson ]
+Heal the World7.25. 
+[ Michael Jackson ]Ben <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/15.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/67.mid"> 
+[ Pat Benatar ]Treat me right <bgsound src="http://www.interbird.co.kr/midi/data/99.mid"> 
+[ Peter Allen ]Arthur's Theme <bgsound src="http://www.interbird.co.kr/midi/data/64.mid"> 
+[ Pointer Sisters ]I'm So Excited <bgsound src="http://www.interbird.co.kr/midi/data/79.mid"> 
+[ Queen ]Bohemian Rhapsody
+[ Queen ]I Want To Break Free <bgsound src="http://www.interbird.co.kr/midi/data/220.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/221.mid"> 
+[ Ray Coniff Singers ]
+Somewhere my love - Lasa's Theme <bgsound src="http://www.interbird.co.kr/midi/data/92.mid"> 
+[ Richard Sanderson ]Reality <bgsound src="http://www.interbird.co.kr/midi/data/88.mid"> 
+[ Roy Orbison ]Oh! pretty woman <bgsound src="http://www.interbird.co.kr/midi/data/86.mid"> 
+[ Simon and arfunkel ]Scarborough fair
+ <bgsound src="http://www.interbird.co.kr/midi/data/90.mid"> 
+[ Stevie Wonder ]
+I Just Called to Say I Love You <bgsound src="http://www.interbird.co.kr/midi/data/77.mid"> 
+[ Survivor ]Eye Of The Tiger <bgsound src="http://www.interbird.co.kr/midi/data/73.mid"> 
+[ U.S.A. For Africa]We are the World <bgsound src="http://www.interbird.co.kr/midi/data/3.mid"> 
+[ Unknow ]Moon river <bgsound src="http://www.interbird.co.kr/midi/data/85.mid"> 
+[디온 워릭 and프랜드]
+That's What Friends Arefor <bgsound src="http://www.interbird.co.kr/midi/data/95.mid"> 
+[ 로미오와 쥴리엣 ]A Time For Us <bgsound src="http://www.interbird.co.kr/midi/data/63.mid"> 
+[ 진추화 ]One Summer Night <bgsound src="http://www.interbird.co.kr/midi/data/87.mid"> 
+[ 휘트니 휴스튼 ]ALLMAN <bgsound src="http://www.interbird.co.kr/midi/data/62.mid"> 
+ 
+영화??? 
+접속 <bgsound src="http://www.interbird.co.kr/midi/data/60.mid"> 
+프리티 우먼 <bgsound src="http://www.interbird.co.kr/midi/data/196.mid"> 
+보디가드 <bgsound src="http://www.interbird.co.kr/midi/data/198.mid"> 
+Love Story <bgsound src="http://www.interbird.co.kr/midi/data/199.mid"> 
+미션 임파시블 <bgsound src="http://www.interbird.co.kr/midi/data/194.mid"> 
+스피드 2 <bgsound src="http://www.interbird.co.kr/midi/data/195.mid"> 
+시네마천국  4.26. <bgsound src="http://www.interbird.co.kr/midi/data-out/31.mid"> 
+007 <bgsound src="http://www.interbird.co.kr/midi/data/197.mid"> 
+슈퍼맨 <bgsound src="http://www.interbird.co.kr/midi/data/202.mid"> 
+Man in Black <bgsound src="http://www.interbird.co.kr/midi/data/200.mid"> 
+Chariotos of fire <bgsound src="http://www.interbird.co.kr/midi/data/203.mid"> 
+천녀유혼 <bgsound src="http://www.interbird.co.kr/midi/data/61.mid"> 
+Mrs. Robinson <bgsound src="http://www.interbird.co.kr/midi/data/201.mid"> 
+
+축카곡??? 
+결혼 행진곡 <bgsound src="http://www.interbird.co.kr/midi/data/233.mid"> 
+생일 축하곡1 <bgsound src="http://www.interbird.co.kr/midi/data/132.mid"> 
+생일축하곡2 4.26. <bgsound src="http://www.interbird.co.kr/midi/data-out/24.mid"> 
+생일축하곡34.26. <bgsound src="http://www.interbird.co.kr/midi/data-out/29.mid"> 
+생일축하곡44.26. <bgsound src="http://www.interbird.co.kr/midi/data-out/32.mid"> 
+생일축하곡54.26. <bgsound src="http://www.interbird.co.kr/midi/data-out/25.mid"> 
+ 
+기타???
+가곡-그리운 금강산7.25.
+가곡-고향의 봄7.25. <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/14.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data-out/990609/18.mid"> 
+가스펠송 - 주님과 함께7.9. <bgsound src="http://www.interbird.co.kr/midi/data-out/990709/2.mid"> 
+국가-미국국가7.25. <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/16.mid"> 
+재즈[Kenny-G] Going Home <bgsound src="http://www.interbird.co.kr/midi/data/174.mid"> 
+드라마-모래시계 <bgsound src="http://www.interbird.co.kr/midi/data/183.mid"> 
+드라마[X-File]주제곡 7.25. <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/5.mid"> 
+
+클래식??? 
+[마이크로 극장판엔딩]천사의 그림물감 <bgsound src="http://www.interbird.co.kr/midi/data/173.mid"> 
+[비발디]사계중 봄
+[비발디]사계중 겨울 <bgsound src="http://www.interbird.co.kr/midi/data/245.mid">
+<bgsound src="http://www.interbird.co.kr/midi/data/7.mid"> 
+[쇼팽]야상곡 <bgsound src="http://www.interbird.co.kr/midi/data/226.mid"> 
+[슈베르트]방랑자 환상곡 <bgsound src="http://www.interbird.co.kr/midi/data/8.mid"> 
+[파헬벨]캐논 변주곡 <bgsound src="http://www.interbird.co.kr/midi/data/171.mid"> 
+[Squre]Final Fantasy V의 오프닝 <bgsound src="http://www.interbird.co.kr/midi/data/172.mid"> 
+Cannon 7.25. <bgsound src="http://www.interbird.co.kr/midi/data-out/990609/1.mid"> 
+소녀의기도 <bgsound src="http://www.interbird.co.kr/midi/data/247.mid"> 
+엘리제를 위하여 <bgsound src="http://www.interbird.co.kr/midi/data/248.mid"> 
+green sleeve  <bgsound src="http://www.interbird.co.kr/midi/data-out/33.mid"> 
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+
+
+
+
+
+ 
+
+
+

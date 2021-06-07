@@ -1,0 +1,79 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 003</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><div align="left">&nbsp;</div>
+<div align="left"><font face="가을체">'다리를 다치셨어요?'</font></div>
+<div align="left"><font face="가을체">'예.</font></div>
+<div align="left"><font face="가을체"> 산에서 굴렀읍니다. 그런데 저를 아십니까?'</font></div>
+<div align="left"><font face="가을체">'그럼요</font></div>
+<div align="left"><font face="가을체"> 가끔 우리 cafe 에서 커피를 드시쟎아요'</font></div>
+<div align="left"><font face="가을체">'결국 우리는 파는 자와 사는 자 일 뿐이군요</font></div>
+<div align="left"><font face="가을체"> 누가 파고 사는 지는 생각하기 나름이겠지만'</font></div>
+<div align="left"><font face="가을체">'이상하군요</font></div>
+<div align="left"><font face="가을체"> 제가 팔고 당신이 사는 게 아닌가요?'</font></div>
+<div align="left"><font face="가을체">'꼭 그렇지는 않죠</font></div>
+<div align="left"><font face="가을체"> 이렇게 생각해 보세요</font></div>
+<div align="left"><font face="가을체"> 나는 돈을 팔러 다니는 외판원이고 </font></div>
+<div align="left"><font face="가을체"> 당신은 커피를 주고 돈을 사지요.</font></div>
+<div align="left"><font face="가을체"> 돈을 먹는 방법은 금전 등록기나 </font></div>
+<div align="left"><font face="가을체"> 주머니에다가 넣어두는 것이고 </font></div>
+<div align="left"><font face="가을체"> 커피를 보관하는 법은 마시는 거지요</font></div>
+<div align="left"><font face="가을체"> 이렇게 생각하면</font></div>
+<div align="left"><font face="가을체"> 나는 돈을 팔기 위하여 이곳 저곳을 기웃거리고</font></div>
+<div align="left"><font face="가을체"> 당신은 거만하게 (실제는 안그렇지만) 서서 돈을 사지요</font></div>
+<div align="left"><font face="가을체"> 그럼 돈을 사준 당신이 나에게는 고마울텐데</font></div>
+<div align="left"><font face="가을체"> 오히려 당신이 고마워 하니 내가 너무 못되었군요</font></div>
+<div align="left"><font face="가을체"> 고맙습니다. 돈을 사주시어서..'</font></div>
+<div align="left"><font face="가을체">'......'</font></div>
+<div align="left"><font face="가을체">'......'</font></div>
+<div align="left">&nbsp;</div>
+<div align="left"><font face="가을체">서초역옆에 있는 cafe brams 에서</font></div></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="129.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="136.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

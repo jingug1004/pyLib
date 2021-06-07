@@ -1,0 +1,75 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 241</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/green6.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">김성춘님의 사랑가 중</font>
+&nbsp;
+<font face="가을체">--나의 작은 초록빛 숲</font>
+&nbsp;
+<font face="가을체">내가 그대를 사랑한다 함은</font>
+&nbsp;
+<font face="가을체">이 적막하지만 아름다운 지구 한구석에서</font>
+<font face="가을체">그래도 봄이면 찬란한 잎 튀우고</font>
+<font face="가을체">가을이면 물 흐르듯 잎 지우는 우주의 한그루 나무처럼</font>
+<font face="가을체">그렇게 그냥, 자연처럼 그렇게 숨쉬고 고민하고 </font>
+<font face="가을체">꿈꾸는 한그루 나무처럼</font>
+&nbsp;
+<font face="가을체">오늘 내가 살아있음을</font>
+<font face="가을체">오늘 내가 소리없이 죽어가고 있음을</font>
+&nbsp;
+<font face="가을체">적막하지만 아름다운 이 땅위에</font>
+<font face="가을체">사랑하고 노래하고 괴로와 하고 있음을</font>
+<font face="가을체">뜨겁게 확인하고 싶은 아주 단순한 이유 때문입니다</font>
+&nbsp;
+<font face="가을체">그대로 하여 가슴 한 복판에</font>
+<font face="가을체">형벌같은 슬픔하나 남을 지라도</font>
+&nbsp;
+<font face="가을체">내 그대를 이토록 그리워 한다 함은.</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="246.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../200-299.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 200-299"></a></td>
+<td align="left"><p><a href="248.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

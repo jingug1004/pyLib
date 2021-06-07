@@ -1,0 +1,96 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="개성체">오늘은 자원봉사를 하는 날이다</font>
+<font face="개성체">그래서 오랜만에 7-4제로 출근을 하였다</font>
+<font face="개성체">사실은 자원이 아니지</font>
+<font face="개성체">팀전체로 거의 반강제로 가게 되는 것</font>
+<font face="개성체">타율이라는 것을 워낙 싫어하기는 하지만 </font>
+<font face="개성체">좋은 일이니깐 참기로 한다 </font>
+<font face="개성체">지금은 손에도 머리에도 힘이없다. </font>
+<font face="개성체">아직까지 잠에서 덜깨어난 모양</font>
+<font face="개성체">오늘 버스를 타고 출발하기를 기다리면서</font>
+<font face="개성체">'쉬면 모해 낚시나 하지' 하구선 낚시대를 드리웠지만</font>
+<font face="개성체">입질은 하지않고 내내 무료하였다</font>
+<font face="개성체">정신도 육체도 늙어가나 보다</font>
+<font face="개성체">겨우 피래미만 하나 낚었지 뭔가</font>
+&nbsp;
+&nbsp;
+<font face="개성체">나의 머리속에는</font>
+<font face="개성체">기생충이 산다</font>
+&nbsp;
+<font face="개성체">조그만 하얀 몸을</font>
+<font face="개성체">뇌 주름속에 숨기고</font>
+<font face="개성체">머리속에 입을 쳐박아</font>
+<font face="개성체">진액을 빨아먹는다</font>
+&nbsp;
+<font face="개성체">석회처럼 </font>
+<font face="개성체">푸석해지는 정신</font>
+&nbsp;
+<font face="개성체">나의 머리속에는</font>
+<font face="개성체">기생충이 산다</font>
+&nbsp;
+<font face="개성체">이제는 </font>
+<font face="개성체">석고처럼 딱딱해져</font>
+<font face="개성체">얼굴을 건들때마다</font>
+<font face="개성체">툭툭 불거져 나오는 </font>
+<font face="개성체">기생충 - 여드름</font>
+&nbsp;
+<font face="개성체">나의 젊은 날의 사랑*</font>
+&nbsp;
+&nbsp;
+<font face="개성체">머리속에 기생충이 많이 살아 남아있으면 좋겠다</font>
+<font face="개성체">그만큼 나의 정신이 풍요롭다는 얘기가 되니.</font>
+&nbsp;
+<font face="개성체">프람 미친바람</font></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="605.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="607.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

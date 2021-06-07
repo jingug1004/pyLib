@@ -1,0 +1,85 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 600-699</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd37.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+&nbsp;
+<font face="개성체">일요일이면 월요일에 있을 주간 미팅 자료를 위하여</font>
+<font face="개성체">출근을 해야 한다 이번 일요일에도 어김없이 출근을 </font>
+<font face="개성체">하였다. 출근 버스를 타게 되면 통상은 책을 보거나 </font>
+<font face="개성체">아니면 음악을 듣거나 아니면 뒤집어져서 잠을 자거</font>
+<font face="개성체">나 하지만 오늘은 창밖을 바라본다. 넓은 창밖으로 </font>
+<font face="개성체">보이는 세상이 마치 safari 를 나선 기분이다. 나와</font>
+<font face="개성체">는 전혀 상관없이 그냥 display 되어있는 세상을 보</font>
+<font face="개성체">는 느낌이다. 이제 차에서 내려서 아둥바둥하면서 </font>
+<font face="개성체">살아가게 되면 나 또한 다른 어떤 이의 관광 코스로</font>
+<font face="개성체">기억이 되리라.</font>
+&nbsp;
+&nbsp;
+<font face="개성체">집에서 나올때면 난 탈출을 꿈꾼다.</font>
+<font face="개성체">회사로 향하는 길은 계속 이어져</font>
+<font face="개성체">세상의 끝까지 이어져 있다.</font>
+<font face="개성체">그러나 눈 떠보면</font>
+<font face="개성체">오늘의 다툼이 있는 회사의 주차장.</font>
+&nbsp;
+<font face="개성체">회사를 떠날때면 난 탈출을 꿈꾼다.</font>
+<font face="개성체">어두운 바다에 웅크리고 떠다니는 무인도처럼</font>
+<font face="개성체">아무도 모르는 곳에 혼자서 숨고만 싶다.</font>
+<font face="개성체">그러나 눈 깨보면</font>
+<font face="개성체">세상의 더러운 꿈에 젖어있는 서울의 한복판.</font>
+&nbsp;
+<font face="개성체">오늘도 </font>
+<font face="개성체">나의 탈출은 미수에 그친다.</font>
+&nbsp;
+&nbsp;
+<font face="개성체">프람 미친바람</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="660.htm"><img src="../../images/arro_38.gif" width="39" height="38" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../600-699.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 600-699"></a></td>
+<td align="left"><p><a href="663.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

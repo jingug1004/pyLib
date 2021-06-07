@@ -1,0 +1,156 @@
+﻿Jacques Derrida
+
+
+"Structure, Sign, and Play in the Discourse of the Human Sciences"
+
+
+-- a reading guide-- 
+
+
+
+Derrida's essay begins with the word "perhaps," which signifies that in deconstruction, everything is provisional; you can't make positive/definitive statements. Nevertheless, we'll proceed as if you can. This is another key to deconstruction--even as you come to understand that nothing is stable, that meaning is always contingent and ambiguous, you continue to act as if nothing's wrong...
+
+
+Derrida then introduces the idea that some "event" has occurred. This "event" is some sort of "rupture" or break.
+
+
+What he's talking about is what he sees as a major shift or break in the fundamental structure of western philosophy (the episteme). This break is a moment where the whole way philosophy thought about itself shifted. That shift, or rupture, was when it became possible to think about "the structurality of structure." In other words, this is the moment when structuralism pointed out that language was indeed a structure, when it became possible to think (abstractly) about the idea of structure itself, and how every system--whether language, or philosophy itself--had a structure. 
+
+
+An analogy might be (to paraphrase Plato) to think about being in a room--say, your dorm room. At first, you think about how to decorate that room: what posters to put up on the walls, what pictures, where the bed and desk and dresser go, etc. Then one day you might think about the room, not as your room, but as one room in a whole building, as part of a structure; then you might think about the "roomness" of your room, the qualities that (apart from your specific decorations) make it a room, and then about how it relates to other rooms in the structure (my room is my room because it's not the room next door). Anyway, the moment when you start thinking about the roomness of your room is the moment or "event" Derrida is talking about--the moment when philosophers began to see their philosophical systems, not as absolute truth, but as systems, as constructs, as structures. 
+
+
+Unlike Saussure, who just looked at structure as linear, Derrida insists that all structures have some sort of center. He's talking mostly about philosophical systems or structures, but the idea applies to almost any structure. There's something that all the elements in the structure refer to, connect to, something that makes the structure hold its shape, keeps all the parts together. (You should note, though, that this model DOESN'T work so well for language-- or not for Saussure's idea of language--where it's difficult to locate or name what "center" might hold the whole structure together). 
+
+
+The center, while it holds the whole structure together, limits the movement of the elements in the structure--this movement is what Derrida calls "play." Think again of a building. A central shaft may hold all the wings and floors of a building together, limiting how much the structure as a whole, and any single element, can move--say, in a tornado or hurricane. In a building, this lack of "play" is good. In a philosophical or signifying system, Derrida says, it's not so good.
+
+
+You might also think about a kindergarten classroom. The teacher is the center. When he or she is there, all the kids behave--they act the way the center dictates. When the teacher leaves the room, the kids go crazy--they "play" wildly.
+
+
+Derrida says the center is the crucial part of any structure. It's the point where you can't substitute anything. In the rest of the structure (think of tinker toys) you could substitute blue rods for red, or one size of connector for another. At the center, only the unit that is the center can be there; none of the other units of the system can take the place of the center. 
+
+
+A less concrete example of a system with a center would be a philosophical or belief system--say, the Puritan mindset. In the Puritan system of belief, GOD was the center of everything--anything that happened in the world (i.e. any event, or "unit", of the system) could be referred back to God as the central cause of that event. And nothing in the system was the equivalent of God--nothing could replace God at the center as the cause of all things. Refer this back to Saussure's idea that value comes from difference; that idea is based on the exchangeability between units (verbs are not nouns, but both are words, and could be exchanged for each other). The center of a system is something that has no equivalent value, nothing can replace it or be exchanged for it, it's the cause and ultimate referent for everything in the system. 
+
+
+Because of this, Derrida says, the center is a weird part of a system or structure--it's part of the structure, but not part of it, because it is the governing element; as he puts it (84) the center is the part of the structure which "escapes structurality." In the Puritan example, God creates the world and rules it, and is responsible for it, but isn't part of it. 
+
+
+The center is thus, paradoxically, both within the structure and outside it. The center is the center but not part of what Derrida calls "the totality," i.e. the structure. So the center is not the center. The concept of the centered structure, according to Derrida, is "contradictorily coherent." (It's OK if your brain starts to hurt now).
+
+
+The idea of a center is useful because it limits play (which Derrida associates with "desire." Don't worry about this now. We'll talk about desire when we get to Freud and Lacan). Derrida says all systems want ultimately to be fixed, to have no play at all, to be stable and become "fully present."
+
+
+So, before this "rupture" he talks about (which happened pretty much with the advent of structuralism in the 1950s), what happened in the history of philosophy was a continual substitution of one centered system for other centered systems. Briefly, if Derrida were to write a history of western philosophy (which of course he wouldn't, because a history also implies a kind of linear ordered system, and Derrida likes play too much to do that), his history would look like this.
+
+
+
+1. Early Christian era to eighteenth century: a single god posited as the center and cause of all things
+
+2. Eighteenth century/Enlightenment to late nineteenth century: God kicked out of the center, and human thought (rationality) posited as the center and cause of all things.
+
+
+3. Late nineteenth century-1966: rationality kicked out of the center, and the unconscious, or irrationality, or desire, posited as the center and cause of all things.
+
+
+4. 1966: Derrida writes "Structure, Sign, and Play" and deconstructs the idea of a center.
+
+
+
+Structuralism made it possible to see philosophical systems as all insisting on a center, though a different kind of center; the event or rupture Derrida talks about is the moment when it was possible to see for the first time that the center was a construct, rather than something that was simply true or there. The assumption that the center (God, rationality) is the basis or origin for all things in the system makes the center irreplaceable and special, and gives the center what Derrida calls "central presence" or "full presence," i.e. something never defined in relation to other things, by negative value. 
+
+Then he names the idea of a center as a "transcendental signified"--in semiotic terms, the ultimate source of meaning, which cannot be represented (or substituted) by any adequate signifier. Again, the idea of God is probably the best example of a transcendental sfd. (Note: this is also sometimes called a "transcendental signifier." Don't worry about this). God can't be represented (in some religions, there is no speakable or writable name for God) by any signifier, yet God is the thing that all signifiers in a system ultimately refer to (because God created the whole system). 
+
+
+Then Derrida starts (p. 85a) to wonder about how we can think and talk about systems and centers, without making a new system with a center. He mentions here Nietzsche, Freud, and Heidegger as all trying to do this, and failing to some extent because they all posited their own new systems (with centers). In other words, he says, you can't talk about any system without using the terms of that system: "We have no language--no syntax and no lexicon--which is foreign" to a system; "we can pronounce not a single destructive proposition which has not already had to slip into the form, the logic, and the implicit postulations of precisely what it seeks to contest." (85a)
+
+
+His example is to think about the concept of "sign"--as soon as you try to say that all signs are equal, that there is no transcendental signified that holds any semiotic system together, that signifying systems have no centers, and that therefore all signs have infinite play, or infinite ranges of meaning, you have to say that the only way you can even talk about signs is by using the word "sign", and assuming it has some fixed meaning. And then you're back in the system you're trying to "deconstruct."
+
+
+On p. 85b he talks a lot about ways you might get rid of, or explode, the sfr/sfd relation, i.e. the sign. Don't worry about this. 
+
+
+On p. 86 he switches gears a little, and talks about ethnology as an example of a decentering system. Ethnology (or anthropology) began as a way for Western European societies to proclaim themselves as the "centers" of civilization--to compare all other cultures to what Western Europe had accomplished. That's called "ethnocentrism" (to assume your culture is the measure or standard of all other cultures). But then ethnologists started seeing other cultures as autonomous, as existing on their own terms, and not necessarily in relation to Western European culture as the "center." They started to see relative value of each culture, not its relational value. This moment is the equivalent, in ethnology, to the "rupture" Derrida talks about in philosophy.
+
+
+Mostly Derrida uses this introduction of ethnology as a way to get to his main topic, which is Claude Levi-Strauss' structural view of the opposition between nature and culture. Remember, Levi-Strauss as a structuralist saw the basic structures of myth (and hence of all aspects of culture) as binary oppositions, pairs of ideas that gave each other value: light/dark (light has value or meaning because it's not darkness, and vice versa), male/female, culture/nature, etc. In looking at the nature/culture dichotomy, Levi-Strauss defines "natural" as that which is universal, and "cultural" as that which is dictated by the norms of a particular social organization. The rule of binary opposites is that they have to be opposites, so nature/culture, or universal/specific, have to always be absolutely separate.
+
+
+And here Levi-Strauss discovers what Derrida calls a "scandal"--an element of social organization that belongs to BOTH categories. The prohibition against incest is universal--every culture has one. But, it's also specific--every culture works out the laws of incest prohibition in its own way. So how can something be both universal and particular, both nature and culture?
+
+
+As I said in the last lecture, this is the heart of deconstruction. In a nutshell, deconstruction looks for binary pairs of oppositions--things that are supposed to stay neatly on their own side of a slash. Then they look for places, or examples, where something disrupts that neat slash--something that fits on BOTH sides of the slash, or an opposition where there's one thing on one side and more than one thing on another side (or a blank, something without an opposition).
+
+
+These things are good, according to deconstructionists, because they deconstruct a structure. If the stability of a structure depends on these binary oppositions, if you shake those oppositions and make them unstable, you shake up the whole structure. Or, in Derrida's terms, you put the elements into "play."
+
+
+Once you deconstruct a system by pointing out its inconsistencies, by showing where there is play in the system, Derrida says you have two choices. One is that you can throw out the whole structure as no good. Usually then you try to build another structure with no inconsistencies, no play. But of course, according to Derrida, that's impossible--that's just like substituting one center for another and not seeing that the center (or transcendental signified) is just a concept, which has "play" like any other, and not a fixed and stable "truth."
+
+
+The other option, which is Levi-Strauss's choice, is to keep using the structure, but to recognize it's flawed. In Derrida's terms, this means to stop attributing "truth value" to a structure or system, but rather to see that system as a system, as a construct, as something built around a central idea that holds the whole thing in place, even though that central idea (like the idea of binary opposites) is flawed or even an illusion. 
+
+
+Derrida and Levi-Strauss call this latter method "bricolage," and the person that does it a "bricoleur." This is somebody who doesn't care about the purity or stability of the system s/he uses, but rather uses what's there to get a particular job done. In philosophical terms, I might want to talk about a belief system, so I refer to God because it's a useful illustration of something that a lot of people believe in; I don't assume that "god" refers to an actual being, or even to a coherent system of beliefs that situate "god" at the center and that then provide a stable code of interpretation or behavior. 
+
+
+You might also think of tinker toys. Even though I may not have a complete set, and some of the parts are broken or don't fit together any more, I don't throw the whole set out and buy a new one (or a set of Legos); I keep playing with the tinker toys, and I can even incorporate things that aren't from the original tinker toy set (such as legos, or alphabet blocks, or soup cans) to make what I want to make. That is bricolage.
+
+
+Bricolage doesn't worry about the coherence of the words or ideas it uses. For example, you are a bricoleur if you talk about penis envy or the oedipus complex and you don't know anything about psychoanalysis; you use the terms without having to acknowledge that the whole system of thought that produced these terms and ideas, i.e. Freudian psychoanalysis, is valid and "true." In fact, you don't care if psychoanalysis is true or not (since at heart you don't really believe in "truth" as an absolute, but only as something that emerges from a coherent system as a kind of illusion) as long as the terms and ideas are useful to you.
+
+
+Derrida contrasts the bricoleur with the engineer. The engineer designs buildings which have to be stable and have little or no play; the engineer has to create stable systems or nothing at all. He talks about the engineer as the person who sees himself as the center of his own discourse, the origin of his own language. This guy thinks s/he speaks language, s/he originates language, from her/his own unique existence. The liberal humanist is usually an engineer in this respect.
+
+
+Bricolage is mythopoetic, not rational; it's more like play than like system. 
+
+
+The idea of bricolage produces a new way to talk about, and think about, systems without falling into trap of building a new system out of the ruins of an old one (88b). It provides a way to think without establishing a new center, a subject, a privileged reference, an origin.
+
+
+Derrida reads Levi-Strauss' discussion of myth in The Raw and the Cooked as a kind of bricolage on p. 89. (Don't' worry about this part).
+
+
+On p. 91 Derrida starts talking about the idea of "totalization". Totalization is desire to have a system, a theory, a philosophy, that explains EVERYTHING. The Puritans thought they had totalizing system--God is at the center, is the source and origin of everything, and reference to God explains everything that happens. Derrida says that totalization is impossible: no philosophy or system explains absolutely everything. (You might recall the old sci-fi cliche "there are some things man was not meant to know"). 
+
+
+There are two ways in which totalization is impossible: there might be too much to say, too many things to account for; or (Derrida's explanation) there might be too much play in the system--elements can't be fixed and measured and accounted for
+
+
+Think again about the kindergarten class. Totalization would be taking attendance; you can't do it if there are a million kids, even if they're all sitting at their desks. You also can't do it if there are 14 kids all running around all over the place. 
+
+
+When a system lacks a center, play becomes infinite; when a system has a center, play is limited or eliminated. All systems fall on a continuum between the two.
+
+
+On p. 91a&b, Derrida talks about the idea of supplementarity of the center. Don't worry about this part. We'll settle for understanding the basic ideas about center and play. 
+
+
+The next important thing in this essay is the discussion of "play" on 93. Stability--fixity caused by center--is what Derrida calls "presence." Something is fully present when it's stable and fixed, not provisional and mobile. Play is the disruption of presence.
+
+
+There can be two attitudes toward the idea of play as disruption of system/structure: nostalgia and disapproval or approval. You can be nostalgic for fixed systems, and long for a return to simple beliefs (say, in God), and can mourn the loss of fixity of meaning. Or you can play along, rejoice in multiplicity and affirm the provisional nature of all meaning. This latter attitude doesn't look for full presence, which would be rest and stability, but revels in flux, in impermanence, in play. Think of the kindergarten teacher who either weeps in frustration because her kids won't behave or who gets down on the floor and starts playing with them. Obviously, Derrida thinks enjoying play is better (and there are political ideas attached to this; they will come up later on). 
+
+
+It's okay to hate these ideas (as long as you understand them). Many people lament the decline of the humanist model, and the rise of poststructuralism, because poststructuralism throws out ideas of God, truth, self, and meaning and replaces them with relativism, ambiguity, and multiplicity. According to some people, this is EXACTLY what's WRONG with the world today. If only we could return to the old-fashioned values of humanism, and believe in absolute truth, fixed meaning, and permanence, everything would be OK--or at least a lot better than it is now. 
+
+
+Whatever your belief on this topic, the important thing is to understand what the poststructuralists are saying, and why they say that. Whether you ultimately want to agree with them or disagree with them is up to you.
+
+
+
+--------------------------------------------------------------------------------
+
+All materials on this site are written by, and remain the property of, Dr. Mary Klages, Associate Professor of English, University of Colorado, Boulder. You are welcome to use any materials on this site, or link this site to your own page, with proper citation and attribution. For information on citing electronic sources, click here
+
+
+
+--------------------------------------------------------------------------------
+Last revision: September 24, 1997
+For comments, send mail to Mary Klages
+Return to English 2010 Home Page 

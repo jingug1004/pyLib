@@ -1,0 +1,86 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">류시화님의 인간으로 태어난 슬픔.</font>
+&nbsp;
+&nbsp;
+<font face="가을체">넌 알겠지</font>
+<font face="가을체">바다 게가 그 딱딱한 껍질속에 </font>
+<font face="가을체">감춰놓은 고독을</font>
+<font face="가을체">모래 사장에 흰장갑을 벗어놓은 </font>
+<font face="가을체">갈매기들의 무한 허무를</font>
+<font face="가을체">넌 알겠지</font>
+<font face="가을체">시간이 시계의 태엽을 녹슬게 하고</font>
+<font face="가을체">꿈이 인간의 머리카락을 희게 만든다는 것을</font>
+&nbsp;
+<font face="가을체">내 마음은 바다와도 같이</font>
+<font face="가을체">그렇게 쉴새없이 너에게로 갔다가</font>
+<font face="가을체">다시 뒷걸음친다</font>
+<font face="가을체">생의 두려움을 입에 문 한마리 바다 게처럼</font>
+&nbsp;
+<font face="가을체">나는 너를 내게 달라고</font>
+<font face="가을체">물속의 물풀처럼 졸라댄다</font>
+<font face="가을체">내 마음은 왜</font>
+<font face="가을체">일요일 오후에</font>
+<font face="가을체">모래 사장에서 생을 관찰하고 있는 물새처럼</font>
+<font face="가을체">그렇게 먼발치에서 너를 바라보지 못할까</font>
+&nbsp;
+<font face="가을체">넌 알겠지</font>
+<font face="가을체">인간으로 태어난 슬픔을</font>
+<font face="가을체">인간으로 태어나 인간을 사랑하는</font>
+<font face="가을체">무한 고독을</font>
+<font face="가을체">넌 알겠지</font>
+<font face="가을체">그냥 계속 사는 것보다</font>
+<font face="가을체">더 중요한게 있다는 것을</font>
+<font face="가을체">그것만이 유일한 진실이라는 것을</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="552.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="554.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

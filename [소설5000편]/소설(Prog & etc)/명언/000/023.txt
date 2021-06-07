@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 000-099</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/bgrnd47.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre>&nbsp;
+<font face="돋움체">빳빳한 만원짜리 몇장하고</font>
+<font face="돋움체">주민증, 비시카드하고</font>
+<font face="돋움체">당신의 사진이 합숙하며 놀던</font>
+<font face="돋움체">내 지갑을 잃어 버렸읍니다</font>
+&nbsp;
+<font face="돋움체">처음에는 무척이나 속상했지만</font>
+<font face="돋움체">지금은</font>
+<font face="돋움체">모든게 신기하기만 합니다</font>
+<font face="돋움체">어떤 사람에게 가서 기쁨을 주기도 하고</font>
+<font face="돋움체">세상 이곳 저곳을 기웃거리기도 하고</font>
+<font face="돋움체">앞으로의 지갑의 인생과 모험을 생각하면</font>
+<font face="돋움체">모든게 신기하기만 합니다</font>
+&nbsp;
+<font face="돋움체">그속에 담겨있는 신의 뜻을 생각하게 합니다</font>
+&nbsp;
+<font face="돋움체">언젠가</font>
+<font face="돋움체">세상에 지쳐 내 품안에 돌아올 때</font>
+<font face="돋움체">실망해서 돌아서지 않게 </font>
+<font face="돋움체">주머니를 비워 두어야 겠읍니다</font>
+<font face="돋움체">밤새도록</font>
+<font face="돋움체">지난 얘기를 들을 수 있게 </font>
+<font face="돋움체">마음을 바워 두어야 겠읍니다</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="022.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../000.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note"></a></td>
+<td align="left"><p><a href="024.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

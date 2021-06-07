@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 003</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><div align="left"><font face="가을체">류시화의 시</font></div>
+<div align="left">&nbsp;</div>
+<div align="left"><font face="가을체">나무 뒤에 숨는 것과 안개 속에 숨는 것은 다르다</font></div>
+<div align="left"><font face="가을체">나무 뒤에선</font></div>
+<div align="left"><font face="가을체">인기척과 함께 곧 들키고 말지만</font></div>
+<div align="left"><font face="가을체">안개속에서는</font></div>
+<div align="left"><font face="가을체">가까이 있으나 그 가까움은 안개에 가려지고</font></div>
+<div align="left"><font face="가을체">멀리 있어도 그 거리는 안개에 채워진다</font></div>
+<div align="left"><font face="가을체">산다는 것은 그러한 것.</font></div>
+<div align="left"><font face="가을체">때로 우리는 서로 가까이 있음을 견디지 못하고</font></div>
+<div align="left"><font face="가을체">때로는 멀어져 감을 두려워 한다.</font></div>
+<div align="left"><font face="가을체">안개 속에 숨는 것은 다르다.</font></div>
+<div align="left"><font face="가을체">나무 뒤에선 누구나 고독하고, 그 고독을 들킬까 굳이 염려하지만</font></div>
+<div align="left"><font face="가을체">안개 속에선</font></div>
+<div align="left"><font face="가을체">삶에서 혼자 인 것도, 여럿인 것도 없다.</font></div>
+<div align="left"><font face="가을체">그러나 안개는 언제나 우리 곁에 머무를 수 없는 것.</font></div>
+<div align="left"><font face="가을체">시간이 가면</font></div>
+<div align="left"><font face="가을체">안개는 걷히고 우리는 나무들처럼</font></div>
+<div align="left"><font face="가을체">적당한 간격으로 서서</font></div>
+<div align="left"><font face="가을체">서로를 바라본다.</font></div>
+<div align="left"><font face="가을체">산다는 것은 결국 그러한 것.</font></div>
+<div align="left"><font face="가을체">어디서 와서 어디로 가는지도 모르게</font></div>
+<div align="left"><font face="가을체">시작도 끝도 알지 못하면서</font></div>
+<div align="left"><font face="가을체">안개 뒤에 나타났다가 안개 속에 숨는 것.</font></div>
+<div align="left"><font face="가을체">나무 뒤에 숨는 것과 안개 속에 숨는 것은 다르다.</font></div></pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="128.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="132.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

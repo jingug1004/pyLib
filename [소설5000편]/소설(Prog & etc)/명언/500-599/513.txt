@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 500-599</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/wall.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">나의 앞에는 한 남자가 서있다</font>
+<font face="가을체">그는 아래 청바지를 입고 위에는 청티를 입었다</font>
+<font face="가을체">온통 청 일색이다</font>
+<font face="가을체">그럼 그의 속옷도 청 속옷일까?</font>
+<font face="가을체">아니 혹시 안입었을지도 모르지</font>
+<font face="가을체">문득 고개를 들어 그의 얼굴을 보았다</font>
+<font face="가을체">그는 막 하품을 끝내는 중이었다</font>
+<font face="가을체">그런다가 내가 바라보자 웬지 모르게 시선을 덤벙대기 </font>
+<font face="가을체">시작했다</font>
+<font face="가을체">그래 아마도 그는 속옷을 안입었다는게 들킬까봐 그러는걸꺼야</font>
+<font face="가을체">속으론 이렇게 생각하고 있겠지</font>
+<font face="가을체">&quot;이 바보자슥들아 나 속옷 안입은거 아무도 모르지?&quot;</font>
+<font face="가을체">하긴 나도 가끔은 속옷을 안입고 거리를 나서고 싶기도 하다</font>
+<font face="가을체">갑자기 그의 허리춤에서 삐리릭 소리가 났다</font>
+<font face="가을체">그는 항급히, 마치 핸드폰이 없는 대부분의 승객들의 자존심에</font>
+<font face="가을체">상처를 주지않으려는듯이 한쪽으로가서는 통화를 시작한다</font>
+<font face="가을체">그러나 멀리 떨어져있는 나에게도 그의 소리는 똑똑히 들린다</font>
+<font face="가을체">내 옆의 남자의 손등에 나있는 문신과도 같이 </font>
+<font face="가을체">그의 핸드폰은</font>
+<font face="가을체">그의 허리춤에 새겨져있는 문신임에 틀림없다고 </font>
+<font face="가을체">나는 생각한다</font>
+&nbsp;
+&nbsp;
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="512.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../500-599.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 500-599"></a></td>
+<td align="left"><p><a href="514.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to 
+Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

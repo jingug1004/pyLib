@@ -1,0 +1,97 @@
+﻿해킹정보..
+예전에 있었던 해킹유형과, 예전의 버그들을 살펴보자.
+물론 언론매체의 성 격상 현재 가장 심각한 홀(보안구멍)들은 싣지 않았다. 또한
+분량상 수많은 버그들 중 극히 일부 분만을 다루었다.
+/usr/local/bin/sysinfo version 1.0.0 의 버그 유닉스 시스템에는 IFS(Internal
+File Seperator)라는 환경 변수가 있다.
+이것이 shell 변수로 선언할 때 여러 문제를 일으키는 경우가 많다. IFS라는
+환경변수를 내부 유저들이 마음대로 조작해 관리 자의 권한을 얻어낼 수 있는데
+이러한 유형의 해킹으로 는 loadmodule 해킹, expreserve 해킹, rdist 해킹 등이
+있다.
+이는 단순히 쉘 변수 중 IFS를 /로 선 언하고 (쉘마다 다르겠지만 예를 들어 csh
+이라면 % setenv IFS /) 몇 가지 트릭을 통해 일반유저들이 쉽게 root의 권한을
+가 질 수 있게 된 다.
+해결책 : sysinfo 버전 2.0.6 을 구해서 새로 인스톨한다.
+rdist 버그
+SunOS 4.1.2와 그 이전의 OS, A/UX 2.0.1, SCO 3.2v4.2, BSD NET/2 계열 Systems
+또는 BSD rdist 를 지원하는 대부분의 시스템에 서 /usr/ucb/rdist나
+/usr/bin/rdist는 보안에 문제가 되는 버그를 가지 고 있다.
+rdist는 popen(3) 이라는 내부 시스템 함수(C function)을 이용해 해킹을 하게
+된다. 이때 해킹을 위 해 이용하는 sendmail 이란 프로그램은 root 의 권한을
+갖고 실행이 되게 된다. 이 역시 setuid 때 문인데 이를 악용하여 어떤 유저라도
+root 가 될 수 있다 .
+해결책 : SunOs의 Patch-ID# 100383-06 의 패치를 가져와서 설치하면 해결이
+된다. 또는 rdist의 기 능을 없애기 위해 setuid bi t를 제거하거나 퍼미션을
+0으로 해버린다.
+autoreply 버그
+/usr/local/bin/autoreply는 elm 패키지의 설치에서 부수적으로 따라나오는
+프로그램이다. elm의 버그 는 모든 OS에서 공통적으로 지적되는 문제점이다.
+따라서 이 버그는 대다수의 해커들에게 대단한 사랑(?)을 받았던 버그이다. 이
+버그는 또한 OS에 관계 없이 Elm Mail System을 쓰기만 하면 보안 의 허점을
+가지게 된다는 데에서 주목할 만하다. 역시 setuid의 수행 중 인터럽트를 걸 어
+root의 권한으로 프로그램이 작동하는 상태에서 자신이 원하는 작업을
+수행하도록 조작한다. 이를 이용 해 원하는 곳에 임의의 파일을 기록할 수 있다.
+이를 이용해 root 디렉토리에 .rhosts에 조작을 하 는 경우가 대부분이다.
+해결책 : 현재로서의 가장 좋은 해결책은 아예 autoreply의 퍼미션을 0으로 주어
+사용을 못하게 해 버리는 것이다. 하지만 퍼미션을 666으로 두는 것도 안전하다.
+binmail(/usr/bin/mail)의 버그
+이는 썬 OS 4.1.x의 버전에서 적용되는 버그이다. 이는 파일 시스템의 어느
+곳에라도 임의의 파일 을 생성시킬 수 있어서 일반 유저들이 root가 될 수 있다.
+이 버그는 /var/spool/mail의 디렉토리 퍼 미션이 rwxrwxrwt(혹은 rwxrwxr-x)로
+모든 유저에게 쓰기 권한이 허가돼있기 때문에 야기됐던 버 그이다.
+해결책 :
+1. vendor 들에게서 patch 를 구한다.
+2. 가장 이상적으로 해결을 하는 것은 mail spool 디렉토리의 쓰기 권한을 아예
+없애버 리는 것이 나, 이 쓰기 권한이 없다면 elm이나 /bin/mail, /usr/ucb/Mail
+을 사용할 수 없게 된다. passwd(/usr/bin/passwd)의 버그 /bin/passwd -F의
+버그라고도 하는 이것은 SunOS 4.1.x의 기종에서 해당되는 버그이다.
+어떠한 일 반 유저라도 위의 버그를 이 용해, 임의의 파일(물론 공격을 목적으로
+하므로 / 디렉토리의 .rhosts 를 생성시키는 것이다.)을 생 성해 이는 파일이
+생성되기를 원하는 디렉토리에 symbolic link를 걸 어놓고 자신이 만들고 싶은
+파일을 이 곳으로 링크시켜버 리는 방법을 이용하는 것이다.
+해결책: 1. 벤더들에게서 패치(버그 수정 프로그램)를 구하도록 한다.
+2. passwd의 실행파일에서 -F 옵션을 삭제해 간단히 패치할 수 있다.
+SunOS 4.X.X /usr/lib/sendmail의 버그
+흔히 SMTP(Simple Mail Transfer Protocol)의 버그라고 불리기도 하는 것이다.
+전자우편 시스템은 외부망과의 연결에 필수적인 유틸리티로서 BSD 유닉스에는
+우편의 배달과 수신을 담당하는 sendmail 프로그램이 있는데 이 프 로그램의 구
+버전에는 보안상의 문제를 가지고 있다. 이것은 자신의 호스트의 25번 포트를
+열어 보아 버그가 있는지 확인을 해 보아야 한다. 현재 BSD 8.6.4 버전은 이
+문제점이 있는 것으로 드러났다. 이미 Worm 에서 심각한 보안문제를 일으킨 바
+있으 므로 최신의 버전으로 바꾸어 주기 바란다.
+해결책 : sendmail 한글 버전을 인스톨하면 된다. sendmail 한글 버전은
+{{{{ftp://cair-archive.kaist.ac.kr/pub/hangul/mail }} }}에서 구할 수 있다.
+1) telnet 25를 해서 자신의 호스트에 설치된 sendmail 의 버전을 확인한다.
+2) /etc/aliases나 /usr/ucb/aliases에서 'decode'를 제거한다.
+% cat /etc/aliases decode: "|/usr/bin/uudecode" 위와 같이 되어 있을 때는 위
+문장을 주석 처리해준다.
+올바른 예 # cat /etc/aliases ... #decode: "|/usr/bin/uudecode"
+3) 프로그램에 메시지를 보내는 경우 쉘 명령을 보내는 방법을 사용하지
+않도록한다.
+4) sendmail.cf 에서 'wizard' 패스워드를 사용하지 않는다.
+5) sendmail 에서 'debug' 명령을 이용하지 않는다,
+다음을 참조하도록 한다.
+baikdu % telnet localhost 25 Connected to localhost. Escape character is
+'^]'. 220-baikdu.kaist.ac.kr Sendmail 8.6.9H1/Baikdu_KAIST_CSH ready at
+Thu, 16 Mar 1995 00:58:23 +0900 220 ESMTP spoken here debug 500 Command
+unrecognized wiz 500 Command unrecognized kill 500 Command unrecognized
+quit 221 baikdu.kaist.ac.kr closing connection Connection closed by foreign
+host.
+만일 'debug'에 '200 Debug set'으로 응답한다면 새 버전으로 교체하기 바란다.
+tftp 버그 tftp(Trivial ftp)는 디스크 없는 워크스테이션들의 네트워크 부트
+기능으로 유저 데이터그램 방식의 접속 없는 프로토콜을 이용한 다. 이는 단순한
+프로토콜이므로 보안상의 허점을 가지고 있다. tftp 설치를 잘못해놓았을 경우
+외 부의 해커가 tftp를 이용해 /etc/passwd 파일을 가져갈 수가 있다. 자 신의
+호스트에 설치된 tftp가 안전한지를 get /etc/passwd를 이용해 확인해보기
+바란다.
+[baram-sakai 193 ] tftp baram.kaist.ac.kr tftp> status Connected to
+baram.kaist.ac.kr. Mode: netascii Verbose: off Tracing: off Rexmt-interval:
+5 seconds, Max-timeout: 25 seconds tftp> get /etc/passwd Error code 1: File
+not found tftp>
+위와 같이 에러메시지가 뜨지 않는다면 설치가 잘못된 것이니 수정하기 바란다.
+만일 쓰지 않는 다면 아예 퍼미션을 0으로 두어 작동을 못하게 하든가
+/etc/inetd.conf 를 다음과 같이 둔다.
+tftp dgram udp wait nobody /usr/etc/in.tftpd in.tftpd -s /tftpboot
+TCP_WRAPPER를 사용하는 것도 많은 도움이 된다.
+               다음페이지로..
+              

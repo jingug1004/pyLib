@@ -1,0 +1,77 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 151</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">오랜만에 조용한 시간이다</font>
+<font face="가을체">주위가 조용하니 조그만 소리도 크게 들린다</font>
+<font face="가을체">내 영혼의 한숨소리, 신음 소리까지도.</font>
+&nbsp;
+<font face="가을체">내 앞 저 편에 일단의 사람들이 초조하게 서성인다.</font>
+<font face="가을체">자신을 써 줄 오늘의 주인을 만나기 위해 두리번 거린다.</font>
+<font face="가을체">그중의 어떤 이는 느긋하기도 하다.</font>
+<font face="가을체">아마도 어제 또는 그제 좋은 주인을 만나 </font>
+<font face="가을체">오늘까지 또는 당분간의 식량 걱정은 안해도 되는 이인듯.</font>
+<font face="가을체">그 옆의 사람은 시종 안절부절이다.</font>
+<font face="가을체">며칠은 굶은 모양이다.</font>
+<font face="가을체">허기진 눈으로 지나는 이에게 자비를 구한다.</font>
+<font face="가을체">비굴한 웃음을 짓고 공손하게 말을 건넨다.</font>
+<font face="가을체">이렇게 한사람씩 두사람씩 오늘의 주인을 만나, 오늘의 종을 만나</font>
+<font face="가을체">자리를 뜨면</font>
+<font face="가을체">어디선가 한 무더기의 노예들을 다시 부려놓고</font>
+<font face="가을체">이들은 또다시 주인을 찾는다.</font>
+&nbsp;
+<font face="가을체">중앙에는 푯말이 하나 기울려 박혀있고 그곳엔 오래된 글씨로</font>
+<font face="가을체">'노예시장-약속장소' 라고 적혀있다.</font>
+&nbsp;
+<font face="가을체">우리 모두는 자신의 또는 다른이의 또는 어떤 사물이나 정신의 노예다.</font>
+<font face="가을체">블루 칼라는 자신의 몸을 팔고</font>
+<font face="가을체">화이트 칼라는 자신의 정신을 판다. 모두가 매춘부.</font>
+&nbsp;</td>
+<td width="234"><font face="가을체">&nbsp;</font></pre></td>
+</tr></table>
+<pre><font face="가을체">&nbsp; </font></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="150.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="152.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

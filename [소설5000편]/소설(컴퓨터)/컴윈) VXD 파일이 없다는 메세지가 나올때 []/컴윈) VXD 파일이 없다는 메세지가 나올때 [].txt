@@ -1,0 +1,14 @@
+﻿
+『윈도우즈-윈도우 98 활용과 팁 (go WIN)』 4478번
+ 제  목:[TIPS] VXD 파일이 없다는 메세지가 나올때                    
+ 올린이:x배트맨x(손무홍  ) 98/11/13 03:47  읽음:531  추천:  1 관련자료 없음
+ -----------------------------------------------------------------------------
+
+VxD라는 파일이 없다는 에러메세지 나올때...
+ 내컴퓨터\HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD
+ 이것은 모든 VxD 이 담아져있는데 윈95 시작시에 에러메세지에서 VxD 라는 
+ 파일이 없다고 나온다면 여기서 그 파일을 찾아서 지워주시면 됩니다.
+
+Phrozen Crew 98 Oscar Team - NiCK: NetSpider [cRACKER]*UCF
+     Θ-=DaRK-KNiGhT=- Θ http://www.batman.co.kr
+           Email to : batman@batman.co.kr

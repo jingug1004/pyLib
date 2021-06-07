@@ -1,0 +1,93 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 400-499</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/pink14.gif" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="234"><p>&nbsp;</td>
+<td width="234"><pre><font face="가을체">최영미 님의 시</font>
+&nbsp;
+<font face="가을체">-어떤 게릴라</font>
+&nbsp;
+<font face="가을체">지금 빛나는 이마에</font>
+<font face="가을체">주름 접히지 않아도</font>
+<font face="가을체">소리없이 기척없이 </font>
+<font face="가을체">네 곁에 누워있다</font>
+&nbsp;
+<font face="가을체">지금 </font>
+<font face="가을체">졸리운 눈까플에</font>
+<font face="가을체">그림자 드리우지 않아도</font>
+<font face="가을체">생각보다 빨리 네속에 </font>
+<font face="가을체">아예 둥지를 틀고 앉아있다</font>
+&nbsp;
+<font face="가을체">오지마, 제발</font>
+<font face="가을체">난 아직 준비가 안됐어</font>
+<font face="가을체">싸울 준비가 안됐어</font>
+<font face="가을체">아무리 터지게 짖어도</font>
+<font face="가을체">녀석은 목구멍 밑부터 치고 올라와</font>
+<font face="가을체">꿀꺽 널 삼켜 버리지</font>
+&nbsp;
+<font face="가을체">낼름거리는 혀로</font>
+<font face="가을체">네 간을 파먹고</font>
+<font face="가을체">네 피를 말리고</font>
+<font face="가을체">천천히 문득, 뼈나 살이 타들어가</font>
+<font face="가을체">삼 가르듯</font>
+<font face="가을체">껍질뿐인 너를 말아 먹으리라</font>
+&nbsp;
+<font face="가을체">네 몸안엔 이미 다른 피가 고여</font>
+<font face="가을체">녀석과 간음할 생각으로</font>
+<font face="가을체">뱃속이 부글부글 끓어 오를때</font>
+&nbsp;
+<font face="가을체">칼이 칼집에 익숙해지듯</font>
+<font face="가을체">자기안의 욕망에 익숙해지듯</font>
+<font face="가을체">네안의 어둠에 너 또한 익숙해 지리라</font>
+&nbsp;
+<font face="가을체">내 아이 서른 둘</font>
+<font face="가을체">인생에서 무서운 것은 다 그렇게 오더라</font>
+<font face="가을체">들킬세라 미리와, 기다리고 있더라</font>
+&nbsp;</pre></td>
+<td width="234"><p>&nbsp;</td>
+</tr></table>
+<p>&nbsp; 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="405.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../400-499.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 400-499"></a></td>
+<td align="left"><p><a href="407.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

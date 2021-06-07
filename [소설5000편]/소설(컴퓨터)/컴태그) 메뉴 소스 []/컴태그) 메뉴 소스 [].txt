@@ -1,0 +1,283 @@
+﻿<table border="0" cellpadding="0" cellspacing="0" width="151">
+
+            <tr>
+
+                <td width="151" height="120"><dl>
+
+                    <dd>&nbsp;
+
+                    <div align="left"><table border="0" cellpadding="3" cellspacing="1"
+
+                     width="107" bgcolor="black">
+
+                            <tr>
+
+                                <td align="center" bgcolor="white" onmouseover='this.style.backgroundColor="lime"'
+
+                                 onmouseout='this.style.backgroundColor="white"' width="99"><p><a href="http://">게시판</a></td>
+
+                        </tr>
+
+                         <tr>
+
+                                <td align="center" bgcolor="white" onmouseover='this.style.backgroundColor="lime"'
+
+                                 onmouseout='this.style.backgroundColor="white"' width="99"><p><a href="http://">메뉴</a></td>
+
+                        </tr>
+
+                
+
+                        <tr>
+
+                            <td align="center" bgcolor="white" onmouseover='this.style.backgroundColor="yellow"'
+
+                             onmouseout='this.style.backgroundColor="white"' width="99"><p><a href="http://">방명록</a></td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td align="center" bgcolor="white" onmouseover='this.style.backgroundColor="pink"'
+
+                             onmouseout='this.style.backgroundColor="white"' width="99"><p><a href="http://">게시판</a></td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td align="center" bgcolor="white" onmouseover='this.style.backgroundColor="red"'
+
+                             onmouseout='this.style.backgroundColor="white"' height="22" width="99"><p><a href="http://">추천사이트</a></td>
+
+                        </tr>
+
+                    </table></div>
+
+ 
+
+                    </dl></td>
+
+        </tr>
+
+    </table>
+
+마우스를 대면 새로운 창이 뜨는 스크립..
+
+<BODY BGCOLOR="white" TEXT="black" LINK="blue" VLINK="purple" ALINK="red">
+
+<script language="Javascript">
+
+var popup_window = null;
+
+  function popup(status,url) {
+
+     if(status != 0) {
+
+        if(popup != null) popup.focus();
+
+        else {
+
+           var popup = open(url, "Popup", "width=200,height=100");
+
+           popup_window = popup;
+
+        }
+
+     } else {
+
+        if(popup_window != null) popup_window.close();
+
+     }
+
+  }
+
+</script>
+
+<center>
+
+ 
+
+<b><a href="111.html" onmouseover="popup(1,'http://my.netian.com/~isgone/home.htm')" onmouseout="popup(0)"><FONT SIZE="2">이곳에 마우스를 올려보세요!!</FONT></a>
+
+</b><center>
+
+
+ 
+페이지 로딩시 새로운창 띄우기..
+
+<script> self.name="FCII";
+    window.open('웹 주소','Remote','width=100,height=100'); </script> 
+
+
+body안에 삽입할것!
+
+필더 효과...^^
+
+동그랗게 만들어 줘염..^^
+<img src="그림주소"
+             border="0" style="filter:alpha(opacity=100, 
+            style=2, finishopacity=0)">
+
+부드러운 이미지!
+<img src="효리.jpg"
+             border="0" style="filter:blur(direction=135,strength=100)">
+
+흑백사진으로..
+
+<img src="효리.jpg"
+             border="0" style="filter:gray()">
+
+
+단골 손님 만글기 스크립!
+
+<body>에 붙이세염..
+
+<!----Set site as homepage script---------- 
+
+By Ryan Gravener (ryangravener@hotmail.com) 
+Permission granted to Dynamicdrive.com 
+to include script in it’s archive 
+For full source code, installation instructions, 
+100’s more DHTML scripts, visit 
+
+http://dynamicdrive.com 
+
+-------------------------------------------> 
+
+<a class="chlnk" style="cursor:hand" HREF 
+
+onClick="this.style.behavior=’url(#default#homepage 
+
+)’;this.setHomePage(’http://www.hihome.com’);"> 
+http://www.hihome.com 를 홈페이지로 지정하려면, 
+이곳을 클릭하세요! 
+
+
+필터 효과...
+
+<html>
+<head><title></title>
+<style type="text/css">
+#pos1{position:absolute; top:10px; left:320px; width:450px; height:200px; font-size:50px; color:green;}
+#pos2{position:absolute; top:80px; left:380px; width:450px; height:200px; font-size:35px; color:blue;}
+</style>
+</head>
+<body background="/Background/Figure/Square/Nature/Nature0009.gif">
+<p id="pos1">DHTML EXAMPLE</p>
+<p id="pos2">텍스트 필터 적용 예</p>
+<!--이하는 ***** Internet Explorer 5.0  *****에서만 테스트 하였습니다.-->
+<!--버젼이 낮거나 다른 종류의 브라우저에서는 원하는 효과가 나오지 않을 수 있습니다.-->
+<br><br><br><br><br><br><br>
+*Shadow filter의 적용 예
+<!--필터 이름 ="shadow" - 그림자를 만드는 효과, color에서 폰트 색과 그림자 색을 선택, Direction = 빛이 비추는 방향(각도), height = 출력 영역의 높이-->
+<div style="font:'Verdana','Arial',Sams-Serif; color:#99ff99; filter:shadow(color:#336600, Diretion=135); height:50;"><h1>1.HI HOME? HIGH HOPE!</h1></div>
+
+*Glow filter의 적용 예
+<!--필터 이름 ="glow" - 글자 주위에서 빛이 발생하는 효과, color에서 폰트 색과 글로우 될 색을 선택, strenth=glow되는 색의 세기(두께), height = 출력 영역의 높이-->
+<div style="font:'Verdana','Arial',Sams-Serif; color:#99ff99; filter:glow(color:#336600, strength=2); height:50;"><h1>2.HI HOME? HIGH HOPE!</h1></div>
+
+*Chroma filter의 적용 예(아래에는 보이지 않는 글자가 있음. 지정한 색을 제거하는 기능)
+<!--필터 이름 ="chroma" - 원래의 색에서 지정된 색을 제거하는 효과, color에서 폰트 색과 제거할 색을 선택, height = 출력 영역의 높이-->
+<div style="font:'Verdana','Arial',Sams-Serif; color:#99ff99; filter:chroma(color:#99ff99); height:50;"><h1>3.HI HOME? HIGH HOPE!</h1></div>
+
+*DropShadow filter의 적용 예
+<!--필터 이름 ="DropShadow" - 동일한 모양의 그림자를 떨어뜨리는 효과, color에서 폰트 색과 그림자 색을 선택, OffX = 그림자의 X축 상대 좌표, OffY = 그림자의 Y축 상대좌표, height = 출력 영역의 높이-->
+<div style="font:'Verdana','Arial',Sams-Serif; color:#99ff99; filter:DropShadow(color:#336600, OffX=2, OffY=2); height:50;"><h1>4.HI HOME? HIGH HOPE!</h1></div>
+
+*Mask filter의 적용 예
+<!--필터 이름 ="Mask" - 문자열을 정해진 색으로 마스크 레이어로 만드는 효과, color에서 배경색과 마스트색을 선택, height = 출력 영역의 높이-->
+<div style="font:'Verdana','Arial',Sams-Serif; color:red; filter:Mask(color:#ff0000); height:50;"><h1>5.HI HOME? HIGH HOPE!</h1></div>
+</body>
+</html>
+
+타이핑~~
+
+정말 깔끔한 타이핑이구요... 
+어떻게 쓰면 유용할까.. 여하튼 예제보시구.. 
+열분들께서 판단하세요... 
+여기서 유의하시점은.. 
+<SCRIPT language="Java-Script"> 여기있는 - 이걸 빼주셔야한다는 것입니다.. 소스에는 아무문제가 없답니다.. ^^ 
+그럼 행운을... ^.* 
+
+
+<HTML> 
+<HEAD> 
+<TITLE>태그 따라잡기</TITLE> 
+<!-- 여기서부터 복사하여 head ... /head 사이에 넣어줍니다---> 
+<SCRIPT language="Java-Script"> 
+<!-- begin// global variables 
+var max=0; 
+function textlist() 
+{ 
+max=textlist.arguments.length; 
+for (i=0; i<max; i++) 
+this[i]=textlist.arguments[i]; 
+} 
+
+tl=new textlist 
+( 
+"태그 따라잡기 입니다...", 
+"이타이핑두 깔쌈하져.. ^.*", 
+"항상 노력하는 운영자 될께염..", 
+"저희가 답변 못해드린다구 우리 미워하지 마시구요..", 
+"저희 열심히 할테니깐.. 저희미워하지 마세염.. 알았져? ^^", 
+"토깽이 또한 열심히 하는 토깽이 될께여.. ^^;;", 
+"소스보기하실줄 아시져???", 
+"안되시는분은 멜 주시구여.. 알았져??", 
+"회원님들 계시기에 저희두 있으니깐... 저희 항상 응원해주세여..", 
+"우리 회원님들 운영자님들 모두 화이팅이에여.. ^.*" 
+); 
+
+var x=0; pos=0; 
+var l=tl[0].length; 
+
+function textticker(){ 
+document.form1.textfeld.value=tl[x].substring(0,pos)+"_"; 
+if(pos++==l) { 
+pos=0; 
+setTimeout("textticker()",1000); 
+x++; 
+if(x==max) 
+x=0; 
+l=tl[x].length; 
+} else 
+setTimeout("textticker()",50); 
+} 
+// end --> 
+</SCRIPT> 
+<!-- 여기까지가 head 스크립트입니다---> 
+</head> 
+
+<body bgcolor="#306192" text="black" link="blue" vlink="purple" alink="red" onload="textticker()" 
+oncontextmenu="return false" ondragstart="return false" on-selectstart="return false"> 
+
+
+<!-- content begging ----> 
+<!--- body 소스 시작 -------> 
+
+<!--여기서부터 카피하여 body 아래에 넣어 줍니다--> 
+
+<form name="form1" method="get"> 
+<p align="center"> 
+<input type="text" name="textfeld" size="60" style="font-family:궁서; font-size:15px; color:white; background-color:#306192; border-width:medium; border-color:#306192; border-style:solid;"> 
+</p> 
+</form> 
+
+</BODY> 
+</HTML> 
+
+나가는 마지막 인사하기..
+
+<HEAD>
+<script language="JavaScript"> 
+<!-- 
+function Bye() { 
+     alert("\n맨날 널러올꺼쥐??\n널러안오면..\n삐져버릴꼬얌 ^.*"); 
+} 
+// --> 
+</script> 
+</HEAD>
+
+<body onUnload="Bye()" >
+

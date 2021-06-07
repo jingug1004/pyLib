@@ -1,0 +1,79 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>madwind's note 153</title>
+<meta http-equiv="Content-Type" content="text/html; charset=KS_C_5601">
+<meta name="author" content="madwind (미친바람)">
+<meta http-equiv="keywords" content="weblink in madwind's home page (미친바람의 홈 페이지) ">
+<meta name="classification" content="private home page">
+<meta name="GENERATOR" content="Namo WebEditor v2.00">
+</head>
+<body background="../../images/ab128.jpg" bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<!-- Spidersoft WebZIP Ad Banner Insert -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<ilayer id="ad1" visibility="hidden" height="60"></ilayer>
+<nolayer>
+<iframe SRC="http://www.spidersoft.com/ads/bwz468_60.htm" width="100%" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</nolayer>
+</td>
+</tr>
+</table>
+<!-- End of Spidersoft WebZIP Ad Banner Insert-->
+
+
+<p align="center"><img src="../../images/nottitle.gif" align="top" border="0" alt="Madwind's Notes"> </p>
+<pre><div align="right"><hr></div></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="233"><p>&nbsp;</td>
+<td width="235"><pre><font face="가을체">사람이 태어남과 동시에 죽음은 시작된다</font>
+<font face="가을체">그의 일생은 마지막 때</font>
+<font face="가을체">그의 죽음을 예비하기 위해 보낸다.</font>
+<font face="가을체">죽은 이후에 남겨줄 정신적, 물질적 유산을 마련하기 위하여.</font>
+<font face="가을체">만남도 시작과 동시에 이별이 시작된다.</font>
+<font face="가을체">서로 만나서 갖는 즐거움과 행복의 그림자는 이별.</font>
+<font face="가을체">습한 이별이 암처럼 만남속에 번진다.</font>
+<font face="가을체">곧 이별이 온다.</font>
+<font face="가을체">죽음이 그 탄생처럼 어느날 갑자기 오듯이 </font>
+<font face="가을체">만남도 이별도 어느날 갑자기 닥쳐온다.</font>
+<font face="가을체">할 수 있는 건 마음속에 새로이 생긴 무덤을 부여잡고 통곡하는 일뿐.</font>
+<font face="가을체">원래</font>
+<font face="가을체">만남도 이별도, 탄생도 죽음도 인간의 몫은 아니였다.</font>
+<font face="가을체">그건 전능한 신의 영역.</font>
+<font face="가을체">그의 변덕스러움에 모든 것은 찰라가 되고, 갑작스러움이 되었다.</font>
+<font face="가을체">인간이 언제나 신에게 당하고 있을 수는 없는 법.</font>
+<font face="가을체">인간에게는 모든 것을 잊어버리는 망각의 세계가 있다</font>
+<font face="가을체">신의 권력이 미치지 않는 인간의 성역.</font>
+<font face="가을체">이곳에서는 인간이 신이 되며 신은 쓰레기와 함께 버려진다.</font>
+<font face="가을체">이제는 </font>
+<font face="가을체">나도 마음속에 품은 무덤을 지고 이곳을 찾아 떠난다.</font>
+<font face="가을체">죽음도 탄생도, 이별도 만남도 없는 정지 된 곳.</font>
+<font face="가을체">입장료는 기억 몇개와 가슴속의 무덤 몽땅.</font>
+<font face="가을체">그러나 </font>
+<font face="가을체">하나쯤은 남아있어도 좋으리.</font>
+<font face="가을체">가장 초라한 무덤 하나만</font>
+<font face="가을체">보기만 해도 미어져 쳐다 보지도 못한 그 무덤 하나만 남아있었으면.</font></td>
+<td width="234"><font face="가을체">&nbsp;</font></pre></td>
+</tr></table>
+<pre><font face="가을체">&nbsp; </font></pre>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="right"><p><a href="153.htm"><img src="../../images/arro_38.gif" border="0" alt="Previous"></a></td>
+<td align="center"><p><a href="../../100-199.htm"><img src="../../images/home05.gif" border="0" alt="madwind's note 100-199"></a></td>
+<td align="left"><p><a href="155.htm"><img src="../../images/arro_37.gif" width="39" height="38" border="0" alt="Next"></a></td>
+</tr></table>
+<p><hr> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="20"><p>&nbsp;</td>
+<td width="113"><p><a href="index.htm"><img src="../../images/shome.gif" border="0" alt="Back to Home"></a></td>
+<td width="436" align="right"><p><a href="mailto:nobd@samsung.co.kr"><img src="../../images/envelope.gif" border="0" alt="Email"></a></td>
+<td width="118"><p align="right"><font face="Vivaldi"><a href="mailto:nobd@samsung.co.kr">Email to Madwind</a></font></td>
+</tr></table>
+<pre>&nbsp;</pre>
+
+<layer src="http://www.spidersoft.com/ads/bwz468_60.htm" visibility="hidden" id="a1" width="600" onload="moveToAbsolute(ad1.pageX,ad1.pageY); a1.clip.height=60;visibility='show';"></layer>
+</body>
+</html>

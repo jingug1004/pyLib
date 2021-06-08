@@ -1,0 +1,105 @@
+﻿                               FOREWORD.                            
+                                                                   
+ The  title  of  this  book  comes  from  the  same  source   as  The
+ Treason of Isengard, a set  of six  titles, one  for each  'Book' of
+ The  Lord  of  the  Rings,  suggested by  my father  in a  letter to
+ Rayner  Unwin  of  March  1953  (The  Letters  of  J. R.  R. Tolkien
+ no.  136).  The  War  of  the  Ring  was that  proposed for  Book V,
+ and  I  have  adopted  it  for this  book since  the history  of the
+ writing of Book V  constitutes nearly  half of  it, while  the first
+ part  concerns the  victory of  Helm's Deep  and the  destruction of
+ Isengard.  The  second  part  describes   the  writing   of  Frodo's
+ journey  to  Kirith Ungol,  and this  I have  called 'The  Ring Goes
+ East', which was the title proposed by my father for Book IV.      
+  In  the  Foreword  to  The  Return  of   the  Shadow   I  explained
+ that  a  substantial collection  of manuscripts  was left  behind in
+ England   when   the   bulk   of  the   papers  went   to  Marquette
+ University  in  1958,  these  manuscripts  consisting  for  the most
+ part of outlines and the earliest narrative drafts; and  I suggested
+ that  this was  a consequence  of the  papers being  dispersed, some
+ in  one  place  and  some  in  another,  at   that  time.   But  the
+ manuscript  materials  for  The  Return of  the King  were evidently
+ preserved  with  the  main  body  of  the  papers,  for  nothing  of
+ Books  V  and  VI  was  left behind  beyond some  narrative outlines
+ and the first draft of the  chapter 'Minas  Tirith'. For  my account
+ of  Book  V therefore  I have  been almost  wholly dependent  on the
+ provision  from  Marquette  of  great  quantities  of  manuscript in
+ reproduction,  without  which  the  latter  part of  The War  of the
+ Ring could  not have  been written  at all.  For this  most generous
+ assistance I express my gratitude to all concerned  in it,  and most
+ especially   to   Mr   Taum   Santoski,   who  has   been  primarily
+ responsible  for  the  work  involved.  In  addition he  has advised
+ me  on  many  particular  points  which  can  be  best   decided  by
+ close  examination of  the original  papers, and  he has  spent much
+ time  in trying  to decipher  those manuscripts  in which  my father
+ wrote a text in ink on top of another in pencil.  I thank  also Miss
+ Tracy  J.  Muench  and  Miss Elizabeth  A. Budde  for their  part in
+ the  work  of  reproducing the  material, and  Mr Charles  B. Elston
+ for  making  it  possible  for me  to include  in this  book several
+
+ illustrations  from  manuscripts at  Marquette: the  pages carry-
+ ing  sketches  of  Dunharrow,  of  the mountains  at the  head of
+ Harrowdale, and of Kirith Ungol,  the plan  of Minas  Tirith, and
+ the full-page drawing of Orthanc (5).                           
+   This book follows the  plan and  presentation of  its predeces-
+ sors, references to previous volumes in  'The History  of Middle-
+ earth'  being  generally  given  in  Roman  numerals  (thus 'VII'
+ refers to The Treason of Isengard),  FR, TT,  and RK  being used
+ as  abbreviations  for  The  Fellowship  of  the  Ring,  The Two
+ Towers, and The Return  of the  King, and  page-references being
+ made  throughout  to  the  three-volume  hardback edition  of The
+ Lord of the Rings (LR). In several parts of the book  the textual
+ history is exceedingly complex. Since the story of  the evolution
+ of The Lord of the Rings can of course only be discovered  by the
+ correct  ordering  and  interpretation  of  the  manuscripts, and
+ must be recounted in those terms, the  textual history  cannot be
+ much simplified; and I have made much use of  identifying letters
+ for the manuscripts in order to clarify my account and to  try to
+ avoid  ambiguities.  In Books  IV and  V problems  of chronologi-
+ cal synchronisation became acute: a  severe tension  is sometimes
+ perceptible between narrative certainties and  the demands  of an
+ entirely  coherent  chronological structure  (and the  attempt to
+ right dislocation in time could very well lead to  dislocation in
+ geography).  Chronology  is  so  important  in  this part  of The
+ Lord of the Rings that I  could not  neglect it,  but I  have put
+ almost all of  my complicated  and often  inconclusive discussion
+ into 'Notes on the Chronology' at the end of chapters.          
+   In this book I  have used  accents throughout  in the  name, of
+ the Rohirrim (Theoden, Eomer, &c.).                            
+   Mr  Charles  Noad  has  again  read  the  proofs  independently
+ and checked the very large number  of citations,  including those
+ to other passages  within the  book, with  a strictness  and care
+ that  I  seem  altogether unable  to attain.  In addition  I have
+ adopted  several of  his suggestions  for improvement  in clarity
+ and consistency  in my  account. I  am much  indebted to  him for
+ this generous and substantial work.                             
+   I  am  very  grateful  for communications  from Mr  Alan Stokes
+ and  Mr  Neil Gaiman,  who have  explained my  father's reference
+ in  his  remarks  about  the  origins of  the poem  Errantry (The
+ Treason of Isengard p. 85):  'It was.begun  very many  years ago,
+ in an attempt to go  on with  the model  that came  unbidden into
+ my mind: the first six  lines, in  which, I  guess, D'ye  ken the
+
+                   
+                                                                
+ rhyme to porringer had a part.' The reference  is to  a Jacobite
+ song  attacking  William  of  Orange as  usurper of  the English
+ crown from his father-in-law, James II, and threatening  to hang
+ him. The first verse of this song runs thus in the version given
+ by  Iona  and  Peter Opie  in The  Oxford Dictionary  of Nursery
+ Rhymes (no. 422):                                               
+                                                                
+            What is the rhyme for porringer?                     
+            What is the rhyme for porringer?                     
+            The king he had a daughter fair                      
+                And gave the Prime of Orange her.                
+                                                                
+ The  verse  is  known  in  several  forms (in  one of  which the
+ opening line is Ken ye the rhyme to porringer? and the  last And
+ he gave her to an Oranger). This then is the unlikely  origin of
+ the provender of the Merry Messenger:                           
+                                                                
+            There was a merry passenger,                         
+            a messenger, an errander;                            
+            he took a tiny porringer                             
+            and oranges for provender.                           

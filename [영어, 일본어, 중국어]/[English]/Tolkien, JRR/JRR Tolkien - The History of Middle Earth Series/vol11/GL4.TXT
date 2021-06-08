@@ -1,0 +1,2908 @@
+﻿ PART FOUR.
+         
+   QUENDI
+    AND
+   ELDAR.
+
+                             QUENDI AND ELDAR.                           
+                                                                        
+ The title Quendi and Eldar clearly  belongs properly  to the  long essay
+ that is printed here, though my father used it also to include  two other
+ much briefer  works, obviously  written at  much the  same time;  one of
+ these, on the origin of the Orcs, was published  in Morgoth's  Ring (see
+ X.415, where  a more  detailed account  is given).  Quendi and  Eldar is
+ extant in a typescript  with carbon  copy that  can be  fairly certainly
+ dated to  the years  1959-60 (ibid.);  and both  copies are  preceded by
+ a manuscript page that  in addition  to the  following preamble  gives a
+ parallel title Essekenta Eldarinwa.                                    
+                                                                        
+      Enquiry  into  the  origins  of  the  Elvish  names  for Elves     
+      and  their  varieties  clans  and  divisions:  with Appendices     
+      on  their  names  for  the  other  Incarnates:  Men,  Dwarves,     
+      and Orcs; and on their analysis of their own language,             
+        Quenya: with a note on the 'Language of the Valar'.              
+                                                                        
+ My father corrected the two copies carefully and  in precisely  the same
+ ways (except for a few  later pencilled  alterations). The  text printed
+ here follows the original very  closely, apart  from very  minor changes
+ made for consistency or clarity, the omission of a passage  of extremely
+ complex phonology, and a reorganisation of  the text  in respect  of the
+ notes. As often elsewhere in his later  writings, my  father interrupted
+ his main  text with  notes, some  of them  long; and  these I  have num-
+ bered  and  collected  at  the  end,  distinguishing  them  from  my own
+ numbered notes by referring to them in the body of the  text as  Note 1,
+ Note 2,  &c., with  a reference  to the  page on  which they  are found.
+ Also, and more drastically, I have omitted one substantial  section from
+ Appendix D  (see p.  396). This  was done  primarily for  reasons of
+ space,  but  the  passage  in  question is  a somewhat  abstract account
+ of the phonological theories of earlier  linguistic Loremasters  and the
+ contributions of Feanor, relying rather allusively on  phonological data
+ that are taken for granted: it stands apart from the content of the work
+ at  large  (and entered,  I suspect,  from the  movement of  my father's
+ train of thought rather than as a planned element in the whole).         
+   Also  for  reasons  of  space  my  commentary  is  kept  to  a  severe
+ minimum.   Abbreviations   used   are   PQ   (Primitive   Quendian),  CE
+ (Common  Eldarin),  CT  (Common  Telerin),  Q  (Quenya),   T  (Telerin),
+ N (Noldorin), S (Sindarin), V (Valarin).                                
+
+                           QUENDI AND ELDAR.                           
+                                                                     
+ Origin  and  Meanings  of  the  Elvish   words  referring   to  Elves
+ and  their  varieties.  With  Appendices  on  their  names  for other
+ Incarnates.                                                          
+                                                                     
+                    A. The principal linguistic elements concerned.
+ 1. *KWENE.
+   (a) PQ *kwene 'person' (m. or f.). CE *kwen (-kwen), pl.
+      *kweni, person (m. or f.), one, (some)body-, pl. per-
+      sons', '(some) people'.
+   (b) PQ and CE *kwende, pl. *kwendf. This form was made
+      from *kwene by primitive fortification of the median n )
+      nd. It was probably at first only used in the plural, in the
+      sense 'people, the people as a whole', sc. embracing all the
+      three original clans.
+   (c) *kwendja adj. 'belonging to the *kwendi, to the people as
+      a whole'.                                                       
+                                                                     
+ 2.  *ELE According to Elvish legend this was a primitive             
+     exclamation, 'lo! ' 'behold! ' made by the Elves when they       
+     first saw the stars. Hence:                                      
+                                                                     
+   (a)   CE    *el,    *ele,     *el-a,    'lo!'  'look!' 'see!'
+   (b)   CE    *el,    pl.       *eli,     eli,   'star'.
+   (c)   CE   *elen,   pl.   'elena,   'star',  with   'extended  base'.
+   (d)   CE   *elda,   an  adjectival   formation  'connected   or  con-
+   cerned  with  the  stars',  used  as  a  description of  the *kwendi.
+   According  to  legend  this  name,   and  the   next,  were   due  to
+   the  Vala  Orome.  They  were  thus  probably  at  first   only  used
+   in the  plural,  meaning  'star-folk'.
+   (e)  CE *elena,  an   adjectival  form   made  from   the  extended
+                                                                     
+      stem *elen, of the same meaning and use as *elda.               
+ 3.   *DELE.                                                           
+                                                                     
+   (a)  A  verbal  base  'dele,  also  with  suffix *del-ja,  'walk, go,
+   proceed, travel'.
+   (b)  *edelo,  an  agental  formation   of  primitive   pattern:  'one
+   who  goes,  traveller,  migrant'.  A  name  made   at  the   time  of
+   the   Separation   for   those   who   decided   to   follow   Orome.
+   (c)   *awa-delo,   *awa-delo, ?*wa-delo.   Old   compounds  with
+   the   element   *awa   'away'   (see   below).   A   name   made   in
+   Beleriand   for   those   who    finally   departed    from   Middle-
+   earth.                                                             
+
+ 4. *HEKE.  Probably not in  origin a  verbal base, but an
+    adverbial  element  'aside,  apart, separate'.
+ (a)  PQ  *heke  'apart, not including'.
+ (b)  PQ  and CE  verbal derivative,  transitive: 'hek-ta  'set aside,
+    cast out, forsake'.
+ (c)  PQ  *hekla  'any  thing  (or  person)  put  aside from,  or left
+    out from, its  normal   company'.   Also   in    personal   form
+    *heklo 'a  waif  or   outcast';   adjectival  forms   'hekla  and
+    *hekela.                                                            
+ The  element *AWA,  appearing  in  3(c)  above,  referred   to  move-
+ ment  away,  viewed  from  the point  of view  of the  thing, person,
+ or  place  left. As  a prefix  it had  probably already  developed in
+ CE  the  form  *au-.  The  form  *awa  was  originally   an  indepen-
+ dent  adverbial  form,  but  appears  to  have  been  also used  as a
+ prefix  (as  an intensive  form of  *awa-, 'au-).  The form  *wa- was
+ probably  originally  used  as a  verbal stem,  and possibly  also in
+ composition with verbal stems.                                      
+   In  the  Eldarin  languages  this  stem made  contact in  form with
+ other elements, distinct in origin and in  sense.*ABA  'refuse', 'say
+ nay (in refusal or denial)': this is the source of the CE  *abar, pl.
+ *abari 'a refuser,' one  who  declined  to   follow  Orome.   *wo  in
+ forms *wo and *wo- (the latter  only as  a prefix):  this was  a dual
+ adverb  'together',  referring  to  the  junction  of two  things, or
+ groups, in a pair or whole.  The plural  equivalent was   *jo,  *jom,
+ and  as  a  prefix  *jo, *jom.  *HO in  forms >ho  and >ho:  this was
+ an  adverb  'from,  coming  from',  the point  of view  being outside
+ the thing referred to.                                              
+                                                                    
+ The  principal  derivatives in  form (their  use is  discussed below)
+ of the CE words given above were as follows:                        
+                                                                    
+                                 *KWEN.                              
+ QUENYA.  1(a)  quen,  pl.  queni;  unstressed,   as  a   pronoun  or
+   final element in a compound, quen.                                
+      1(b)  Quendi.  The  sg.  quende  (not  much  used)  was  made in
+   Quenya  from  Quendi,  on  the   model  of   other  nouns   in  -e,
+   the  majority  of  which  formed  their plurals  in -i.  There were
+   also  two  old  compounds:   Kalaquendi  'Light-elves'   and  Mori-
+   quendi 'Dark-elves'.                                              
+      1(c)  Quendya,  which  remained  in  the  Vanyarin  dialect, but
+   in   Noldorin   became   Quenya.   This   was   only    used   with
+   reference to language.                                            
+
+ TELERIN. 1(a)  pen  as  a  pronoun,  and  -pen   in  a   few  old
+ compounds.                                                       
+    1(b)  Pendi,  plural  only.  Also  in the  compounds Calapendi
+ and Moripendi.                                                   
+    1(c) Not found.                                               
+                                                                 
+ SINDARIN. 1(a)  pen,  usually  mutated  ben,  as a  pronoun. Also
+ -ben, -phen in a few old compounds.                              
+    1(b)  Not  found.  The  compounds  Calben  (pl.   Celbin)  and
+ Morben   (pl.   Moerbin,   Morbin)   must   certainly   have  de-
+ scended  from  the  same  source  as  those mentioned  above, but
+ their  final  element  was  evidently altered  to agree  with the
+ compounds  of  *kwen.  The   unaltered  derivatives   would  have
+ been  *Calbend,  *Moerbend;  but  though  final   -nd  eventually
+ became  -n  in  Sindarin,  this  change had  not occurred  in the
+ early  records, and  no cases  of -bend  are found.  In addition,
+ the  form  Morben  (without  affection (1) of the o)  shows either
+ an  alteration  to  *mora-  for  mori-,  after  *kala-,  or  more
+ probably  substitution  of  S  morn-  from  *morna,  the  usual S
+ adjectival form.                                                 
+     1(c) Not found.                                              
+                                                                 
+                               *EL                                
+ QUENYA. 2(a)  ela!  imperative  exclamation,  directing  sight to
+ an actually visible object.                                      
+    2(b) el, pl. eli, 'star' (poetic word).                       
+    2(c) elen, pl. eleni (occasionally in verse eldi), 'star'. The
+ normal word  for a  star of  the actual  firmament. The  pl. form
+ eleni, without syncope, is re-formed after the singular.         
+    2(d) Elda only used as a noun, chiefly in  the pl.  Eldar. See
+ also (Quenya) 3(b) below.                                        
+    2(e) Elda as  above. As  an adjective  referring to  stars the
+ form used was elenya.                                            
+                                                                 
+ TELERIN. 2(a) ela! as in Quenya.                                  
+    2(b) el, pl. eli. The ordinary word for 'star'.               
+    2(c)  elen,  pl.  elni. An  archaic or  poetic variant  of the
+ preceding.                                                       
+    2(d)  Ella.  An   occasional  variant   of  Ello,   which  was
+ the  normal  form  of  the  word.  This  shows  contact  with the
+ products of *edelo: see further under (Telerin) 3.               
+    2(e) Not found. The form would have been *Elna.               
+                                                                 
+ SINDARIN.  2(a)  elo!  An  exclamation  of   wonder,  admiration,
+ delight.                                                         
+
+ 2(b) Not found.                                                  
+ 2(c)  el,  pl. elin,  class-plural elenath.  An archaic  word for
+ 'star', little used except in verse, apart from the  form elenath
+ 'all the host of the stars of heaven'.                           
+ 2(d)  Ell-,  only  used  in the  m. and  f. forms  Ellon, Elleth,
+ elf-man,  elf-woman;  the class-plural  El(d)rim; and  final -el,
+ pl. -il, in some old compounds: see (Sindarin) 3(b).             
+ 2(e)  Elen,  pl.  Elin, with  class-plural Eledhrim,  Elf, Elves.
+ dhr is < n-r in secondary  contact. On  usage see  further below.
+                                                                 
+                                      *DEL.                       
+ QUENYA. 3(a)  lelya-'go,  proceed  (in  any  direction), travel,,
+ past tense lende. This form is due to  the early  change in  Q of
+ initial  d  >  l.  The change  was regular  in both  Vanyarin and
+ Noldorin  dialects  of  Quenya.  It  occurs occasionally  also in
+ Telerin  languages,  though  this  may  be  due  rather   to  d/l
+ variation  in PQ,  for which  there is  some evidence.  A notable
+ example   being  de/le   as  pronominal   elements  in   the  2nd
+ person.                                                          
+ In  Q  *del-  seems  to  have  become  *led,   by  dissimilation.
+ The  past  form  clearly  shows  *led,  while  lelya may  also be
+ derived from *ledja, since dj became ly medially in Quenya       
+ 3(b)  Eldo.   An  archaic   variant  of   Elda,  with   which  it
+ coalesced  in  form and  sense. Eldo  cannot however  be directly
+ descended  from  *edelo.  Its form  is probably  due to  a change
+ *edelo  > eledo,  following the  change in  the verb.  The change
+ of initial d > l  was early  and may  have preceded  syncope, and
+ the  loss  of  feeling  for  the  etymological connexions  of the
+ word, which finally resulted in the blending  of the  products of
+ 2  and  3.  Unchanged   *edelo  would   by  syncope   have  given
+ *edlo  >  *ello  (which  is  not  found).  See,   however,  under
+ Sindarin for reasons  for supposing  that there  may have  been a
+ variant  form  *edlo  (with  loss of  sundoma):(2) this could have
+ produced  a  Quenya  form  *eldo,  since  transposition of  dl in
+ primary  contact  to  the favoured  sequence Id  not infrequently
+ occurred in the pre-record period of Quenya.                     
+ 3(c)   Aurel   <   *aw(a)delo.   Oarel   <   *awadelo.   In   the
+ Vanyarin  dialect  Auzel  and  Oazel.  Oarel  (Oazel)  were  the
+ forms  commonly  used  in Q.  The plurals  took the  forms -eldi.
+ This  shows  that  the ending  -el was  associated with  the noun
+ Elda.  This  was  facilitated  by  a  normal  development   in  Q
+ morphology:  a  word  of  such  a  form  independently  as *elda,
+ when  used  as the  final element  in a  compound of  early date,
+
+ was  shortened  to  *elda,  pl.  *elch  >  *eld, *eldi  > historic
+ Q  -el,  -eldi.  In  addition oar  was in  actual use  in Q  as an
+ adverbial  form  derived  from *AWA  (see  below):  a  fact  which
+ also accounts for the selection of oarel, oazel.                   
+                                                                   
+ TELERIN. 3(a) delia 'go, proceed'. Past tense delle.                
+    3(b)  Ello.  The  usual  form,  preferred  to Ella,  from which,
+ however,  it  did  not  differ  in  sense.  Both  *edelo  and *edlo
+ regularly became ello in Telerin.                                  
+    3(c)  Audel,  pl.  Audelli.  This  shows  the  same  association
+ with  -el,  the  shortened form  in composition  of ella,  ello, as
+ that seen in Q.                                                    
+                                                                   
+ SINDARIN. 3(a) Not found.                                           
+    3(b) Edhel, pl. Edhil. The most used word in Sindarin; but      
+ only normally used in these forms. As noted above under            
+ (Sindarin) 2(d) the m. and f. forms were Ellon, Elleth; and        
+ there was also a class-plural Eldrim, Elrim (ll-r in secondary     
+ contact > ldr, later again simplified). As suggested under         
+ (Quenya) 3(b), there may have been a variant *edlo, which          
+ would regularly give ell- in Sindarin. Since this shorter form     
+ would be most likely to appear in compounds and extended           
+ forms, it would account for the limitation of Sindarin ell- to     
+ such forms as Ellon, Elleth, Eldrim. It would also account for     
+ the blending of the products of stems 2 El and 3 Del in            
+ Sindarin, as well as in Quenya. The form -el, pl. -il also occurs '
+ in some old compounds (especially personal names), where it        
+ may be due also to a blending of *elda and *edlo. In later         
+ compounds -edhel is used.                                          
+    3(c) Odhel, pl. Odhil; beside later more usual Godhel,        
+ Godhil. Also a class-plural Odhellim, Godhellim. Odhel is          
+ from *aw(a)delo, and the exact equivalent of Q Aurel, T            
+ Audel. Godhel could be derived from *wadelo: S initial *wa-       
+ > gwo > go. But since it appears later than Odhel, and after       
+ this term had become specially applied to the Exiled Noldor,       
+ it seems most probable that it took g- from the old clan-name      
+ Golodh, pl. Goelydh, which it practically replaced. Golodh         
+ was the S equivalent of Q Noldo, both from PQ *ngolodo.            
+                                                                   
+                                *HEK.                               
+ QUENYA.  4(a)   heka!  imperative   exclamation  'be   gone!  stand
+ aside!'.  Normally  only  addressed  to  persons. It  often appears
+ in  the  forms  hekat  sg.  and hekal  pl. with  reduced pronominal
+ affixes  of  the  2nd   person.  Also   bequa  (?   from *hek-wa)
+
+ adverb and  preposition 'leaving  aside, not  counting, exclud-
+ ing, except'.                                                  
+   4(b)  hehta-,  past  tense  hehtane,  'put aside,  leave out,
+ exclude, abandon, forsake'.                                    
+   4(c) hekil and hekilo m., hekile f.: 'one lost or forsaken by
+ friends,  waif,  outcast,  outlaw'.  Also  Hekel,  pl. Hekeldi,
+ re-formed to match Oarel, especially applied to the  Eldar left
+ in  Beleriand.  Hence  Hekelmar  and  Hekeldamar,  the  name in
+ the language of the loremasters of Aman  for Beleriand.  It was
+ thought  of as  a long  shoreland beside  the Sea  (cf. Eglamar
+ under Sindarin below).                                         
+
+ TELERIN. 4(a) heca! For  Q hequa  the T  form is  heco (?  < *hek
+ + au).                                                           
+   4(b) hecta- 'reject, abandon'.                                 
+   4(c) hecul, heculo. Also with special  reference to  those left
+ in Beleriand, Hecello; Heculbar or Hecellubar, Beleriand.        
+                                                                 
+ SINDARIN. PQ  h-  only  survived  in  the  dialects  of  Aman. It
+ disappeared   without   trace   in   Sindarin.   *hek   therefore
+ appears as *ek, identical in form with PQ *eke 'sharp point'.
+   4(a) ego! 'be off!' This is  from *hek(e)  a: a  the imperative
+ particle,  being  originally independent  and variable  in place,
+ survived  in S  as o  > o,  though this  now always  followed the
+ verb stem and had become an inflexion.                           
+   4(b) eitha-. This is  in the  main a  derivative of  PQ *ek-ta,
+ and  means  'prick  with a  sharp point',  'stab'; but  the sense
+ 'treat with scorn, insult' (often with reference to  rejection or
+ dismissal)  may  show  the  effect of  blending with  PQ *hek-ta.
+ To say to anyone ego! was indeed the gravest eithad.             
+   4(c)  Eglan,  mostly  used  in  the  plural  Eglain, Egladhrim.
+ The  name  that the  Sindar gave  to themselves  ('the Forsaken')
+ as  distinguished  from  the Elves  who left  Middle-earth. Eglan
+ is  <  an extended  adjectival form  *heklana. The  older shorter
+ form  (*hekla  or  *hekla)  survives in  a few  place-names, such
+ as Eglamar  (cf. Hekelmar,  etc.), Eglarest.  These are  shown to
+ be  old  from  their  formation,   with  the   genitival  element
+ preceding: *ekla-mbar, *ekla-rista.                              
+                                                                 
+                               *AWA.                              
+ QUENYA. au- as a verbal prefix: <  either *au  or *awa,.  as in
+ au-kiri- 'cut off'. The point of  view was  in origin  'away from
+ the speaker or the place of his thought', and this distinction is
+ usually preserved in Q.  Thus aukiri  meant 'cut  off, so  that a
+
+ portion is lost or no longer available', but hokiri (see below)
+ meant 'cut off a required portion, so as to have it or use it'.
+      oa, oar. Adverbs: < *awa,. the form oar shows addition     
+ of the ending -d (prehistoric -da) indicating motion to or      
+ towards a point. The form awa appears originally to have        
+ been used either of rest or motion, and oa can still be so used
+ in Q. This adverbial oa, oar was occasionally used as a prefix
+ in compounds of later formation. Though, as has been            
+ shown, in Oareldi, the most commonly used, the r is in fact of
+ different origin.                                               
+      The verb auta- 'go away, leave (the point of the speaker's
+ thought)' had an old 'strong' past tense anwe, only found in
+ archaic language. The most frequently used past and perfect     
+ were vane, avanie, made from the stem *wa; together with a      
+ past participle form vanwa. This last was an old formation      
+ (which is also found in Sindarin), and was the most frequent-
+ ly used part of the verb. It developed the meanings 'gone, lost,
+ no longer to be had, vanished, departed, dead, past and over'.
+ With it the forms vane and avanie were specially associated in
+ use and meaning. In the more purely physical sense 'went        
+ away (to another place)' the regular forms (for a -ta verb of
+ this class) oante, oantie were used. The form perfect avanie is
+ regularly developed from *a-waniie, made in the prehistoric
+ period from the older perfect form of this type *awawiie,       
+ with intrusion of n from the past (the forms of past and        
+ perfect became progressively more closely associated in         
+ Quenya). The accent remained on the wa, since the augment       
+ or reduplication in verbal forms was never accented even in     
+ the retraction period of Quenya (hence no form *oanie           
+ developed: contrast oante < *awa-n-te). The form vanie          
+ appearing in verse has no augment: probably a phonetic         
+ development after a preceding vowel; but such forms are not     
+ uncommon in verse.                                              
+SINDARIN. The only normal derivative is the preposition o,       
+ the usual word for 'from, of'. None of the forms of the         
+ element *awa are found as a prefix in S, probably because       
+ they became like or the same as the products of *wo, *wo (see
+ next). The form Odhel is isolated (see above, Sindarin 3(c)).
+ As the mutations following the preposition o show, it must      
+ prehistorically have ended in -t or -d. Possibly, therefore, it
+ comes from *aud, with d of the same origin as that seen in Q
+ oar (see above). Some have thought that it received the         
+
+                                                          
+                                                               
+ addition -t (at a period  when *au  had already  become q  > o)
+ by association with *et out, out  of .  The latter  retains its
+ consonant in the  form ed  before vowels,  but loses  it before
+ consonants, though es, ef, eth are often found before s, f, th.
+ o, however, is normally o in all  positions, though  od appears
+ occasionally  before  vowels,  especially  before  o-.  The in-
+ fluence of *et > ed is therefore probably only a late  one, and
+ does not account for the mutations.                            
+                                                               
+TELERIN. The  Telerin  forms  are closely  similar to  those of
+ Quenya  in  form  and  meaning,  though  the  development  *aua
+ > oa does not occur, and  v remains  w in  sound. Thus  we have
+ prefix au-, adverb au or avad; verb auta- with  past participle
+ vanua, and  associated past  and perfect  vane and  avanie; and
+ in physical senses vante, avantie.                             
+                                                               
+                           *WO.                                 
+QUENYA. This  does  not  remain  in Q  as an  independent word.
+ It is however a frequent prefix in the form o- (usually reduced
+ to o- when unstressed), used in  words describing  the meeting,
+ junction, or union of two things or persons,  or of  two groups
+ thought of  as units.  Thus: o-mentie  (meeting or  junction of
+ the  directions  of  two  people) as  in the  familiar greeting
+ between  two  people,  or two  companies each  going on  a path
+ that crosses that of the other: Elen sila lumenna omentielvo!(3)
+ 'A  star  shines upon  the hour  of the  meeting of  our ways.'
+ (Note 1, p. 407)                                               
+    This prefix was normally unstressed in verbs  or derivatives
+ of verbs;  or generally  when the  next following  syllable was
+ long. When stressed it had the  form o-,  as in  ononi 'twins',
+ beside the adj. onona 'twin-born', also used as a noun  'one of
+ a pair of twins'.                                              
+                                                               
+TELERIN use does  not materially  differ; but  in form  the su-
+ (lost in Quenya before o) is retained: prefix vo, vo-. (Note 1,
+ p. 407)                                                        
+SINDARIN. In the prefix  gwa-, go-  'together, co-,  com-'. The
+ dual  limitation was  no longer  made; and  go- had  the senses
+ both  of  *wo  and  *jo.  *jo, *jom-  disappeared as  a living
+ prefix. gwa- occurred only in  a few  S dissyllables,  where it
+ was stressed, or in their recognizable derivatives: e.g. gwanun
+ 'a pair  of twins',  gwanunig one  of such  a pair.  These were
+ mostly  of  ancient  formation,  and  so  retained  their  dual
+ significance.  gwa-  is regularly  developed from  *wo >  *wa >
+
+ gwa, when stressed in  prehistoric Sindarin.  go- is  from *wo >
+ gwo  >  go,  when  primitively  unstressed;  and  also  from gwa- 
+ >  go-,  when  it  became  again  unstressed.  Since PQ  *wa (one
+ of  the  forms  of  *AWA) would  also have  produced go-,  go-, Or
+ gwa-  if  primitively  shortened  (e.g.  before  two  consonants),
+ while  *au  would  have  produced  o-,  the  same as  the frequent
+ initially mutated form of go- 'together', the prefixal forms of
+ *AWA were lost in Sindarin.                                       
+                                                                  
+                                *HO.                               
+QUENYA.  This   was  evidently   an  ancient   adverbial  element,
+ occurring principally as a proclitic or enclitic: proclitic,  as a
+ prefix  to verb  stems; and  enclitic, as  attached to  noun stems
+ (the  usual  place  for  the  simpler 'prepositional'  elements in
+ PQ).  Hence  Quenya  ho-  (usually  so,  even  when it  had become
+ unstressed),  as  a  verb  prefix.  It  meant  'away,  from,  from
+ among', but the point  of view  was outside  the thing,  place, or
+ group  in  thought,  whereas  in  the   derivatives  of  *AWA  the
+ point  in  thought was  the place  or thing  left. Thus  Q hokiri-
+ 'cut  off',  so  as  to have  or use  a required  portion; whereas
+ aukiri- meant 'cut off' and get rid of or lose a  portion. hotuli-
+ 'come away', so  as to  leave a  place or  group and  join another
+ in  the  thought or  place of  the speaker;  whereas au  could not
+ be used with the stem tul- 'come'.                                
+    As a  noun enclitic  *-ho became  -o, since  medial h  was very
+ early lost without trace in CE. This  was the  source of  the most
+ used  'genitive'  inflexion  of  Quenya.  Properly  it   was  used
+ partitively,  or  to  describe  the  source  or  origin, not  as a
+ 'possessive', or adjectivally to describe qualities; but naturally
+ this 'derivative genitive' (as English of) could  be used  in many
+ circumstances  that  might  have  possessive  or   adjectival  im-
+ plications, though  'possession' was  indicated by  the adjectival
+ suffix -va, or (especially  in general  descriptions) by  a 'loose
+ compound'.   Thus  'Orome's   horn'  was   roma  Oromeva   (if  it
+ remained   in  his   possession);  Orome   roma  would   mean  'an
+ Orome  horn',  sc.  one  of  Orome's  horns (if  he had  more than
+ one);  but  roma  Oromeo  meant  'a   horn  coming   from  Orome',
+ e.g.  as  a gift,  in circumstances  where the  recipient, showing
+ the gift with pride, might say 'this is Orome's horn'. If  he said
+ 'this  was  Orome's  horn',  he   would  say   Oromeva.  Similarly
+ lambe  Eldaron  would  not  be  used  for  'the  language  of  the
+ Eldar'  (unless  conceivably in  a case  where the  whole language
+
+ was  adopted  by  another  people), which  is expressed  either by
+ Elda-lambe or lambe Eldaiva. (Note 2, p. 407)                    
+   There  remained  naturally  many  cases  where   either  posses-
+ sive-adjectival or partitive-derivative  genitives might  be used,
+ and the tendency to prefer the latter, or to use them in  place of
+ the  former,  increased.  Thus  alkar  Oromeo  or  alkar  Oromeva
+ could  be  used  for 'the  splendour of  Orome', though the latter
+ was  proper  in  a  description  of Orome  as he  permanently was,
+ and  the  former  of  his   splendour  as   seen  at   the  moment
+ (proceeding  from  him)  or  at  some point  in a  narrative. 'The
+ Kings of the Eldar' might  be either  i arani  Eldaron or  i arani
+ Eldaive,  though  the  former  would   mean  if   accurately  used
+ 'those  among  the  Eldar who  were kings'  and the  latter 'those
+ (kings)  in  a  particular  assembly  who  were  Elvish'.  In such
+ expressions  as  'Elwe, King  of the  Sindar (people),  or Doriath
+ (country)'   the   derivative   form   was   usual:   Elwe,   Aran
+ Sindaron, or Aran Lestanoreo.                                    
+                                                                 
+TELERIN. The  Telerin  use  of the  prefix ho-  was as  in Quenya.
+ The inflexion was  -o, as  in Quenya,  but it  did not  receive -n
+ addition  in  the plural.  It was  more widely  used than  in pure
+ Quenya,  sc.  in  most  cases  where  English  would   employ  the
+ inflexion -s,  or of;  though the  possessive, especially  when it
+ concerned   a   single   person   or   possessor,   was  expressed
+ without  inflexion: either  with the  possessor placed  first (the
+ older usage), or (possibly  under the  influence of  the genitival
+ or  adjectival  expressions  which  were  placed  second)  follow-
+ ing the  possessed. In  the latter  case, the  appropriate posses-
+ sive suffix ('his, hers, its, their') was usually appended  to the
+ noun.  So  Olue  cava;  or  cava Olue,  usually cavaria  Olue (sc.
+ 'the  house  of  him,  Olwe');  =  'Olwe's  house'. The  last form
+ was  also  used  in  Quenya  with  proper  names, as  koarya Olwe.
+ Both  languages also  used the  adjectival possessive  suffixes in
+ a  curious  way,  attaching  them  to  adjectives   attributed  to
+ proper names  (or names  of personal  functions, like  'king'): as
+ Varda  Aratarya,  'Varda  the  Lofty,  Varda  in  her  sublimity'.
+ This  was  most  usual  in  the  vocative:  as  in  Meletyalda, or
+ fuller  Aran  Meletyalda  (literally 'your  mighty' or  'king your
+ mighty'),  more  or  less  equivalents  of  'Your   Majesty'.  Cf.
+ Aragorn's farewell: Arwen vanimalda, namarie!(4)                  
+                                                                 
+SINDARIN. Since initial h- disappeared in Sindarin *ho would
+    have become u and so, clashing with the negative u, naturally
+
+ did not  survive. >ho  as a  proclitic might  have given  o;  butg
+ it  does  not  occur  as  a  verbal  prefix, although  it possibly
+ contributed to the Sindarin preposition o (see under *Awa,       
+ Sindarin)  which  is  used  in  either direction,  from or  to the
+ point  of  view  of  the  speaker.  Since  all  final  vowels  dis-
+ appeared  in  Sindarin,  it  cannot be  determined whether  or not
+ this  language  had  in  the  primitive  period  developed inflex-
+ ional  -o.  Its  presence  in  Telerin  of  Aman makes  its former
+ presence  in  Sindarin  probable.  The  placing  of  the  genitive
+ noun  second  in   normal  Sindarin   is  also   probably  derived
+ from   inflexional   forms.   Compounds   of   which   the   first
+ element was 'genitival' were evidently in  the older  period still
+ normal, as  is seen  in many  place- and  personal names  (such as
+ Egla-mar), and  was still  in more  limited use  later, especially
+ where  the  first  element  was  or was  regarded as  an adjective
+ (as  Mordor  'Land  of  Darkness' or  'Dark Land').  But genitival
+ sequences  with  the possessor  or qualifier  second in  the later
+ period  also  became   fixed  compounds:   as  Doriath,   for  Dor
+ lath 'Land of the Fence'.                                         
+                                                                  
+                                *ABA.                              
+ Though  this became  a verbal  stem, it  is probably  derived from
+ a  primitive  negative  element,  or   exclamation,  such   as *BA
+ 'no!'  It  did  not,  however,  deny  facts, but  always expressed
+ concern or will; that is, it expressed refusal  to do  what others
+ might  wish  or  urge, or  prohibition of  some action  by others.
+ As  a verbal  stem it  developed the  form *aba-  (with connecting
+ vowel a in the aorist); as a  particle or  prefix the  forms *aba,
+ *ba, and *aba.                                                    
+                                                                  
+QUENYA. In Quenya the verb ava- was little used in ordinary        
+ language, and revealed that it was not in origin a 'strong' or
+ basic verbal stem by having the 'weak' past form avane. In        
+ ordinary use it was replaced by the compound va-quet              
+ (vaquetin, vaquenten) 'to say no', sc. 'to say I will not', or 'do
+ not', 'to refuse' or 'to forbid'.                                 
+    As a prefix the form used was usually ava-, the force of      
+ which can be observed in avaquetima 'not to be said, that         
+ must not be said', avanyarima 'not to be told or related', as     
+ contrasted with uquetima 'unspeakable', that is, 'impossible 
+ to say, put into words, or unpronounceable', unydrima 'impos-     
+ sible to recount', sc. because all the facts are not known, or
+ the tale is too long. Compare also Avamanyar 'those who did       
+
+ not  go  to  Aman,  because  they  would  not' (an  equivalent of
+ Avari)  with  Uamanyar  'those  who  did not  in the  event reach
+ Aman' (an equivalent of Hekeldi).                               
+   As a  particle (the  form of  this stem  most used  in ordinary
+ language)  the  Quenya  form   was  usually   va!  This   was  an
+ exclamation  or  particle  expressing  the  will  or wish  of the
+ speaker, meaning according to context 'I will not' or 'Do  not! '
+ Note  that  it  was  not  used, even  in the  first person,  in a
+ statement  about  the  speaker's  future  action,   depending  on
+ foresight,  or  a  judgement  of the  force of  circumstances. It
+ could  sometimes,  as  seen  in  vaquet-  (above),  be used  as a
+ verbal prefix.                                                  
+   A  longer  form  ava or  ava (stressed  on the  last syllable),
+ which  shows  combination  with   the  imperative   particle  *a,
+ was  commonly  used  as  a  negative imperative  'Don't!', either
+ used  alone  or  with an  uninflected verbal  stem, as  ava kare!
+ 'Don't  do  it!'  Both  va  and  ava  sometimes  received  verbal
+ pronominal  affixes  of  the  first  singular  and  first  plural
+ exclusive:  as  avan,  van,  vanye 'I  won't', avamme,  vamme 'we
+ won't'.                                                         
+   An  old  derivative  of  *aba-  as  a  quasi-verbal   stem  was
+ *abaro  >  CE  *abar.  This  was  an  old  agental  formation, as
+ seen also in Teler, pl. Teleri, made with  the suffix  -ro, added
+ to  omataina.(5) (Other  forms of  this suffix  were -ro  added to
+ stem,  with or  without n-infixion;  and -rdo  > rd.)  *abar thus
+ meant  'recusant,  one  who   refuses  to   act  as   advised  or
+ commanded'.  It  was  specially  applied  to  (or  first  made to
+ describe?) the section of the Elves  who refused  to join  in the
+ Westward March: Q Avar, pl. Avari.                              
+
+TELERIN. The  Telerin  use  was  closely  similar  to  that of
+ Quenya.   The   forms   were  the   same,  except   that  Telerin
+ preserved  CE  b  distinct  from  v  or u:  hence the  prefix was
+ aba-  (abapetima  'not  to  be  said');  the  particle   ba;  the
+ exclamation  aba.  The  verbal  form,  however,  was   in  normal
+ use: aban 'I refuse, I will not'. In a negative command  only the
+ uninflected aba was used: aba care 'don't do it!'               
+
+SINDARIN. In Sindarin the following  forms are  found. baw!
+ imperious  negative: 'No,  no! Don't!  ' avo  negative adverb
+ with verbs, as avo garo! 'don't do it';  sometimes used  as a
+ prefix: avgaro (< *aba-kar a). This could be  personalized in
+ the  form  avon  'I won't',  avam 'we  won't': these  were of
+
+                         
+                                                                     
+   course  not  in  fact  derived  from  avo,  which   contained  the
+   imperative  -o  <  >a,  but   from  the   verb  stem   *aba,  with
+   inflexions  assimilated to  the tense  stems in  -a; but  no other
+   parts  of  the  verb  survived  in  use,  except  the   noun  avad
+   refusal,  reluctance'.  Derived  direct  from  baw! (*ha)  was the
+   verb boda- 'ban, prohibit' (*ba-ta).                               
+                                                                     
+   (With the uses of this stem, primary meaning  'refuse, be          
+   unwilling', to form negative imperatives, cf. Latin noli,          
+   nolite.)                                                            
+                                                                     
+          B. Meanings and use of the various terms applied to         
+    the Elves and their varieties in Quenya, Telerin, and Sindarin.
+                                                                     
+                                 Quenya.                              
+   1. quen, pl. queni, person, individual, man or woman.              
+ Chiefly used in the unstressed form quen. Mostly found in           
+ the singular: 'one, somebody'; in the pl. 'people, they'. Also       
+ combined with other elements, as in aiquen 'if anybody,              
+ whoever', ilquen 'everybody'. In a number of old compounds           
+ -quen, pl. queni was combined with noun or adjective stems to        
+ denote habitual occupations or functions, or to describe those       
+ having some notable (permanent) quality: as -man in English          
+ (but without distinction of sex) in horseman, seaman, work-         
+ man, nobleman, etc. Q roquen 'horseman, rider'; (Note 3,             
+ p. 407) kiryaquen 'shipman, sailor'; arquen 'a noble'. These         
+ words belong to everyday speech, and have no special reference       
+ to Elves. They were freely applied to other Incarnates, such as      
+ Men or Dwarves, when the Eldar became acquainted with                
+ them.                                                                
+   2. Quendi Elves, of any kind, including the Avari. The sg.         
+ Quende was naturally less frequently used. As has been seen,         
+ the word was made when the Elves as yet knew of no other             
+ 'people' than themselves. The sense 'the Elvish people, as a         
+ whole', or in the sg. 'an Elf and not some other similar creature',
+ developed first in Aman, where the Elves lived among or in           
+ contact with the Valar and Maiar. During the Exile when the          
+ Noldor became re-associated with their Elvish kin, the Sindar,       
+ but met other non-Elvish people, such as Orcs, Dwarves, and          
+ Men, it became an even more useful term. But in fact it had          
+ ceased in Aman to be a word of everyday use, and remained            
+ thereafter mainly used in the special language of Lore: histories
+ or tales of old days, or learned writings on peoples and             
+
+ languages.  In  ordinary  language  the   Elves  of   Aman  called
+ themselves Eldar (or in Telerin Elloi): see below.               
+   There  also  existed  two  old  compounds   containing  *kwendi:
+ *kala-kwendi  and  *mori-kwendi,  the  Light-folk  and  the  Dark-
+ folk.  These  terms appear  to go  back to  the period  before the
+ Separation,  or  rather  to  the  time  of  the  debate  among the
+ Quendi  concerning  the  invitation  of   the  Valar.   They  were
+ evidently  made  by the  party favourable  to Orome,  and referred
+ originally to those who desired  the Light  of Valinor  (where the
+ ambassadors of  the Elves  reported that  there was  no darkness),
+ and those  who did  not wish  for a  place in  which there  was no
+ night.  But  already  before  the  final  separation *mori-kwendi
+ may  have  referred  to  the  glooms  and  the clouds  dimming the
+ sun and the  stars during  the War  of the  Valar and  Melkor,(6) so
+ that the term from the beginning  had a  tinge of  scorn, implying
+ that  such  folk were  not averse  to the  shadows of  Melkor upon
+ Middle-earth.                                                    
+   The  lineal  descendants  of  these terms  survived only  in the
+ languages   of   Aman.   The   Quenya   forms    were   Kalaquendi
+ and  Moriquendi.  The  Kalaquendi  in   Quenya  applied   only  to
+ the  Elves  who  actually  lived  or  had lived  in Aman;  and the
+ Moriquendi  was  applied  to  all  others,  whether they  had come
+ on the March or not. The latter were regarded as  greatly inferior
+ to  the  Kalaquendi,  who  had experienced  the Light  of Valinor,
+ and  had  also  acquired  far  greater  knowledge  and  powers  by
+ their association with the Valar and Maiar.                      
+   In the period of Exile the  Noldor modified  their use  of these
+ terms,  which  was offensive  to the  Sindar. Kalaquendi  went out
+ of  use,  except  in  written  Noldorin  lore. Moriquendi  was now
+ applied to all other Elves, except the Noldor and Sindar,  that is
+ to Avari or to any kind of Elves that  at the  time of  the coming
+ of  the  Noldor  had  not  long  dwelt in  Beleriand and  were not
+ subjects  of  Elwe.  It  was  never applied,  however, to  any but
+ Elvish  peoples.  The  old distinction,  when made,  was represen-
+ ted  by  the  new  terms  Amanyar  'those  of Aman',  and Uamanyar
+ or Umanyar  'those  not   of  Aman',   beside  the   longer  forms
+ Amaneldi and Umaneldi.                                           
+   3.  Quendya,  in   the  Noldorin   dialect  Quenya.   This  word
+ remained in ordinary  use, but  it was  only used  as a  noun 'the
+ Quendian  language'.  (Note  4,  p.  407)  This  use   of  Quendya
+ must  have  arisen  in  Aman,  while  Quendi still  remained in
+ general use. Historically, and in the more accurate use  of the
+
+ linguistic   Loremasters,   Quenya  included   the  dialect   of  the
+ Teleri,  which  though  divergent  (in some  points from  days before
+ settlement  in   Aman,  such   as  *kw   >  p),   remained  generally
+ intelligible  to  the  Vanyar  and  Noldor.  But  in ordinary  use it
+ was  applied  only  to  the dialects  of the  Vanyar and  Noldor, the
+ differences  between  which  only   appeared  later,   and  remained,
+ up to the period just before the Exile, of minor importance.        
+   In  the  use  of  the  Exiles  Quenya  naturally  came to  mean the
+ language  of  the  Noldor,  developed  in  Aman,  as   distinct  from
+ other  tongues,  whether  Elvish  or  not.  But  the  Noldor  did not
+ forget  its   connexion  with   the  old   word  Quendi,   and  still
+ regarded  the name  as implying  'Elvish', that  is the  chief Elvish
+ tongue,  the  noblest,  and  the  one  most  nearly   preserving  the
+ ancient  character  of  Elvish  speech.  For  a  note  on  the Elvish
+ words   for   'language',   especially   among  the   Noldorin  Lore-
+ masters, see Appendix D (p. 391).                                   
+   4.  Elda  and   Eldo.  The   original  distinction   between  these
+ forms as meaning 'one  of the  Star-folk, or  Elves in  general', and
+ one  of  the  'Marchers',  became  obscured  by  the  close  approach
+ of  the  forms.  The form  Eldo went  out of  use, and  Elda remained
+ the chief word for 'Elf' in Quenya. But  it was  not in  accurate use
+ held   to   include  the   Avari  (when   they  were   remembered  or
+ considered); i.e.  it took  on the  sense of  Eldo. It  may, however,
+ have  been  partly  due to  its older  sense that  in popular  use it
+ was  the  word  ordinarily  employed  for  any  Elf,  that is,  as an
+ equivalent  of  the  Quende  of  the  Loremasters.  When  one  of the
+ Elves  of  Aman  spoke  of  the Eldalie,  'the Elven-folk',  he meant
+ vaguely  all  the  race  of  Elves,  though   he  was   probably  not
+ thinking of the Avari.                                              
+   For,  of  course,  the special  kinship of  the Amanyar  with those
+ left  in  Beleriand  (or   Hekeldamar)  was   remembered,  especially
+ by  the  Teleri.  When  it  was  necessary  to distinguish  these two
+ branches  of  the  Eldar  (or  properly  Eldor),  those who  had come
+ to  Aman  were  called  the  Odzeldi   N  Oareldi, for  which another
+ form  (less  used)  was  Auzeldi,  N  Aureldi;  those  who   had  re-
+ mained   behind  were   the  Hekeldi.   These  terms   naturally  be-
+ longed  rather to  history than  everyday speech,  and in  the period
+ of the Exile they fell out of use, being unsuitable to  the situation
+ in  Beleriand.  The  Exiles  still  claimed  to  be  Amanyar,  but in
+ practice  this  term  usually  now  meant  those  Elves  remaining in
+ Aman,  while   the  Exiles   called  themselves   Etyangoldi  'Exiled
+ Noldor',  or  simply  (since  the  great majority  of their  clan had
+
+            
+                                                                     
+ come into exile) Noldor. All the subjects of Elwe they called        
+ Sindar or 'Grey-elves'.                                              
+                                                                     
+                               Telerin.                               
+  1.   The   derivatives   of *KWEN   were  more   sparingly  represen-
+ ted  in  the  Telerin  dialects,  of  Aman or  Beleriand. This  was in
+ part  due  to  the  Common  Telerin  change  of  kw  >  p,   (Note  5,
+ p. 407) which caused *pen < *kwen to clash with the PQ stem          
+ *PEN 'lack, be without', and also with some of the derivatives of     
+ *PED 'slope,  slant  down'  (e.g. *penda  'sloping'). Also  the Teleri
+ felt  themselves  to  be  a  separate  people,  as  compared  with the
+ Vanyar   and   Noldor,   whom   taken   together   they   outnumbered.
+ This  sentiment  began  before  the   Separation,  and   increased  on
+ the  March  and  in  Beleriand.  In  consequence  they  did  not  feel
+ strongly  the  need  for  a  general word  embracing all  Elves, until
+ they came in contact with other non-Elvish Incarnates.               
+  As  a  pronoun  enclitic  (e.g.   in  aipen,   Q  aiquen;   ilpen,  Q
+ ilquen)  *kwen  survived  in  Telerin;  but   few  of   the  compounds
+ with  pen  'man'  remained  in  ordinary  use,  except   arpen  'noble
+ (man)', and the derived adjective arpenia.                           
+  Pendi,  the  dialectal  equivalent  of  Q  Quendi,  survived  only as
+ a  learned  word  of the  historians, used  with reference  to ancient
+ days  before  the  Separation;  the  adjective  *Pendia  (the  equiva-
+ lent  of  Quendya)  had  fallen  out  of  use.. (Note  6, p.  408) The
+ Teleri had little interest in linguistic lore, which they left  to the
+ Noldor.  They  did  not  regard  their  language  as  a  'dialect'  of
+ Quenya,   but   called   it  Lindarin   or  Lindalambe.   Quenya  they
+ called  Goldorin  or  Goldolambe;  for  they  had  few  contacts  with
+ the Vanyar.                                                          
+  The   old   compounds   in  Telerin   form  Calapendi   and  Moripen-
+ di  survived  in  historical  use; but  since the  Teleri in  Aman re-
+ mained  more  conscious  of  their  kinship  with  the  Elves  left in
+ Beleriand,  while  Calapendi  was  used,  as  Kalaquendi   in  Quenya,
+ to  refer  only  to  the  Elves  of  Aman,  Moripendi was  not applied
+ to the Elves of Telerin origin who had not reached Aman.             
+  2.  Ello  and  Ella.  The  history  of  the  meanings of  these words
+ was  almost  identical  with  that  of  the  corresponding   Elda  and
+ Eldo  in  Quenya.  In  Telerin  the  -o  form  became   preferred,  so
+ that  generally  T  Ello  was  the  equivalent  of  Q  Elda.  But Ella
+ remained  in  use  in  quasi-adjectival  function  (e.g. as  the first
+ element  in  loose  or  genitival compounds):  thus the  equivalent of
+ Q Eldalie was in T Ellalie.                                          
+
+   In contrast to the Elloi left in Beleriand those in Aman were in
+ histories called Audel, pl. Audelli. Those  in Beleriand  were the
+ Hecelloi of Heculbar (or Hecellubar).                             
+                                                                  
+                              Sindarin.                            
+   1. Derivatives  of *KWEN  were limited  to the  sense: pronomin-
+ al  'one,  somebody,  anybody', and  to a  few old  compounds that
+ survived.  PQ  *kwende,   *kwendi  disappeared   altogether.  The
+ reasons for this were partly the linguistic changes already cited;
+ and partly the circumstances in which the Sindar lived,  until the
+ return  of  the  Noldor,  and  the coming  of Men.  The linguistic
+ changes  made  the  words  unsuitable  for  survival;  the circum-
+ stances removed all  practical need  for the  term. The  old unity
+ of  the  Elves had  been broken  at the  Separation. The  Elves of
+ Beleriand were isolated,  without contact  with any  other people,
+ Elvish  or  of  other  kind;  and they  were all  of one  clan and
+ language:  Telerin  (or  Lindarin).  Their  own  language  was the
+ only  one  that  they  ever  heard;  and  they  needed no  word to
+ distinguish it, nor to distinguish themselves.                    
+   As  a  pronoun,  usually  enclitic, the  form pen,  mutated ben,
+ survived.  A  few  compounds  survived,  such  as  rochben 'rider'
+ (m.  or  f.),  orodben  'a  mountaineer'  or  'one  living  in the
+ mountains',  arphen  'a  noble'.  Their   plurals  were   made  by
+ i-affection,  originally  carried through  the word:  as roechbin,
+ oerydbin, erphin, but  the normal  form of  the first  element was
+ often  restored  when  the  nature  of  the  composition  remained
+ evident:  as  rochbin,  but  always  erphin.  These  words  had no
+ special association with Elves.                                   
+   Associated  with  these  compounds  were   the  two   old  words
+ Calben  (Celbin)  and  Morben  (Moerbin).  On the  formal relation
+ of  these  to  Quenya  Kalaquendi  and  Moriquendi  see   p.  362.
+ They  had no  reference to  Elves, except  by accident  of circum-
+ stance. Celbin retained what was, as has  been said,  probably its
+ original meaning: all Elves other than the Avari; and  it included
+ the Sindar. It was in fact  the equivalent  (when one  was needed)
+ of the Quenya Eldar, Telerin Elloi. But it referred to  Elves only
+ because  no  other  people  qualified for  the title.  Moerbin was
+ similarly an equivalent for Avari; but that it  did not  mean only
+ 'Dark-elves' is seen by its ready application to other Incarnates,
+ when  they  later  became  known.  By  the Sindar  anyone dwelling
+ outside  Beleriand,  or  entering  their  realm from  outside, was
+ called a Morben.  The first  people of  this kind  to be  met were
+
+                                                                   
+                                                                   
+ the  Nandor,  who  entered East  Beleriand over  the passes  of the
+ Mountains before  the return  of Morgoth;  soon after  his return
+ came the first  invasions of  his Orcs from the  North.(7) Somewhat
+ later the  Sindar became  aware of  Avari, who  had crept  in small
+ and secret groups  into Beleriand  from the  South. Later  came the
+ Men  of  the  Three  Houses,  who  were  friendly; and  later still
+ Men of other  kinds. All  these were  at first  acquaintance called
+ Moerbin.  (Note  7,  p.  408)  But  when  the  Nandor  were  recog-
+ nized  as  kinsfolk  of Lindarin  origin and  speech (as  was still
+ recognizable), they  were received  into the  class of  Celbin. The
+ Men  of  the  Three  Houses  were  also   soon  removed   from  the
+ class  of  Moerbin.  (Note  8, p.  408) They  were given  their own
+ name,  Edain,  and  were  seldom actually  called Celbin,  but they
+ were  recognized  as   belonging  to   this  class,   which  became
+ . practically equivalent to 'peoples in alliance in the War against
+ Morgoth'.   The  Avari   thus  remained   the  chief   examples  of
+ Moerbin.  Any  individual  Avar  who  joined  with or  was admitted
+ among  the Sindar  (it rarely  happened) became  a Calben;  but the
+ Avari  in  general remained  secretive, hostile  to the  Eldar, and
+ untrustworthy;  and  they  dwelt  in  hidden  places in  the deeper
+ woods, or in caves. (Note  9, p.  408) Moerbin  as applied  to them
+ is usually  translated 'Dark-elves',  partly because  Moriquendi in
+ the  Quenya  of  the Exiled  Noldor usually  referred to  them. But
+ that no special  reference to  Elves was  intended by  the Sindarin
+ word  is shown  by the  fact that  Moerbin was  at once  applied to
+ the  new  bands  of  Men  (Easterlings)  that  appeared  before the
+ Battle of the Nirnaeth. (Note 9, p. 408) If in Sindarin an Avar, as
+ distinct  from  other  kinds  of  Morben,  was  intended,   he  was
+ called Mornedhel.                                                  
+    2. Edhel, pl. Edhil. In  spite of  its ultimate  derivation (see
+ p. 360) this was the general word for 'Elf, Elves'. In  the earlier
+ days it naturally referred only to the Eldarin Sindar, for no other
+ kind was ever seen; but later it was freely applied to Elves of any
+ kind  that entered  Beleriand. It  was however  only used  in these
+ two forms.                                                         
+    The masculine and  feminine forms  were Ellon  m. and  Elleth f.
+ and the class-plural  was Eldrim,  later Elrim,  when this  was not
+ replaced  by  the  more  commonly  used  Eledhrim (see  below). The
+ form without the m. and f. suffixes  was not  in use,  and survived
+ only  in  some  old  compounds, especially  personal names,  in the
+ form el, pl. il, as a final element.                               
+    The  form  Elen,  pl.  Elin was  only used  in histories  or the
+
+ 
+                                                                  
+ works of the Loremasters,  as a  word to  include all  Elves (Eldar
+ and  Avari).  But  the  class-plural  Eledhrim  was the  usual word
+ for  'all  the  Elvish  race',  whenever  such  an  expression  was
+ needed.                                                           
+   All  these  words  and  forms,  whatever  their  etymologies (see
+ above),  were  applicable to  any kind  of Elf.  In fact  Edhel was
+ properly  applied  only  to Eldar;  Ell- may  have a  mixed origin;
+ and Elen was an ancient general word. (Note 10, p. 410)           
+   3.  The Sindar  had no  general name  for themselves  as distinct
+ from other varieties of Elf, until  other kinds  entered Beleriand.
+ The  descendant  of  the  old  clan  name  *Lindai  (Q  Lindar) had
+ fallen out of normal  use, being  no longer  needed in  a situation
+ were all the  Edhil were  of the  same kind,  and people  were more
+ aware  of  the  growing  differences  in  speech and  other matters
+ between those sections of the Elves that  lived in  widely sundered
+ parts  of  a  large  and mostly  pathless land.  They were  thus in
+ ordinary  speech all  Edhil, but  some belonged  to one  region and
+ some  to  another:  they  were  Falathrim  from  the  sea-board  of
+ West Beleriand, or  lathrim from  Doriath (the  land of  the Fence,
+ or  iath),  or  Mithrim  who  had  gone  north  from  Beleriand and
+ inhabited the  regions about  the great  lake that  afterwards bore
+ their name. (Note 11, p. 410)                                     
+   The   old   clan-name   *Lindai   survived   in    the   compound
+ Glinnel, pl. Glinnil,  a word  only known  in historical  lore, and
+ the equivalent of Quenya  Teleri or  Lindar; see  the Notes  on the
+ Clan-names  below.  All   the  Sindarin   subjects  of   King  Elu-
+ Thingol,   as   distinguished  from   the  incoming   Noldor,  were
+ sometimes  later  called the  Eluwaith. Dunedhil  'West-elves' (the
+ reference being to the  West of  Middle-earth) was  a term  made to
+ match  Dunedain  'West-men'  (applied  only  to  the  Men   of  the
+ Three  Houses).   But  with   the  growing   amalgamation,  outside
+ Doriath,  of  the  Noldor  and  Sindar  into  one people  using the
+ Sindarin tongue  as their  daily speech,  this soon  became applied
+ to both Noldor and Sindar.                                        
+   While  the  Noldor  were  still  distinct,  and  whenever  it was
+ desired to  recall their  difference of  origin, they  were usually
+ called Odhil (sg. Odhel). This as has been seen was  originally a
+ name for all the  Elves that  left Beleriand  for Aman.  These were
+ also  called  by  the  Sindar  Gwanwen,  pl.  Gwenwin  (or Gwanwel,
+ Gwenwil)  'the  departed':  cf.  Q  vanwa.  This term,  which could
+ not  suitably  be  applied  to  those who  had come  back, remained
+ the  usual  Sindarin  name  for  the Elves  that remained  in Aman.
+
+ Odhil thus became specially the name of the Exiled Noldor.     
+   In this sense  the form  Godhel, pl.  Godhil soon  replaced the
+ older form. It seems to  have been  due to  the influence  of the
+ clan-name  Golodh,  pl.  Goelydh;  or  rather  to   a  deliberate
+ blending  of  the  two words.  The old  clan-name had  not fallen
+ out  of  memory  (for  the  Noldor  and the  Sindar owing  to the
+ great  friendship  of  Finwe  and  Elwe  were  closely associated
+ during their sojourn in  Beleriand before  the Departure)  and it
+ had  in  consequence  a  genuine Sindarin  form (<  CE *ngolodo).
+ But  the  form Golodh  seems to  have been  phonetically unpleas-
+ ing  to  the  Noldor.  The  name was,  moreover, chiefly  used by
+ those  who  wished  to  mark  the  difference between  the Noldor
+ and  the  Sindar, and  to ignore  the dwelling  of the  Noldor in
+ Aman  which  might  give them  a claim  to superiority.  This was
+ especially the case in  Doriath, where  King Thingol  was hostile
+ to the Noldorin chieftains, Feanor and  his sons,  and Fingolfin,
+ because of their assault upon the Teleri in  Aman, the  people of
+ his  brother Olwe.  The Noldor,  therefore, when  using Sindarin,
+ never applied this name (Golodh) to themselves,  and it  fell out
+ of use among those friendly to them.                            
+   4.  Eglan,  pl.  Eglain, Egladrim.  This name,  'the Forsaken',
+ was, as has been said, given by the Sindar to themselves.  But it
+ was  not  in  Beleriand  a name  for all  the Elves  who remained
+ there, as were the related names, Hekeldi, Hecelloi, in  Aman. It
+ applied only to those who wished  to depart,  and waited  long in
+ vain for the return of  Ulmo, taking  up their  abode on  or near
+ the  coasts.  There  they  became  skilled  in  the  building and
+ management of ships. Cirdan was their lord.                     
+   Cirdan's folk were  made up  both of  numbers of  the following
+ of Olwe, who straying or lingering came to  the shores  too late,
+ and also  of many  of the  following of  Elwe, who  abandoned the
+ search for him and did  not wish  to be  separated for  ever from
+ their kin and friends. This folk remained in  the desire  of Aman
+ for long  years, and  they were  among the  most friendly  to the
+ Exiles.                                                         
+   They continued to call themselves the  Eglain, and  the regions
+ where they dwelt Eglamar and  Eglador. The  latter name  fell out
+ of general use.  It had  originally been  applied to  all western
+ Beleriand between Mount Taras and the Bay  of Balar,  its eastern
+ boundary   being   roughly  along   the  River   Narog.  Eglamar,
+ however,  remained  the  name of  the 'Home  of the  Eglain': the
+ sea-board  from  Cape  Andras  to  the  headland   of  Bar-in-Myl
+
+ ('Home  of  the   Gulls'),(8) which   included  the   ship-havens  of
+ Cirdan at Brithonbar (9) and at the head of the firth of Eglarest.       
+   The  Eglain  became  a  people  somewhat  apart  from  the inland
+ Elves, and at the time of the coming of  the Exiles  their language
+ was  in  many  ways  different.   (Note  12,   p.  411)   But  they
+ acknowledged  the  high-kingship  of  Thingol,  and   Cirdan  never
+ took the title of king.(10)                                           
+                                                                      
+                               *Abari.                                
+ This  name,  evidently  made  by  the  Eldar  at  the  time  of the
+ Separation, is found  in histories  in the  Quenya form  Avari, and
+ the Telerin form Abari. It was still used by the historians  of the
+ Exiled  Noldor,   though  it   hardly  differed   from  Moriquendi,
+ which  (see  above) was  no longer  used by  the Exiles  to include
+ Elves of Eldarin  origin. The  plural Evair  was known  to Sindarin
+ loremasters, but  was no  longer in  use. Such  Avari as  came into
+ Beleriand  were,  as has  been said,  called Morben,  or Mornedhel.
+                                                                      
+                         C. The Clan-names,                            
+        with notes on other names for divisions of the Eldar.          
+                                                                      
+ In  Quenya  form  the  names   of  the   three  great   Clans  were
+ Vanyar,  Noldor,  and  Lindar.  The  oldest  of  these   names  was
+ Lindar,  which  certainly  goes  back  to  days before  the Separa-
+ tion.  The  other  two  probably  arose  in  the  same  period,  if
+ somewhat later: their original  forms may  thus be  given in  PQ as 
+ *wanja, *ngolodo, and linda /glinda. (Note 13, p. 411)                
+   According  to  the  legend,  preserved  in almost  identical form
+ among  both  the  Elves  of Aman  and the  Sindar, the  Three Clans
+ were in  the beginning  derived from  the three  Elf-fathers: Imin,
+ Tata,  and  Enel  (sc.  One,  Two,  Three),  and  those  whom  each
+ chose to join his following. So they had at first simply  the names
+ Minyar  'Firsts',  Tatyar  'Seconds',  and  Nelyar  'Thirds'. These
+ numbered, out of the original 144 Elves that  first awoke,  14, 56,
+ and  74;  and  these  proportions  were   approximately  maintained
+ until the Separation.(11)                                             
+   It  is said  that of  the small  clan of  the Minyar  none became
+ Avari.  The  Tatyar  were  evenly  divided.  The  Nelyar  were most
+ reluctant  to  leave  their  lakeside  homes;  but  they  were very
+ cohesive, and very conscious of  the separate  unity of  their Clan
+ (as they continued to be), so that when it became clear  that their
+ chieftains  Elwe  and  Olwe  were  resolved  to  depart  and  would
+ have  a  large  following,  many  of  those among  them who  had at
+
+ 
+                                                                  
+ first  joined  the Avari  went over  to the  Eldar rather  than be
+ separated from  their kin.  The Noldor  indeed asserted  that most
+ of the  'Teleri' were  at heart  Avari, and  that only  the Eglain
+ really regretted being left in Beleriand.                          
+   According  to the  Noldorin historians  the proportions,  out of
+ 144,  that  when  the  March  began  became  Avari  or  Eldar were
+ approximately so:                                                 
+   Minyar 14: Avari 0  Eldar 14                                     
+   Tatyar 56: Avari 28 Eldar 28                                    
+   Nelyar 74: Avari 28 Eldar 46 > Amanyar Teleri 20;               
+      Sindar and Nandor 26                                         
+ In the result the Noldor were the largest clan  of Elves  in Aman;
+ while  the  Elves  that remained  in Middle-earth  (the Moriquendi
+ in  the   Quenya  of   Aman)  outnumbered   the  Amanyar   in  the
+ proportion of 82 to 62.(12)                                       
+   How  far  the  descriptive  Clan-names,  *wanja,  *ngolodo,  and
+ *linda  were  preserved  among  the  Avari is  not now  known; but
+ the  existence  of  the old  clans was  remembered, and  a special
+ kinship  between  those of  the same  original clan,  whether they
+ had gone away or remained, was still  recognized. The  first Avari
+ that the Eldar met again in Beleriand seem to  have claimed  to be
+ Tatyar,  who acknowledged  their kinship  with the  Exiles, though
+ there  is  no  record  of  their  using  the  name  Noldo  in  any
+ recognizable  Avarin form.  They were  actually unfriendly  to the
+ Noldor,  and  jealous  of  their  more  exalted  kin,   whom  they
+ accused of arrogance.                                             
+   This ill-feeling descended in  part from  the bitterness  of the
+ Debate  before  the March  of the  Eldar began,  and was  no doubt
+ later  increased  by  the  machinations  of  Morgoth; but  it also
+ throws  some  light  upon  the  temperament   of  the   Noldor  in
+ general, and of Feanor in particular. Indeed  the Teleri  on their
+ side  asserted  that most  of the  Noldor in  Aman itself  were in
+ heart  Avari, and  returned to  Middle-earth when  they discovered
+ their mistake; they  needed room  to quarrel  in. For  in contrast
+ the Lindarin elements in the  western Avari  were friendly  to the
+ Eldar,  and  willing  to  learn  from  them;  and  so   close  was
+ the feeling of  kinship between  the remnants  of the  Sindar, the
+ Nandor,  and the  Lindarin Avari,  that later  in Eriador  and the
+ Vale of Anduin they often became merged together.                 
+                                                                  
+                          Lindar (Teleri).(13)                      
+   These were, as has been seen, much the largest of the ancient
+
+ clans.  The  name,  later  appearing  in   Quenya  form   as  Lindar
+ (Telerin  Lindai),  is  already referred  to in  the legend  of 'The
+ Awakening  of  the  Quendi',  which  says of  the Nelyar  that 'they
+ sang  before  they  could  speak  with  words  .  The   name  *Linda
+ is  therefore  clearly  a  derivative  of  the  primitive  stem *LIN
+ (showing  reinforcement  of the  medial x  and adjectival  -a). This
+ stem  was  possibly  one  of  the  contributions  of  the  Nelyar to
+ Primitive  Quendian,  for  it   reflects  their   predilections  and
+ associations,  and  produces  more  derivatives in  Lindarin tongues
+ than  in  others.  Its  primary  reference   was  to   melodious  or
+ pleasing  sound,  but  it  also refers  (especially in  Lindarin) to
+ water,   the   motions   of   which  were   always  by   the  Lindar
+ associated  with  vocal (Elvish)  sound. The  reinforcements, either
+ medial lind- or initial  glin-, glind-,  were however  almost solely
+ used  of  musical,  especially  vocal,  sounds produced  with intent
+ to please. It is thus to the love of the Nelyar for song,  for vocal
+ music with or without  the use  of articulate  words, that  the name
+ Lindar  originally  referred;  though  they  also  loved  water, and
+ before  the   Separation  never   moved  far   from  the   lake  and
+ waterfall (14) of  Cuivienen,  and  those  that  moved  into  the West
+ became enamoured of the Sea. (Note 14, p. 411)                     
+   In Quenya,  that is,  in the  language of  the Vanyar  and Noldor,
+ those of this clan that joined in the March were called  the Teleri.
+ This  name  was applied  in particular  to those  that came  at last
+ and latest to Aman; but  it was  also later  applied to  the Sindar.
+ The  name  Lindar  was  not  forgotten,  but  in  Noldorin  lore  it
+ was chiefly used  to describe  the whole  clan, including  the Avari
+ among  them.  Teleri  meant  'those  at  the  end  of the  line, the
+ hindmost',  and  was  evidently  a   nickname  arising   during  the
+ March,  when the  Teleri, the  least eager  to depart,  often lagged
+ far behind. (Note 15, p. 411)                                      
+                                                                   
+                                Vanyar.                             
+ This  name  was  probably  given to  the First  Clan by  the Noldor.
+ They accepted it,  but continued  to call  themselves most  often by
+ their  old  numerical  name  Minyar  (since the  whole of  this clan
+ had  joined  the  Eldar  and  reached  Aman).  The name  referred to
+ the  hair of  the Minyar,  which was  in nearly  all members  of the
+ clan  yellow  or  deep  golden.  This  was  regarded as  a beautiful
+ feature  by  the  Noldor   (who  loved   gold),  though   they  were
+ themselves   mostly   dark-haired.   Owing   to   intermarriage  the
+ golden   hair  of   the  Vanyar   sometimes  later   appeared  among
+
+ the Noldor: notably in the case of Finarfin,  and in  his children
+ Finrod  and  Galadriel,  in  whom  it  came  from  King   Finwe  s
+ second wife, Indis of the Vanyar.                                 
+   Vanyar  thus  comes  from an  adjectival derivative  *wanja from
+ the  stem  *WAN.  Its  primary  sense  seems  to  have  been  very
+ similar to English (modern) use of 'fair'  with reference  to hair
+ and  complexion;  though  its actual  development was  the reverse
+ of  the  English:  it  meant 'pale,  light-coloured, not  brown or
+ dark', and  its implication  of beauty  was secondary.  In English
+ the  meaning  'beautiful'  is  primary.  From  the  same  stem was
+ derived  the  name  given  in  Quenya  to the  Valie Vana  wife of
+ Orome.                                                            
+   Since the Lindar had little  contact with  the Vanyar  either on
+ the  March  or  later  in  Aman, this  name was  not much  used by
+ them  for  the  First  Clan.  The  Amanyar  Teleri  had  the  form
+ Vaniai  (no doubt  taken from  the Noldor),  but the  name appears
+ to  have been  forgotten in  Beleriand, where  the First  Clan (in
+ lore and history only) were called Miniel, pl. Minil.             
+                                                                  
+                               Noldor.                             
+ This  name  was  probably  older  than Vanyar,  and may  have been
+ made before the  March. It  was given  to the  Second Clan  by the
+ others.  It  was  accepted,  and  was  used  as their  regular and
+ proper  name by  all the  Eldarin members  of the  clan throughout
+ their later history.                                              
+   The  name  meant  'the  Wise',  that  is  those  who  have great
+ knowledge   and   understanding.    The   Noldor    indeed   early
+ showed the greatest talents of all the Elves both for intellectual
+ pursuits and for technical skills.                                
+   The  variant  forms  of  the name:  Q Noldo,  T Goldo,  S Golodh
+ (Ngolodh), indicate a PQ original *ngolodo.  This is  a derivative
+ of the  stem *NGOL 'knowledge, wisdom,  lore'. This  is seen  in Q
+ Role  'long  study  (of  any  subject)',  ingole  'lore',  ingolmo
+ 'loremaster'. In T gole, engole had the  same senses  as in  Q but
+ were  used  most  often  of  the special  'lore' possessed  by the
+ Noldor.  In  S  the  word  gul  (equivalent  of  Q nole)  had less
+ laudatory  associations,  being used  mostly of  secret knowledge,
+ especially  such  as  possessed by  artificers who  made wonderful
+ things;  and  the  word  became further  darkened by  its frequent
+ use  in  the  compound  morgul  'black   arts',  applied   to  the
+ delusory  or  perilous  arts and  knowledge derived  from Morgoth.
+ Those  indeed  among  the  Sindar  who  were  unfriendly   to  the
+
+ Noldor attributed their  supremacy in  the arts  and lore  to their
+ learning  from  Melkor-Morgoth.  This   was  a   falsehood,  coming
+ itself  ultimately  from  Morgoth;  though it  was not  without any
+ foundation  (as the  lies of  Morgoth seldom  were). But  the great
+ gifts  of  the Noldor  did not  come from  the teaching  of Melkor.
+ Feanor  the  greatest  of  them  all  never  had any  dealings with
+ Melkor in Aman, and was his greatest foe.                          
+                                                                   
+                               Sindar.                              
+ Less commonly the form Sindel, pl. Sindeldi, is also met  in Exilic
+ Quenya.  This  was  the  name  given  by  the  Exiled  Noldor  (see
+ Note  11)  to the  second largest  of the  divisions of  the Eldar.
+ (Note 16, p. 412) It was applied to all the Elves of Telerin origin
+ that the Noldor found in  Beleriand, though  it later  excluded the
+ Nandor,  except  those  who were  the direct  subjects of  Elwe, or
+ had  become   merged  with   his  people.   The  name   meant  'the
+ Grey',  or  'the  Grey-elves',  and  was  derived  from  *THIN,  PQ
+ *thindi 'grey, pale or silvery grey', Q pinde, N dialect sinde.
+   On the  origin of  this name  see Note  11. The  Loremasters also
+ supposed that reference was made to  the hair  of the  Sindar. Elwe
+ himself had indeed long and beautiful hair of silver hue,  but this
+ does not seem to have been a  common  feature of the Sindar,
+ though  it  was found  among them  occasionally, especially  in the
+ nearer  or remoter  kin of  Elwe (as  in the  case of Cirdan).(15) In
+ general  the  Sindar  appear  to  have  very closely  resembled the
+ Exiles, being dark-haired, strong and tall, but lithe.  Indeed they
+ could hardly be told apart except by  their eyes;  for the  eyes of
+ all  the  Elves  that  had  dwelt  in   Aman  impressed   those  of
+ Middle-earth  by their  piercing brightness.  For which  reason the
+ Sindar often called them Lachend, pl. Lechind 'flame-eyed'.        
+                                                                   
+                               Nandor.                              
+ This name must have been made at the  time, in  the latter  days of
+ the  March,  when  certain  groups  of  the  Teleri  gave   up  the
+ March;  and it  was especially  applied to  the large  following of
+ Lenwe, (Note 17, p. 412) who refused to cross the Hithaeglir.(16)  
+ The  name  was often  interpreted as  'Those who  go back';  but in
+ fact  none  of  the  Nandor  appear  to have  returned, or  to have
+ rejoined the Avari. Many remained  and settled  in lands  that they
+ had  reached,  especially  beside  the  River  Anduin;  some turned
+ aside  and  wandered  southwards.  (Note  18,  p.  412)  There was,
+ however,  as  was  later  seen,  a  slow  drift  westward   of  the
+ Moriquendi  during   the  captivity   of  Melkor,   and  eventually
+
+ groups  of   the  Nandor,   coming  through   the  Gap   between  the
+ Hithaeglir  and  Eryd  Nimrais,  spread  widely  in Eriador.  Some of
+ these  finally  entered  Beleriand,  not  long  before the  return of
+ Morgoth.(17) These  were   under  the   leadership  of   Denethor,  son
+ of  Denweg  (see  Note  17),  who  became  an  ally  of  Elwe  in the
+ first  battles  with  the   creatures  of   Morgoth.  The   old  name
+ Nandor    was    however    only    remembered   by    the   Noldorin
+ historians  in  Aman;  and  they  knew nothing  of the  later history
+ of this folk, recalling only that the leader of the  defection before
+ the  crossing  of  the  dread  Hithaeglir   was  named   Lenwe  (i.e.
+ Denweg).   The   Sindarin    loremasters   remembered    the   Nandor
+ as  Danwaith,  or  by  confusion  with  the  name  of   their  leader
+ Denwaith.                                                          
+   This  name  they  at  first applied  to the  Nandor that  came into
+ Eastern Beleriand;  but this  people still  called themselves  by the
+ old  clan-name  *Lindai,  which  had  at  that  time  taken  the form
+ Lindi  in  their  tongue.  The   country  in   which  most   of  them
+ eventually  settled,  as  a  small  independent  folk,   they  called
+ Lindon  (<  *Lindana):  this  was  the  country  at the  western feet
+ of  the Blue  Mountains (Eryd  Luin), watered  by the  tributaries of
+ the  great  River  Gelion,  and  previously   named  by   the  Sindar
+ Ossiriand,   the   Land   of   Seven   Rivers.  The   Sindar  quickly
+ recognized  the  Lindi as  kinsfolk of  Lindarin origin  (S Glinnil),
+ using  a  tongue  that  in  spite  of  great  differences  was  still
+ perceived  to  be  akin  to  their  own; and  they adopted  the names
+ Lindi  and  Lindon,  giving  them  the forms  Lindil (sg.  Lindel) or
+ Lindedhil,  and  Lindon  or   Dor  Lindon.   In  Exilic   Quenya  the
+ forms  used  (derived  from  the  Sindar or  direct from  the Nandor)
+ were  Lindi  and  Lindon  (or  Lindone).   The  Exiled   Noldor  also
+ usually  referred  to  the  Eryd  Luin  as  Eryd  Lindon,  since  the
+ highest  parts  of  that  range  made  the  eastern  borders  of  the
+ country of Lindon.                                                  
+   These  names  were   however  later   replaced  among   the  Sindar
+ by the  name 'Green-elves',  at least  as far  as the  inhabitants of
+ Ossiriand   were   concerned;  for   they  withdrew   themselves  and
+ took as little part in the strife  with Morgoth  as they  could. This
+ name,  S  Laegel,  pl.  Laegil,  class-plural  Laegrim  or Laegel(d)-
+ rim,  was  given  both  because  of  the  greenness  of  the  land of
+ Lindon,  and  because  the  Laegrim  clothed  themselves in  green as
+ an  aid  to  secrecy.  This  term the  Noldor translated  into Quenya
+ Laiquendi; but it was not much used.                                
+
+                 Appendix A. Elvish names for Men.                
+                                                                 
+ The first Elves  that Men  met in  the world  were Avari,  some of
+ whom  were  friendly  to  them,  but  the  most  avoided  them  or
+ were  hostile  (according  to the  tales of  Men). What  names Men
+ and  Elves  gave to  one another  in those  remote days,  of which
+ little  was  remembered  when  the  Loremasters in  Beleriand made
+ the acquaintance of  the After-born,  there is  now no  record. By
+ the Dunedain the Elves were called Nimir (the Beautiful).(18)    
+  The  Eldar  did  not  meet  Men  of  any kind  or race  until the
+ Noldor  had  long  returned  to  Beleriand  and  were at  war with
+ Morgoth. The Sindar did not  even know  of their  existence, until
+ the  coming  of the  Nandor; and  these brought  only rumour  of a
+ strange  people  (whom  they  had  not themselves  seen) wandering
+ in  the  lands  of  the  East  beyond  the Hithaeglir.  From these
+ uncertain  tales the  Sindar concluded  that the  'strange people'
+ were either some diminished race of the Avari, or else  related to
+ Orcs, creatures of  Melkor, bred  in mockery  of the  true Quendi.
+ But  the  Noldor  had  already  heard  of   Men  in   Aman.  Their
+ knowledge  came   in  the   first  place   from  Melkor   and  was
+ perverted  by his  malice, but  before the  Exile those  who would
+ listen had  learned more  of the  truth from  the Valar,  and they
+ knew  that  the  newcomers  were  akin  to themselves,  being also
+ Children of Iluvatar, though differing in  gifts and  fate. There-
+ fore  the  Noldor  made  names   for  the   Second  Race   of  the
+ Children, calling them the  Atani 'the  Second Folk'.  Other names
+ that  they  devised  were  Apanonar  'the After-born',  and Hildor
+ 'the Followers'.                                                 
+  In Beleriand Atan, pl. Atani, was  the name  most used  at first.
+ But  since  for  a  long  time the  only Men  known to  the Noldor
+ and  Sindar were  those of  the Three  Houses of  the Elf-friends,
+ this name became specially associated  with them,  so that  it was
+ seldom  in  ordinary  speech applied  to other  kinds of  Men that
+ came  later to  Beleriand, or  that were  reported to  be dwelling
+ beyond  the  Mountains.  The  Elf-friends (Note  19, p.  412) were
+ sometimes  called  by  the  Loremasters  Nunatani   (S  Dunedain),
+ 'Western  Men',  a  term  made  to  match  Dunedhil,  which  was a
+ name  for  all  the  Elves of  Beleriand, allied  in the  War (see
+ p. 378). The original reference was to  the West  of Middle-earth,
+ but  the  name  Nunatani,  Dunedain   was  later   applied  solely
+ to  the  Numenoreans,  descendants  of the  Atani, who  removed to
+ the far western isle of Numenore.                                
+
+                                                                   
+                                                                    
+   Apanonar  'the  After-born'  was  a  word  of  lore,  not  used  in
+ daily  speech. A  general term  for Men  of all  kinds and  races, as
+ distinct  from  Elves,  was  only devised  after their  mortality and
+ brief  life-span  became  known  to  the  Elves  by  experience. They
+ were  then  called  Firyar  'Mortals',  or  Firimar of  similar sense
+ (literally 'those apt to die'). (Note  20, p.  412) These  words were
+ derived  from  the   stem *PHIRI   'exhale,  expire,   breathe  out',
+ which  had  no  original   connexion  with death.(19) Of   death,  as
+ suffered  by  Men,  the  Elves  knew  nothing  until  they  came into
+ close  association  with  the Atani;  but there  were cases  in which
+ an  Elf,  overcome  by  a  great  sorrow  or weariness,  had resigned
+ life in the body. The chief of  these, the  departure of  Miriel wife
+ of  King  Finwe,  was a  matter of  deep concern  to all  the Noldor,
+ and it was told of her that her last act, as she gave up her  life in
+ the  body  and went  to the  keeping of  Mandos, was  a deep  sigh of
+ weariness.                                                          
+   These   Quenya   names  were   later  adapted   to  the   forms  of
+ Sindarin  speech:  Atan  >  Adan, pl.  Edain; Firya  > Feir,  pl. Fir
+ (with Firion m.sg.,  Firieth f.sg.),  class-plural Firiath;  Firima >
+ Fireb,  pl.  Firib,  class-plural   Firebrim.  These   forms,  which
+ cannot  for  historical  reasons  have  been  inherited from  CE, but
+ are  those  which  the  words  if  inherited  would have  taken, show
+ that  they  were  adapted  by  people  with   considerable  knowledge
+ of  both  tongues  and  understanding  of  their  relations   to  one
+ another;  that  is,  they  were  probably  first  made by  the Noldor
+ for  use  in  Sindarin,  when  they  had  adopted  this  language for
+ daily  use  in  Beleriand. Fireb  as compared  with Firima  shows the
+ use of a different suffix, (Note 21, p. 412)  since the  S equivalent
+ of  Q  -ima  (*-ef)  was  not  current.  Apanonar  was  rendered  by
+ Abonnen,  pl.  Eboennin,  using  a  different  participial  formation
+ from the stem *ONO 'beget, give birth to'. Hildor, since the stem
+ *KHILI  'follow'  was  not  current  in  Sindarin,  was  rendered  by
+ Aphadon,   pl.   Ephedyn,  class-plural   Aphadrim,  from   S  aphad-
+ 'follow' < *ap-pata 'walk behind, on a track or path'.              
+                                                                    
+               Appendix B. Elvish names for the Dwarves.             
+                                                                    
+ The  Sindar  had  long  known   the  Dwarves,  and  had  entered into
+ peaceful  relations  with  them,  though  of  trade  and  exchange of
+ skills  rather  than  of true  friendship, before  the coming  of the
+ Exiles.  The  name  (in  the  plural)  that   the  Dwarves   gave  to
+ themselves  was  Khazad,  and  this  the  Sindar  rendered   as  they
+
+ might  in  the terms  of their  own speech,  giving it  the form
+ *chadod  >  *chadaud  >  Hadhod.  (Note  22,  p.   412)  Hadhod,
+ Hadhodrim was the  name which  they continued  to use  in actual
+ intercourse  with  the  Dwarves;   but  among   themselves  they
+ referred  to  the Dwarves  usually as  the Naugrim  'the Stunted
+ Folk'.  The  adjective naug  'dwarf(ed), stunted',  however, was
+ not used by  itself for  one of  the Khazad.  The word  used was
+ Nogoth, pl.  Noegyth, class-plural  Nogothrim (as  an occasional
+ equivalent  of  Naugrim).  (Note  23,  p.  413) They  also often
+ referred to  the Dwarves  as a  race by  the name  Dornhoth 'the
+ Thrawn Folk', because of their stubborn mood  as well  as bodily
+ toughness.                                                      
+   The Exiles heard  of the  Dwarves first  from the  Sindar, and
+ when  using the  Sindarin tongue  naturally adopted  the already
+ established  names. But  later in  Eastern Beleriand  the Noldor
+ came  into  independent  relations  with  the  Dwarves  of  Eryd
+ Lindon,  and  they  adapted  the  name  Khazad  anew for  use in
+ Quenya, giving it the form  Kasar, pl.  Kasari or  Kasari. (Note
+ 24,  p.  413) This  was the  word most  commonly used  in Quenya
+ for the  Dwarves, the  partitive plural  being Kasalli,  and the
+ race-name  Kasallie. But  the Sindarin  names were  also adapted
+ or  imitated, a  Dwarf being  called Nauko  or Norno  (the whole
+ people  Naukalie  or  Nornalie).  Norno  was  the  more friendly
+ term. (Note 25, p. 413)                                         
+   The Petty-dwarves. See also Note 7. The Eldar did not  at first
+ recognize these as Incarnates,  for they  seldom caught  sight of
+ them in clear light. They  only became  aware of  their existence
+ indeed when they attacked the Eldar  by stealth  at night,  or if
+ they  caught  them  alone  in  wild  places. The  Eldar therefore
+ thought  that  they  were  a kind  of cunning  two-legged animals
+ living in caves, and they called them Levain tad-dail,  or simply
+ Tad-dail,  and they  hunted them.  But after  the Eldar  had made
+ the  acquaintance of  the Naugrim,  the Tad-dail  were recognized
+ as a  variety of  Dwarves and  were left  alone. There  were then
+ few of them surviving, and they were very  wary, and  too fearful
+ to  attack any  Elf, unless  their hiding-places  were approached
+ too  nearly.  The  Sindar  gave them  the names  Nogotheg 'Dwarf-
+ let', or Nogoth niben 'Petty Dwarf'.(20)                        
+   The  great  Dwarves  despised the  Petty-dwarves, who  were (it
+ is said) the descendants of Dwarves who had  left or  been driven
+ our  from  the  Communities,  being  deformed  or  undersized, or
+ slothful  and  rebellious.  But  they  still  acknowledged  their
+
+                                                                        
+                                                                        
+ kinship  and  resented  any  injuries  done  to  them.  Indeed   it  was
+ one  of  their  grievances  against  the  Eldar  that  they  had  hunted
+ and  slain  their  lesser  kin,  who  had  settled  in  Beleriand before
+ the  Elves  came  there.  This  grievance was  set aside,  when treaties
+ were  made   between  the   Dwarves  and   the  Sindar,   in  considera-
+ tion   of   the  plea   that  the   Petty-dwarves  had   never  declared
+ themselves  to  the  Eldar,  nor  presented  any   claims  to   land  or
+ habitations,   but   had   at   once    attacked   the    newcomers   in
+ darkness   and   ambush.   But  the   grievance  still   smouldered,  as
+ was  later  seen  in  the  case  of  Mim,   the  only   Petty-dwarf  who
+ played a memorable part in the Annals of Beleriand.                     
+   The   Noldor,   for   use   in   Quenya,  translated   these  Sindarin
+ names  for  the  Petty-dwarves  by   Attalyar  'Bipeds',   and  Pikinau-
+ kor or Pitya-naukor.                                                    
+                                                                        
+   The  chief  dwellings  of  the  Dwarves  that  became  known   to  the
+ Sindar  (though  few  ever  visited  them)  were upon  the east  side of
+ the  Eryd  Luin.  They   were  called   in  the   Dwarf-tongue  Gabilga-
+ thol  and  Tumunzahar.  The  greatest  of  all   the  mansions   of  the
+ Dwarves,   Khazad-dum,  beneath   the  Hithaeglir   far  to   the  east,
+ was  known  to  the  Eldar  only  by  name   and  rumour   derived  from
+ the western Dwarves.                                                    
+   These   names   the   Sindar   did   not   attempt   to   adapt,   but
+ translated  according   to  their   sense,  as   Belegost  'Mickleburg';
+ Novrod,   later   Nogrod,    meaning   originally    'Hollowbold';   and
+ Hadhodrond   'Dwarrowvault'.(21)   (Note   26,   p.  414)   These  names
+ the  Noldor  naturally  used  in  speaking  or  writing   Sindarin,  but
+ for  use  in  Quenya  they  translated  the   names  anew   as  Turosto,
+ Navarot, and Casarrondo.                                                
+                                                                        
+                  Appendix C. Elvish names for the Orcs.                 
+                                                                        
+   The  opening  paragraphs  of   this  Appendix   have  been   given  in
+   Morgoth's  Ring  p.  416  and are  not repeated  here. The  words that
+   now follow, 'these shapes and the terror that they inspired', refer to
+   the 'dreadful shapes' that haunted the dwellings of  the Elves  in the
+   land of their awakening.                                              
+                                                                        
+   For  these  shapes  and  the  terror  that  they inspired  the element
+ chiefly  used  in  the  ancient  tongue  of  the  Elves appears  to have
+ been *RUKU.  In  all  the  Eldarin  tongues  (and,  it  is said,  in the
+ Avarin  also)  there  are  many  derivatives of  this stem,  having such
+ ancient  forms  as:   ruk-,  rauk-,   uruk-,  urk(u),   runk-,  rukut/s,
+ besides  the  strengthened  stem  gruk-,   and  the   elaborated  guruk-,
+
+ nguruk.  (Note  27,  p.  415) Already  in PQ  that word  must have
+ been  formed  which  had  in CE  the form  *rauku or  *rauko. This
+ was applied to the larger and more terrible  of the  enemy shapes.
+ But ancient were also the forms uruk,  urku/o, and  the adjectival
+ urka 'horrible'. (Note 28, p. 415)                               
+   In Quenya  we meet  the noun  urko, pl.  urqui, deriving  as the
+ plural  form  shows  from *urku  or *uruku.  In Sindarin  is found
+ the  corresponding urug;  but there  is in  frequent use  the form
+ orch,  which  must  be  derived  from  *urko  or   the  adjectival
+ *urka.                                                           
+   In the lore of  the Blessed  Realm the  Q urko  naturally seldom
+ occurs, except in tales  of the  ancient days  and the  March, and
+ then is vague in meaning, referring to  anything that  caused fear
+ to  the  Elves,  any   dubious  shape   or  shadow,   or  prowling
+ creature. In Sindarin urug has a similar use.  It might  indeed be
+ translated 'bogey'. But the form orch seems at  once to  have been
+ applied  to  the Orcs,  as soon  as they  appeared; and  Orch, pl.
+ Yrch,  class-plural Orchoth  remained the  regular name  for these
+ creatures  in  Sindarin  afterwards.   The  kinship,   though  not
+ precise equivalence, of S orch  to Q  urko, urqui  was recognized,
+ and  in  Exilic  Quenya  urko  was  commonly  used   to  translate
+ S orch, though  a form  showing the  influence of  Sindarin, orko,
+ pl. orkor and orqui, is also often found.                        
+   These  names,  derived  by  various   routes  from   the  Elvish
+ tongues,   from   Quenya,   Sindarin,   Nandorin,  and   no  doubt
+ Avarin dialects,  went far  and wide,  and seem  to have  been the
+ source of the names for the Orcs in most of  the languages  of the
+ Elder Days and the early ages of  which there  is any  record. The
+ form  in  Adunaic  urku,  urkhu  may  be  direct  from  Quenya  or
+ Sindarin;  and  this  form  underlies  the  words  for Orc  in the
+ languages  of  Men  of  the  North-West  in  the Second  and Third
+ Ages.  The  Orcs  themselves  adopted  it,  for  the fact  that it
+ referred  to  terror  and  detestation  delighted  them.  The word
+ uruk that  occurs in  the Black  Speech, devised  (it is  said) by
+ Sauron to serve as a lingua franca for his subjects,  was probably
+ borrowed  by  him  from the  Elvish tongues  of earlier  times. It
+ referred, however, specially to the  trained and  disciplined Orcs
+ of  the  regiments  of  Mordor.  Lesser breeds  seem to  have been
+ called snaga.(22)                                                
+   The  Dwarves  claimed  to  have  met  and  fought the  Orcs long
+ before the Eldar in Beleriand were  aware of  them. It  was indeed
+ their obvious detestation of  the Orcs,  and their  willingness to
+
+ assist in any war against them, that convinced the Eldar  that the
+ Dwarves   were   no   creatures   of   Morgoth.   Nonetheless  the
+ Dwarvish  name  for  Orcs,  Rukhs,  pl.  Rakhas,  seems   to  show
+ affinity to the Elvish names, and was possibly  ultimately derived
+ from Avarin.                                                     
+   The  Eldar  had  many  other  names  for the  Orcs, but  most of
+ these were 'kennings',  descriptive terms  of occasional  use. One
+ was,  however,  in  frequent  use  in  Sindarin:  more  often than
+ Orchoth the general name for Orcs as  a race  that appears  in the
+ Annals  was  Glamhoth.  Glam  meant  'din,  uproar,  the  confused
+ yelling  and  bellowing  of  beasts', so  that Glamboth  in origin
+ meant  more  or less  'the Yelling-horde',  with reference  to the
+ horrible clamour of the Orcs in battle or when  in pursuit  - they
+ could  be  stealthy  enough  at  need.  But  Glamhoth   became  so
+ firmly  associated  with  Orcs that  Glam alone  could be  used of
+ any  body  of  Orcs,  and  a  singular  form  was  made  from  it,
+ glamog. (Compare the name of the sword Glamdring.)               
+                                                                 
+   Note.  The  word  used  in  translation  of Q  urko, S  orch, is
+ Orc. But that is because of the similarity of the  ancient English
+ word orc, 'evil spirit or bogey',  to the  Elvish words.  There is
+ possibly  no  connexion  between  them.  The  English word  is now
+ generally supposed to be derived from Latin Orcus.               
+   The  word  for  Orc  in   the  now   forgotten  tongue   of  the
+ Druedain  in  the  realm  of  Gondor  is recorded  as being  (? in
+ the plural) gorgun. This is possibly  derived ultimately  from the
+ Elvish words.                                                    
+                                                                 
+                            Appendix D.                           
+        *Kwen, Quenya, and the Elvish (especially Noldorin)       
+                       words for 'Language'.                      
+                                                                 
+ The  Noldorin  Loremasters  state  often   that  the   meaning  of
+ Quendi  was  'speakers',  'those  who  form  words with  voices' -
+ i  karir  quettar  omainen.  Since  they  were  in  possession  of
+ traditions  coming  down  from  ancient  days  before  the Separa-
+ tion, this statement  cannot be  disregarded; though  the develop-
+ ment of sense set out above may also stand as correct.           
+   It  might  be  objected  that  in  fact  no  stem *KWEN  clearly
+ referring to speech or vocal sound  is found  in any  known Elvish
+ tongue.  The  nearest  in  form  is  the  stem *KWET 'speak, utter
+ words, say'.  But in  dealing with  this ancient  word we  must go
+ back  to  the  beginnings  of  Elvish  speech,  before  the  later
+
+ organisation of its basic structure, with its  preference (especially
+ in  stems  of  verbal significance)  for the  pattern X-X(-),  with a
+ fixed  medial  consonant,  as  e.g.  in  stems   already  exemplified
+ above,   such   as   *Dele,  *Heke,   *Tele,  *Kala,   *Kiri,  *Nuku,
+ *Ruku,  etc.  A  large  number  of  monosyllabic  stems   (with  only
+ an  initial  consonant  or  consonant  group)  still  appear  in  the
+ Eldarin  tongues;  and  many  of  the  dissyllabic  stems  must  have
+ been made by elaboration of these, just as, at  a later  stage again,
+ the  so-called  *kalat-  stems  were  extended  from  the  disyllabic
+ forms: *kala > *kalat(a).                                              
+   If we assume, then,  that the  oldest form  of this  stem referring
+ to  vocal  speech   was  *KWE,   of  which  *KWENE  and  *KWETE  were
+ elaborations,  we  shall  find a  striking parallel  in the  forms of
+ *KWA.  This  stem  evidently  referred  to  'completion'. As  such it
+ survives  as  an element  in many  of the  Eldarin words  for 'whole,
+ total,  all,  etc.  But  it  also  appears  in  the  form  *KWAN, and
+ cannot  well  be  separated  from  the  verb  stem *KWATA,   Q  quat-
+ 'fill'.  The  assumption  also  helps  to   explain  a   curious  and
+ evidently  archaic  form  that  survives  only  in  the  languages of
+ Aman:  *ekwe,  Q  eque,  T  epe. It  has no  tense forms  and usually
+ receives  no  pronominal  affixes,  (Note  29,  p. 415)  being mostly
+ used  only  before  either  a  proper  name  (sg. or  pl.) or  a full
+ independent  pronoun,  in  the  senses   say  /   says  or   said.  A
+ quotation  then  follows,  either  direct,  or less  usually indirect
+ after a 'that'-conjunction.                                            
+   In this  *ekwe we  have plainly  a last  survivor of  the primitive
+ *KWE.  It  is  again paralleled  by a  similar formation  (though of
+ different  function)  from  *KWA:  *akwa.  This survives  in Quenya
+ only  as  aqua  'fully,  completely,  altogether, wholly'.  (Note 30,
+ p.  415)  Compare  the  use of  -kwa in  the formation  of adjectives
+ from  nouns,  such  as  -ful in  English, except  that the  sense has
+ been  less  weakened,  and  remains  closer  to the  original meaning
+ of the stem: completely . (Note 31, p. 415)                            
+   In  Quenya  the  form  eques,  originally  meaning  'said  he, said
+ someone'  (see  Note  29) was  also used  as a  noun eques,  with the
+ analogical  plural  equessi,  'a  saying,  dictum,  a  quotation from
+ someone's  uttered  words',  hence  also  'a  saying,  a  current  or
+ proverbial dictum'.                                                    
+   We   may   therefore   accept  the   etymology  of   *kwene,  *kwen
+ that  would  make  its  original  meaning  'speaking,   speaker,  one
+ using  vocal language'.  It would  indeed be  natural for  the Elves,
+ requiring  a  word  for  one  of  their  own  kind  as  distinguished
+
+ from other creatures then known, to select the use  of speech  as a
+ chief  characteristic.  But once  formed the  word must  have taken
+ the meaning 'person', without specific reference to this  talent of
+ the  Incarnates.  Thus  *nere,  *ner  a  male  person,  a  man  was
+ derived  from *NERE  referring  to  physical  strength  and valour,
+ but  it  was  possible  to  speak  of  a weak  or cowardly  ner; or
+ indeed to speak of a dumb or silent kwen.                         
+    It  might  therefore  still  be doubted  that in  the derivative
+ *kwendi  the  notion  of  speaking   was  any   longer  effectively
+ present.  The  statement  of  the  Loremasters cannot,  however, be
+ dismissed;  while  it  must  be  remembered  that  the  Elves  were
+ always  more  deeply  concerned  with  language  than   were  other
+ races. Up to the  time at  least of  the Separation,  then, *Kwendi
+ must still have implied 'we,  the speaking  people'; it  may indeed
+ have  primarily  applied  to  concourses  for  discussion,  or  for
+ listening to speeches and recitations. But when  the Elves  came to
+ know  of  other creatures  of similar  forms, and  other Incarnates
+ who  used  vocal  language,  and  the  name  *Kwendi,   Quendi  was
+ used  to  distinguish  themselves  from  these  other   kinds,  the
+ linguistic  sense  must  have  been no  longer present  in ordinary
+ language.                                                         
+                                                                  
+    With  regard  to  the  word  Quenya: an  account is  given above
+ of  the  way  in  which  this word  became used  first in  Aman for
+ Elvish speech, (Note 32, p. 416) and then for  the dialects  of the
+ Eldar  in  Aman,  and  later  for  the language  of the  Vanyar and
+ Noldor, and finally in Middle-earth for the  ancient tongue  of the
+ Noldor  preserved  as  a  language  of  ritual  and  lore.  This is
+ historically  correct, whatever  may be  the ultimate  etymology of
+ Quenya  before  the  Eldar  came  to  Aman.  The  view  taken above
+ (p. 360) is that it is  derived from  an adjective  *kwendja formed
+ upon  the  stem  *kwende   (of  which  *kwendi  was   the  plural),
+ meaning 'belonging to the Quendi or Elves'.                       
+    Pengolodh  the  Loremaster  of  Eressea says,  in his  Lammas or
+ Account  of   Tongues,  that   Quenya  meant   properly  'language,
+ speech', and was the oldest word for  this meaning.  This is  not a
+ statement  based  on tradition,  but an  opinion of  Pengolodh; and
+ he  appears  to  mean  only  that   Quendya,  Quenya   is  actually
+ never  recorded  except  as  the  name  of  a  language,  and  that
+ language was  the only  one known  to exist  when this  word was
+ first made.                                                     
+    In  any  case  it  is  clear  that  Quenya  was  always  in fact
+
+ particular in its reference; for  when the  Noldorin Loremasters
+ came  to  consider  linguistic matters,  and required  words for
+ speech or vocal language in general, as a mode of  expression or
+ communication, and for  different aspects  of speech,  they made
+ no use of the element *kwen, quen or its derivatives.          
+   The  usual  word,  in  non-technical  use, for  'language' was
+ 'lambe, Q and T lambe, S  lam. This  was undoubtedly  related to
+ the  word  for  the  physical  tongue:  *lamba,  Q and  T lamba,
+ S lam. It meant  'tongue-movement, (way  of) using  the tongue'.
+ (Note 33, p. 416) This use of a word  indicating the  tongue and
+ its movements for articulate language no doubt arose, even  in a
+ period  when  all  known speakers  spoke substantially  the same
+ language,  from  elementary  observation  of the  important part
+ played by the tongue in articulate  speaking, and  from noticing
+ the peculiarities of individuals, and the  soon-developing minor
+ differences in the language of groups and clans.               
+   Lambe  thus  meant  primarily  'a  way  of talking',  within a
+ common  generally  intelligible  system, and  was nearer  to our
+ 'dialect' than to 'language';  but later  when the  Eldar became
+ aware of other  tongues, not  intelligible without  study, lambe
+ naturally  became  applied  to  the  separate  languages  of any
+ people or region. The Loremasters, therefore, did not  use lambe
+ as a term for language or  speech in  general. Their  terms were
+ derived  from  the  stem *TEN  'indicate,  signify',  from which
+ was  formed  the  already  well-known  word  *tenwe  >  Q tengwe
+ 'indication,  sign,  token'.  From  this  they  made   the  word
+ tengwesta 'a system or code of signs'. Every 'language'  was one
+ such system. A lambe was  a tengwesta  built of  sounds (hloni).
+ For the  sense Language,  as a  whole, the  peculiar art  of the
+ Incarnates  of which  each tengwesta  was a  particular product,
+ they used the abstract formation tengwestie.                   
+   Now  *TEN  had no  special reference  to sound.  Ultimately it
+ meant 'to point at', and  so to  indicate a  thing, or  convey a
+ thought,  by  some  gesture,  or  by  any  sign  that  would  be
+ understood.  This  was  appreciated  by  the   Loremasters,  who
+ wished for a word free from any limitations  with regard  to the
+ kind of signs  or tengwi  used. They  could thus  include under
+ tengwesta any group of signs,  including visible  gestures, used
+ and recognized by a community.                                 
+   They knew of such systems  of gesture.  The Eldar  possessed a
+ fairly elaborate system, (Note  34, p.  416) containing  a large
+ number  of  conventional  gesture-signs, some  of which  were as
+
+                                                                 
+                                                                  
+ 'arbitrary'  as those  of phonetic  systems. That  is, they  had no
+ more  obvious  connexion  with  self-explanatory gestures  (such as
+ pointing in a  desired direction)  than had  the majority  of vocal
+ elements  or combinations  with 'echoic'  or imitative  words (such
+ ps *mama, Q mama sheep, or *k(a)wak, Q quako 'crow').              
+   The  Dwarves  indeed,  as  later  became  known,  had a  far more
+ elaborate  and  organized   system.  They   possessed  in   fact  a
+ secondary  tengwesta  of  gestures,  concurrent  with  their spoken
+ language,  which  they  began  to  learn  almost  as  soon  as they
+ began  learning  to  speak.  It  should  be  said rather  that they
+ possessed  a  number  of  such  gesture-codes;  for   unlike  their
+ spoken   language,   which   remained  astonishingly   uniform  and
+ unchanged  both  in  time  and  in  locality,  their  gesture-codes
+ varied  greatly  from  community  to   community.  And   they  were
+ differently  employed.  Not  for communication  at a  distance, for
+ the   Dwarves  were   short-sighted,  but   for  secrecy   and  the
+ exclusion of strangers.                                           
+   The  component  sign-elements  of  any  such  code were  often so
+ slight and so swift that they could hardly be detected,  still less
+ interpreted  by  uninitiated  onlookers.  As  the  Eldar eventually
+ discovered in  their dealings  with the  Naugrim, they  could speak
+ with  their  voices but  at the  same time  by 'gesture'  convey to
+ their  own  folk  modifications  of  what was  being said.  Or they
+ could  stand silent  considering some  proposition, and  yet confer
+ among themselves meanwhile.                                       
+   This  'gesture-language',  or  as they  called it  iglishmek, the
+ Dwarves  were  no  more  eager  to  teach  than  their  own tongue.
+ But  they  understood  and respected  the disinterested  desire for
+ knowledge,  and  some  of  the  later  Noldorin   loremasters  were
+ allowed  to  learn  enough of  both their  lambe (aglab)  and their
+ iglishmek to understand their systems.                            
+   Though  a  lambe  was  thus  theoretically  simply   a  tengwesta
+ that  happened  to  employ  phonetic  signs,  hloniti  tengwi,  the
+ early  loremasters  held  that  it was  the superior  form, capable
+ of  producing  a  system  incalculably  more  subtle,  precise  and
+ extensive  than  any  hwerme  or  gesture-code.  When  unqualified,
+ therefore,  tengwesta  meant  a spoken  language. But  in technical
+ use it meant more  than lambe.  The study'  of a  language included
+ not only lambe, the way of speaking  (that is  what we  should call
+ its phonetics and phonology), but also its morphology, gram-
+ mar, and vocabulary.                                              
+
+ The section omitted from Appendix D (see p. 359) begins  here. The
+ remainder of the text, which now follows, was all included  in this
+ Appendix.                                                         
+                                                                  
+ Before   he  turned   to  other   matters  Feanor   completed  his
+ alphabetic  system,  and  here  also  he  introduced  a  change in
+ terms  that  was  afterwards  followed.  He  called   the  written
+ representation  of  a  spoken  tengwe  (according  to  his defini-
+ tion)(23) a tengwa. A  'letter' or  any individual  significant mark
+ had previously been  called a  sarat, from *SAR 'score,  incise' >
+ 'write'.(24) The Feanorian  letters were  always called  tengwar in
+ Quenya,  though  sarati  remained  the   name  for   the  Rumilian
+ letters. Since,  however, in  the mode  of spelling  commonly used
+ the  full signs  were consonantal,  in ordinary  non-technical use
+ tengwar  became  equivalent to  'consonants', and  the vowel-signs
+ were   called   omatehtar.   When   the  Feanorian   letters  were
+ brought  to  Beleriand  and  applied  (first  by  the  Noldor)  to
+ Sindarin,  tengwa   was  rendered   by  its   recognized  Sindarin
+ equivalent tew, pl. tiw. The letters of the native S alphabet were
+ called  certh, pl.  cirth. The  word in  Exilic Quenya  certa, pl.
+ certar  was  an  accommodated  loan  from  Sindarin; there  was no
+ such  word  in  older  Quenya.  The  Sindarin  certh  is  probably
+ from *kirte 'cutting', a verbal derivative of a  type not  used in
+ Quenya, the  form of  which would  in any  case have  been *kirte,
+ if inherited.                                                     
+ Though  Feanor  after the  days of  his first  youth took  no more
+ active  part in  linguistic lore  and enquiry,  he is  credited by
+ tradition  with  the  foundation  of a  school of  Lambengolmor or
+ 'Loremasters of  Tongues' to  carry on  this work.  This continued
+ in  existence  among  the  Noldor,  even  through the  rigours and
+ disasters  of  the  Flight from  Aman and  the Wars  in Beleriand,
+ and it survived indeed to return to Eressea.                      
+ Of  the  School  the  most  eminent   member  after   the  founder
+ was,  or  still  is,  Pengolodh,(25) an Elf  of  mixed  Sindarin and
+ Noldorin  ancestry,  born  in  Nevrast,  who  lived   in  Gondolin
+ from  its foundation.  He wrote  both in  Sindarin and  in Quenya.
+ He  was  one  of  the  survivors of  the destruction  of Gondolin,
+ from which  he rescued  a few  ancient writings,  and some  of his
+ own copies,  compilations, and  commentaries. It  is due  to this,
+ and  to  his  prodigious  memory,  that much  of the  knowledge of
+ the Elder Days was preserved.                                     
+ All  that  has  here  been  said concerning  the Elvish  names and
+ their origins, and concerning the views of the  older loremasters,
+
+ 
+                                                                  
+ is derived directly or indirectly from  Pengolodh. For  before the
+ overthrow  of  Morgoth  and  the ruin  of Beleriand,  he collected
+ much  material  among  the  survivors  of  the  wars  at  Sirion's
+ Mouth  concerning  languages   and  gesture-systems   with  which,
+ owing to  the isolation  of Gondolin,  he had  not before  had any
+ direct  acquaintance.  Pengolodh  is  said  to  have  remained  in
+ Middle-earth until far  on into  the Second  Age for  the further-
+ ance of his enquiries, and  for a  while to  have dwelt  among the
+ Dwarves   of   Casarrondo  (Khazad-dum).   But  when   the  shadow
+ of Sauron fell upon Eriador, he left Middle-earth, the last of the
+ Lambengolmor,  and  sailed  to  Eressea,  where  maybe   he  still
+ abides.                                                           
+                                                                  
+                Note on the 'Language of the Valar'.               
+                                                                  
+ Little  is  said  in Noldorin  lore, such  as has  been preserved,
+ concerning the 'language of the  Valar and  Maiar'; though  it has
+ been supposed above  that the  application of  Quenya  to  the
+ speech of the Elves in Aman was  due to  the contrast  between the
+ tongue of the Valar and the tongue  of the  Elves, which  they had
+ before supposed to be the  only language  in the  world. Consider-
+ ing the interest of the  Noldor in  all matters  concerning speech
+ this  is  strange. Pengolodh  indeed comments  upon it  and offers
+ explanations.  What  he  says in  the beginning  of his  Lammas is
+ here  summarized;  for  his  comment  contains  all  that  is  now
+ known of the matter.                                              
+   'Even if we  had no  knowledge of  it,' he  says, 'we  could not
+ reasonably  doubt  that the  Valar had  a lambe  of their  own. We
+ know  that all  members of  their order  were incarnated  by their
+ own desire, and that most of them chose to  take forms  like those
+ of  the  Children  of Eru,  as they  name us.  In such  forms they
+ would take on all the characters of the  Incarnates that  were due
+ to the  co-operation of  hroa with  indwelling fea,  for otherwise
+ the  assumption  of  these  forms  would  have been  needless, and
+ they arrayed themselves in this  manner long  before they  had any
+ cause to appear before us visibly.  Since, then,  the making  of a
+ lambe is the chief character  of an  Incarnate, the  Valar, having
+ arrayed them in this  manner, would  inevitably during  their long
+ sojourn in Arda have made a lambe for themselves.                 
+   'But  without  argument  we  know  that they  did so;  for there
+ are references to the Lambe Valarinwa in  old lore  and histories,
+ though  these  are  few  and scattered.  Most of  these references
+ appear to be  derived, by  tradition of  mouth, from  "the Sayings
+
+ of  Rumil"  (I  Equessi  Rumilo),  the   ancient  sage   of  Tirion,
+ concerning  the  early days  of the  Eldar in  Aman and  their first
+ dealings  with  the  Valar.   Only  part   of  these Equessi (26) were
+ preserved  in  the  memory  of  the  Lambengolmor  during  the  dark
+ years of the Flight and the Exile. All that I  can find  or remember
+ I have here put together.'                                         
+   The  information  that  Pengolodh  then  gives  is  here  set  out
+ more briefly. His  preliminary points  are these.  Few of  the Eldar
+ ever  learned  to speak  Valarin, even  haltingly; among  the people
+ as  a  whole  only  a  small  number  of   words  or   names  became
+ widely  known.  Feanor  indeed,  before  the  growth  of   his  dis-
+ content,  is  said  to  have learned  more of  this tongue  than any
+ others before  his time,  and his  knowledge must  at any  rate have
+ far surpassed  the little  that is  now recorded;  but what  he knew
+ he  kept  to  himself, and  he refused  to transmit  it even  to the
+ Lambengolmor because of his quarrel with the Valar.                
+   Our  knowledge  (Note  35, p.  416) is  therefore now  limited (1)
+ to  statements  of  the  'ancients'  that  certain  words  in Quenya
+ were  actually  derived   from  Valarin;   (2)  to   the  occasional
+ citation  of  words  and  names  purporting  to be  Valarin (neither
+ adopted   in  Quenya   nor  adapted   to  it),   though  undoubtedly
+ recorded  with  only  approximate  accuracy,   since  no   signs  or
+ letters  not  already known  in the  Elvish alphabets  are employed;
+ (3)  to  statements  that  certain  names  (especially those  of the
+ Valar  or of  places in  Valinor) were  translations of  the Valarin
+ forms.  In  cases  (1)  and  (3)  the actual  Valarin words  are not
+ always indicated.                                                  
+   With  regard to  group (1)  Pengolodh cites  a 'Saying'  of Rumil:
+ 'The Eldar took  few words  from the  Valar, for  they were  rich in
+ words  and  ready  in  invention  at  need.  But  though  the honour
+ which  they  gave  to  the  Valar  might  have  caused them  to take
+ words  from  their  speech,  whether  needed  or  not, few  words of
+ Valarin could be  fitted to  Elvish speech  without great  change or
+ diminution.  For  the  tongues  and  voices of  the Valar  are great
+ and  stern,  and  yet  also  swift  and  subtle in  movement, making
+ sounds  that  we  find  hard  to  counterfeit;  and their  words are
+ mostly long and rapid, like the glitter of swords, like the  rush of
+ leaves in a  great wind  or the  fall of  stones in  the mountains.'
+ pengolodh   comments:   'Plainly   the   effect   of   Valarin  upon
+ Elvish  ears was  not pleasing.'  It was,  he adds,  as may  be seen
+ or  guessed  from  what  survives,   filled  with   many  consonants
+ unfamiliar to the Eldar and alien to the  system of  their speech.(27)
+
+                                                
+                                                                 
+ The examples that Pengolodh gives are as follows.                
+                                                                 
+ (1) (a) words.                                                   
+ Ainu 'one  of the  "order" of  the Valar  and Maiar,  made before
+ Ea'.  Valarin  ayanuz.  It  was  from  this  ainu that  in Quenya
+ was made  the adjective  aina 'holy',  since according  to Quenya
+ derivation  ainu  appeared  to  be  a  personal  form of  such an
+ adjective.                                                       
+ aman 'blessed, free from evil'. Chiefly used as  the name  of the
+ land in which the Valar  dwelt. V  form not  given; said  to mean
+ 'at    peace,   in    accord   (with    Eru)'.   See    Manu   e.
+ apar,  N  asar  'fixed  time,  festival'.  V  apara 'appointed'.
+ axan  'law,  rule,  commandment'.  V  akasan,  said  to  mean 'He
+ says', referring   to Eru.
+ indil  'a  lily,  or  other  large  single  flower'.   V  inidil.
+ mahalma  'throne'.   V  maxallam   (adapted  to   Quenya),  pro-
+ perly one of the seats  of the  Valar in  the Mahanaxar  or 'Doom
+ Ring'. The element maxan, said to mean  'authority, authorita-
+ tive decision', was also used in the form Mahan, one of the eight
+ chiefs   of   the   Valar,   usually   translated    as   Aratar.
+ miruvore,  miruvor  'a  special wine  or cordial'.  V mirubhoze-;
+ said  to  be  the  beginning  of  a  longer word,  containing the
+ element  mirub- 'wine'.(28)
+  telluma  'dome',  especially  the 'Dome  of Varda'  over Valinor;
+ but  also  applied  to  the  domes  of the  mansion of  Manwe and
+ Varda  upon Taniquetil.  V delguma,  altered by  association with
+ Q telume. See Note 15.                                           
+                                                                 
+ Pengolodh also cites the colour-words, which he says may be      
+ found in ancient verse, though they are used only by the Vanyar,
+ 'who, as Rumil reports, adopted many more words than did the     
+ Noldor':                                                         
+ ezel, ezella 'green'. See Ezellohar.                             
+ nasar 'red'; ulban 'blue'. V forms not given.                    
+ tulka 'yellow'. See Tulkas.   
+                                   
+   (b) names.                                                     
+ Aule V Azulez (meaning not given).                               
+ Manwe Reduction and alteration to fit Quenya, in which           
+ words of this shape, ending in -we, were frequent in personal
+ names. V Manawenuz 'Blessed One, One {closest) in accord         
+ with Eru'. Oldest Q forms Manwen, Manwe.                         
+ Tulkas V Tulukhastaz; said to contain V elements tuluk-          
+ ha(n) 'yellow', and (a)sata- 'hair of head': 'the golden-haired'.
+
+   Osse,   Orome   On  these   two  names,   the  only   ones  that
+ became  known  to  the Eldar  before they  reached Aman,  see note
+ below.                                                            
+   Ulmo   Like   Manwe,   a   reduction   and  alteration   to  fit
+ Quenya,  in  which  the  ending  -mo  often  appeared in  names or
+ titles,  sometimes   with  an   agental  significance:   Ulmo  was
+ interpreted  as  'the  Pourer'  < *UL  'pour out'.  The V  form is
+ given as Ul(l)uboz, containing the element ul(l)u 'water'.        
+                                                                  
+   Osse and Orome. Orome was  the first  of the  Valar that  any of
+ the Eldar saw. Osse they met  in Beleriand,  and he  remained long
+ upon   the   coasts,  and   became  well   known  to   the  Sindar
+ (especially  to  the  Eglain).  Both  these  names  therefore have
+ Sindarin  forms.  To  Osse  corresponds  S  Yssion  or  Gaerys; to
+ Orome  the  S  Araw.  The  V  forms  are  given as  Os(o)sai (said
+ to mean 'spuming, foaming'); and Aromez.                         
+   The  first  name  was  evidently  adopted  in  the  form  Ossai,
+ which  became  naturally  Q  Osse.  In S  Ossai would  become ossi
+ >  ussi  >  yssi  to  which  the  ending (of  male names)  -on was
+ added; or else the adjective *gaira 'awful, fearful' was prefixed,
+ producing Gaerys. The  latter was  more often  used by  the inland
+ Teleri. *gaira  is from  *gay- 'astound,  make aghast',  which was
+ also used in the oldest Eldarin word for the  Sea: *gayar,  Q ear,
+ S gaear.                                                          
+   Aromez  evidently,  as  was  pointed  out  by  Feanor, contained
+ the open  a-like q  (which did  as a  matter of  later observation
+ occur frequently in Valarin). This was treated as was  the Eldarin
+ q,  so  that  the  Sindarin development  was >  *arame >  aromae >
+ araum(a)  >   araum,  arauv   >  araw.   (In  North   Sindarin  or
+ Mithrim,  where  the  diphthongization  of  o  and the  opening of
+ intervocalic  m did  not occur,  the form  produced was  Arum; cf.
+ the  North  Sindarin  transformation of  the Exilic  Noldorin name
+ Hisilome   >   Hithlum.)   The   Quenya   form   with   Orome  for
+ *Arome  <  *Arome,  may  show  assimilation  of  the initial  o to
+ the following o before the retraction  of the  normal Q  accent to
+ the first  syllable; but  Pengolodh says  that it  was due  to the
+ association  of  the  name  with the  native Q  *rom, used  of the
+ sound of trumps or horns, seen in the  Q name  for the  great horn
+ of  Orome,  the  Vala-roma  (also  in  Q  romba  'horn,  trumpet',
+ S rom).                                                           
+   'The  Eldar,'  he  says, 'now  take the  name to  signify "horn-
+ blowing"  or  "horn-blower";  but  to  the  Valar  it had  no such
+ meaning.  Now  the  names  that  we  have  for  the  Valar  or the
+
+ Maiar,  whether  adapted  from  the Valarin  or translated,  are not
+ right names but titles, referring to some  function or  character of
+ the  person;  for though  the Valar  have right  names, they  do not
+ reveal them. Save only in the case of Orome. For it  is said  in the
+ histories  of  the  most  ancient  days  of  the  Quendi  that, when
+ Orome   appeared   among  them,   and  at   length  some   dared  to
+ approach  him,   they  asked   him  his   name,  and   he  answered:
+ Orome.  Then  they  asked  him  what  that  signified, and  again he
+ answered:  Orome.  To  me  only  is it  given; for  I am  Orome. Yet
+ the titles  that he  bore were  many and  glorious; but  he withheld
+ them at that time, that the Quendi should not be afraid.'          
+                                                                   
+   Nahar,  the  name  of  Orome's  horse.  'Otherwise  it  was,' says
+ Pengolodh,  'with  the  steed  upon  which  the  Lord   Orome  rode.
+ When  the  Quendi  asked  his name,  and if  that bore  any meaning,
+ Orome  answered:  "Nahar,  and  he  is  called  from  the  sound  of
+ his  voice,  when  he  is eager  to run>.'  But the  V form  that is
+ recorded by Rumil was naexaerra.                                    
+   Ezellohar  (also  translated as  Koron Oiolaire,  Korollaire), the
+ Green Mound upon which grew the Two Trees. V Ezelloxar.            
+   Mahanaxar,  the  'Doom-ring'  in  which  were  set the  thrones of
+ the  Valar  whereon  they  sat  in  council  (see   mahalma  above,
+ p.   399).   Reduced   and   altered   from  V   maxananaskad.  Also
+ translated as Rithil-Anamo.                                        
+                                                                   
+   (2) Valarin words and names, recorded but not adopted.          
+      (a) words                                                       
+   urus, rusur 'fire'.                                              
+   ithtr 'light'.                                                   
+   ul(l)u 'water'.                                                  
+   sebeth 'air'. 
+                                                   
+      (b) names                                                        
+   Arda: V Aparaphelun (said to mean 'appointed dwelling').         
+ Arda Unmarred: Aparaphelun Amanaisal; Arda Marred:
+ Aparaphelun Dusamanudan.                                          
+   Telperion: V Ibrtnidilpathanezel.                                
+   Laurelin: V Tulukhedelgorus.                                     
+   Ithil 'moon': V Phanaikeluth. Said to mean 'bright mirror'.      
+   Anar Sun: V Aparaigas. Said to mean appointed heat .             
+                                                                   
+ At  the  end of  this short  list Pengolodh  cites another  eques of
+ Rumil,   which   might   seem  contrary   to  that   already  quoted
+ above:  'Let  none  be  surprised  who  endeavour  to   learn  some-
+
+ what of the tongue of  the Lords  of the  West, as  have I,  if they
+ find  therein  many  words  or  parts  of  words  that  resemble our
+ own  words  for  the  same  or  similar meanings.  For even  as they
+ took our form for love of  us, so  in that  form their  voices would
+ be likely to light upon similar tengwi.'                           
+   Upon  this  Pengolodh  comments:  He  knew  not   of  Men   or  of
+ Dwarves.   But   we   who   have   dwelt   among   Men   know   that
+ (strange though that seems  to some)  the Valar  love them  no less.
+ And for my part I perceive a  likeness no  less, or  indeed greater,
+ between  the   Valarin  and   the  tongues   of  Men,   notably  the
+ language  of  the  Dunedain  and  of  the  Children  of  Marach (sc.
+ Adunaic). Also in  general manner  it resembles  the tongues  of the
+ Kasari; though this is not to be wondered at, if the  tradition that
+ they have is true that  Aule devised  for them  their tongue  in its
+ beginning, and therefore  it changes  little, whereas  the iglishmek
+ which they made for themselves is changeable.'                     
+                                                                   
+   (3)  [Cf.  p.  398:  'statements  that  certain  names (especially
+ those of the Valar  or of  places in  Valinor) were  translations of
+ the Valarin forms']                                                
+   Arda  Q  arda  (<  *garda,  S  gardh)  meant  any  more   or  less
+ bounded or defined place, a  region. Its  use as  a proper  name for
+ the World was due to V Aparaphelun.                                
+   Aratar  'the  Supreme',  was  a  version  of  the  V  maxanaz, pl.
+ maxanumaz 'Authorities', also adapted as Mahan, pl. Mahani.        
+   Ea 'All Creation', meaning 'it is',  or 'let  it be'.  Valarin not
+ recorded.                                                          
+   Ambar  'the  Earth',  meaning   'habitation'.  Though   the  Eldar
+ often  used  Arda  in  much the  same sense,  the proper  meaning of
+ Ambar  was  the  Earth  only,  as  the  place  where the  Aratar had
+ taken  up  their  dwelling,  and  the  Incarnate  were  destined  to
+ appear.(29)                                                        
+   Eru  'the  One'.  Iluvatar  was,  however,  a  name  made  by  the
+ Eldar  (when  they  had  learned  of  Eru  from  the  Valar),  which
+ they  used  more  often  than  Eru,  reserved  for  the  most solemn
+ occasions. It was made from iluve 'allness, the all',  an equivalent
+ of Ea, and atar 'father'.                                          
+   Varda 'the Sublime'. V form not given.                           
+   Melkor  'He  who  arises  in  Might',  oldest  Q  form *mbelekoro.
+ V form not given.                                                  
+   Namo  'Judge';  usually  called  by  the  Eldar Mandos,  the place
+ of his dwelling.                                                   
+
+   Irmo  'Desirer';  usually  called  by  the  name of  his dwelling
+ Lorien.                                                           
+   Este  'Repose'.  (*SED:  CE  *esde >  *ezde, Q  Este, .T  Ede (as
+ names only); S idh 'rest, repose'.)                               
+   Vala 'has  power' (sc.  over the  matter of  Ea), 'a  Power'; pl.
+ Valar,  'they  have  power,  the  Powers'.  Since  these  words are
+ from  the  point  of  Q  structure  verbal  in  origin,  they  were
+ probably  versions  of  V  words  of   verbal  meaning.   Cf.  axan
+ (p. 399), Ea; and also Q eques.                                   
+   Atan,  pl.  Atani  'Men',  meaning  'the  Second,   those  coming
+ next'. The Valar called them in full 'the Second Children  of Eru',
+ but the Quendi were 'the first Children of  Eru'. From  these terms
+ the  Q  Minnonar  'First-born'   and  Apanonar   'After-born'  were
+ imitated; but Q Eruhin, pl.  Eruhini 'Children  of Eru',  or 'Elves
+ and Men', is a translation of the  Valarin expression  'Children of
+ Eru' (of which the actual  Valarin form  is not  recorded, probably
+ because  the  V  equivalent  of Eru  is nowhere  revealed). Besides
+ the  form -hin,  -hini only  used in  composition after  a parental
+ name,  Q  has  hina  'child', and  hina only  used in  the vocative
+ addressing a  (young) child,  especially in  hinya (<  hinanya) 'my
+ child'. S has hen, pl. hin, mostly used as a prefix  in patronymics
+ or  metronymics:  as  Hin  Hurin  'The  Children  of  Hurin'. These
+ words  are  derivatives  of  stem  *khin:  khina   (in  composition
+ khina > Q -hin), and khina.                                       
+   Kalakiryan 'the Cleft of Light', the pass in  the Pelori  not far
+ from the north side of Taniquetil  through which  the Light  of the
+ Trees in Valinor flowed out to the shores of Aman.                
+   Taniquetil,  the  highest of  the mountains  of the  Pelori, upon
+ which  were  the  mansions  of  Manwe  and  Varda.  The   name  was
+ properly  only  that  of  the  topmost  peak,   meaning  High-Snow-
+ Peak.  The  whole  mountain  was  most  often  called by  the Eldar
+ (Oron)   Oiolosse,   '(Mount)   Everwhite'  or   'Eversnow'.  There
+ were  many  names  for  this  mountain  in  Quenya.  A  variant  or
+ close  equivalent  of Taniquetil  was Arfanyaras(se).  The Sindarin
+ forms  of  the  names  were  made  by  the  Noldor, for  the Sindar
+ knew  nothing  of  the  land  of  Aman  except  by  report  of  the
+ Exiles: e.g. Amon-Uilos and Ras-Arphain.                          
+   Pelori  'the  fencing,  or defensive  Heights'. The  mountains of
+ Aman,  ranging  in a  crescent from  North to  South, close  to the
+ western shores.                                                   
+                                                                  
+   On this list Pengolodh comments: 'These are all that I can find
+
+                              
+                                                                 
+ in old lore or remember to  have read  or heard.  But the  list is
+ plainly  incomplete.  Many  of  the  names  once  known  and used,
+ whether they be  now found  in the  surviving histories  or passed
+ over, must have belonged  to the  first or  the last  group. Among
+ those that are still remembered I  note Avathar,  the name  of the
+ dim and narrow land  between the  southern Pelori  and the  Sea in
+ which Ungoliante housed. This is  not Elvish.  There are  also the
+ names  Nessa,  the  spouse  of  Tulkas,  and  Uinen the  spouse of
+ Osse. These too are not Elvish,  so far  as can  now be  seen; and
+ since  the  names  Tulkas and  Osse come  from Valarin,  the names
+ of their spouses may also represent titles in the  Valarin tongue,
+ or such part of them as the Eldar could  adapt. I  say "so  far as
+ can  now  be  seen",  for  there  is no  certainty in  this matter
+ without record. It is clear that  some, or  indeed many,  of these
+ adoptions  and  translations were  made in  very early  days, when
+ the  language of  the Eldar  was otherwise  than it  became before
+ the  Exile.  In  the  long  years, owing  to the  restlessness and
+ inventiveness  of  the Eldar  (and of  the Noldor  in particular),
+ words  have  been  set  aside and  new words  made; but  the names
+ of the enduring have endured, as  memorials of  the speech  of the
+ past.  There  is  also  this  to  consider.  When words  of Elvish
+ tongue  had  been used  to make  the names  of things  and persons
+ high  and  admirable,  they  seem  to  have  been  felt  no longer
+ suitable to apply to lesser things, and so  passed from  the daily
+ speech.                                                          
+    'Thus  we  see  that vala  is no  longer used  of any  power or
+ authority  less than  that of  the Valar  themselves. One  may say
+ A  vala  Manwe!  "may  Manwe  order  it!";  or Valar  valuvar "the
+ will of the Valar will be done";  but we  do not  say this  of any
+ lesser name. In like manner Este or Ede  is the  name only  of the
+ spouse  of  Lorien,  whereas  the  form  that  that  word  has  in
+ Sindarin  (idh)  means  "rest",  such  as even  a tired  hound may
+ find before a fire.' (Note 36, p. 416)                           
+                                                                 
+    The reasons  that Pengolodh  gives or  surmises for  the scanty
+ knowledge  of  Valarin  preserved  in   Noldorin  lore   are  here
+ summarized. Some have already been alluded to.                   
+    Though  Valarin  had  many  more  sounds  than   Eldarin,  some
+ alien to the Eldarin style and system, this only imposed  any real
+ difficulty upon  the borrowing  of words  and their  adaptation to
+ Eldarin.  To  learn  Valarin  was probably  not beyond  the powers
+ of  the  Eldar, if  they had  felt the  need or  desire to  do so;
+
+ references to the difficulty of Valarin are mainly due to  the fact
+ that  for  most  of  the Eldar  learning it  was an  ungrateful and
+ profitless task.                                                  
+   For the Eldar had no need to  learn the  language of  Valinor for
+ the  purposes  of  communication;  and  they  had no  desire either
+ to  abandon  or to  alter their  own tongue,  which they  loved and
+ of  which  they  were  proud.  Only  those  among  them, therefore,
+ who had special linguistic curiosity desired  to learn  Valarin for
+ its  own  sake.  Such  'loremasters'  did  not always  record their
+ knowledge,  and  many  of  the  records  that  were made  have been
+ lost. Feanor,  who probably  knew more  of the  matter than  any of
+ the  younger  generations  born  in  Aman,   deliberately  withheld
+ his knowledge.                                                    
+   It  was  probably  only  in the  very early  days that  the Eldar
+ heard  Valarin  much spoken,  or had  opportunity for  learning it,
+ unless by special individual effort. The Teleri had  little immedi-
+ ate  contact with  the Valar  and Maiar  after their  settlement on
+ the  shores.  The  Noldor  became  more  and  more  engrossed  with
+ their  own  pursuits.   Only  the   Vanyar  remained   in  constant
+ association  with  the  Valar.  And  in any  case the  Valar appear
+ quickly to have adopted Quenya.                                   
+   All the orders of Eru's creatures have each some  special talent,
+ which higher orders may admire. It  was the  special talent  of the
+ Incarnate,  who  lived  by  necessary  union  of  hroa and  fea, to
+ make  language.  The  Quendi,  first  and  chief of  the Incarnate,
+ had (or so they held) the greatest talent for the making  of lambe.
+ The  Valar  and  Maiar  admired  and  took  delight in  the Eldarin
+ lambe,  as  they did  in many  other of  the skilled  and delicate
+ works of the Eldar.                                               
+   The Valar,  therefore, learned  Quenya by  their own  choice, for
+ pleasure  as well  as for  communication; and  it seems  clear that
+ they  preferred  that  the  Eldar  should make  new words  of their
+ own  style, or  should translate  the meanings  of names  into fair
+ Eldarin forms, rather than  [that] they  should retain  the Valarin
+ words  or  adapt  them  to  Quenya  (a process  that in  most cases
+ did justice to neither tongue).                                   
+   Soon  after  the  coming  of  the  Vanyar  and  Noldor  the Valar
+ ceased to speak in their own tongue in the  presence of  the Eldar,
+ save rarely: as for instance in  the great  Councils, at  which the
+ Eldar were sometimes  present. Indeed,  it is  said that  often the
+ Valar   and   Maiar   might   be   heard   speaking   Quenya  among
+ themselves.                                                       
+
+   In any case, to speak  of the  early days  of the  settlement at
+ Tirion,  it  was far  easier and  swifter for  the Valar  to learn
+ Quenya than to teach the Eldar Valarin.  For in  a sense  no lambe
+ was 'alien' to the  Self-incarnate. Even  when using  bodily forms
+ they had less need of any tengwesta than  had the  Incarnate; and
+ they had made a lambe for  the pleasure  of exercising  the powers
+ and skills of the bodily form, and (more remotely) for  the better
+ understanding  of  the  minds  of the  Incarnate when  they should
+ appear,  rather  than  for  any  need that  they felt  among them-
+ selves.  For  the  Valar  and  Maiar  could  transmit  and receive
+ thought directly (by the will of both parties) according  to their
+ right  nature;(30) and  though  the  use  of  bodily   form  (albeit
+ assumed  and  not  imposed)  in  a  measure  made  this   mode  of
+ communication less swift and precise,  they retained  this faculty
+ in a degree far surpassing that seen among any of the Incarnate.
+   At this  point Pengolodh  does not  further discuss  this matter
+ of the transmission and reception of thought, and  its limitations
+ in any order  of creatures.  But he  cites, as  an example  of the
+ speed  with which  by its  aid a  tengwesta may  be learned  by a
+ higher order, the story of the Finding of the Edain.  According to
+ this  the  Noldorin king,  Finrod, quickly  learned the  tongue of
+ the  folk  of  Beor  whom  he  discovered  in  Ossiriand,  for  he
+ understood  in  large measure  what they  meant while  they spoke.
+ 'Now  Finrod,' he  says, 'was  renowned among  the Eldar  for this
+ power which he had, because  of the  warmth of  his heart  and his
+ desire to understand  others; yet  his power  was no  greater than
+ that of the least of the Maiar.'(31)                             
+                                                                 
+   Pengolodh concludes as follows. 'In the histories the  Valar are
+ always  presented  as  speaking   Quenya  in   all  circumstances.
+ (Note  37, p.  417) But  this cannot  proceed from  translation by
+ the  Eldar,  few of  whose historians  knew Valarin.  The transla-
+ tion  must  have  been  made  by  the  Valar or  Maiar themselves.
+ Indeed those histories or legends that deal with times  before the
+ awaking  of  the  Quendi,  or  with  the  uttermost past,  or with
+ things  that  the  Eldar  could  not  have  known, must  have been
+ presented  from  the first  in Quenya  by the  Valar or  the Maiar
+ when  they instructed  the Eldar.  Moreover this  translation must
+ have  concerned  more  than  the  mere  words  of language.  If we
+ consider the First History, which is called the  Ainulindale: this
+ must  have  come  from the  Aratar themselves  (for the  most part
+ indeed  from Manwe,  it is  believed). Though  it was  plainly put
+
+ into its  present  form  by  Eldar,  and  was  already in  that form
+ when  it  was  recorded  by  Rumil, it  must nonetheless  have been
+ from the first  presented to  us not  only in  the words  of Quenya,
+ but  also  according  to  our  modes  of  thought  and  our imagina-
+ tion of the visible world, in symbols that were intelligible  to us.
+ And  these  things  the  Valar understood  because they  had learned
+ our tongue.'                                                       
+                                                                   
+                  Author's Notes to Quendi and Eldar.               
+                                                                   
+ Note 1 (p. 367; referred to in two passages).                      
+ Distinguish  yomenie   'meeting,  gathering'   (of  three   or  more
+ coming from  different directions).  The Telerin  form was:  el sila
+ lumena vomentienguo.                                              
+                                                                   
+ Note 2 (p. 369).                                                   
+ It was  a later  development in  Quenya, after  the elements  -o and
+ -va had  become inflexions,  applicable to  all nouns,  to pluralize
+ -o by the addition of the  plural sign  -n, when  added to  a plural
+ stem (as by natural function it could  be): as  lasseo 'of  a leaf',
+ lassio > lassion 'of leaves'. Similarly with -va;  but this  was and
+ remained  an  adjective,  and  had  the  plural  form -ve  in plural
+ attribution  (archaic  Q  -vai);  it  could  not,  however, indicate
+ plurality  of  source,  originally,  and  the  Q  distinction Eldava
+ Elf s and Eldaiva Elves ?was a Q innovation.                      
+                                                                   
+ Note 3 (p. 372).                                                   
+ roquen  is  <  *roko-kwen  with  Quenya  syncope,  *roko   being  an
+ older  simpler  form  of  the  stem,  found  in  some  compounds and
+ compound  names,  though   the  normal   form  of   the  independent
+ word  'horse'  had  the  fortified   form  rokko.   These  compounds
+ being  old  were  accented  as  unitary  words  and the  main stress
+ came on the syllable preceding -quen: kirya:quen, kirya:queni.
+                                                                   
+ Note 4 (p. 373).                                                   
+ That  is,  elliptically  for  Quenya lambe,  as English  for English
+ language.  When  historians  needed   a  general   adjective  'Quen-
+ dian,  belonging  to  the  Elves  as  a  whole',  they made  the new
+ adjective  Quenderin  (on  the  model  of Eldarin,  Noldorin, etc.);
+ but this remained a learned word.                                  
+                                                                   
+ Note 5 (p. 375).                                                   
+ This  change  took  place  far  back  in Elvish  linguistic history;
+ possibly before  the Separation.  It is  in any  case common  to the
+ Telerin of Aman, Sindarin, and Nandorin.                           
+
+ Note 6 (p. 375).                                                   
+ The  Noldorin  Loremasters  record  that  Pendi  was  used  by  the
+ Teleri only of the earliest days, because they  felt that  it meant
+ the  lacking, the  poor (*PEN), with  reference to  the indigence
+ and ignorance of the primitive Elves.                              
+                                                                   
+ Note 7 (p. 377).                                                   
+ The  Dwarves  were  in  a  special position.  They claimed  to have
+ known  Beleriand  before  even  the  Eldar  first  came  there; and
+ there do appear  to have  been small  groups dwelling  furtively in
+ the  highlands  west  of  Sirion  from  a  very  early  date:  they
+ attacked and waylaid the Elves by  stealth, and  the Elves  did not
+ at  first  recognize  them as  Incarnates, but  thought them  to be
+ some  kind  of  cunning  animal,  and  hunted  them.  By  their own
+ account they were fugitives,  driven into  the wilderness  by their
+ own  kin  further  east,  and  later they  were called  the Noegyth
+ Nibin (32) or Petty-dwarves,  for  they  had  become smaller  than the
+ norm of their kind, and filled with hate  for all  other creatures.
+ When   the   Elves  met   the  powerful   Dwarves  of   Nogrod  and
+ Belegost, in  the eastern  side of  the Mountains,  they recognized
+ them  as  Incarnates,  for  they  had  skill  in  many  crafts, and
+ learned the Elvish speech readily for purposes of traffic. At first
+ the  Elves  were  in doubt  concerning them,  believing them  to be
+ related  to  Orcs  and creatures  of Morgoth;  but when  they found
+ that, though proud and unfriendly,  they could  be trusted  to keep
+ any treaties  that they  made, and  did not  molest those  who left
+ them  in peace,  they traded  with them  and let  them come  and go
+ as  they  would.  They  no  longer  classed  them  as  Moerbin, but
+ neither  did  they  ever reckon  them as  Celbin, calling  them the
+ Dornhoth  ('the  thrawn  folk')  or   the  Naugrim   ('the  stunted
+ people'). [See further on the Petty-dwarves pp. 388 - 9.]          
+                                                                   
+ Note 8 (p. 377).                                                   
+ Though  Morben  might  still  be  applied  to   them  by   any  who
+ remained hostile  to Men  (as were  the people  of Doriath  for the
+ most part); but this was intended to be insulting.                 
+                                                                   
+ Note 9 (p. 377; referred to in two passages).                      
+ The  implication  that  as  opposed  to  Celbin  the  Moerbin  were
+ allies of Morgoth, or at  least of  dubious loyalty,  was, however,
+ untrue with regard  to the  Avari. No  Elf of  any kind  ever sided
+ with Morgoth of free will, though  under torture  or the  stress of
+ great  fear,  or  deluded by  lies, they  might obey  his commands:
+ but this applied also to Celbin.  The 'Dark-elves',  however, often
+
+ were  hostile,  and even  treacherous, in  their dealings  with the
+ Sindar  and  Noldor;  and  if  they  fought,   as  they   did  when
+ themselves  assailed by  the Orcs,  they never  took any  open part
+ in the War on the side of the Celbin. They  were, it  seems, filled
+ with  an  inherited  bitterness  against   the  Eldar,   whom  they
+ regarded as deserters of their kin, and  in Beleriand  this feeling
+ was  increased  by  envy  (especially  of  the  Amanyar),   and  by
+ resentment of their lordliness. The belief of  the Celbin  that, at
+ the least, they were weaker in resistance to  the pressures  or lies
+ of  Morgoth,  if  this  grievance  was  concerned,  may  have  been
+ justified; but the only case recorded in the  histories is  that of
+ Maeglin,  the  son  of Eol.  Eol was  a Mornedhel,  and is  said to
+ have   belonged   to   the   Second  Clan   (whose  representatives
+ among  the  Eldar  were  the  Noldor).(33) He dwelt in  East Beleriand
+ not  far from  the borders  of Doriath.  He had  great smith-craft,
+ especially  in the  making of  swords, in  which work  he surpassed
+ even  the  Noldor  of  Aman;  and many  therefore believed  that he
+ used  the  morgul,  the black  arts taught  by Morgoth.  The Noldor
+ themselves  had  indeed  learned  much  from  Morgoth  in  the days
+ of his captivity in Valinor;  but it  is more  likely that  Eol was
+ acquainted  with  the  Dwarves,  for  in  many  places   the  Avari
+ became  closer  in  friendship  with that  people than  the Amanyar
+ or the Sindar. Eol found Irith,(34) the sister  of King  Turgon, astray
+ in the wild near his dwelling, and he took her to wife by  force: a
+ very wicked deed  in the  eyes of  the Eldar.  His son  Maeglin was
+ later  admitted  to  Gondolin,  and  given  honour  as  the  king's
+ sisterson;  but  in  the  end  he  betrayed  Gondolin  to  Morgoth.
+ Maeglin was indeed  an Elf  of evil  temper and  dark mind,  and he
+ had a lust and grudge of his  own to  satisfy; but  even so  he did
+ what he did  only after  torment and  under a  cloud of  fear. Some
+ of  the  Nandor,  who  were  allowed  to  be  Celbin, were  not any
+ better. Saeros, a  counsellor of  King Thingol,  who belonged  to a
+ small  clan  of  Nandor  living  in  eastern  Doriath,  was chiefly
+ responsible for the driving into  outlawry of  Turin son  of Hurin.
+ Turin's  mother  was  named  Morwen   'dark  maiden',   because  of
+ her dark hair, and it was one of Saeros' worst insults to  call her
+ Morben. For that Turin smote him in the king's hall.(35)          
+   This resentment on the part of  the Avari  is illustrated  by the
+ history  of  PQ  *kwendi.  This word,  as has  been shown,  did not
+ survive  in  the  Telerin  languages   of  Middle-earth,   and  was
+ almost  forgotten  even  in  the  Telerin  of  Aman. But  the Lore-
+ masters  of  later  days,  when  more  friendly relations  had been
+
+                                                                      
+                                                                      
+ established  with  Avari  of  various  kinds in  Eriador and  the Vale
+ of  Anduin,  record  that  it  was  frequently to  be found  in Avarin
+ dialects.  These  were   numerous,  and   often  as   widely  sundered
+ from  one  another  as  they  were  from the  Eldarin forms  of Elvish
+ speech,.  but  wherever  the  descendants  of  *kwendi  were  found,
+ they  meant  not  'Elves  in  general',  but were  the names  that the
+ Avari  gave  to  themselves.  They  had  evidently  continued  to call
+ themselves   *kwendi,   the   People,   regarding   those   who   went
+ away  as  deserters  -  though  according  to  Eldarin  tradition  the
+ numbers  of  the  Eldar  at  the time  of the  Separation were  in the
+ approximate  proportion  of  3:2,  as  compared  with  the  Avari (see
+ p.  381).  The  Avarin  forms  cited by  the Loremasters  were: kindi,
+ cuind, hwenti,  windan, kinn-lai,  penni. The  last is  interesting as
+ showing  the  change  kw  >  p.  This  might  be  independent  of the
+ Common  Telerin  change;  but   it  suggests   that  it   had  already
+ occurred   among   the   Lindar  before   the  Separation.   The  form
+ penni  is  cited  as  coming  from  the  'Wood-elven'  speech  of  the
+ Vale  of  Anduin,  and  these  Elves  were  among  the  most  friendly
+ to  the  fugitives  from Beleriand,  and held  themselves akin  to the
+ remnants of the Sindar.                                               
+                                                                      
+ Note 10 (p. 378).                                                     
+ It  is  not  surprising that  the Edain,  when they  learned Sindarin,
+ and to a certain  extent Quenya  also, found  it difficult  to discern
+ whether  words  and  names  containing  the  element  el  referred  to
+ the stars or to the Elves.  This is  seen in  the name  Elendil, which
+ became  a  favourite  name  among   the  Edain,   but  was   meant  to
+ bear  the sense  'Elf-friend'. Properly  in Quenya  it meant  'a lover
+ or  student  of  the  stars',  and  was  applied  to those  devoted to
+ astronomical  lore.  'Elf-friend'  would  have  been   more  correctly
+ represented by Quen(den)dil or Eldandil.                              
+                                                                      
+ Note 11 (p. 378).                                                     
+ Lake   Mithrim,   meaning   originally   'Lake   of    the   Mithrim'.
+ Mithrim  was  a  name   given  to   them  by   the  southern-dwellers,
+ because  of  the cooler  climate and  greyer skies,  and the  mists of
+ the  North.  It  was  probably  because  the  Noldor  first  came into
+ contact  with  this  northerly  branch  that they  gave in  Quenya the
+ name  Sindar  or  Sindeldi  'Grey-elves'  to  all the  Telerin inhabi-
+ tants of the Westlands who spoke the Sindarin language.               
+ Though  this  name  was  also  later  held  to  refer  to  Elwe's name
+ Thingol   (Sindikollo)   'Grey-cloak',   since  he   was  acknowledged
+ as high-king of all the land and its peoples. It is said also that the
+
+ folk  of  the  North  were   clad  much   in  grey,   especially  after
+ the   return   of  Morgoth   when  secrecy   became  needed;   and  the
+ Mithrim  had  an  art   of  weaving   a  grey   cloth  that   made  its
+ wearers  almost  invisible  in  shadowy  places  or  in a  stony land.
+ This  art was  later used  even in  the southern  lands as  the dangers
+ of the War increased.                                                  
+                                                                       
+ Note 12 (p. 380).                                                      
+ The  language  of  Mithrim  was  also  a  marked  dialect; but  none of
+ the  dialects  of  Sindarin  differed widely  enough to  interfere with
+ intercourse.  Their  divergences  were  no  greater  than   those  that
+ had  arisen  between  the  Quenya  as  spoken  by  the  Vanyar,  and as
+ spoken by the Noldor at the time of the Exile.                         
+                                                                       
+ Note 13 (p. 380).                                                      
+ For the late PQ gl- as an initial variation of l- see General          
+ Phonology.(37) Though  this Clan-name  has *glind-  in Sindarin,          
+ the g- does not appear in Amanya Telerin, nor in Nandorin, so          
+ that in this case it may  be an  addition in  Sindarin, which          
+ favoured and much increased initial groups of this kind.               
+                                                                       
+ Note 14 (p. 382).                                                     
+ For this reason the most frequently used of the 'titles' or            
+ secondary names of the Lindar was Nendili 'Water-lovers'.              
+                                                                       
+ Note 15 (p. 382).                                                      
+ A   simple   agental  formation   (like  *abaro   >  *abar   from *ABA)
+ from  the  stem  *TELE,  the  primary  sense   of  which   appears  to
+ have  been  'close,  end, come  at the  end': hence  in Q  telda 'last,
+ final'; tele- intransitive verb 'finish, end', or 'be the last thing or
+ person  in  a  series  or  sequence of  events'; telya  transitive verb
+ 'finish,  wind  up,  conclude';  telma  'a  conclusion,  anything used
+ to  finish  off  a  work or  affair'. This  was possibly  distinct from
+ *tel-u  'roof  in,  put  the  crown on  a building',  seen in  Q telume
+ 'roof,  canopy'.  (This  was  probably  one  of  the  earliest Quendian
+ words  for  the  heavens,  the  firmament,   before  the   increase  of
+ their  knowledge,  and  the  invention  of  the  Eldarin   word  Menel.
+ Cf.   Telumehtar   'warrior   of   the   sky',   an   older   name  for
+ Menelmakil,   Orion.)   The   word   telluma   'dome,  cupola'   is  an
+ alteration  of  telume  under  the influence  of Valarin  delgsima: see
+ p.  399.  But  *telu  may  be  simply  a  differentiated form  of *TELE,
+ since  the roof  was the  final work  of a  building; cf.  telma, which
+ was  often  applied  to  the  last  item  in  a  structure,  such  as a
+ coping-stone, or a topmost pinnacle.                                   
+
+ Note 16 (p. 384).                                                  
+ See  above,  p.  381.  The  proportion,  per  144,  of   the  Eldar
+ remaining  in  Middle-earth  was  reckoned  at  26, of  which about
+ 8 were Nandor.                                                     
+                                                                   
+ Note 17 (p. 384).                                                 
+ Lenwe  is  the   form  in   which  his   name  was   remembered  in
+ Noldorin   histories.   His  name   was  probably   *Denwego,  Nan-
+ dorin  Denweg.  His  son  was  the  Nandorin   chieftain  Denethor.
+ These  names  probably  meant  'lithe-and-active'  and  'lithe-and-
+ lank', from *dene- 'thin  and strong,  pliant, lithe',  and *thara-
+ 'tall (or long) and slender'.                                      
+                                                                   
+ Note 18 (p. 384).                                                  
+ The  name  Nandor  was  a  derivative of  the element  *dan, *ndan-
+ indicating the reversal of an action, so as to undo or  nullify its
+ effect, as in 'undo, go back (the same way), unsay, give  back (the
+ same  gift:  not another  in return)'.  The original  word *ndando,
+ therefore,  probably  only  implied  'one  who  goes  back  on  his
+ word or decision'.                                                 
+                                                                   
+ Note 19 (p. 386).                                                
+ In  Q  Eldameldor,  S  Elvellyn. That  is, 'Elf-lovers'.  The words
+ Quendili,   Eldandili   (see   Note   10),  though   not  excluding
+ affection  and  personal  loyalties, would  have implied  also deep
+ concern  with  all  lore  relative  to  the  Elves,  which  was not
+ necessarily  included  in  the   words  meldor,   mellyn  'lovers,
+ friends'.                                                          
+                                                                   
+ Note 20 (p. 387).                                                  
+ That is, to die by nature, of age or weariness, and inevitably, not
+ only (as the Elves) of some grievous hurt or sorrow.               
+                                                                   
+ Note 21 (p. 387).                                                  
+ S -eb is from *ikwa, CT *-ipa, probably related  to the  Q -inqua.
+ Cf.  S  aglareb  'glorious',  Q   alkarinqua.  Both   are  probably
+ related  to the  element *kwa,  *kwa-ta seen  in Eldarin  words for
+ 'full'.                                                            
+                                                                   
+ Note 22 (p. 388).                                                  
+ S  ch  was  only  an  approximation;  the Dwarvish  kh was  in fact
+ a strong  aspirate, not  a spirant.  Similarly at  the time  of the
+ borrowing Sindarin did not possess either  the sound  z or  long a.
+ This does  not mean  that the  Elves could  not imitate  or acquire
+ sounds alien to their native speech. All the Elves had  great skill
+ in  language,  and  far surpassed  Men in  this matter.  The Noldor
+
+ were  the chief  linguists of  the Elves,  but their  superiority was
+ shown  not so  much in  the acquisition  of new  tongues as  in their
+ love of  language, their  inventiveness, and  their concern  with the
+ lore  of  language,  and  the  history  and  relations  of  different
+ tongues.  In  adopting  a  word for  use in  their own  tongue (which
+ they loved) Elves fitted it to their own style for  aesthetic reasons.
+ Note 23 (p. 388)                                                    
+ These  words  are  derived  from  the  stem *NUKU   'dwarf,  stunted,
+ not  reaching  full  growth  or  achievement,  failing  of  some mark
+ or  Standard',  seen  in  *nukta-,  Q  nuhta-  'stunt,  prevent  from
+ coming  to  completion,  stop  short,  not  allow  to   continue',  S
+ nuitha-  of  similar  senses.  An  adjectival  formation  was *nauka,
+ from  which  were  derived S  naug, Q  nauka, especially  applied to
+ things  that  though  in  themselves   full-grown  were   smaller  or
+ shorter  than  their  kind,  and  were  hard, twisted  or ill-shapen.
+ Nogoth   is   probably  from   some  such   form  as   *nukotto/a  'a
+ stunted or ill-shapen thing (or person)'.                           
+                                                                    
+ Note 24 (p. 388).                                                   
+ The  Q  h  had  become  too  weak  to  represent  aspirate  kh  which
+ was  therefore  rendered  by  k.  Final  d  had  become  r,  and this
+ change  was  recognized  in  the  adaptation.  Medial   z  <   s  had
+ become  r  in  the  Noldorin  dialect  of Q  except when  an adjacent
+ syllable, or (as here) the same syllable, already contained an r.
+                                                                    
+ Note 25 (p. 388).                                                   
+ Norno  is  a  personalized  form  of   the  adjective   norna 'stiff,
+ tough', the Q equivalent of S dorn. Both are from the stem          
+ *DORO  'dried  up,  hard,  unyielding'.  With  the  frequent  initial
+ enrichment  d  >  nd  this  appears  in  PQ  *ndore  'the  hard,  dry
+ land as  opposed to  water or  bog >  land in  general as  opposed to
+ sea;  a  land  (a  particular  region  with  more  or   less  defined
+ bounds)'.  Hence  S  dor  (-ndor  >  -nor, -nnor)  'land'. In  Q this
+ word became  confused or  blended with  the distinct  *nore from
+ the  stem  *ONO  (see  p.  387),  family,   tribe  or   group  having
+ a  common  ancestry,  the  land  or  region  in  which  they  dwelt'.
+ Thus  Q  nore  was  generally  used  for  'land'  associated  with  a
+ particular  people,  and  the  old  *ndore  survived  only  in  name-
+ compounds:  as Valinore  < *Valinore  'the people  and land  of the
+ Valar',  beside  Valinor,  Valandor.  A  particular  land  or  region
+ was  in  Q  arda,.  land  as  opposed  to  water   or  sea   was  nor
+ (<  *ndoro)  as  opposed  to  ear.  The Q  forms norna,  Norno may
+ also contain  nd-, though  S dorn  does not;  but this  is probably
+
+ one of the cases in which Q initial d became n-, not l-, by       
+ assimilation to an n occurring later in the word.                 
+                                                                  
+ Note 26 (p. 389).                                                 
+ Novrod was the  oldest form,  and appears  in the  earlier annals,
+ beside  the  variant  Grodnof.  These  contain  the   CE  elements
+ *naba  'hollow',  and   (g)rota  'excavation,   underground  dwel-
+ ling'.  Novrod  retains  the  older  Eldarin  (and  the  Dwarvish)
+ order with the adjectival element first. At the time of its making
+ *naba-grota  had  no  doubt  already  reached  its archaic  S form
+ *nov-3rot  >  novrod.  Grodnof  has  the  same  elements   in  the
+ later  more  usual  Sindarin  order. The  form Nogrod  which later
+ became usual is due to the substitution of Nog-,  taken as  a form
+ of  Naug 'dwarf'  (with the  usual change  of au  > o),  after the
+ element  Nov-  had  become  obscure.  The  adjective *naba  > nov,
+ nof  only  remained  current  in the  Northern dialect,  where the
+ name Novrod originated. In the other dialects  nov, as  a stressed
+ independent  word,  proceeded  to  nauv  >  naw  (with  the  usual
+ loss of final v after au, u), and this word ceased  to be  used in
+ current  speech.  Novrod  in  earlier  annals  is  sometimes found
+ glossed  Bar-goll  'hollow  dwelling',  using  the   more  current
+ adjective coll < *kulda.                                          
+  Hadhodrond   uses  the   adapted  form   Hadhod  =   Khazad.  The
+ element rond  is not  related to  grod, -rod.  The latter  is from
+ *groto 'dig, excavate,  tunnel'. S  rond, Q  rondo are  from *rono
+ 'arch over, roof in'. This could be applied both to natural and to
+ artificial  structures,  but its  view was  always from  below and
+ from the  inside. (Contrast  the derivatives  of *tel,  *telu men-
+ tioned in Note 15.)  CE *rondo  meant 'a  vaulted or  arched roof,
+ as seen from below (and usually not visible from outside)',  or 'a
+ (large) hall or  chamber so  roofed'. It  was still  often applied
+ pictorially  to  the  heavens  after the  Elves had  obtained much
+ greater  knowledge  of  'Star-lore'.  Cf.  the name  Elrond 'Star-
+ dome' (Elros meant 'Star-glitter'). Cf. also S othrond  applied to
+ an  underground  stronghold,  made  or  enlarged   by  excavation,
+ containing one or  more of  such great  vaulted halls.  othrond is
+ < S ost+ rond.  CE *osto,  Q osto,  S ost,  is derived  from *soto
+ 'shelter, protect,  defend', and  was applied  to any  fortress or
+ stronghold  made  or   strengthened  by   art.  The   most  famous
+ example,  after  the  great  dwelling  of  Elwe at  Menegroth, was
+ Nargothrond   <  Narog-ost-rond   ('the  great   underground  burg
+ and  halls  upon  the  River  Narog'), which  was made  by Finrod,
+
+ or  completed   and  enlarged   by  him   from  the   more  primitive
+ dwellings made by the Petty-dwarves.                                 
+   Though  distinct  in  origin  the derivatives  of *groto  and *rono
+ naturally  came  into  contact,  since  they  were not  dissimilar in
+ shape,  and   a  'rondo   was  usually   made  by   excavation.  Thus
+ S groth < *grotta (an  intensified form  of grod  < *grota)  'a large
+ excavation'  might  well  apply  to  a  rond.  Menegroth  means  'the
+ Thousand  Caves  or  Delvings',  but  it  contained  one  great  rond
+ and many minor ones.                                                 
+                                                                     
+ Note 27 (p. 390).                                                    
+ *(n)guruk   is   due   to   a  combination   of  *(g)ruk   with *NGUR
+ 'horror', seen in S gorth, gorthob 'horror, horrible',  and (redupli-
+ cated) gorgor 'extreme horror'.                                      
+ Note 28 (p. 390)                                                     
+ Some  other  derivatives  are  in  Quenya:  rukin  'I  feel  fear  or
+ horror'  (constructed  with  'from'  of  the  object  feared); ruhta-
+ 'terrify';  rukima  'terrible';  rauko  and  arauko  <   *grauk-)  'a
+ powerful,  hostile,  and  terrible   creature',  especially   in  the
+ compound   Valarauko  'Demon   of  Might',   applied  later   to  the
+ more  powerful  and  terrible  of  the Maia  servants of  Morgoth. In
+ Sindarin  appear,  for  instance,  raug  and  graug,  and   the  com-
+ pound Balrog (equivalents of  Q rauko,  etc.); groga-  'feel terror';
+ gruitha 'terrify'; gorog (< *guruk) 'horror'.                        
+                                                                     
+ Note 29 (p. 392).                                                    
+ Affixes appear in  equen 'said  I', eques  'said he  I she',  used in
+ reporting a dialogue.                                                
+ Note 30 (p. 392).                                                    
+ *ekwe  was  probably  a  primitive  past  tense,  marked  as  such by
+ the  'augment'  or  reduplicated  base-vowel,  and  the   long  stem-
+ vowel. Past tenses of this form  were usual  in Sindarin  'strong' or
+ primary  verbs:  as  *akara  'made,  did' >  S agor.  *akwa, however,
+ was  probably  not  verbal,  but an  extension or  intensification of
+ *kwa, used adverbially.                                              
+                                                                     
+ Note 31 (p. 392).                                                    
+ In Eldarin  languages this  is usually  found in  the forms  -ikwa or
+ -ukwa,  or  with  nasal  infixion  -inkwa,  -unkwa.  The vowels  i, u
+ were  probably  derived  from  the  terminations  of  nouns  or other
+ stems  to  which  kwa  was  added,  but the  dissyllabic suffixal
+ forms  had  become  quite  independent  of  this  origin.  The  forms
+ using  u were  mainly applied  to things  heavy, clumsy,  ugly or
+ bad.                                                                 
+
+ Note 32 (p. 393).                                                 
+ Little is said  in Noldorin  lore concerning  the language  of the
+ Valar and Maiar; but on this point a note is added  at the  end of
+ this Appendix (pp. 397 ff.).                                      
+                                                                  
+ Note 33 (p. 394).                                                 
+ lamba  is  derived  from *LABA  'move the  tongue, lick',  and may
+ be referred to *lab-ma  (with a  suffix frequent  in the  names of
+ implements):  the  group  bm  >  mb  in  CE and  possibly earlier.
+ lambe is  probably from  *lab-me, denoting  the action  of *LABA,
+ or the use of the *lamba.  (Cf. *JULU   'drink', *julma,  Q yulma,
+ S ylf 'drinking-vessel'; *julme,  Q yulme,  'drinking, carousal'.)
+ These   words  have   no  original   connexion  with  *LAMA  which
+ refers  to  sounds, especially  to vocal  sounds, but  was applied
+ only to those that were confused or inarticulate. It was generally
+ used  to  describe  the various  cries of  beasts. Hence  the word
+ *laman(a), *laman, Q  laman, pl.  lamni or  lamani; S  lavan, pl.
+ levain, 'animal', usually only applied to four-footed  beasts, and
+ never  to reptiles  or birds.  (This may  be compared  with *kwene
+ 'user  of  articulate  speech'.) The  Sindarin glam  < glamb/glamm
+ (p. 391) is an elaboration of *LAM.                               
+                                                                  
+ Note 34 (p. 394).                                                 
+ In  genuine  independent  use  mainly  employed   between  persons
+ out of earshot: the Elves  had astonishingly  acute eyesight  at a
+ distance. These 'signals' were really  distinct from  the gestures
+ (especially those  of the  hands) made  as concomitants  to speech
+ and  additions  to  tone-changes  for  the conveyance  of feeling,
+ though  some of  the gestures  in both  systems were  similar. The
+ Elves  made   considerable  use   of  the   concomitant  gestures,
+ especially in oration or recitation.                              
+                                                                  
+ Note 35 (p. 398).                                                 
+ By  which  Pengolodh  meant  the  knowledge  available  in Middle-
+ earth. The Lammas was composed in Eriador.                        
+                                                                  
+ Note 36 (p. 404).                                                 
+ Other  later  Loremasters  conjectured  that  Nessa  was  in  fact
+ Elvish  in form  (though archaic,  on Pengolodh's  own principle),
+ being  <  *neresa,  a  feminine  adjectival  formation  from *NER,
+ meaning  'she  that  has  manlike valour  or strength'.  They also
+ would  remove  Taniquetil  from   the  group   of  'translations'.
+ Arfanyarasse,  they say,  is the  translation: 'high  (i.e. noble,
+ revered) - shining  white -  peak', but  Taniquetil is  an adapta-
+ tion, though one that  has probably  greatly altered  the original
+
+ in  the  attempt  to  give  the   name  some   kind  of   Eldarin  sig-
+ nificance:  ?  high  white  point.  As  they  say,  ta-  does  not mean
+ 'lofty'  in  Eldarin, though  it may  remind one  of tara  'tall, high'
+ (*TAR);  nique  does  not  refer  to snow,  but to  cold; and  Q tilde,
+ -til  is  not  a mountain  peak, but  a fine  sharp point  (mostly used
+ of small and slender things).  For nique  cf. Q  niku- 'be  chill, cold
+ (of weather)'; nique 'it is cold, it freezes'; ninque  'chill, pallid',
+ nixe  'frost',  niquis,  niquesse   'frost-patterns'  (the   latter  by
+ association with quesse 'feather').                                   
+   Most  significant, they  cite from  an ancient  legend of  the Flight
+ the   tale  that   as  the   mists  of   Araman  wrapped   the  distant
+ mountains   of   Valinor  from   the  sight   of  the   Noldor,  Feanor
+ raised his hands in token  of rejection  and cried:  'I go.  Neither in
+ light  or  shadow  will   I  look   upon  you   again,  Dahanigwishtil-
+ gun.'  So  it  was  recorded, though  the writers  of the  histories no
+ longer  knew  what  he  meant.  For  which  reason  the   strange  word
+ may  have  been  ill  transmitted.  But  even  so  it still  bears some
+ likeness  to  Taniquetil,  though  it  can no  longer be  analysed. (In
+ a   few   versions,  say   the  Loremasters,   it  is   written  dahan-
+ igwis-telgun.)  They  also  cite  Fionwe  [read  Eonwe?]   (the  herald
+ of  Manwe)  as  another  name   for  which   no  Elvish   etymology  is
+ known.                                                                
+                                                                      
+ Note 37 (p. 406).                                                     
+ Usually in a formal and elevated style. Often, when there were        
+ differences, rather according to the Vanyarin manner  than the        
+ Noldorin, for the Vanyar  were most  in their  company; though        
+ the  Noldorin  writers  have  sometimes substituted  their own        
+ forms.                                                                
+
+                     Editorial Notes.                                  
+                                                                      
+ 1. 'affection': mutation (of the vowel o caused by the following i in
+    Mori(quendi) ).                                                     
+ 2. sundoma: see p. 319.                                              
+ 3. omentielvo:  this  was  typed  omentielmo, subsequently  changed to
+    omentielvo.  The  same  change  was  made in  the Second  Edition of
+    The Fellowship of the Ring (p. 90).                                 
+ 4. The  Fellowship  of  the Ring  p. 367  (at the  end of  the chapter
+    Lothlorien); First Edition vanimalda, Second Edition vanimelda.     
+ 5. The term omataina or 'vocalic extension' is  used of  the addition
+    to the 'base' of a final vowel identical to the sundoma (p. 319).
+ 6. 'The  glooms  and the  clouds dimming  the sun  and the  stars': an
+    explicit  reference,  it  seems,  to  some   form  of   the  changed
+    astronomical  myth  adumbrated  in  Text  II  of the  section 'Myths
+
+                                          
+                                                                           
+        Transformed' in Morgoth's  Ring. In  that text  my father  raised the
+        question 'how can the Eldar be  called the  "Star-folk"?' if  the Sun
+        is  'coeval with  the Earth'  (X.375); and  proposed a  complex story
+        (X.377  -  8)  in which  the darkening  of the  world by  Melkor, who
+        brought up vast glooms to shut out all  vision of  the heavens,  is a
+        chief element. See further pp. 423-4.                               
+    7.  'The  first people  of this  kind to  be met  were the  Nandor': this
+        strangely contradicts  the history  recorded in  the Annals  (GA $19,
+        p.  9;  also AAm  $84, X.93),  according to  which the  Dwarves first
+        entered  Beleriand  in  Valian  Year  1250,   and  the   building  of
+        Menegroth  was  achieved  before  the  coming  of   Denethor,  leader
+        of  the Nandor,  in 1350  (pp. 11-13).  The following  statement here
+        that the first  invasions of  the Orcs  followed Morgoth's  return is
+        an  equally  striking  contradiction  of  the  Annals:  according  to
+        GA  $27  Orcs  entered  Beleriand  in  1330  (cf.  also  X.106, $85):
+        'Whence  they  came,  or  what they  were, the  Elves knew  not then,
+        deeming  them  to  be  Avari,  maybe,  that   had  become   evil  and
+        savage in the wild.'                                                
+    8.  'from  Cape  Andras  to  the  headland  of  Bar-in-Myl':  Cape Andras
+        was entered on the  map (p.  184, square  G 2),  but the  headland to
+        the south (itself an extension of the coastline as  originally drawn)
+        is  there  called  Ras  Mewrim  (p.  190,  $63).  The  name   in  the
+        present  text  was  typed  Bar-in-Gwael;  the  translation  'Home  of
+        the Gulls' was added at  the same  time as  the change  to Bar-in-Myl
+        (by a later pencilled change on one copy -in- > -i-).               
+    9.  Brithonbar,  not  Brithombar,  is  the  form  typed,  and   not  cor-
+        rected.                                                             
+  10.   With this passage on the subject of the Eglain cf. p. 189, $ 57, and
+        pp.  343-4.  The  concluding  sentence  'But  they  acknowledged  the
+        high-kingship of Thingol, and Cirdan  never took  the title  of king'
+        differs   from   the   Annals,   where  Cirdan   either  acknowledged
+        Felagund of Nargothrond as  overlord, or  else was  (as it  seems) an
+        independent  Lord of  the Falas  'yet ever  close in  friendship with
+        Nargothrond' (GA $85, and commentary p. 117).                       
+  11.   For the legend of Imin, Tata, and Enel see pp. 420 ff.              
+  12.   The  story  found  in the  Annals of  Aman of  the kindreds  of Morwe
+        and  Nurwe,  who  refused  the  summons  of  the  Valar   and  became
+        the Avari (X.81-2, 88, 168), had been abandoned.                    
+  13.   The  name  Lindar  'Singers'  of  the  Teleri  has  appeared  in  the
+        'Glossary'  to  the  Athrabeth  Finrod  ah  Andreth  (X.349);  it was
+        for long the name of the First Kindred, the later Vanyar.           
+  14.   On the waterfall of Cuivienen see p. 424.                           
+  15.   In other  late writing  Cirdan is  said to  have been  of the  kin of
+        Elwe,  but  I  have  not  found any  statement of  the nature  of the
+        kinship.                                                            
+  16.   Lenwe  has  replaced  the  long-standing  name  Dan   of  Denethor's
+
+      father; from this text it was adopted in The Silmarillion.           
+  17. The statement that the Nandor entered Beleriand 'not long before     
+                                                                          
+      the  return  of  Morgoth'  is  another  remarkable  contradiction  of
+      the Annals (cf. note 7 above). Earlier (p. 377) it is said  that they
+      came  'before  the  return of  Morgoth', which  no doubt  implies the
+      same. But in  GA $31  there is  a marvellous  evocation of  'the long
+      years  of  peace  that followed  after the  coming of  Denethor', and
+      they  were  indeed  long:  from 1350  to 1495,  145 Valian  Years, or
+      1389 Years  of the  Sun. I  am at  a loss  to explain  these profound
+      changes in the embedded history.                                     
+                                                                          
+  18. On  the  Adunaic  word  Nimir  'Elf'  see   The  Drowning   of  Anadune
+      (Vol. IX, Index II, p. 473).                                         
+  19. Firimar:  the  old  form  was  Firimor  (QS  $83, V.245,  footnote). An
+      account of the  development of  meaning in  the verb  fire is  given in
+      connection with Firiel, the later name of Miriel, in X.250.          
+  20. The  name  Nogoth  niben  was  adopted  in  The  Silmarillion  (in  the
+      plural, Noegyth nibin: see Note  7 to  the present  text, p.  408); the
+      word  nogoth  of  the  Dwarves  has  not occurred  before (see  note 32
+      below).   For  other   names  and   name-forms  of   the  Petty-dwarves
+      see p. 187, $26.                                                     
+  21. In  the  revision  of  the  QS  chapter  on  the  Dwarves  the Sindarin
+      name   of   Khazad-dum   was   Nornhabar,    translated   'Dwarrowdelf'
+      (p.  206).  'Dwarrowdelf'  is  found  also  in  The  Fellowship  of the
+      Ring;  in  the  present  text  the Sindarin  name was  typed Hadhodrud
+      and   translated   'Dwarrowmine',   but   the   change   to  Hadhodrond
+      'Dwarrowvault'     was     made     immediately.     Hadhodrond     was
+      adopted in The Silmarillion.                                         
+  22. Cf.  Appendix  F  to  The  Lord  of  the  Rings,  p.  409:  'The lesser
+      kinds were called, especially by the Uruk-hai, snaga "slave".'       
+  23. Feanor  held  that,  in  spite of  the usual  mode of  spelling, vowels
+      were each independent tengwi or word-building elements.              
+  24. On  one  copy  only  a  later  pencilled  correction  changed  *SAR  to
+                                                                          
+       *SYAR.                                                              
+                                                                          
+  25. At  the  head  of  the page  is a  pencilled note  on one  copy only:
+      'Change Pengolodh to Thingodhel'.                                    
+  26. For the word equessi  see p.  392. Both  in that  passage and  in the
+      present one the word was typed Equeri and then corrected.            
+  27. For  the  old  conception  in  the  Lhammas  of the  1930s, according
+      to which the origin of all Elvish speech was in  the language  of the
+      Valar (communicated to the Elves by Orome), see V.168, 192-3.        
+  28. In  The  Road  Goes  Ever  On,  p. 61,  the name  miruvore (occurring
+      in Namarie) is said to be of Valarin origin.                         
+  29. Cf.  Note  2   on  the   Commentary  on   the  Athrabeth   Finrod  ah
+      Andreth  (X.337), where  it is  said that  'Physically Arda  was what
+      we should call the Solar System', and that in Elvish  traditions 'the
+      principal part of  Arda was  the Earth  (Imbar "the  Habitation") ...
+
+       so  that  loosely  used  Arda  often  seems to  mean the  Earth'. For
+       Ambar see the references given in X.359, note 12.                    
+  30.  Cf.  AAm  $164  (X.129):  without  voices in  silence [the  gods] may
+       hold  council  one  with  another',  and the  passage cited  from The
+       Return of the King in my note on that passage (X.135).               
+  31.  Cf.  the  late  QS  chapter  Of  the  Coming  of  Men into  the West,
+       p. 217:  'Felagund discovered  ... that  he could  read in  the minds
+       of Men such  thoughts as  they wished  to reveal  in speech,  so that
+       their words were easily interpreted.'                                
+  32.  Noegyth  Nibin  was  a  correction  of  the  name  typed,  Nibinn..g,
+       probably  Nibinnoeg  (see  p.  187,  $26).  The  notes  being  inter-
+       spersed in  the text,  this note  was written  before the  passage on
+       p. 388 was reached.                                                  
+  33.  It is curious that - as in the original text of Maeglin, where he was
+       'of the kin of Thingol' - in my father's very late work on  the story
+       Eol  becomes  again  'one  of  the Eldar'  (p. 328),  though consumed
+       with  hatred  of  the  Noldor; whereas  here he  is a  Mornedhel (one
+       of the Avari), and moreover of the aboriginal Second Clan.           
+  34.  The  name  frith  is  found as  a correction  (made after  the publi-
+       cation of The Lord of  the Rings)  of the  old name  Isfin in  QS $42
+       (X.177).  When  my  father  worked  on  the  Maeglin story  c.1970 he
+       appears to have forgotten frith, for his notes  at that  time express
+       dissatisfaction with the 'meaningless' name Isfin as if it  had never
+       been replaced (pp. 317 - 18).                                        
+  35.  Saeros'  insulting  of  Turin  by  calling  his mother  Morwen Morben
+       was  a  development  in  the  story  (see  QS  $39,  V.321,  and  Un-
+       finished Tales  p. 80)  that could  only arise,  of course,  with the
+       emergence of the words Calben and Morben.                            
+  36.  Neither the interpretation of Mithrim as  the name  of a  people (for
+       the old etymology see  V.383 -  4, stem  RINGI) nor  this explanation
+       of the name Sindar have been met before.                             
+  37.  'General  Phonology':  my  father  was  not  here  referring  to  any
+       specific, completed work.                                            
+
+                                    APPENDIX.                       
+                                                                   
+                    The legend of the Awaking of the Quendi         
+                                 (Cuivienyarna).                    
+ It is said in Quendi and Eldar, p. 380:                            
+                                                                   
+  According to the legend, preserved in  almost identical  form among
+  both the Elves of Aman and the Sindar, the Three Clans were  in the
+  beginning derived from the three Elf-fathers: Imin, Tata,  and Enel
+  (sc.  One,  Two,  Three),  and those  whom each  chose to  join his
+  following. So they had at first simply  the names  Minyar 'Firsts',
+  Tatyar 'Seconds', and Nelyar 'Thirds'. These  numbered, out  of the
+
+ original  144  Elves  that first  awoke, 14,  56, and  74; and  these pro-
+ portions were approximately maintained until the Separation.              
+                                                                          
+ A form of this legend is found in  a single  typescript with  carbon copy.
+ On  one  copy  my  father  wrote (and  similarly but  mare briefly  on the
+ other): 'Actually written (in style and simple notions) to be a surviving
+ Elvish "fairytale" or child s tale, mingled  with counting-lore  . Correc-
+ tions to either copy are taken up in the text that follows.               
+                                                                          
+ While  their  first  bodies  were  being  made  from  the 'flesh  of Arda'
+ the  Quendi  slept  'in  the  womb  of  the  Earth',  beneath   the  green
+ sward,   and   awoke   when   they   were   full-grown.   But   the  First
+ Elves  (also  called  the  Unbegotten,  or   the  Eru-begotten)   did  not
+ all   wake  together.   Eru  had   so  ordained   that  each   should  lie
+ beside  his  or  her  'destined spouse'.  But three  Elves awoke  first of
+ all,  and  they  were  elf-men,  for  elf-men  are  more  strong  in  body
+ and  more   eager  and   adventurous  in   strange  places.   These  three
+ Elf-fathers  are  named  in  the  ancient  tales  Imin,  Tata,  and  Enel.
+ They  awoke  in  that  order,  but  with  little  time  between  each; and
+ from  them,  say  the   Eldar,  the   words  for   one,  two,   and  three
+ were made: the oldest of all numerals.*                                   
+ Imin,  Tata  and  Enel  awoke   before  their   spouses,  and   the  first
+ thing  that  they  saw  was  the  stars,  for  they  woke  in   the  early
+ twilight   before  dawn.   And  the   next  thing   they  saw   was  their
+ destined  spouses   lying  asleep   on  the   green  sward   beside  them.
+ Then  they  were  so  enamoured   of  their   beauty  that   their  desire
+ for  speech   was  immediately   quickened  and   they  began   to  'think
+ of  words'  to  speak  and  sing  in.  And  being  impatient   they  could
+ not  wait  but  woke  up  their spouses.  Thus, the  Eldar say,  the first
+ thing  that  each  elf-woman  saw  was  her  spouse,  and  her   love  for
+ him  was   her  first   love;  and   her  love   and  reverence   for  the
+ wonders of Arda came later.                                               
+ Now  after  a  time,  when  they   had  dwelt   together  a   little,  and
+ had  devised  many  words,  Imin   and  Iminye,   Tata  and   Tatie,  Enel
+ and  Enelye  walked   together,  and   left  the   green  dell   of  their
+ waking,   and  they   came  soon   to  another   larger  dell   and  found
+ there  six  pairs  of  Quendi,  and the  stars were  again shining  in the
+ morrow-dim and the elf-men were just waking.                              
+ Then  Imin  claimed  to  be  the  eldest   and  to   have  the   right  of
+                                                                          
+ (* [footnote to  the text]  The Eldarin  words referred  to are  Min, Atta
+ (or  Tata),  Nel. The  reverse is  probably historical.  The Three  had no
+ names  until  they  had  developed  language,  and  were  given  (or took)
+ names after they had devised numerals (or at least the first twelve).)    
+
+ first  choice;  and  he  said:  'I  choose  these  twelve  to  be my
+ companions.'  And  the   elf-men  woke   their  spouses,   and  when
+ the  eighteen  Elves  had dwelt  together a  little and  had learned
+ many  words  and  devised  more,  they   walked  on   together,  and
+ soon  in  another  even  deeper  and  wider  hollow they  found nine
+ pairs of Quendi, and the elf-men had just waked in the starlight.
+   Then Tata  claimed the  right of  second choice,  and he  said: 'I
+ choose  these  eighteen  to  be  my  companions.'  Then   again  the
+ elf-men  woke  their  spouses,  and they  dwelt and  spoke together,
+ and  devised  many  new  sounds  and  longer  words;  and  then  the
+ thirty-six  walked  abroad  together,  until  they  came to  a grove
+ of  birches  by  a  stream,  and  there they  found twelve  pairs of
+ Quendi,  and  the  elf-men  likewise  were  just  standing  up,  and
+ looking at the stars through the birch boughs.                     
+   Then  Enel  claimed the  right of  third choice,  and he  said: 'I
+ choose   these  twenty-four   to  be   my  companions.'   Again  the
+ elf-men  woke  their  spouses;  and  for many  days the  sixty Elves
+ dwelt  by  the  stream,  and  soon  they  began  to  make  verse and
+ song to the music of the water.                                    
+   At length they all set out together again.  But Imin  noticed that
+ each  time  they  had  found  more  Quendi   than  before,   and  he
+ thought  to  himself:  'I  have only  twelve companions  (although I
+ am the eldest); I will take  a later  choice.' Soon  they came  to a
+ sweet-smelling  firwood  on  a  hill-side,  and  there   they  found
+ eighteen pairs of Quendi, and all were still sleeping. It  was still
+ night  and clouds  were in  the sky.  But before  dawn a  wind came,
+ and  roused  the  elf-men,  and  they  woke and  were amazed  at the
+ stars;  for  all  the  clouds  were  blown away  and the  stars were
+ bright  from east  to west.  And for  a long  time the  eighteen new
+ Quendi  took no  heed of  the others,  but looked  at the  lights of
+ Menel. But when at last they turned  their eyes  back to  earth they
+ beheld their  spouses and  woke them  to look  at the  stars, crying
+ to them elen, elen! And so the stars got their name.               
+   Now  Imin  said:  'I  will  not  choose  again  yet';   and  Tata,
+ therefore, chose  these thirty-six  to be  his companions;  and they
+ were  tall  and  dark-haired  and  strong  like fir-trees,  and from
+ them most of the Noldor later were sprung.                         
+   And   the   ninety-six   Quendi  now   spoke  together,   and  the
+ newly-waked  devised  many  new  and   beautiful  words,   and  many
+ cunning  artifices  of  speech;  and they  laughed, and  danced upon
+ the hill-side, until at last they desired  to find  more companions.
+ Then they all  set out  again together,  until they  came to  a lake
+
+ dark in the twilight; and there was a  great cliff  about it  upon the
+ east-side,  and  a  waterfall  came  down  from  the  height,  and the
+ stars  glittered on  the foam.  But the  elf-men were  already bathing
+ in  the  waterfall,  and  they  had  waked  their spouses.  There were
+ twenty-four  pairs;  but  as  yet  they had  no formed  speech, though
+ they  sang  sweetly  and their  voices echoed  in the  stone, mingling
+ with the rush of the falls.                                           
+   But  again Imin  withheld his  choice, thinking  'next time  it will
+ be  a  great  company  .  Therefore  Enel  said,  I  have  the choice,
+ and  I  choose  these  forty-eight  to  be  my  companions.'  And  the
+ hundred  and  forty-four  Quendi  dwelt  long  together  by  the lake,
+ until they all became of one mind and speech, and were glad.          
+   At  length  Imin said:  'It is  time now  that we  should go  on and
+ seek  more  companions.'  But  most  of  the  others were  content. So
+ Imin  and  Iminye  and  their  twelve  companions  set  out,  and they
+ walked  long  by  day  and  by  twilight  in  the  country  about  the
+ lake,  near  which   all  the   Quendi  had   awakened  -   for  which
+ reason  it is  called Cuivienen.  But they  never found  any more
+ companions, for the tale of the First Elves was complete.             
+   And  so  it  was  that the  Quendi ever  after reckoned  in twelves,
+ and  that  144  was for  long their  highest number,  so that  in none
+ of  their  later  tongues  was  there  any common  name for  a greater
+ number.  And  so  also  it   came  about   that  the   'Companions  of
+ Imin'  or  the  Eldest  Company  (of  whom   came  the   Vanyar)  were
+ nonetheless  only  fourteen  in  all,  and  the smallest  company; and
+ the   'Companions   of   Tata'   (of  whom   came  the   Noldor)  were
+ fifty-six  in  all;  but  the  'Companions   of  Enel'   although  the
+ Youngest  Company  were  the  largest;  from  them  came   the  Teleri
+ (or Lindar), and they were in the beginning seventy-four in all.      
+   Now  the  Quendi  loved  all  of Arda  that they  had yet  seen, and
+ green  things  that grew  and the  sun of  summer were  their delight;
+ but  nonetheless  they  were  ever   moved  most   in  heart   by  the
+ Stars,  and  the  hours  of  twilight  in  clear weather,  at 'morrow-
+ dim' and  at 'even-dim',  were the  times of  their greatest  joy. For
+ in  those hours  in the  spring of  the year  they had  first awakened
+ to life in  Arda. But  the Lindar,  above all  the other  Quendi, from
+ their  beginning  were  most  in  love  with  water,  and  sang before
+ they could speak.                                                     
+                                                                      
+ It seems that my father had resolved (at least for the purpose of this
+ 'fairy-tale') the problem of the  name 'Star-folk'  of the  Elves (see
+
+                              
+                                                                      
+ late night under skies of unclouded stars, and the stars were their
+ earliest memory.
+   In Quendi and Eldar (p. 382) my father wrote of 'the lake and
+ waterfall of Cuivienen', and this is explained in the Cuivienyarna:
+ 'they came to a lake dark in the twilight; and there was a great cliff
+ about it upon the east-side, and a waterfall came down from the
+ height, and the stars glittered on the foam.' Through so many years he
+ was returning to Gilfanon's Tale in The Book of Lost Tales (1.232):
+   Now the places about Koivie-neni the Waters of Awakening are
+   rugged and full of mighty rocks, and the stream that feeds that
+   water falls therein down a deep cleft... a pale and slender thread,
+   but the issue of the dark lake was beneath the earth into many
+   endless caverns falling ever more deeply into the bosom of the
+   world.

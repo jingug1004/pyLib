@@ -1,0 +1,1286 @@
+﻿     PART FOUR.
+                
+ UNFINISHED TALES.
+
+                                     XVI.                                  
+                                                                          
+                               THE NEW SHADOW.                             
+                                                                          
+ This story, or fragment of a story, is  now published  for the  first time,
+ though  its  existence has  long been  known.(1) The textual history is not
+ complicated, but there is a surprising amount of it.                      
+  There is, first, a collection  of material  in manuscript,  beginning with
+ two sides of a page carrying the original opening of  the story:  this goes
+ no  further  than  the  recollection of  the young  man (here  called Egal-
+ moth)(2) of the  rebuke  and  lecture  that he  received from Borlas (3) when
+ caught by him stealing  apples from  his orchard  as a  boy. There  is then
+ a text, which I will call 'A', written in rapid but clear script,  and this
+ extends  as  far  as  the  story  ever  went  (here  also  the  young man's
+ name  is  Egalmoth).  This was  followed by  a typescript  in top  copy and
+ carbon 'B', which  follows A  pretty closely  and ends  at the  same point:
+ there  are  a  great  many small  changes in  expression, but  nothing that
+ alters  the  narrative  in  even minor  ways (the  young man,  however, now
+ bears  the  name  Arthael).   There  is   also  an   amanuensis  typescript
+ derived from B, without independent value.(4)                              
+  Finally,  there  is  another  typescript,  'C',  also  with  carbon  copy,
+ which  extends  only  to  the  point  in the  story where  the young  man -
+ here named Saelon (5) - leaves Borlas in  his garden  'searching back  in his
+ mind  to  discover  how   this  strange   and  alarming   conversation  had
+ begun' (p. 416). This text  C treats  B much  as B  treats A:  altering the
+ expression (fairly radically in places), but in no way altering  the story,
+ or giving to it new bearings.                                             
+  It  seems  strange  that my  father should  have made  no less  than three
+ versions,  each  showing  very  careful  attention  to  improvement  of the
+ text  in detail,  when the  story had  proceeded for  so short  a distance.
+ The  evidence  of  the  typewriters  used  suggests,  however,  that  C was
+ made  very  substantially  later.  The  machine  on which  B was  typed was
+ the one he used in the  1950s before  the acquisition  of that  referred to
+ in  X.300, while  the italic  script of  A could  with some  probability be
+ ascribed to that time; but the typewriter used for C was his last.(6)     
+  In  his  Biography  (p.  228)  Humphrey  Carpenter  stated  that  in  1965
+ my  father  'found  a  typescript  of  "The  New   Shadow",  a   sequel  to
+ The  Lord  of  the  Rings  which  he  had  begun  a   long  time   ago  but
+ had  abandoned  after  a  few  pages....  He  sat up  till four  a.m. read-
+ ing it and thinking about  it.' I  do not  know the  source of  this state-
+ ment;  but  further  evidence is  provided by  a used  envelope, postmarked
+
+ 8 January 1968,  on the  back of  which my  father scribbled  a passage
+ concerning  Borlas,  developing  further  the  account  of  his circum-
+ stances at the time of the opening of the story (see note 14).  This is
+ certain evidence that he  was still  concerned with  The New  Shadow as
+ late as 1968; and since the passage  roughed out  here would  follow on
+ from the point reached in the typescript C (see note 14) it  seems very
+ likely that C dates from that time.                                    
+   Such as the evidence is, then, the original work (represented  by the
+ manuscript A and the typescript B) derives from the 1950s. In  a letter
+ of 13 May 1964 (Letters no.256) he wrote:                              
+   I did begin a story  placed about  100 years  after the  Downfall [of
+ Sauron],  but  it  proved both  sinister and  depressing. Since  we are
+ dealing with  Men it  is inevitable  that we  should be  concerned with
+ the  most  regrettable  feature  of their  nature: their  quick satiety
+ with good. So  that the  people of  Gondor in  times of  peace, justice
+ and  prosperity,  would become  discontented and  restless -  while the
+ dynasts   descended   from   Aragorn  would   become  just   kings  and
+ governors - like Denethor or worse. I  found that  even so  early there
+ was  an  outcrop  of  revolutionary  plots,  about  a centre  of secret
+ Satanistic  religion;  while  Gondorian  boys  were  playing  at  being
+ Orcs and going round doing damage.  I could  have written  a 'thriller'
+ about  the  plot  and its  discovery and  overthrow -  but it  would be
+ just that. Not worth doing.                                            
+ From the evidence given above, however, it is seen that his interest in
+ the  story  was  subsequently  reawakened, and  even reached  the point
+ of making  a new  (though incomplete)  version of  what he  had written
+ of it years before. But in 1972,  fifteen months  before his  death, he
+ wrote to his friend Douglas Carter (Letters no.338):                   
+   I have written nothing beyond the first few years of the  Fourth Age.
+ (Except  the  beginning  of  a  tale supposed  to refer  to the  end of
+ the  reign  of Eldarion  about 100  years after  the death  of Aragorn.
+ Then  I  of  course  discovered  that  the  King's Peace  would contain
+ no  tales worth  recounting; and  his wars  would have  little interest
+ after the overthrow of Sauron;  but that  almost certainly  a restless-
+ ness  would  appear  about  then,  owing to  the (it  seems) inevitable
+ boredom  of  Men  with  the  good:  there  would  be  secret  societies
+ practising dark cults, and 'orc-cults' among adolescents.)             
+ To form the text that now follows I print C so far as it goes, with the
+ sinister young man given the name Saelon;  and from  that point  I give
+ the text of B, changing the name from Arthael in B to Saelon.          
+                                                                       
+                             THE NEW SHADOW.                             
+                                                                       
+    This tale begins in the days of Eldarion, son of that Elessar of
+
+ whom  the  histories  have  much  to  tell.  One  hundred  and five
+ years had passed since the fall of the Dark  Tower,(7) and  the story
+ of  that  time  was  little  heeded now  by most  of the  people of
+ Gondor,  though  a  few were  still living  who could  remember the
+ War  of  the  Ring  as  a  shadow upon  their early  childhood. One
+ of  these  was old  Borlas of  Pen-arduin. He  was the  younger son
+ of  Beregond, the  first Captain  of the  Guard of  Prince Faramir,
+ who  had  removed  with  his  lord  from  the  City  to   the  Emyn
+ Arnen.(8)                                                          
+                                                                   
+   'Deep indeed run the roots of Evil,' said Borlas, 'and  the black
+ sap is strong in them. That tree will never be  slain. Let  men hew
+ it as often as they may, it will thrust up shoots again as  soon as
+ they turn aside. Not even at the  Feast of  Felling should  the axe
+ be hung up on the wall! '                                          
+   'Plainly you  think you  are speaking  wise words,'  said Saelon.
+ 'I guess that by the gloom  in your  voice, and  by the  nodding of
+ your  head.  But  what  is  this  all about?  Your life  seems fair
+ enough still, for  an aged  man that  does not  now go  far abroad.
+ Where  have  you  found  a  shoot  of  your  dark tree  growing? In
+ your own garden?'                                                  
+   Borlas  looked  up,  and  as  he  glanced  keenly  at  Saelon  he
+ wondered  suddenly  if  this  young  man,  usually  gay  and  often
+ half  mocking,  had more  in his  mind than  appeared in  his face.
+ Borlas  had  not  intended  to  open  his heart  to him,  but being
+ burdened  in  thought  he had  spoken aloud,  more to  himself than
+ his  companion.  Saelon  did  not  return his  glance. He  was hum-
+ ming softly,  while he  trimmed a  whistle of  green willow  with a
+ sharp nail-knife.                                                  
+   The two were sitting in an  arbour near  the steep  eastern shore
+ of Anduin where it flowed  about the  feet of  the hills  of Arnen.
+ They  were  indeed  in  Borlas's  garden  and his  small grey-stone
+ house  could  be seen  through the  trees above  them on  the hill-
+ slope facing west. Borlas looked at the river, and at the  trees in
+ their June leaves, and then far off to the towers of the City under
+ the  glow  of  late  afternoon.  'No,  not in  my garden,'  he said
+ thoughtfully.                                                      
+   'Then  why  are you  so troubled?'  asked Saelon.  'If a  man has
+ a fair garden with strong walls,  then he  has as  much as  any man
+ can  govern  for  his  own  pleasure.'  He paused.  'As long  as he
+ keeps the strength of  life in  him,' he  added. 'When  that fails,
+ why trouble about any lesser ill? For then he  must soon  leave his
+ garden at last, and others must look to the weeds.'                
+
+   Borlas  sighed,  but  he  did  not  answer,  and Saelon  went on:
+ 'But  there are  of course  some who  will not  be content,  and to
+ their life's end they trouble their hearts about  their neighbours,
+ and  the  City,  and the  Realm, and  all the  wide world.  You are
+ one of them, Master Borlas, and have  ever been  so, since  I first
+ knew  you  as  a boy  that you  caught in  your orchard.  Even then
+ you were not content to let ill alone: to deter me with  a beating,
+ or  to  strengthen  your fences.  No. You  were grieved  and wanted
+ to improve me. You had me into your house and talked to me.       
+   'I  remember  it  well.  "Orcs'  work,"  you  said   many  times.
+ "Stealing good fruit, well, I suppose that is  no worse  than boys'
+ work,  if  they  are  hungry, or  their fathers  are too  easy. But
+ pulling down unripe apples  to break  or cast  away! That  is Orcs'
+ work. How did you come to do such a thing, lad?"                  
+   'Orcs'  work!  I  was angered  by that,  Master Borlas,  and too
+ proud  to  answer,  though it  was in  my heart  to say  in child's
+ words: "If it was wrong for a boy to  steal an  apple to  eat, then
+ it is wrong to steal one to play  with. But  not more  wrong. Don't
+ speak to me of Orcs' work, or I may show you some!"               
+   'It was a mistake, Master Borlas. For  I had  heard tales  of the
+ Orcs and their doings,  but I  had not  been interested  till then.
+ You  turned  my  mind  to  them.  I  grew out  of petty  thefts (my
+ father was not too easy), but I did  not forget  the Orcs.  I began
+ to feel hatred and  think of  the sweetness  of revenge.  We played
+ at  Orcs,  I  and  my friends,  and sometimes  I thought:  "Shall I
+ gather  my  band  and  go  and  cut  down his  trees? Then  he will
+ think that  the Orcs  have really  returned." But  that was  a long
+ time ago,' Saelon ended with a smile.                             
+   Borlas  was  startled.  He  was  now  receiving  confidences, not
+ giving  them.  And  there  was something  disquieting in  the young
+ man's   tone,  something   that  made   him  wonder   whether  deep
+ down, as deep as the roots of the dark trees, the  childish resent-
+ ment did not still linger. Yes, even  in the  heart of  Saelon, the
+ friend  of  his own  son, and  the young  man who  had in  the last
+ few  years  shown  him  much  kindness in  his loneliness.(9) At any
+ rate he resolved to say no more of his own thoughts to him.       
+   'Alas!' he said, 'we all make mistakes. I  do not  claim wisdom,
+ young man,  except maybe  the little  that one  may glean  with the
+ passing  of  the  years.  From  which  I   know  well   enough  the
+ sad  truth  that  those  who  mean  well  may  do  more  harm  than
+ those who let things be.  I am  sorry now  for what  I said,  if it
+ roused hate in your heart. Though I still think  that it  was just:
+
+ untimely  maybe,  and  yet  true.  Surely  even  a  boy   must  under-
+ stand that fruit is fruit, and does not reach its full being  until it
+ is ripe; so that to misuse it unripe is to do worse  than just  to rob
+ the  man  that  has  tended  it:  it  robs the  world, hinders  a good
+ thing  from  fulfilment. Those  who do  so join  forces with  all that
+ is amiss, with  the blights  and the  cankers and  the ill  winds. And
+ that was the way of Orcs.'                                           
+   'And  is  the  way  of Men  too,' said  Saelon. 'No!  I do  not mean
+ of  wild  men  only,  or  those  who  grew  "under  the   Shadow",  as
+ they  say.  I  mean  all  Men.  I  would not  misuse green  fruit now,
+ but  only  because  I  have  no  longer  any  use  for  unripe apples,
+ not  for  your  lofty  reasons,  Master  Borlas.  Indeed I  think your
+ reasons  as  unsound  as an  apple that  has been  too long  in store.
+ To  trees  all  Men  are  Orcs.  Do  Men  consider  the  fulfilment of
+ the  life-story  of  a  tree  before  they cut  it down?  For whatever
+ purpose: to have its room for  tilth, to  use its  flesh as  timber or
+ as  fuel,  or  merely  to  open the  view? If  trees were  the judges,
+ would  they  set  Men  above  Orcs,  or   indeed  above   the  cankers
+ and  blights?  What  more  right,  they  might ask,  have Men  to feed
+ on their juices than blights?'                                       
+   'A  man,'  said  Borlas,  'who  tends  a  tree  and  guards  it from
+ blights  and  many  other  enemies  does  not  act  like  an Orc  or a
+ canker. If he eats its fruit, he does it no injury. It  produces fruit
+ more  abundantly  than  it  needs  for  its  own  purpose:   the  con-
+ tinuing of its kind.'                                                
+   'Let him eat the fruit then, or play with it,'  said Saelon.  'But I
+ spoke  of  slaying:  hewing  and  burning;  and  by  what   right  men
+ do such things to trees.'                                            
+   'You  did  not.  You  spoke  of  the  judgement  of  trees  in these
+ matters.  But  trees  are  not  judges.  The children  of the  One are
+ the  masters.  My  judgement  as  one  of   them  you   know  already.
+ The evils  of the  world were  not at  first in  the great  Theme, but
+ entered  with  the  discords  of  Melkor.  Men   did  not   come  with
+ these  discords;  they  entered  afterwards  as  a  new  thing  direct
+ from  Eru,  the  One,  and  therefore  they  are called  His children,
+ and  all  that  was  in  the  Theme  they  have,  for their  own good,
+ the right  to use  - rightly,  without pride  or wantonness,  but with
+ reverence.(10)                                                       
+   'If  the  smallest  child  of a  woodman feels  the cold  of winter,
+ the proudest tree is not  wronged, if  it is  bidden to  surrender its
+ flesh  to  warm  the  child  with  fire.  But the  child must  not mar
+ the tree in play or spite,  rip its  bark or  break its  branches. And
+
+ the  good  husbandman  will use  first, if  he can,  dead wood  or an
+ old tree; he will not fell a young tree and leave it  to rot,  for no
+ better reason than his pleasure in axe-play. That is orkish.         
+   'But it is even as I said: the roots of Evil lie deep, and from far
+ off  comes  the  poison  that  works  in  us, so  that many  do these
+ things  -  at  times,  and become  then indeed  like the  servants of
+ Melkor. But the Orcs did  these things  at all  times; they  did harm
+ with  delight  to  all  things that  could suffer  it, and  they were
+ restrained  only  by  lack  of  power,  not  by  either  prudence  or
+ mercy. But we have spoken enough of this.'                           
+   'Why!' said  Saelon. 'We  have hardly  begun. It  was not  of your
+ orchard,  nor  your  apples,  nor  of  me,  that  you  were  thinking
+ when  you  spoke  of  the  re-arising  of  the  dark  tree.  What you
+ were  thinking of,  Master Borlas,  I can  guess nonetheless.  I have
+ eyes and  ears, and  other senses,  Master.' His  voice sank  low and
+ could  scarcely  be  heard  above  the  murmur  of  a   sudden  chill
+ wind  in  the  leaves,  as  the  sun  sank  behind  Mindolluin.  'You
+ have  heard  then  the  name?'  With  hardly  more  than   breath  he
+ formed it. 'Of Herumor?'(11)                                         
+   Borlas  looked  at  him   with  amazement   and  fear.   His  mouth
+ made tremulous motions of speech, but no sound came from it.         
+   'I  see  that  you  have,'  said Saelon.  'And you  seem astonished
+ to learn  that I  have heard  it also.  But you  are not  more aston-
+ ished than I was to see that  this name  has reached  you. For,  as I
+ say,  I  have keen  eyes and  ears, but  yours are  now dim  even for
+ daily  use,  and  the  matter  has  been  kept  as secret  as cunning
+ could contrive.'                                                     
+   'Whose   cunning?'   said  Borlas,   suddenly  and   fiercely.  The
+ sight of his eyes might be dim, but they blazed now with anger.      
+   'Why,  those  who  have  heard the  call of  the name,  of course,'
+ answered  Saelon  unperturbed.  'They  are  not  many  yet,   to  set
+ against  all  the  people  of  Gondor,  but  the  number  is growing.
+ Not all are  content since  the Great  King died,  and fewer  now are
+ afraid.'                                                             
+   'So I  have guessed,'  said Borlas,  'and it  is that  thought that
+ chills  the  warmth  of  summer  in  my  heart.  For  a man  may have
+ a garden with strong walls,  Saelon, and  yet find  no peace  or con-
+ tent there.  There are  some enemies  that such  walls will  not keep
+ out; for his garden is only part of a guarded realm after all.  It is
+ to the walls of the realm  that he  must look  for his  real defence.
+ But  what is  the call?  What would  they do?'  he cried,  laying his
+ hand on the young man's knee.                                        
+
+   'I  will  ask you  a question  first before  I answer  yours,' said
+ Saelon;  and  now  he  looked  searchingly  at  the  old   man.  'How
+ have  you,  who  sit  here  in  the  Emyn  Arnen  and  seldom  go now
+ even  to  the  City  -  how  have  you  heard  the  whispers  of this
+ name?'                                                              
+   Borlas  looked   down  on   the  ground   and  clasped   his  hands
+ between  his  knees.  For some  time he  did not  answer. At  last he
+ looked  up  again;  his  face  had  hardened and  his eyes  were more
+ wary. 'I will not answer that, Saelon,'  he said.  'Not until  I have
+ asked  you  yet  another question.  First tell  me,' he  said slowly,
+ 'are you one of those who have listened to the,call?'               
+   A   strange   smile   flickered  about   the  young   man's  mouth.
+ 'Attack is the best defence,' he answered, 'or  so the  Captains tell
+ us; but when both sides use this counsel there is a clash  of battle.
+ So I will counter you. I will  not answer  you, Master  Borlas, until
+ you tell me: are you one of those who have listened, or no?'        
+   'How can you think it?' cried Borlas.                             
+   'And how can you think it?' asked Saelon.                        
+   'As  for  me,'  said  Borlas,  'do not  all my  words give  you the
+ answer?'                                                            
+   'But  as  for  me,  you would  say,' said  Saelon, 'my  words might
+ make  me  doubtful?  Because  I  defended  a  small  boy   who  threw
+ unripe  apples  at   his  playmates   from  the   name  of   Orc?  Or
+ because  I  spoke  of the  suffering of  trees at  the hands  of men?
+ Master  Borlas,  it  is  unwise  to  judge a  man's heart  from words
+ spoken  in  an  argument  without  respect  for  your  opinions. They
+ may  be  meant  to  disturb  you.  Pert  maybe,  but  possibly better
+ than  a  mere echo.(12) I do not doubt  that many  of those  we spoke
+ of  would  use  words  as solemn  as yours,  and speak  reverently of
+ the  Great  Theme  and  such  things  - in  your presence.  Well, who
+ shall answer first?'                                                
+   'The  younger  it would  have been  in the  courtesy of  old,' said
+ Borlas;  'or  between  men  counted  as  equals,  the  one   who  was
+ first asked. You are both.'                                         
+   Saelon  smiled.  'Very  well,'  he  said.  'Let  me see:  the first
+ question  that  you  asked  unanswered  was: what  is the  call, what
+ would  they  do? Can  you find  no answer  in the  past for  all your
+ age  and lore?  I am  young and  less learned.  Still, if  you really
+ wish  to  know,  I  could  perhaps  make  the  whispers   clearer  to
+ you.'                                                              
+   He  stood  up.  The  sun  had  set  behind  the  mountains; shadows
+ were  deepening.  The  western wall  of Borlas's  house on  the hill-
+
+ side was  yellow in  the afterglow,  but the  river below  was dark.
+ He looked  up at  the sky,  and then  away down  the Anduin.  'It is
+ a fair evening still,' he said, 'but the wind has  shifted eastward.
+ There will be clouds over the moon tonight.'                       
+   'Well, what of it?'  said Borlas,  shivering a  little as  the air
+ chilled.  'Unless  you  mean  only  to  warn  an  old man  to hasten
+ indoors  and  keep his  bones from  aching.' He  rose and  turned to
+ the  path  towards  his  house,  thinking that  the young  man meant
+ to  say  no  more;  but  Saelon  stepped  up beside  him and  laid a
+ hand on his arm.                                                   
+   'I warn  you rather  to clothe  yourself warmly  after nightfall,'
+ he said. 'That is, if you wish  to learn  more; for  if you  do, you
+ will come with me  on a  journey tonight.  I will  meet you  at your
+ eastern gate behind your house; or at  least I  shall pass  that way
+ as soon as it is full dark, and you shall come or  not as  you will.
+ I  shall  be clad  in black,  and anyone  who goes  with me  must be
+ clad  alike.  Farewell  now,  Master   Borlas!  Take   counsel  with
+ yourself while the light lasts.'                                   
+   With   that   Saelon   bowed   and   turned   away,   going  along
+ another  path  that  ran  near  the  edge of  the steep  shore, away
+ northward  to  the  house  of his father.(13) He disappeared  round a
+ bend while his last words were still echoing in Borlas's ears.     
+                                                                   
+   For  some  while  after  Saelon  had  gone  Borlas   stood  still,
+ covering his  eyes and  resting his  brow against  the cool  bark of
+ a tree beside the path. As  he stood  he searched  back in  his mind
+ to  discover  how  this  strange   and  alarming   conversation  had
+ begun. What he would do after nightfall he did not yet consider.
+   He had  not been  in good  spirits since  the spring,  though well
+ enough  in  body  for  his  age,  which burdened  him less  than his
+ loneliness.(14) Since his son, Berelach,(15) had  gone away  again in
+ April - he  was in  the Ships,  and now  lived mostly  near Pelargir
+ where  his  duty  was  -  Saelon had  been most  attentive, whenever
+ he  was  at  home.  He  went much  about the  lands of  late. Borlas
+ was  not  sure  of his  business, though  he understood  that, among
+ other  interests,  he  dealt  in  timber. He  brought news  from all
+ over the kingdom to his old friend. Or to  his friend's  old father;
+ for  Berelach  had  been  his  constant   companion  at   one  time,
+ though they seemed seldom to meet nowadays.                        
+   'Yes, that was it,' Borlas said to himself. 'I spoke to  Saelon of
+ Pelargir,  quoting  Berelach.  There  has  been some  small disquiet
+ down  at  the  Ethir:  a few  shipmen have  disappeared, and  also a
+
+ small vessel of the Fleet. Nothing much, according to Berelach.
+   '"Peace makes things slack," he  said, I  remember, in  the voice
+ of an  under-officer. "Well,  they went  off on  some ploy  of their
+ own,  I  suppose -  friends in  one of  the western  havens, perhaps
+ -  without  leave and  without a  pilot, and  they were  drowned. It
+ serves them right. We get too few real sailors these days.  Fish are
+ more profitable.  But at  least all  know that  the west  coasts are
+ not safe for the unskilled."                                       
+   'That was all. But I spoke of it to  Saelon, and  asked if  he had
+ heard  anything  of  it  away  south.  "Yes," he  said, "I  did. Few
+ were  satisfied   with  the   official  view.   The  men   were  not
+ unskilled;  they  were  sons of  fishermen. And  there have  been no
+ storms off the coasts for a long time.>                            
+   As  he  heard  Saelon  say  this,  suddenly Borlas  had remembered
+ the   other  rumours,   the  rumours   that Othrondir (16) had  spoken
+ of. It  was he  who had  used the  word 'canker'.  And then  half to
+ himself Borlas had spoken aloud about the Dark Tree.               
+   He  uncovered  his  eyes   and  fondled   the  shapely   trunk  of
+ the  tree  that  he  had  leaned  on,  looking  up  at  its  shadowy
+ leaves  against the  clear fading  sky. A  star glinted  through the
+ branches. Softly he spoke again, as if to the tree.                
+   'Well, what is to be done  now? Clearly  Saelon is  in it.  But is
+ it  clear?  There  was  the  sound  of  mockery  in  his  words, and
+ scorn  of  the  ordered  life  of  Men.  He   would  not   answer  a
+ straight question. The black  clothes! And  yet -  why invite  me to
+ go with him? Not  to convert  old Borlas!  Useless. Useless  to try:
+ no  one  would  hope  to  win  over  a man  who remembered  the Evil
+ of old, however far  off. Useless  if one  succeeded: old  Borlas is
+ of  no  use  any  longer as  a tool  for any  hand. Saelon  might be
+ trying  to  play  the  spy,  seeking  to find  out what  lies behind
+ the  whispers.  Black  might  be a  disguise, or  an aid  to stealth
+ by  night.  But again,  what could  I do  to help  on any  secret or
+ dangerous errand? I should be better out of the way.'              
+   With  that  a  cold  thought  touched Borlas's  heart. Put  out of
+ the  way -  was that  it? He  was to  be lured  to some  place where
+ he  could disappear,  like the  Shipmen? The  invitation to  go with
+ Saelon  had  been  given  only  after  he  had  been  startled  into
+ revealing  that  he  knew  of  the  whispers  -  had even  heard the
+ name. And he had declared his hostility.                           
+   This   thought   decided  Borlas,   and  he   knew  that   he  was
+ resolved now to stand robed in black at the gate  in the  first dark
+ of  night.  He was  challenged, and  he would  accept. He  smote his
+
+ palm  against  the  tree.  'I  am not  a dotard  yet, Neldor,'  he said;
+ 'but death is  not so  far off  that I  shall lose  many good  years, if
+ I lose the throw.'                                                      
+   He   straightened   his  back   and  lifted   his  head,   and  walked
+ away  up  the  path,  slowly  but  steadily.  The  thought  crossed  his
+ mind  even  as  he  stepped   over  the   threshold:  'Perhaps   I  have
+ been  preserved  so  long  for  this  purpose:  that  one  should  still
+ live,  hale  in  mind,  who  remembers  what   went  before   the  Great
+ Peace. Scent has a  long memory.  I think  I could  still smell  the old
+ Evil, and know it for what it is.'                                      
+                                                                        
+   The   door  under   the  porch   was  open;   but  the   house  behind
+ was  darkling.   There  seemed   none  of   the  accustomed   sounds  of
+ evening,  only  a  soft  silence,  a dead  silence. He  entered, wonder-
+ ing a  little. He  called, but  there was  no answer.  He halted  in the
+ narrow  passage  that  ran  through  the  house,  and  it   seemed  that
+ he  was  wrapped  in  a  blackness:  not  a glimmer  of twilight  of the
+ world  outside  remained  there.  Suddenly  he  smelt   it,  or   so  it
+ seemed,  though  it  came  as  it  were  from  within  outwards  to  the
+ sense: he smelt the old Evil and knew it for what it was.               
+                                                                        
+ Here,  both  in  A and  B, The  New Shadow  ends, and  it will  never be
+ known what Borlas  found in  his dark  and silent  house, nor  what part
+ Saelon  was  playing and  what his  intentions were.  There would  be no
+ tales worth the telling in the days of the King's Peace, my father said;
+ and he disparaged the story that he had begun: 'I  could have  written a
+ "thriller"  about  the plot  and its  discovery and  overthrow -  but it
+ would be just that.  Not worth  doing.' It  would nonetheless  have been
+ a very remarkable 'thriller', and one may well  view its  early abandon-
+ ment with regret. But it may be that  his reason  for abandoning  it was
+ not only this - or perhaps rather that in saying this he  was expressing
+ a deeper conviction: that the vast  structure of  story, in  many forms,
+ that he had raised came to its true end  in the  Downfall of  Sauron. As
+ he  wrote  (Morgoth's  Ring  p.  404):  'Sauron was  a problem  that Men
+ had to deal with finally: the first of the  many concentrations  of Evil
+ into definite power-points that  they would  have to  combat, as  it was
+ also the last of  those in  "mythological" personalized  (but non-human)
+ form.'                                                                  
+                                                                        
+                                  NOTES.                                 
+                                                                        
+ 1.   It  has  also  been  read  publicly,  by myself  (Sheldonian Theatre,
+      Oxford,  18  August  1992).  At  that  time,  not  having   studied  the
+      papers  with  sufficient  care,  I  was under  the impression  that text
+      B  was  the  latest,  and  it was  this that  I read  - the  young man's
+      name being therefore Arthael.                                      
+
+  2.  In the  original draft  of the  opening of  the story  (preceding A)
+      the  name  was  first  written   Almoth,  but   changed  immediately
+      to  Egalmoth.  The  original  Egalmoth  was the  lord of  the people
+      of  the  Heavenly  Arch in  Gondolin; it  was also  the name  of the
+      eighteenth Ruling Steward of Gondor.                                
+  3.  Borlas was the name of the eldest son of  Bor the  Easterling, later
+      changed to Borlad (XI.240);  he was  slain in  the Battle  of Unnum-
+      bered Tears, faithful to the Eldar.                                 
+  4.  The  first page  of this  was typed  on the  machine that  my father
+      first  used  about the  end of  1958 (X.300),  and the  remainder on
+      the previous one (that used for text B).                            
+  5.  The name Saelon is  found in  drafting for  the Athrabeth  Finrod ah
+      Andreth  as  a  name  of the  wise-woman Andreth  of the  Edain, who
+      debated with Finrod; in the final text  this became  Saelind, trans-
+      lated 'Wise-heart' (X.305, 351-2).                                  
+  6.  This is the machine  on which  the very  late 'historical-etymologi-
+      cal' essays were typed, and which I use to this day.                
+  7.  A puzzling question is raised  by this  dating, concerning  the his-
+      torical period in which the story is set.  In the  opening paragraph
+      the original draft (preceding A) has:                               
+         It  was in  the days  of Eldarion,  son of  that Elessar  of whom
+      ancient  histories  have  much  to  tell,  that  this  strange thing
+      occurred.  It  was  indeed less  than one  hundred and  twenty years
+      since the fall of the Dark Tower ...                                
+      The first complete  text, the  manuscript A,  has: 'Nearly  one hun-
+      dred and ten years had  passed since  the fall  of the  Dark Tower',
+      and this is repeated in B. My father typed the  opening page  of the
+      late text C in two closely similar forms, and in the first  of these
+      he  retained the  reading of  A and  B, but  in the  second (printed
+      here) he wrote 'One hundred and five years'. In  the letter  of 1964
+      cited  on  p.  410  he said  'about 100  years after  the Downfall',
+      and in that  of 1972  (ibid.) 'about  100 years  after the  death of
+      Aragorn'.  We  thus have,  in chronological  order of  their appear-
+      ance,  the  following  dates  after  the  fall  of  the  Dark Tower:
+      less   than   120   years   (original   opening   of   the   story);
+      nearly 110  years (A and B);
+      about  100  years (letter of 1964);
+      nearly 110  years (first  copy of  the opening  page of  C, c.1968);
+      105 years (second copy of the opening page of C).                   
+      The  fall  of the  Dark Tower  took place  in the  year 3019  of the
+      Third  Age, and  that Age  was held  to have  been concluded  at the
+      end of 3021; thus the dates from the fall of the Tower (in  the same
+      order, and  making them  for brevity  definite rather  than approxi-
+      mate)  are  Fourth  Age  118,  108,  98, 108,  103. Thus  every date
+      given in the texts (and that in the letter of 1964) places the story
+      before  the  death  of  Aragorn  -  which took  place in  Fourth Age
+
+      120  =  Shire  Reckoning  1541  (Appendix  B, at  end); yet  every one
+      of the texts refers it to the days of his son Eldarion.               
+         The solution of this must lie in the fact that in the First Edition
+      of  The  Lord  of  the  Rings  (ibid.)  Aragorn's  death   was  placed
+      twenty  years  earlier,  in  Shire  Reckoning  1521,  i.e.  Fourth Age
+      100. The date  given in  the letter  of 1964  ('about 100  years after
+      the Downfall') is indeed  too early  even according  to the  dating of
+      the First  Edition, but  that is  readily explained  as being  a rough
+      approximation  appropriate  in  the  context.  More  puzzling  are the
+      dates given in the two versions of the first page of the late  text C"
+      which  do  not  agree  with  the  date  of  Aragorn's  death   in  the
+      Second Edition (1966).  The first  of these  ('nearly 110  years') can
+      be  explained as  merely taking  up the  reading of  text B,  which my
+      father  was following;  but in  the second  version he  evidently gave
+      thought  to  the  date, for  he changed  it to  '105 years':  that is,
+      Fourth Age 103. I am at a loss to explain this.                       
+         In  the  letter  of 1972  he gave  a much  later date,  placing the
+      story  in about  Fourth Age  220 (and  giving to  Eldarion a  reign of
+      at least 100 years).                                                  
+  8.  See  The  Return  of  the King  (chapter The  Steward and  the King),
+      p. 247.                                                               
+  9.  Both  A  and  B  have  'sons'  for  'son',  and they  do not  have the
+      words 'in his  loneliness'. With  the latter  difference cf.  the last
+      sentence of the C text and its difference from B (note 14).           
+ 10.  This  passage  in  the  argument was  expressed rather  differently in
+      B (which was following A almost exactly):                             
+           'A  man,'  said  Borlas,  'who tends  a tree  and guards  it from
+      blights,  and  eats  its  fruit  - which  it produces  more abundantly
+      than  its  mere  life-need;  not  that eating  the fruit  need destroy
+      the seed - does not act like a canker, nor like an Orc.               
+           'But as for the cankers, I wonder. They live,  it might  be said,
+      and yet their life  is death.  I do  not believe  that they  were part
+      of  the Music  of the  Ainur, unless  in the  discords of  Melkor. And
+      so with Orcs.'                                                        
+           'And what of Men?' said Arthael.                                 
+           'Why  do  you  ask?'  said  Borlas.  'You  know, surely,  what is
+      taught?  They  were  not at  first in  the Great  Music, but  they did
+      not  enter  with  the  discords  of  Melkor:  they came  from Iluvatar
+      himself,  and  therefore  they  are  called the  Children of  God. And
+      all that is in the Music they  have a  right to  use -  rightly: which
+      is with reverence, not with pride or wantonness.'                     
+ 11.  The  name   Herumor  is   found  in   Of  the   Rings  of   Power  and
+      the  Third  Age  (The  Silmarillion  p.  293)  as  that of  a renegade
+      Numenorean   who   became   powerful   among   the  Haradrim   in  the
+      time before the war of the Last Alliance.                             
+
+                                                                     
+                                                                           
+  12. B  (exactly  repeating  A)  has  here:  'No, Master  Borlas, in  such a
+      matter  one  cannot  judge  words  by  the shape  they are  spoken in.'
+  13. A  has  here  'his  father  Duilin'.  This,  like Egalmoth,  is another
+      name  from  the  story  of  Gondolin:  Duilin  was  the  leader  of the
+      people  of  the  Swallow,  who  fell from  the battlements  when 'smit-
+      ten by a fiery bolt of the Balrogs' (II.178). It was also  the original
+      name  of  the  father  of  Flinding,  later  Gwindor,   of  Nargothrond
+      (II.79, etc.): Duilin > Fuilin > Guilin.                              
+  14. At this point C comes to an end, at  the foot  of a  page. B  has here:
+      'He  had  not  been  in  good  health  since  the  spring; old  age was
+      gaining  upon  him'  (see  note  9).  From   here  onwards,   as  noted
+      earlier,  I  follow  text  B, changing  the name  Arthael to  Saelon. -
+      The  passage  written  on  an  envelope  postmarked  8   January  1968,
+      referred  to  on  pp. 409-10,  would follow  from this  point in  C; it
+      reads (the last phrases being very difficult to make out):            
+         For  he  lived  now  with only  two old  servants, retired  from the
+      Prince's  guard,  in  which  he  himself  had  once  held  office. Long
+      ago  his  daughter  had  married  and  now  lived  in distant  parts of
+      the  realm,  and  then  ten  years  ago  his  wife  had died.  Time had
+      softened  his  grief,  while Berelach  [his son]  was still  near home.
+      He  was  his  youngest  child  and  only  son,  and  was in  the King's
+      ships;  for  several  years  he  had  been  stationed  at  the  Harlond
+      within   easy  reach   by  water,   and  spent   much  time   with  his
+      father.  But  it  was  three  years  now  since  he  had  been  given a
+      high  command,  and  was  often  long   at  sea,   and  when   on  land
+      duty  still  held  him  at  Pelargir  far  away.  His  visits  had been
+      few  and  brief.  Saelon,   who  formerly   came  only   when  Berelach
+      [?  ...  been  his  old  friend]  was  with Borlas,  but had  been most
+      attentive  when  he  was  in  Emyn   Arnen.  Always   in  to   talk  or
+      bring news, or [?run] any service he could                           
+      For  the  site  of  'the  quays and  landings of  the Harlond'  see The
+      Return of the King (chapter Minas Tirith), p. 22.                     
+  15. Borlas  is  described  at  the beginning  of the  story as  the younger
+      son  of  Beregond,  and  he  was  thus  the   brother  of   Bergil  son
+      of  Beregond   who  was   Pippin's  companion   in  Minas   Tirith.  In
+      A  Borlas  gave  the  name  Bergil   to  his   own  son   (preceded  by
+      Berthil ).                                                            
+  16. For Othrondir A has Othrondor.                                        
+
+                                    XVII.                                   
+                                                                           
+                                  TAL-ELMAR.                                
+                                                                           
+ The tale of Tal-Elmar, so far as it went, is preserved  in a  folded paper,
+ bearing  dates  in  1968,  on  which  my father  wrote the  following hasty
+ note:                                                                      
+                                                                           
+                                  Tal-Elmar.                                
+                                                                           
+   Beginnings  of  a  tale  that  sees  the  Numenoreans  from  the  point  of
+   view  of  the  Wild  Men.  It  was  begun  without  much  consideration  of
+   geography  (or  the  situation  as  envisaged  in The  Lord of  the Rings).
+   But  either it  must remain  as a  separate tale  only vaguely  linked with
+   the developed Lord of the Rings  history, or  - and  I think  so -  it must
+   recount   the   coming   of  the   Numenoreans  (Elf-friends)   before  the
+   Downfall,  and  represent  their  choice  of   permanent  havens.   So  the
+   geography  must  be  made  to  fit  that  of  the  mouths  of   Anduin  and
+   the Langstrand.                                                          
+                                                                           
+ But  that  was written  thirteen years  after he  had abandoned  the story,
+ and there is no sign that he returned to it in his last years. Brief  as it
+ is, and (as it seems)  uncertain of  direction, such  a departure  from all
+ other  narrative  themes  within  the  compass  of  Middle-earth  will form
+ perhaps a fitting conclusion to this History.                              
+   The text is in two parts. The  first is  a typescript  of six  sides that
+ breaks off in the middle of a sentence (p. 432); but the first part of this
+ is extant  also in  a rejected  page, part  typescript and  part manuscript
+ (see note 5). Beyond this point the entire story is in  the first  stage of
+ composition.  The  second  part  is  a  manuscript   on  which   my  father
+ wrote  'Continuation  of  Tal-Elmar' and  the date  January 1955;  there is
+ no indication  of how  long a  time elapsed  between the  two parts,  but I
+ believe that the typescript  belongs also  to the  1950s. It  is remarkable
+ that  he  should  have  been  working  on  it  during  the time  of extreme
+ pressure  between  the  publication  of  The  Two   Towers  and   that  of
+ The  Return  of  the  King.  This manuscript  takes up  the story  from the
+ point  where  it  was left  in the  typescript, but  does not  complete the
+ unfinished  sentence;  it  becomes  progressively  more  difficult,  and in
+ one section is at the very limit  of legibility,  with some  words uninter-
+ pretable.  Towards  the  end  the  narrative  breaks  up  into experimental
+ passages  and  questionings.  With  a  few  exceptions  I  do   not  record
+ corrections to the text  and give  only the  later reading;  and in  one or
+ two cases I have altered inconsistent uses of 'thou' and 'you'.            
+
+ In the days of  the Dark  Kings, when  a man  could still  walk dry-
+ shod from the Rising of the  Sun to  the Sea  of its  setting, there
+ lived in the fenced town of his people  in the  green hills  of Agar
+ an  old  man,  by  name  Hazad Longbeard.(1) Two prides he  had: in
+ the number of his sons (seventeen in all), and in the length  of his
+ beard (five feet without stretching); but his joy  in his  beard was
+ the greater. For it remained  with him,  and was  soft, and  ruly to
+ his  hand,  whereas  his  sons  for  the  most  part were  gone from
+ him,  and  those  that  remained,  or came  ever nigh,  were neither
+ gentle  nor  ruly.  They  were  indeed  much  as  Hazad  himself had
+ been  in  the  days  of  his  youth:  broad, swarthy,  short, tough,
+ harsh-tongued, heavy-handed, and quick to violence.                
+   Save  one  only,  and  he  was the  youngest. Tal-elmar  Hazad his
+ father  named  him.  He  was  yet  but  eighteen  years of  age, and
+ lived with his father, and the two  of his  brothers next  elder. He
+ was  tall,  and white-skinned,  and there  was a  light in  his grey
+ eyes that would flash to  fire, if  he were  wroth; and  though that
+ happened  seldom,  and  never without  great cause,  it was  a thing
+ to  remember  and  be  ware  of.  Those  who  had  seen   that  fire
+ called  him  Flint-eye, and  respected him,  whether they  loved him
+ or  no.  For  Tal-elmar might  seem, among  that swart  sturdy folk,
+ slender-built  and  lacking  in the  strength of  leg and  neck that
+ they  praised,  but  a  man  that  strove  with  him soon  found him
+ strong  beyond  guess,  and sudden  and swift,  hard to  grapple and
+ harder to elude.                                                   
+   A  fair  voice  he  had,  which  made  even  the  rough  tongue of
+ that  people  more  sweet  to  hear,  but  he  spoke not  over much;
+ and  he  would  stand  often  aloof,  when  others  were chattering,
+ with a look on his face that men read rightly as  pride, yet  it was
+ not the pride of  a master,  but rather  the pride  of one  of alien
+ race,  whom  fate  has  cast  away  among  an  ignoble  people,  and
+ there  bound  him  in  servitude.  For  indeed   Tal-elmar  laboured
+ hard  and at  menial tasks,  being but  the youngest  son of  an old
+ man, who had  little wealth  left save  his beard  and a  repute for
+ wisdom.  But  strange to  say (in  that town)  he served  his father
+ willingly, and loved him,  more than  all his  brothers in  one, and
+ more than  was the  wont of  any sons  in that  land. Indeed  it was
+ most often on his father's behalf that the  flint-flash was  seen in
+ his eyes.                                                          
+   For  Tal-elmar  had  a  strange  belief  (whence  it  came  was  a
+ wonder) that the  old should  be treated  kindly and  with courtesy,
+ and should be suffered to live out their life-days  in such  ease as
+
+ they could. 'If  ye must  gainsay them,'  he said,  'let it  be done
+ with  respect;  for  they  have  seen  many  years, and  many times,
+ maybe,  have  they faced  the evils  which we  come to  untried. And
+ grudge  not  their  food  and  their  room,  for they  have laboured
+ longer than  have ye,  and do  but receive  now, belatedly,  part of
+ the payment that is due  to them.'  Such plain  folly had  no effect
+ on the manners of his people, but it was  law in  his house;  and it
+ was  now  two  years  since  either  of  his  brothers had  dared to
+ break it.(2)                                                       
+   Hazad  loved this  youngest son  dearly, in  return for  his love,
+ yet even more for another  cause which  he kept  in his  heart: that
+ his  face  and  his  voice  reminded  him  of  another that  he long
+ had  missed.  For  Hazad  also  had  been  the  youngest son  of his
+ mother,  and  she  died in  his boyhood;  and she  was not  of their
+ people.  Such  was  the  tale  that  he  had  overheard,  not openly
+ spoken indeed, for  it was  held no  credit to  the house:  she came
+ of  the  strange  folk,  hateful  and  proud,  of  which  there  was
+ rumour  in  the west-lands,  coming out  of the  East, it  was said.
+ Fair,  tall,  and  flint-eyed  they were,  with bright  weapons made
+ by demons in  the fiery  hills. Slowly  they were  thrusting towards
+ the  shores of  the Sea,  driving before  them the  ancient dwellers
+ in the lands.                                                      
+   Not   without   resistance.   There   were   wars  on   the  east-
+ marches,  and  since  the  older  folk  were  yet numerous,  the in-
+ comers  would  at  times  suffer  great  loss  and  be  flung  back.
+ Indeed  little had  been heard  of them  in the  Hills of  Agar, far
+ to the west, for more than a man's life, since that great  battle of
+ which songs were yet sung.  In the  valley of  Ishmalog it  had been
+ fought, the wise in lore told, and there  a great  host of  the Fell
+ folk  had  been  ambushed  in  a  narrow  place  and  slaughtered in
+ heaps.  And  in  that  day many  captives were  taken; for  this had
+ been  no  affray on  the borders,  or fight  with advance  guards: a
+ whole  people of  the Fell  Folk had  been on  the move,  with their
+ wains and their cattle and their women.                            
+   Now  Buldar,  father  of  Hazad,  had  been  in  the  army  of the
+ North  King (3) that  went  to  the  muster of Ishmalog,(4) and  he
+ brought  back  from  the  war  as booty  a wound,  and a  sword, and
+ a  woman.  And  she  was  fortunate;  for the  fate of  the captives
+ was short and cruel, but Buldar took her  as his  wife. For  she was
+ beautiful,  and  having looked  on her  he desired  no woman  of his
+ own  folk.  He was  a man  of wealth  and power  in those  days, and
+ did as  he would,  scorning the  scorn of  his neighbours.  But when
+
+ his  wife,  Elmar,  had  learned at  length enough  of the  speech of
+ her  new kin,  she said  to Buldar  on a  day: I  have much  to thank
+ thee for, lord; but think not ever to get my love  so. For  thou hast
+ torn  me  from  my  own  people,  and  from  him  that  I  loved  and
+ from the  child that  I bore  him. For  them ever  shall I  yearn and
+ grieve, and give  love to  none else.  Never again  shall I  be glad,
+ while  I  am  held  captive  among a  strange folk  that I  deem base
+ and unlovely.'                                                       
+   'So be it,' said Buldar. 'But it is not to be thought that I should
+ let thee go free. For  thou art  precious in  my sight.  And consider
+ well: vain is it to seek to escape from me.  Long is  the way  to the
+ remnant of thy folk, if any still live; and thou  wouldst not  go far
+ from  the  Hills of  Agar ere  thou met  death, or  a life  far worse
+ than  shall  be  thine  in my  house. Base  and unlovely  thou namest
+ us. Truly, maybe. Yet true is it also  that thy  folk are  cruel, and
+ lawless,  and  the  friends  of  demons.  Thieves  are they.  For our
+ lands  are  ours  from  of  old,  which  they  would  wrest  from  us
+ with  their  bitter  blades.  White  skins  and  bright  eyes  are no
+ warrant for such deeds.'                                             
+   'Are they not?' said  she. 'Then  neither are  thick legs  and wide
+ shoulders.  Or  by  what  means  did  ye  gain  these  lands  that ye
+ boast of? Are there not, as I hear men  say, wild  folk in  the caves
+ of  the  mountains,  who  once roamed  here free,  ere ye  swart folk
+ came  hither  and  hunted  them  like  wolves?  But  I  spoke  not of
+ rights, but of  sorrow and  love. If  here I  must dwell,  then dwell
+ I  must, as  one whose  body is  in this  place at  thy will,  but my
+ thought  far  elsewhere.  And  this  vengeance  I  will   have,  that
+ while my body is kept here in exile, the lot of  all this  folk shall
+ worsen,  and  thine  most;  but  when  my  body  goes  to  the  alien
+ earth, and my thought is free of it, then in thy kin one  shall arise
+ who  is  mine  alone.  And  with his  arising shall  come the  end of
+ thy people and the downfall of your king.'                           
+   Thereafter  Elmar  said  no  more  on  this  matter;  and  she  was
+ indeed  a woman  of few  words while  her life  lasted, save  only to
+ her  children.  To  them  she  spoke  much  when  none  were  by, and
+ she  sang  to  them many  songs in  a strange  fair tongue;  but they
+ heeded  her  not,  or  soon  forgot. Save  only Hazad,  the youngest;
+ and though he  was, as  were all  her children,  unlike her  in body,
+ he  was nearer  to her  in heart.  The songs  and the  strange tongue
+ he  too forgot,  when he  grew up,  but his  mother he  never forgot;
+ and  he  took  a  wife  late,  for no  woman of  his own  folk seemed
+ desirable  to  him  that  knew  what  beauty  in  a woman  might be.(5)
+
+ Not that many  were his  for the  wooing, for,  even as  Elmar had
+ spoken, the people of  Agar had  waned with  the years,  what with
+ ill weathers and with pests, and most of all  were Buldar  and his
+ sons  afflicted;  and  they  had become  poor, and  other kindreds
+ had  taken  their  power   from  them.   But  Hazad   knew  naught
+ of the  foreboding of  his mother,  and in  her memory  loved Tal-
+ elmar, and had so named him at birth.                             
+                                                                  
+   And  it  chanced  on  a morning  of spring  that when  his other
+ sons went  out to  labour Hazad  kept Tal-elmar  at his  side, and
+ they  walked  forth  together  and  sat  upon  the  green hill-top
+ above the  town of  their people;  and they  looked out  south and
+ west to where they could see far away the great  bight of  the Sea
+ that drove in on the land, and it was shimmering like  grey glass.
+ And  the  eyes  of  Hazad  were  growing  dim  with age,  but Tal-
+ elmar's were keen, and he saw  as he  thought three  strange birds
+ upon the water, white in the sun, and they were drifting  with the
+ west  wind  towards  the  land;  and  he  wondered  that  they sat
+ upon the sea and did not fly.                                     
+   'I see three  strange birds  upon the  water, father,'  he said.
+ 'They are unlike any that I have seen before.'                    
+   'Keen may  be thine  eyes in  youth, my  son,' said  Hazad, 'but
+ birds on  the water  thou canst  not see.  Three leagues  away are
+ the nearest shores of the Sea from where we  sit. The  sun dazzles
+ thee, or some dream is on thee.'                                  
+   'Nay, the sun is behind me,' said Tal-elmar. 'I see what  I see.
+ And if they be not birds, what are they? Very great must  they be,
+ greater  than  the  Swans  of Gorbelgod,(6) of which  legends tell.
+ And lo! I see  now another  that comes  behind, but  less clearly,
+ for its wings are black.'                                         
+   Then Hazad was  troubled. 'A  dream is  on thee,  as I  said, my
+ son,'  he  answered;  'but  an ill  dream. Is  not life  here hard
+ enough, that when spring is come and winter is  over at  last thou
+ must bring a vision out of the black past?'                      
+   'Thou  forgettest,  father,'  said  Tal-elmar,  'that  I  am thy
+ youngest  son,  and  whereas  thou  has  taught  much lore  to the
+ dull ears of my brethren, to me thou hast given less of thy store.
+ I know nothing of what is in thy mind.'                           
+   'Dost  thou not?'  said Hazad,  striking his  brow as  he stared
+ out towards the Sea. 'Yes, mayhap it is a long while since I spoke
+ of it; it is but the shadow of a dream in the back of  my thought.
+ Three  folk  we hold  as enemies.  The wild  men of  the mountains
+ and the woods; but  these only  those who  stray alone  need fear.
+
+ The  Fell  Folk of  the East;  but they  are yet  far away,  and they
+ are  my  mother's  people,  though,  I  doubt  not,  they  would  not
+ honour  the  kinship,  if  they  came  here  with  their  swords. And
+ the High  Men  of  the  Sea.  These  indeed  we  may dread  as Death.
+ For  Death  they  worship  and  slay  men  cruelly  in honour  of the
+ Dark.  Out  of  the  Sea they  came, and  if they  ever had  any land
+ of  their  own,  ere  they  came  to  the  west-shores,  we  know not
+ where  it may  be. Black  tales come  to us  out of  the coast-lands,
+ north  and  south,  where  they  have   now  long   time  established
+ their  dark  fortresses  and their  tombs. But  hither they  have not
+ come  since  my  father's  days,  and  then  only  to raid  and catch
+ men  and  depart.  Now  this   was  the   manner  of   their  coming.
+ They  came  in  boats,  but not  such as  some of  our folk  use that
+ dwell nigh the great rivers or  the lakes,  for ferrying  or fishing.
+ Greater  than  great  houses  are  the  ships  of the  Go-hilleg, and
+ they  bear  store  of  men  and  goods,  and  yet  are wafted  by the
+ winds;  for  the  Sea-men  spread  great cloths  like wings  to catch
+ the airs, and bind them to tall poles like trees of the  forest. Thus
+ they will come to the shore, where there  is shelter,  or as  nigh as
+ they may;  and then  they will  send forth  smaller boats  laden with
+ goods,  and  strange  things both  beautiful and  useful such  as our
+ folk covet. These they will sell to us  for small  price, or  give as
+ gifts,  feigning friendship,  and pity  for our  need; and  they will
+ dwell a while, and  spy out  the land  and the  numbers of  the folk,
+ and  then go.  And if  they do  not return,  men should  be thankful.
+ For  if they  come again  it is  in other  guise. In  greater numbers
+ they  come  then:  two  ships  or  more  together,  stuffed  with men
+ and  not  goods,  and  ever  one  of  the  accursed ships  hath black
+ wings. For that is the Ship of  the Dark,  and in  it they  bear away
+ evil  booty,  captives  packed  like  beasts,  the fairest  women and
+ children,  or  young  men  unblemished,  and   that  is   their  end.
+ Some  say that  they are  eaten for  meat; and  others that  they are
+ slain  with  torment  on  the  black  stones  in  the worship  of the
+ Dark.  Both  maybe  are  true.  The  foul wings  of the  Sea-men have
+ not  been  seen  in  these waters  for many  a year;  but remembering
+ the shadow of fear in the past  I cried  out, and  cry again:  is not
+ our  life  hard  enough  without  the  vision  of  a black  wing upon
+ the shining sea?'                                                   
+   'Hard  enough, indeed,'  said Tal-elmar,  'yet not  so hard  that I
+ would  leave  it  yet.  Come!  If  what  you  tell  is good  sooth we
+ should  run  to  the town  and warn  men, and  make ready  for flight
+ or for defence.'                                                    
+
+   'I come,' said Hazad.  'But be  not astonished,  if men  laugh at
+ me  for  a dotard.  They believe  little that  has not  happened in
+ their own days. And have a care, dear son! I  am in  little danger,
+ save to starve in a town empty of all but the crazed and  the aged.
+ But thee  the Dark  Ship would  take among  the first.  Put thyself
+ not forward in any rash counsel of battle.'                        
+   'We  will  see,'  answered  Tal-elmar.  'But  thou  art  my chief
+ care in this town, where I have and  give little  love. I  will not
+ willingly part from thy side. Yet this is the town of my  folk, and
+ our home, and those who can are bound to defend it, I deem.'       
+                                                                   
+   So  Hazad  and  his  son  went  down  the  hill-side, and  it was
+ noon; and in the  town were  few people,  but crones  and children,
+ for all the able-bodied were abroad  in the  fields, busy  with the
+ hard toil of  spring. There  was no  watch, for  the Hills  of Agar
+ were  far  from  hostile  borders  where  the  power of  the Fourth
+ King (7) ended. The town-master  sat by  the door  of his  house in
+ the  sun, dozing  or idly  watching the  small birds  that gathered
+ scraps of food from the dry  beaten mud  of the  open place  in the
+ midst of the houses.                                               
+   'Hail!  Master  of  Agar!' said  Hazad, and  bowed low,  but the
+ master, a fat man with eyes like a lizard, blinked at him,  and did
+ not return his greeting.                                           
+   'Sit  hail, Master!  And long  may you  sit so!'  said Tal-elmar,
+ and  there was  a glint  in his  eye. 'We  should not  disturb your
+ thought,  or your  sleep, but  there are  tidings that,  maybe, you
+ should  heed.  There  is no  watch kept,  but we  chanced to  be on
+ the hill-top, and we saw the sea far off, and there - birds  of ill
+ omen on the water.'                                                
+   'Ships of the  Go-hilleg,' said  Hazad, 'with  great wind-cloths.
+ Three white - and one black.'                                      
+   The  master  yawned.  'As  for thee,  blear-eyed carl,'  he said,
+ 'thou couldst not tell the sea itself from a cloud. And as for this
+ idle lad, what knows he of boats or wind-cloths,  or all  the rest,
+ save  from  thy  crazed  teaching? Go  to the  travelling knappers (8)
+ with thy crone-tales  of Go-hilleg,  and trouble  me not  with such
+ folly. I have other matters of more weight to ponder.'             
+   Hazad  swallowed  his   wrath,  for   the  Master   was  powerful
+ and  loved  him  not;   but  Tal-elmar's   anger  was   cold.  'The
+ thoughts of one so great must  needs be  weighty,' said  he softly,
+ 'yet  I  know  not  what  thought  of more  weight could  break his
+ repose  than  the  care of  his own  carcase. He  will be  a master
+ without people, or a bag of bones on the hillside, if he scorns the
+
+ wisdom  of  Hazad  son  of  Buldar.  Blear  eyes  may  see  more  than
+ those lidded with sleep.'                                            
+   The  fat  face  of  Mogru  the  Master  grew  dark,  and   his  eyes
+ were  blood-shot  with  rage.  He  hated  Tal-elmar, yet  never before
+ had  the  youth  given  him  cause,  save  that he  showed no  fear in
+ his  presence.  Now  he  should  pay  for   that  and   his  new-found
+ insolence.  Mogru  clapped  his  hands,  but  even  as  he  did  so he
+ remembered  that  there  were  none  within  call  that would  dare to
+ grapple  with  the youth,  nay, not  three together;  and at  the same
+ time he  caught the  glint of  Tal-elmar's eye.  He blanched,  and the
+ words  that  he  had  been  about  to  speak,  'Slave's  son  and your
+ brat',  died  on  his  lips.  'Hazad  uBuldar,  Tal-elmar  uHazad,  of
+ this  town,  speak  not so  with the  master of  your folk,'  he said.
+ 'A  watch  is  set,  though ye  who have  not the  ruling of  the town
+ in  hand may  know it  not. I  would wait  till I  have word  from the
+ watchers,  whom  I  trust,  that  anything  ill-boding has  been seen.
+ But if ye be anxious, then go summon the men from the fields.'       
+   Tal-elmar  observed  him  closely  as  he  spoke  and  he  read  his
+ thought  clearly.  'Now  I  must  hope  that my  father errs  not,' he
+ said in his heart, 'for less peril will battle bring me than  the hate
+ of  Mogru  from  this  day forth.  A watch!  Yea, but  only to  spy on
+ the  goings  and  comings  of  the  townsfolk.  And  the  moment  I go
+ forth to the field, a runner will go to fetch  his servants  and club-
+ bearers. An ill turn  have I  done to  my father  in this  hour. Well!
+ He  who  begins  with  the  hoe  should  wield it  to the  row's end.'
+ He  spoke  therefore  still  in  wrath  and  scorn.  'Go  you  to  the
+ knappers  yourself,'  he  said,  'for you  are wont  to use  these sly
+ folk,  and heed  their tales  when they  suit you.  But my  father you
+ shall  not  mock  while I  stand by.  It may  well be  that we  are in
+ peril.  Therefore  you shall  come now  with us  to the  hill-top, and
+ look  with  your  own  eyes.  And if  you see  there aught  to warrant
+ it,  you  shall  summon  the  men  to  the Moot-hill.  I will  be your
+ messenger.'                                                          
+   And  Mogru  also  through  the  slits  of  his  eyelids  watched the
+ face  of  Tal-elmar  as  he  spoke,  and  guessed  that  he was  in no
+ danger of violence if he gave  way for  this time.  But his  heart was
+ filled with venom; and it irked him also not a little  to toil  up the
+ hill. Slowly he rose.                                                
+   'I  will  come,' he  said. 'But  if my  time and  toil be  wasted, I
+ shall  not  forgive  it.  Aid  my  steps, young  man; for  my servants
+ are  in  the  fields.' And  he took  the arm  of Tal-elmar  and leaned
+ heavily upon him.                                                    
+
+   'My father is the  elder,' said  Tal-elmar; 'and  the way  is but
+ short.  Let  the  Master  lead, and  we will  follow. Here  is your
+ staff!'  And  he  released himself  from the  grasp of  Mogru, and
+ gave  him  his  staff which  stood by  the door  of his  house; and
+ taking the arm of his father he  waited until  the Master  set out.
+ Sidelong  and  black  was  the  glance of  the lizard-eye,  but the
+ gleam of the eye of Tal-elmar that it caught stung like a  goad. It
+ was  long since  the fat  legs of  Mogru had  made such  speed from
+ house to gate; and longer since they  had heaved  his belly  up the
+ slippery  hill-sward  beyond  the  dike.  He  was blown,  and pant-
+ ing like an old dog, when they came to the top.                   
+   Then again Tal-elmar  looked out;  but the  high and  distant sea
+ was  now  empty,  and  he  stood  silent.  Mogru  wiped  the  sweat
+ from his eyes and followed his gaze.                              
+   'For what reason, I ask, have ye  forced the  Master of  the town
+ from  his  house,  and brought  him hither?'  he snarled.  'The sea
+ lies where it lay, and empty. What mean ye?'                      
+   'Have  patience  and look  closer,' said  Tal-elmar. Away  to the
+ west highlands blocked the  view of  all but  the distant  sea; but
+ rising  to  the broad  cap of  the Golden  Hill they  fell suddenly
+ away, and in a  deep cleft  a glimpse  could be  seen of  the great
+ inlet and the waters near its north shore.  'Time has  passed since
+ we  were  here  before, and  the wind  is strong,'  said Tal-elmar.
+ 'They  have come  nearer.' He  pointed. 'There  you will  see their
+ wings,  or their  wind-cloths, call  them what  you will.  But what
+ is your counsel? And was  it not  a matter  that the  Master should
+ see with his own eyes?'                                           
+   Mogru  stared,  and  he  panted,  now  with fear  as much  as for
+ the  labour  of  walking  uphill, for  bluster as  he might  he had
+ heard  many  dark  tales  of the  Go-hilleg from  old women  in his
+ youth.  But  his  heart was  cunning, and  black with  anger. Side-
+ long he looked first at Hazad, and then at his  son; and  he licked
+ his lips, but he let not his smile be seen.                       
+   'You begged  to be  my messenger,'  he said,  'and so  shalt thou
+ be.  Go  now  swiftly  and  summon  the men  to the  Moot-hill! But
+ that will not end thy errand,'  he added,  as Tal-elmar  made ready
+ to run. 'Straight from the fields thou shalt go  with all  speed to
+ the Strand. For there the ships, if ships they be, will  halt, most
+ likely, and set men ashore. Tidings  thou must  win there,  and spy
+ out well what is afoot. Come  not back  at all,  unless it  is with
+ news  that  will help  our counsels.  Go and  spare thyself  not! I
+ command thee. It is time of peril to the town.'                   
+
+   Hazad  seemed  about  to  speak  in  protest;  but he  bowed his
+ head,  and  said  naught,  knowing  it  vain. Tal-elmar  stood one
+ moment,  eyeing  Mogru,  as  one might  a snake  in the  path. But
+ he saw well that the Master's cunning had  been greater  than his.
+ He  had  made  his  own  trap,  and  Mogru  had  used  it.  He had
+ declared a time of  peril to  the town,  and he  had the  right to
+ command any  service. It  was death  to disobey  him. And  even if
+ Tal-elmar  had  not  named  himself  as  messenger   (desiring  to
+ prevent any secret word being passed to  servants of  the Master),
+ all would say that the choice was  just. A  scout should  be sent,
+ and who better than a strong bold  youth, swift  on his  feet? But
+ there was  malice, black  malice, in  the errand  nonetheless. The
+ defender  of  Hazad  would  be  gone.  There  was  no hope  in his
+ brothers: strong louts, but with  no heart  for defiance,  save of
+ their  old  father. And  it was  likely enough  that he  would not
+ return. The peril was great.                                     
+   Once  more  Tal-elmar  looked  at  the Master,  and then  at his
+ father, and then his glance  passed to  Mogru's staff.  The flint-
+ flash was in his eyes, and in his heart the desire to  kill. Mogru
+ saw it and quailed.                                              
+   'Go,  go!'  he  shouted.  'I  have  commanded  thee.   Thou  art
+ quicker to cry wolf than to start on the hunt. Go at once!'      
+   'Go,  my  son!'  said  Hazad.  'Do  not  defy  the  Master.  Not
+ where  he  has  the  right. For  then thou  defiest all  the town,
+ beyond thy  power. And  were I  the Master,  I would  choose thee,
+ dear  though  thou  be;  for thou  hast more  heart and  luck than
+ any of this folk. But come again, and let not  the Dark  Ship have
+ thee. Be not over-bold! For  better would  be ill  tidings brought
+ by thee living than the Sea-men without herald.'                 
+   Tal-elmar  bowed  and  made  the  sign  of  submission,  to  his
+ father  and  not to  the Master,  and strode  away two  paces. And
+ then he turned. 'Listen, Mogru, whom  a base  folk in  their folly
+ have  named  their  master,'  he  cried.  'Maybe  I  shall return,
+ against thy hope. My father I leave in thy care. If I come,  be it
+ with word of peace, or with  a foe  on my  heel, then  thy master-
+ ship will be at an end, and thy life also, if I  find that  he has
+ suffered  any  evil or  dishonour that  thou couldst  prevent. Thy
+ knife-men and club-bearers will not  help thee.  I will  wring thy
+ fat neck with my  bare hands,  if needs  be; or  I will  hunt thee
+ through  the  wilds  to  the  black  pools.'  Then  a  new thought
+ struck him, and he strode back to  the Master,  and laid  hands on
+ his staff.                                                       
+
+   Mogru  cringed,  and  flung  up  a  fat  arm,  as  if  to  ward  off  a
+ blow.  'Thou  art  mad  today,'  he  croaked.  'Do  me  no  violence,  or
+ thou  wilt  pay  for  it  with  death.  Heardest  thou  not the  words of
+ thy father?'                                                             
+   'I heard, and  I obey,'  said Tal-elmar.  'But first  errand is  to the
+ men,  and  there  is  need  now  of  haste.  Little  honour have  I among
+ them,  for  they  know  well  thy  scorn  of  us.  What  heed  will  they
+ pay,  if  the  Slave's  bastards, as  thou namest  us when  I am  not by,
+ comes (9) crying the summons  to   the  Moot-hill   in  thy   name  with-
+ out  token.  Thy staff  will serve.  It is  well known.  Nay, I  will not
+ beat thee with it yet!'                                                 
+   With  that  he   wrested  the   staff  from   Mogru's  hand   and  sped
+ down  the  hill,  his  heart  yet  too  hot  with  wrath to  take thought
+ for  what  lay  before   him.  But   when  he   had  declared   the  sum-
+ mons  to  the  startled  men  in  the  acres  on  the  south  slopes  and
+ had  flung  down  the  staff   among  them,   bidding  them   hasten,  he
+ ran  to  the  hill's  foot,  and out  over the  long grass-meads,  and so
+ came  to  the  first thin  straggle of  the woods.  Dark they  lay before
+ him in the valley between Agar and the downs by the shore.               
+   It  was  still  morning,  and  more  than  an  hour  ere the  noon, but
+ when  he  came  under  the  trees  he  halted   and  took   thought,  and
+ knew  that  he  was  shaken  with  fear.  Seldom  had  he   wandered  far
+ from  the  hills  of  his  home,  and  never  alone,  nor  deep  into the
+ wood. For all his folk dreaded the forest (10)                           
+                                                                         
+   Here the typescript text breaks off, not at the foot of a page, and the
+ manuscript  'Continuation  of  Tal-Elmar'  (as the  name is  now written)
+ begins (see p. 422).                                                     
+                                                                         
+   It was swift for the eye to  travel to  the shore,  but slow  for feet;
+ and  the  distance  was  greater  than  it  seemed.  The  wood  was  dark
+ and   unwholesome,   for   there   were   stagnant  waters   between  the
+ hills  of  Agar  and  the  hills  of  the  shoreland;  and   many  snakes
+ lived  there.  It  was silent  too, for  though it  was spring  few birds
+ built  there  or  even  alighted  as  they  sped on  to the  cleaner land
+ by  the  sea.  There  dwelt  in  the  wood also  dark spirits  that hated
+ men,  or  so  ran  the  tales  of  the  people.  Of  snake and  swamp and
+ wood-demon   Tal-Elmar   thought   as   he   stood  within   the  shadow;
+ but  it  needed  short  thought  to  come  to  the  conclusion  that  all
+ three  were  less  peril  than  to  return,  with  lying  excuse  or with
+ none, to the town and its master.                                        
+   So,  helped  a  little  perhaps  by  his  pride,  he  went on.  And the
+ thought  came  to  him  under  the  shadow  as  he   sought  for   a  way
+
+ through  swamp  and  thicket:  What  do  I  know,  or  any  of  my
+ people, even my father, of  these Go-hilleg  of the  winged boats?
+ It  might  well  be  that I  who am  a stranger  in my  own people
+ should  find them  more pleasing  than Mogru  and all  others like
+ him.                                                             
+   With this  thought growing  in him,  so that  at length  he felt
+ rather as a  man who  goes to  greet friends  and kinsmen  than as
+ one who  creeps out  to spy  on dangerous  foes, he  passed unhurt
+ through  the  shadow-wood,  and  came  to  the   shore-hills,  and
+ began to climb.  One hill  he chose,  because bushes  clambered up
+ its slope and it was crowned with a  dense knot  of low  trees. To
+ this cover he came, and creeping  to the  further brink  he looked
+ down.  It  had  taken him  long, for  his way  had been  slow, and
+ now  the  sun  had  fallen  from  noon  and  was  going  down away
+ on his right towards the Sea. He  was hungry,  but this  he hardly
+ heeded, for  he was  used to  hunger, and  could endure  toil day-
+ long  without  eating  when  he must.  The hill  was low,  but ran
+ down steeply to the water. Before its feet  were green  lands end-
+ ing in gravels,  beyond which  the waters  of the  estuary gleamed
+ in the westering sun. Out in the  midst of  the stream  beyond the
+ shoals  three  great  ships -  though Tal-Elmar  had no  such word
+ in  his  language  to  name  them  with  - were  lying motionless.
+ They  were  anchored  and  the  sails  down.  Of  the  fourth, the
+ black ship, there was no sign. But on the green near  the shingles
+ there were tents, and  small boats  drawn up  near. Tall  men were
+ standing  or  walking  among them.  Away on  the 'big  boats' Tal-
+ Elmar  could  see  [?others]  on  watch;  every  now  and  then he
+ caught  a  flash  as  some  weapon or  arms moved  in the  sun. He
+ trembled, for  the tales  of the  'blades' of  the Cruel  Men were
+ familiar to his childhood.                                       
+   Tal-Elmar  looked  long,  and slowly  it came  to him  how hope-
+ less was his mission. He might look until daylight failed,  but he
+ could  not  count  accurately  enough  for any  use the  number of
+ men  there  were;  nor could  he discover  their purpose  or their
+ plans. Even if he had either the  courage or  the fortune  to come
+ past their guards he  could do  nothing useful,  for he  would not
+ understand a word of their language.                             
+   He  remembered  suddenly  -  another  of  Mogru's schemes  to be
+ rid of him, as he now saw, though at  the time  he had  thought it
+ an  honour  -  how  only  a  year  ago,  when  the waning  town of
+ Agar  was threatened  by marauders  from the  village of  Udul far
+ inland,(11) all men feared  that  an assault  would come,  for Agar
+
+ was a drier, healthier, and more defensible site  (or so  its towns-
+ men  believed).  Then  Tal-Elmar  had  been  chosen  to  go  and spy
+ out the land of Udul, as 'being  young, bold,  and better  versed in
+ the  country round'.  So said  Mogru, truly  enough, for  the towns-
+ folk of Agar were  timid and  seldom went  far afield,  never daring
+ to  be  caught  by  dark  outside  their  homes.  Whereas  Tal-Elmar
+ often, if he had chance and no labour  called (or  if it  did, some-
+ times),  would walk  far afield,  and though  (being so  taught from
+ babyhood)  he  feared  the  dark,  he  had   more  than   once  been
+ benighted  far  from  the  town,  and was  even known  to go  out to
+ the watch-hill alone under the stars.                              
+   But  to  creep into  the unfriendly  fields of  Udul by  night was
+ another and  far worse  thing. Yet  he had  dared to  do it.  And he
+ had come  so close  to one  of the  huts of  watchmen that  he could
+ hear the  men inside  speaking -  in vain.  He could  not understand
+ the  purport of  their speech.  The tones  seemed mournful  and full
+ of fear (12) (as men's voices were at night  in the  world as  he knew
+ it), and a  few words  he seemed  to recognize,  but not  enough for
+ understanding.  And  yet  the  Udul-folk  were  their   near  neigh-
+ bours  -  indeed  though  Tal-Elmar  and  his  people  had forgotten
+ it,  as they  had forgotten  so much,  their near  kin, part  of the
+ same  people  in past  and better  years. What  hope then  was there
+ that  he  would  recognize  any  single  word,  or   even  interpret
+ rightly the tones, of the  tongue of  men alien  from his  own since
+ the  beginning  of  the  world?  Alien  from  his  own? My  own? But
+ they  are  not  my people.  Only my  father. And  again he  had that
+ strange  feeling,  coming  from  where  he  knew  not to  this young
+ lad, born and  bred in  a decaying  half-savage people:  the feeling
+ that  he was  not going  to meet  aliens but  kinsmen from  afar and
+ friends.                                                           
+   And yet  he was  also a  boy of  his village.  He was  afraid, and
+ it  was  long before  he moved.  At last  he looked  up. The  sun on
+ his  right   was  now   going  down.   Between  two   tree-stems  he
+ caught a glimpse of the sea, as the great round  fire, red  with the
+ light sea-mist, sank level with his eye, and  the water  was kindled
+ to fiery gold.                                                     
+   He had seen the sun  sink into  the sea  before, yet  never before
+ had he seen it so. He knew in a flash (as if it came from  that fire
+ itself) that he had seen it  so, [? he was called,](13) that it meant
+ something  more  than  the  approach  of  the  'King's   time',  the
+ dark.(14) He rose  and as  if led  or driven  walked openly  down the
+ hill and across the long sward to the shingles and the tents.      
+
+ Could  he  have  seen  himself  he  would   have  been   struck  with
+ wonder  no  less  than  those  who  saw  him  now  from   the  shore.
+ His naked skin  - for  he wore  only a  loin-cloth, and  little cloak
+ of  ...  fur  cast  back  and  caught by  a thong  to his  shoulder -
+ glowed  golden  in  the  [?  sunset]  light,  his  fair hair  too was
+ kindled, and his step was light and free.                           
+    'Look!  '  cried one  of the  watchmen to  his companion.  'Do you
+ - see what I see? Is it not one of the Eldar of the woods  that comes
+ to speak with us?'                                                  
+    'I see  indeed,' said  the other,  'but if  not some  phantom from
+ the  edge  of  the  [?  coming]  dark  [? in  this land  accursed] it
+ cannot  be  one  of  the  Fair.  We are  far to  the south,  and none
+ dwell  here.  Would  indeed  we  were  [?  north  away near  to (the)
+ Havens].'                                                           
+    'Who  knows  all  the  ways  of  the  Eldar?'  said  the watchman.
+ 'Silence now! He approaches. Let him speak first.'                  
+    So they  stood still,  and made  no sign  as Tal-Elmar  drew near.
+ When  he  was  some  twenty  paces  away  his  fear returned,  and he
+ halted,  letting  his  arms  fall  before him  and opening  his palms
+ outwards  to  the  strangers  in  a  gesture  which  all   men  could
+ understand.                                                         
+    Then,  as  they  did  not  move,  nor  put hand  to any  weapon so
+ far  as  he  could  see,  he  took courage  again and  spoke, saying:
+ 'Hail,  Men  of  the  sea and  the wings!  Why do  you come  here? Is
+ it in  peace? I  am Tal-Elmar  uHazad of  the folk  of Agar.  Who are
+ you?'                                                               
+    His  voice  was  clear  and fair,  but the  language that  he used
+ was  but  a  form  of  the  half-savage  language of  the Men  of the
+ Dark,   as   the   Shipmen   called   them.  The   watchman  stirred.
+ 'Elda!' he said. 'The Eldar  do not  use such  a tongue.'  He called
+ aloud,  and  at  once  men  tumbled  out  of  the  tents.  He himself
+ drew  forth  a  sword,  while  his  companion   put  arrow   to  bow-
+ string. Before Tal-Elmar had time even to feel terror, still  less to
+ turn  and  run  -  happily,  for he  knew nothing  of bows  and would
+ have  fallen  long  before  he  was  out  of  bowshot  - he  was sur-
+ rounded  by  armed  men.  They  seized  him,   but  not   with  harsh
+ handling,  when  they  found  he   was  weaponless   and  submissive,
+ and led him to a tent where sat one in authority.                   
+    Tal-Elmar  feels  the  language  to  be  known  and   only  veiled
+ from him.                                                            
+   The captain says Tal-Elmar must be of Numenorean race,            
+ or of the people akin to them. He must be kindly treated. He        
+
+ guesses  that  he  had  been  made captive  as a  babe, or  born of
+ captives. 'He is trying to escape to us,' he says.                 
+   'A  pity  he  remembers  nothing  of  the  language.'   'He  will
+ learn.'  'Maybe, but  after a  long time.  If he  spoke it  now, he
+ could  tell  us much  that would  speed our  errand and  lessen our
+ peril.'                                                            
+   They  make  Tal-Elmar  at  last understand  their desire  to know
+ how  many  men  dwell  near;  are  they  friendly,  are  they  like
+ he is?                                                             
+   The object  of the  Numenoreans is  to occupy  this land,  and in
+ alliance  with  the 'Cruels'  of the  North to  drive out  the Dark
+ People and  make a  settlement to  threaten the  King. (Or  is this
+ while Sauron is absent in Numenor?)                                
+   The place is on estuary of Isen? or Morthond.                    
+                                                                   
+   Tal-Elmar  could  count  and  understand  high   numbers,  though
+ his language was defective.                                        
+   Or   does   he   understand   Numenorean?   [Added  subsequently:
+ Eldarin  -  these  were  Elf-friends.]  He said  when he  heard the
+ men  speak  to  one  another: 'This  is strange  for you  speak the
+ language  of  my  long dreams.  Yet surely  now I  stand in  my own
+ land  and  do  not  sleep?'  Then  they  were astonished  and said:
+ 'Why  did  you  not  speak  so  to  us before?  You spoke  like the
+ people  of  the Dark  who are  our enemies,  being servants  of our
+ Enemy.'  And  Tal-Elmar  answered:  'Because  this tongue  has only
+ returned  to  my  mind  hearing  you  speak  it;  and  because  how
+ should  I  have  known  that  you  would  understand  the  language
+ of  my  dreams?  You are  not like  those who  spoke in  my dreams.
+ Nay, a little like; but they were brighter and more beautiful.'
+   Then  the men  were still  more astonished,  and said:  'It seems
+ that  you  have  spoken  with  the  Eldar,  whether  awake   or  in
+ vision.'                                                           
+   'Who  are  the  Eldar?'  said  Tal-Elmar.  'That  name I  did not
+ hear in my dream.'                                                 
+   'If you rome with us you may perhaps see them.'                  
+   Then  suddenly  fear  and  the  memory  of  old  tales  came upon
+ Tal-Elmar again, and he quailed.'  What would you do to me?'
+ he cried.  'Would you  lure me  to the  black-winged boat  and give
+ me to the Dark?'                                                  
+   'You  or  your kin  at least  belong already  to the  Dark,' they
+ answered.  'But  why  do  you  speak  so  of  the black  sails? The
+ black sails are to us a sign of honour, for they are the fair night
+ before the coming  of the  Enemy, and  upon the  black are  set the
+
+ silver  stars  of  Elbereth. The  black sails  of our  captain have
+ passed further up the water.'                                      
+   Still  Tal-Elmar  was  afraid  because  he  was  not yet  able to
+ imagine black  as anything  but the  symbol of  the night  of fear.
+ But  he looked  as boldly  as he  could and  answered: 'Not  all my
+ kind.  We  fear  the  Dark, but  we do  not love  it nor  serve it.
+ At least so do some of us. So  does my  father. And  him I  love. I
+ would not be torn from him not even to see the Eldar.'              
+   'Alas!' they said. 'Your time of dwelling in these hills  is come
+ to an end. Here the men  of the  West have  resolved to  make their
+ homes, and the folk of the dark must depart - or be slain.'        
+   Tal-Elmar offers himself as a hostage.                           
+                                                                   
+   There  is  no  more.  At  the foot  of the  page my  father wrote
+ 'Tal-Elmar' twice, and his own name twice;  and also  'Tal-Elmar in
+ Rhovannion', 'Wilderland', 'Anduin the Great River', 'Sea of Rhun',
+ and 'Ettenmoors'.                                                  
+
+                              NOTES.                                     
+                                                                        
+  1. In the rejected version of the opening section of the text  the story
+     begins:  'In  the  days of  the Great  Kings when  a man  could still
+     walk  dryshod  from  Rome  to York  (not that  those cities  were yet
+     built or thought of) there lived  in the  town of  his people  in the
+     hills  of  Agar  an  old  man,  by  name  Tal-argan  Longbeard',  and
+     Tal-argan  remained  the  name  without  correction  in  the rejected
+     page.  The  second  version  retained 'the  Great Kings',  the change
+     to 'the Dark Kings' being made later on.                            
+  2. This paragraph was later placed within square brackets.             
+  3. Both  versions  had  'the  Fourth  King',  changed  on the  second to
+     'the  North  King'  at  the  same  time  as  'the  Great  Kings'  was
+     changed to 'the Dark Kings' (note 1).                               
+  4. In  the  rejected  version  the  father  of  Tal-argan   (Hazad)  was
+     named  Tal-Bulda,  and  the  place of  the battle  was the  valley of
+     Rishmalog.                                                          
+  5. At this  point the  rejected first  page ends,  and the  text becomes
+     primary composition. A  pencilled note  at the  head of  the replace-
+     ment  page  proposes  that  Buldar  father  of  Hazad  should  be cut
+     out,  and  that it  should be  Hazad himself  who wedded  the foreign
+     woman Elmar (who is unnamed in the rejected version).               
+  6. The name typed was Dur nor-Belgoth, corrected to Gorbelgod.         
+  7. 'the   Fourth   King'   was   not   corrected   here:  see   note  3.
+  8. knappers:  a  'knapper'  was  one  who broke  stones or  flints. This
+     word replaced 'tinkers', here and at its occurrence a little later.
+  9. I have left the text here as it stands.                             
+
+ 10. A marginal  note here  says that  Tal-elmar had  'no weapon  but a
+    casting-stone in a pouch'.                                            
+ 11. The text as written had 'far  inland, and  all men  feared', corrected
+    to 'far inland. All men feared'. I  have altered  the text  to provide
+    a complete  sentence, but  my father  (who was  here writing  at great
+    speed)  doubtless  did  not  intend  this,  and  would  have rewritten
+    the passage had he ever returned to it.                               
+ 12. In  the margin  my father  wrote that  the village  of Udul  was dying
+    of  a  pestilence,  and  the marauders  were in  fact seeking  food in
+    desperation.                                                          
+ 13. The conclusion of the text is in places in excruciatingly difficult
+    handwriting,  and  the  words  I  have  given as  'he was  called' are
+    doubtful: but I can see no other interpretation of them.              
+ 14. Against  the  words  on p.  434 'never  daring to  be caught  by dark
+    outside  their  homes'  my  father wrote:  'Dark is  "the time  of the
+    King".' As  is seen  from a  passage on  p. 436,  the King  is Sauron.

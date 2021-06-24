@@ -1,0 +1,11 @@
+from datetime import date
+newyearsday = date(2016, 1, 1)
+print(newyearsday)
+print(newyearsday.year, newyearsday.month, newyearsday.day)
+print(newyearsday.weekday())
+print(newyearsday.isoformat())
+print(str(newyearsday))
+print('-----------------------------------------------------')
+print(newyearsday.strftime('%Y/%m/%d'))
+print(newyearsday.strftime('%Y %m %d (%a)'))
+print(date.today())

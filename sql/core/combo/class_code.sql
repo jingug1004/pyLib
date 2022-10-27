@@ -1,0 +1,20 @@
+/* 전공코드 */
+SELECT '00' AS CODE,
+       '전체' AS CODE_NAME
+  FROM DUAL
+UNION  ALL
+SELECT B.DEPT_CD AS CODE,
+       A.DEPT_NM AS CODE_NAME1
+  FROM ADMIN.AABASE0100 A,
+       (SELECT BB.MJ_CD AS DEPT_CD
+          FROM UNIVT.UBCOUR0300 AA
+             , ADMIN.AABASE0100 BB
+         WHERE AA.YY = ?
+           AND AA.TM_GBN = ?
+           AND BB.COLG_CD = ?
+           AND BB.HG_CD = ?
+           AND AA.DEPT_CD = BB.DEPT_CD
+           AND AA.CLS_CLSS_YN IS NULL
+         GROUP BY BB.MJ_CD) B
+ WHERE A.DEPT_CD = B.DEPT_CD
+   AND TRIM(A.MJ_TYPE_GBN) IS NULL

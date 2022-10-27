@@ -1,0 +1,297 @@
+SELECT D1.YY AS THIS_YEAR,
+       D1.TM_GBN AS HAKGI,
+       D1.LT_NO AS OPEN_GWAMOK_NO,
+       D1.DIVCLS_CD AS BUNBAN_NO,
+       D1.LT_NO||'-'||D1.DIVCLS_CD AS HAKSU_NO,
+       D1.PROF_ROOM_CD AS LOC_CODE,
+       D1.PROF_ROOM_CD AS DIVIDE_CODE,
+       D4.HANDP_NO AS TEL_NO,
+       D1.LSN_SMRY_REMARK AS BIGO,
+       D4.EMAIL AS EMAIL,
+       M1.BOOK1_1NAME,
+       M1.BOOK1_2NAME,
+       M1.BOOK1_3NAME,
+       M1.BOOK2_1NAME,
+       M1.BOOK2_2NAME,
+       M1.BOOK2_3NAME,
+       M1.BOOK2_4NAME,
+       M1.BOOK2_5NAME,
+       M1.BOOK3_1NAME,
+       M1.BOOK3_2NAME,
+       M1.BOOK3_3NAME,
+       M1.BOOK3_4NAME,
+       M1.BOOK3_5NAME,
+       M1.WRITER1_1NAME,
+       M1.WRITER1_2NAME,
+       M1.WRITER1_3NAME,
+       M1.WRITER2_1NAME,
+       M1.WRITER2_2NAME,
+       M1.WRITER2_3NAME,
+       M1.WRITER2_4NAME,
+       M1.WRITER2_5NAME,
+       M1.WRITER3_1NAME,
+       M1.WRITER3_2NAME,
+       M1.WRITER3_3NAME,
+       M1.WRITER3_4NAME,
+       M1.WRITER3_5NAME,
+       M1.PRINTER1_1NAME,
+       M1.PRINTER1_2NAME,
+       M1.PRINTER1_3NAME,
+       M1.PRINTER2_1NAME,
+       M1.PRINTER2_2NAME,
+       M1.PRINTER2_3NAME,
+       M1.PRINTER2_4NAME,
+       M1.PRINTER2_5NAME,
+       M1.PRINTER3_1NAME,
+       M1.PRINTER3_2NAME,
+       M1.PRINTER3_3NAME,
+       M1.PRINTER3_4NAME,
+       M1.PRINTER3_5NAME,
+       M1.PRINTER1_1YEAR,
+       M1.PRINTER1_2YEAR,
+       M1.PRINTER1_3YEAR,
+       M1.PRINTER2_1YEAR,
+       M1.PRINTER2_2YEAR,
+       M1.PRINTER2_3YEAR,
+       M1.PRINTER2_4YEAR,
+       M1.PRINTER2_5YEAR,
+       M1.PRINTER3_1YEAR,
+       M1.PRINTER3_2YEAR,
+       M1.PRINTER3_3YEAR,
+       M1.PRINTER3_4YEAR,
+       M1.PRINTER3_5YEAR,
+       D1.LRN_PURP AS PURPOSE1,
+       '' AS PURPOSE2,
+       '' AS PURPOSE3,
+       '' AS PURPOSE4,
+       D1.PRAC_APRT_NM AS PRACTICE_NAME,
+       D1.APPR_MTHD_CTNT AS GET1_SCORE,
+       '' AS GET2_SCORE,
+       '' AS GET3_SCORE,
+       '' AS GET4_SCORE,
+       (SELECT COMMN.SF_CODE_NM('UB016', D1.MRKS_APPR_MTHD) FROM DUAL) AS TEST_OPT,
+       M2.REPORT1_NAME,
+       M2.REPORT2_NAME,
+       M2.REPORT3_NAME,
+       SUBSTR(M2.Report1_Date,0,4)||'/'||SUBSTR(M2.Report1_Date,5,2)||'/'||SUBSTR(M2.Report1_Date,7,2) Report1_Date,
+       SUBSTR(M2.Report2_Date,0,4)||'/'||SUBSTR(M2.Report2_Date,5,2)||'/'||SUBSTR(M2.Report2_Date,7,2) Report2_Date,
+       SUBSTR(M2.Report3_Date,0,4)||'/'||SUBSTR(M2.Report3_Date,5,2)||'/'||SUBSTR(M2.Report3_Date,7,2) Report3_Date,
+       SUBSTR(M2.Response1_Date,0,4)||'/'||SUBSTR(M2.Response1_Date,5,2)||'/'||SUBSTR(M2.Response1_Date,7,2) Response1_Date,
+       SUBSTR(M2.Response2_Date,0,4)||'/'||SUBSTR(M2.Response2_Date,5,2)||'/'||SUBSTR(M2.Response2_Date,7,2) Response2_Date,
+       SUBSTR(M2.Response3_Date,0,4)||'/'||SUBSTR(M2.Response3_Date,5,2)||'/'||SUBSTR(M2.Response3_Date,7,2) Response3_Date,
+       M3.LECTURE01,
+       M3.LECTURE02,
+       M3.LECTURE03,
+       M3.LECTURE04,
+       M3.LECTURE05,
+       M3.LECTURE06,
+       M3.LECTURE07,
+       M3.LECTURE08,
+       M3.LECTURE09,
+       M3.LECTURE10,
+       M3.LECTURE11,
+       M3.LECTURE12,
+       M3.LECTURE13,
+       M3.LECTURE14,
+       M3.LECTURE15,
+       M3.LECTURE16,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code01) FROM DUAL) as Method_Code01,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code02) FROM DUAL) as Method_Code02,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code03) FROM DUAL) as Method_Code03,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code04) FROM DUAL) as Method_Code04,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code05) FROM DUAL) as Method_Code05,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code06) FROM DUAL) as Method_Code06,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code07) FROM DUAL) as Method_Code07,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code08) FROM DUAL) as Method_Code08,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code09) FROM DUAL) as Method_Code09,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code10) FROM DUAL) as Method_Code10,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code11) FROM DUAL) as Method_Code11,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code12) FROM DUAL) as Method_Code12,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code13) FROM DUAL) as Method_Code13,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code14) FROM DUAL) as Method_Code14,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code15) FROM DUAL) as Method_Code15,
+       (SELECT COMMN.SF_CODE_NM('UB039', M3.Method_Code16) FROM DUAL) as Method_Code16,
+       M3.TOOL01,
+       M3.TOOL02,
+       M3.TOOL03,
+       M3.TOOL04,
+       M3.TOOL05,
+       M3.TOOL06,
+       M3.TOOL07,
+       M3.TOOL08,
+       M3.TOOL09,
+       M3.TOOL10,
+       M3.TOOL11,
+       M3.TOOL12,
+       M3.TOOL13,
+       M3.TOOL14,
+       M3.TOOL15,
+       M3.TOOL16,
+       J1.EDU_SPACE_NM AS LOC_HNAME
+  FROM GRSCH.GBCOUR0500 D1 ,
+       GRSCH.GBCOUR0300 D2 ,
+       ADMIN.AAEMPM0100 D3 ,
+       ADMIN.AAEMPM0110 D4 ,
+       admin.ADROOM0100 J1 ,
+       (SELECT YY
+             , TM_GBN
+             , LT_NO
+             , DIVCLS_CD
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,1,TEACHM_NM,''),'')) AS BOOK1_1NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,2,TEACHM_NM,''),'')) AS BOOK1_2NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,3,TEACHM_NM,''),'')) AS BOOK1_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,1,TEACHM_NM,''),'')) AS BOOK2_1NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,2,TEACHM_NM,''),'')) AS BOOK2_2NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,3,TEACHM_NM,''),'')) AS BOOK2_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,4,TEACHM_NM,''),'')) AS BOOK2_4NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,5,TEACHM_NM,''),'')) AS BOOK2_5NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,1,TEACHM_NM,''),'')) AS BOOK3_1NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,2,TEACHM_NM,''),'')) AS BOOK3_2NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,3,TEACHM_NM,''),'')) AS BOOK3_3NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,4,TEACHM_NM,''),'')) AS BOOK3_4NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,5,TEACHM_NM,''),'')) AS BOOK3_5NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,1,AUTH_NM,''),'')) AS WRITER1_1NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,2,AUTH_NM,''),'')) AS WRITER1_2NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,3,AUTH_NM,''),'')) AS WRITER1_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,1,AUTH_NM,''),'')) AS WRITER2_1NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,2,AUTH_NM,''),'')) AS WRITER2_2NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,3,AUTH_NM,''),'')) AS WRITER2_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,4,AUTH_NM,''),'')) AS WRITER2_4NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,5,AUTH_NM,''),'')) AS WRITER2_5NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,1,AUTH_NM,''),'')) AS WRITER3_1NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,2,AUTH_NM,''),'')) AS WRITER3_2NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,3,AUTH_NM,''),'')) AS WRITER3_3NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,4,AUTH_NM,''),'')) AS WRITER3_4NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,5,AUTH_NM,''),'')) AS WRITER3_5NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,1,PUBCO_NM,''),'')) AS PRINTER1_1NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,2,PUBCO_NM,''),'')) AS PRINTER1_2NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,3,PUBCO_NM,''),'')) AS PRINTER1_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,1,PUBCO_NM,''),'')) AS PRINTER2_1NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,2,PUBCO_NM,''),'')) AS PRINTER2_2NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,3,PUBCO_NM,''),'')) AS PRINTER2_3NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,4,PUBCO_NM,''),'')) AS PRINTER2_4NAME
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,5,PUBCO_NM,''),'')) AS PRINTER2_5NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,1,PUBCO_NM,''),'')) AS PRINTER3_1NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,2,PUBCO_NM,''),'')) AS PRINTER3_2NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,3,PUBCO_NM,''),'')) AS PRINTER3_3NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,4,PUBCO_NM,''),'')) AS PRINTER3_4NAME
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,5,PUBCO_NM,''),'')) AS PRINTER3_5NAME
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,1,PUBLSH_YY,''),'')) AS PRINTER1_1YEAR
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,2,PUBLSH_YY,''),'')) AS PRINTER1_2YEAR
+             , MAX(DECODE(TEACHM_GBN,'01',DECODE(SEQ,3,PUBLSH_YY,''),'')) AS PRINTER1_3YEAR
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,1,PUBLSH_YY,''),'')) AS PRINTER2_1YEAR
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,2,PUBLSH_YY,''),'')) AS PRINTER2_2YEAR
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,3,PUBLSH_YY,''),'')) AS PRINTER2_3YEAR
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,4,PUBLSH_YY,''),'')) AS PRINTER2_4YEAR
+             , MAX(DECODE(TEACHM_GBN,'02',DECODE(SEQ,5,PUBLSH_YY,''),'')) AS PRINTER2_5YEAR
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,1,PUBLSH_YY,''),'')) AS PRINTER3_1YEAR
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,2,PUBLSH_YY,''),'')) AS PRINTER3_2YEAR
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,3,PUBLSH_YY,''),'')) AS PRINTER3_3YEAR
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,4,PUBLSH_YY,''),'')) AS PRINTER3_4YEAR
+             , MAX(DECODE(TEACHM_GBN,'03',DECODE(SEQ,5,PUBLSH_YY,''),'')) AS PRINTER3_5YEAR
+          FROM GRSCH.GBCOUR0520
+         WHERE YY        = ?
+           AND TM_GBN    = ?
+           AND LT_NO     = ?
+           AND DIVCLS_CD = ?
+         GROUP BY YY, TM_GBN, LT_NO, DIVCLS_CD) M1 ,
+       (SELECT YY
+             , TM_GBN
+             , LT_NO
+             , DIVCLS_CD
+             , MAX(DECODE(HWORK_SEQ,1,HWORK_SUBJECT,'')) AS REPORT1_NAME
+             , MAX(DECODE(HWORK_SEQ,2,HWORK_SUBJECT,'')) AS REPORT2_NAME
+             , MAX(DECODE(HWORK_SEQ,3,HWORK_SUBJECT,'')) AS REPORT3_NAME
+             , MAX(DECODE(HWORK_SEQ,1,hwork_subm_dd,'')) AS Report1_Date
+             , MAX(DECODE(HWORK_SEQ,2,hwork_subm_dd,'')) AS Report2_Date
+             , MAX(DECODE(HWORK_SEQ,3,hwork_subm_dd,'')) AS Report3_Date
+             , MAX(DECODE(HWORK_SEQ,1,hwork_ret_dd,'')) AS Response1_Date
+             , MAX(DECODE(HWORK_SEQ,2,hwork_ret_dd,'')) AS Response2_Date
+             , MAX(DECODE(HWORK_SEQ,3,hwork_ret_dd,'')) AS Response3_Date
+          FROM GRSCH.GBCOUR0530
+         WHERE YY        = ?
+           AND TM_GBN    = ?
+           AND LT_NO     = ?
+           AND DIVCLS_CD = ?
+         GROUP BY YY, TM_GBN, LT_NO, DIVCLS_CD) M2 ,
+       (SELECT YY
+             , TM_GBN
+             , LT_NO
+             , DIVCLS_CD
+             , MAX(DECODE(LSN_WEK_CD,'01',WEK_CLSF_LSN_CTNT,'')) AS LECTURE01
+             , MAX(DECODE(LSN_WEK_CD,'02',WEK_CLSF_LSN_CTNT,'')) AS LECTURE02
+             , MAX(DECODE(LSN_WEK_CD,'03',WEK_CLSF_LSN_CTNT,'')) AS LECTURE03
+             , MAX(DECODE(LSN_WEK_CD,'04',WEK_CLSF_LSN_CTNT,'')) AS LECTURE04
+             , MAX(DECODE(LSN_WEK_CD,'05',WEK_CLSF_LSN_CTNT,'')) AS LECTURE05
+             , MAX(DECODE(LSN_WEK_CD,'06',WEK_CLSF_LSN_CTNT,'')) AS LECTURE06
+             , MAX(DECODE(LSN_WEK_CD,'07',WEK_CLSF_LSN_CTNT,'')) AS LECTURE07
+             , MAX(DECODE(LSN_WEK_CD,'08',WEK_CLSF_LSN_CTNT,'')) AS LECTURE08
+             , MAX(DECODE(LSN_WEK_CD,'09',WEK_CLSF_LSN_CTNT,'')) AS LECTURE09
+             , MAX(DECODE(LSN_WEK_CD,'10',WEK_CLSF_LSN_CTNT,'')) AS LECTURE10
+             , MAX(DECODE(LSN_WEK_CD,'11',WEK_CLSF_LSN_CTNT,'')) AS LECTURE11
+             , MAX(DECODE(LSN_WEK_CD,'12',WEK_CLSF_LSN_CTNT,'')) AS LECTURE12
+             , MAX(DECODE(LSN_WEK_CD,'13',WEK_CLSF_LSN_CTNT,'')) AS LECTURE13
+             , MAX(DECODE(LSN_WEK_CD,'14',WEK_CLSF_LSN_CTNT,'')) AS LECTURE14
+             , MAX(DECODE(LSN_WEK_CD,'15',WEK_CLSF_LSN_CTNT,'')) AS LECTURE15
+             , MAX(DECODE(LSN_WEK_CD,'16',WEK_CLSF_LSN_CTNT,'')) AS LECTURE16
+             , MAX(DECODE(LSN_WEK_CD,'01',LSN_PROG_MTHD,'')) AS Method_Code01
+             , MAX(DECODE(LSN_WEK_CD,'02',LSN_PROG_MTHD,'')) AS Method_Code02
+             , MAX(DECODE(LSN_WEK_CD,'03',LSN_PROG_MTHD,'')) AS Method_Code03
+             , MAX(DECODE(LSN_WEK_CD,'04',LSN_PROG_MTHD,'')) AS Method_Code04
+             , MAX(DECODE(LSN_WEK_CD,'05',LSN_PROG_MTHD,'')) AS Method_Code05
+             , MAX(DECODE(LSN_WEK_CD,'06',LSN_PROG_MTHD,'')) AS Method_Code06
+             , MAX(DECODE(LSN_WEK_CD,'07',LSN_PROG_MTHD,'')) AS Method_Code07
+             , MAX(DECODE(LSN_WEK_CD,'08',LSN_PROG_MTHD,'')) AS Method_Code08
+             , MAX(DECODE(LSN_WEK_CD,'09',LSN_PROG_MTHD,'')) AS Method_Code09
+             , MAX(DECODE(LSN_WEK_CD,'10',LSN_PROG_MTHD,'')) AS Method_Code10
+             , MAX(DECODE(LSN_WEK_CD,'11',LSN_PROG_MTHD,'')) AS Method_Code11
+             , MAX(DECODE(LSN_WEK_CD,'12',LSN_PROG_MTHD,'')) AS Method_Code12
+             , MAX(DECODE(LSN_WEK_CD,'13',LSN_PROG_MTHD,'')) AS Method_Code13
+             , MAX(DECODE(LSN_WEK_CD,'14',LSN_PROG_MTHD,'')) AS Method_Code14
+             , MAX(DECODE(LSN_WEK_CD,'15',LSN_PROG_MTHD,'')) AS Method_Code15
+             , MAX(DECODE(LSN_WEK_CD,'16',LSN_PROG_MTHD,'')) AS Method_Code16
+             , MAX(DECODE(LSN_WEK_CD,'01',REF_CTNT,'')) AS TOOL01
+             , MAX(DECODE(LSN_WEK_CD,'02',REF_CTNT,'')) AS TOOL02
+             , MAX(DECODE(LSN_WEK_CD,'03',REF_CTNT,'')) AS TOOL03
+             , MAX(DECODE(LSN_WEK_CD,'04',REF_CTNT,'')) AS TOOL04
+             , MAX(DECODE(LSN_WEK_CD,'05',REF_CTNT,'')) AS TOOL05
+             , MAX(DECODE(LSN_WEK_CD,'06',REF_CTNT,'')) AS TOOL06
+             , MAX(DECODE(LSN_WEK_CD,'07',REF_CTNT,'')) AS TOOL07
+             , MAX(DECODE(LSN_WEK_CD,'08',REF_CTNT,'')) AS TOOL08
+             , MAX(DECODE(LSN_WEK_CD,'09',REF_CTNT,'')) AS TOOL09
+             , MAX(DECODE(LSN_WEK_CD,'10',REF_CTNT,'')) AS TOOL10
+             , MAX(DECODE(LSN_WEK_CD,'11',REF_CTNT,'')) AS TOOL11
+             , MAX(DECODE(LSN_WEK_CD,'12',REF_CTNT,'')) AS TOOL12
+             , MAX(DECODE(LSN_WEK_CD,'13',REF_CTNT,'')) AS TOOL13
+             , MAX(DECODE(LSN_WEK_CD,'14',REF_CTNT,'')) AS TOOL14
+             , MAX(DECODE(LSN_WEK_CD,'15',REF_CTNT,'')) AS TOOL15
+             , MAX(DECODE(LSN_WEK_CD,'16',REF_CTNT,'')) AS TOOL16
+          FROM GRSCH.GBCOUR0510
+         WHERE YY        = ?
+           AND TM_GBN    = ?
+           AND LT_NO     = ?
+           AND DIVCLS_CD = ?
+         GROUP BY YY, TM_GBN, LT_NO, DIVCLS_CD) M3
+ WHERE D1.YY               = ?
+   AND D1.TM_GBN           = ?
+   AND D1.LT_NO            = ?
+   AND D1.DIVCLS_CD        = ?
+   AND D1.YY               = D2.YY
+   AND D1.TM_GBN           = D2.TM_GBN
+   AND D1.LT_NO            = D2.LT_NO
+   AND D1.DIVCLS_CD        = D2.DIVCLS_CD
+   AND D2.MNGT_PROF_EMP_NO = D3.EMP_NO
+   AND D3.EMP_PERS_NO      = D4.EMP_PERS_NO
+   AND D1.YY               = M1.YY(+)
+   AND D1.TM_GBN           = M1.TM_GBN(+)
+   AND D1.LT_NO            = M1.LT_NO(+)
+   AND D1.DIVCLS_CD        = M1.DIVCLS_CD(+)
+   AND D1.YY               = M2.YY(+)
+   AND D1.TM_GBN           = M2.TM_GBN(+)
+   AND D1.LT_NO            = M2.LT_NO(+)
+   AND D1.DIVCLS_CD        = M2.DIVCLS_CD(+)
+   AND D1.YY               = M3.YY(+)
+   AND D1.TM_GBN           = M3.TM_GBN(+)
+   AND D1.LT_NO            = M3.LT_NO(+)
+   AND D1.DIVCLS_CD        = M3.DIVCLS_CD(+)
+   AND D1.PROF_ROOM_CD     = J1.EDU_SPACE_CD(+)

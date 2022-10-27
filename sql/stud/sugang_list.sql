@@ -1,0 +1,22 @@
+SELECT SUGANG.LT_NO                                                    AS OPEN_GWAMOK_NO,
+       SUGANG.DIVCLS_CD                                                AS BUNBAN_NO,
+       SUGANG.LT_NO||'-'||SUGANG.DIVCLS_CD                             AS HAKSU_NO,
+       COURSE.SC_NM                                                    AS GWAMOK_NAME,
+       BUNBAN.HP                                                       AS HAKJUM_NUM,
+       (SELECT COMMN.SF_CODE_NM('UB001', SUGANG.CPTN_GBN) FROM DUAL)   AS OPEN_NAME,
+       (SELECT COMMN.SF_CODE_NM('UB028', BUNBAN.DAYNGT_GBN) FROM DUAL) AS OPEN_DAY_NAME,
+       ADMIN.SF_STAF_GET_EMP_INFO(BUNBAN.MNGT_PROF_EMP_NO, 'NM')       AS MEMBER_NAME,
+       DECODE(SUGANG.REPEAT_YN,'1','Y','')                     AS RESUGANG_OPT,
+       (SELECT UNIVT.SF_UBCOUR_GET_COURTIME('AB',BUNBAN.YY,BUNBAN.TM_GBN,BUNBAN.LT_NO,BUNBAN.DIVCLS_CD) FROM DUAL) AS LOC_NAME
+  FROM UNIVT.UBCOUR0100 COURSE,
+       UNIVT.UBCOUR0300 BUNBAN,
+       UNIVT.UBTLSN0200 SUGANG
+ WHERE SUGANG.YY            = ?
+   AND SUGANG.TM_GBN        = ?
+   AND SUGANG.STUNO         = ?
+   AND SUGANG.YY            = BUNBAN.YY
+   AND SUGANG.TM_GBN        = BUNBAN.TM_GBN
+   AND SUGANG.LT_NO         = BUNBAN.LT_NO
+   AND SUGANG.DIVCLS_CD     = BUNBAN.DIVCLS_CD
+   AND COURSE.SC_CD         = BUNBAN.SC_CD
+ ORDER BY LOC_NAME

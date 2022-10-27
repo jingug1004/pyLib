@@ -1,0 +1,15 @@
+/* 학부코드 */
+SELECT A.DEPT_CD AS CODE,
+       A.DEPT_NM AS CODE_NAME1
+  FROM ADMIN.AABASE0100 A,
+       (SELECT BB.BREU_GBN AS MAIN_CODE,
+               BB.COLG_CD  AS ORGAN_CODE
+          FROM GRSCH.GBCOUR0300 AA
+             , ADMIN.AABASE0100 BB
+          WHERE AA.DEPT_CD = BB.DEPT_CD
+            AND AA.YY = ?
+            AND AA.TM_GBN = ?
+            AND BB.BREU_GBN = ?
+            AND NVL(AA.CLS_CLSS_YN,'0') = '0'
+          GROUP BY BB.BREU_GBN ,BB.COLG_CD) B
+ WHERE A.DEPT_CD = B.ORGAN_CODE
